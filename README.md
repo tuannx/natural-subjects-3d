@@ -34,12 +34,12 @@ npm run build        # writes dist/: index.html, /<slug>.html, covers, catalog.j
 npx wrangler dev     # local preview
 ```
 
-Deploys go through the **Deploy to Cloudflare** workflow (Actions → Deploy to Cloudflare → Run workflow). It needs two repository secrets:
+Push to `main` deploys through the **Deploy to Cloudflare** GitHub Action. You can also run it by hand (Actions → Deploy to Cloudflare → Run workflow). It needs two repository secrets:
 
 - `CLOUDFLARE_API_TOKEN`: a Cloudflare API token with the *Edit Cloudflare Workers* template permissions
 - `CLOUDFLARE_ACCOUNT_ID`: the Cloudflare account ID
 
-The site is published as the Worker `natural-subjects-3d` on its default `workers.dev` address.
+The site is published as the Worker `natural-subjects-3d` at https://natural-subjects-3d.tuannx87.workers.dev.
 
 ## License
 

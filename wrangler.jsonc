@@ -1,10 +1,16 @@
 {
-  // Static site on Cloudflare Workers (static assets only, no Worker script).
   "name": "natural-subjects-3d",
+  "account_id": "05130ca1f0bdabbab4d08a5d75544e92",
   "compatibility_date": "2026-10-01",
   "assets": {
     "directory": "./dist",
     "html_handling": "auto-trailing-slash",
-    "not_found_handling": "none"
+    "not_found_handling": "single-page-application"
+  },
+  "observability": {
+    "enabled": true,
+    "traces": {
+      "enabled": true
+    }
   }
 }
