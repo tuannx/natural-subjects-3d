@@ -2,21 +2,21 @@
   {
     "slug": "haber-step",
     "subject": "chem",
-    "title": "合成氨工业",
-    "type": "工业流程",
-    "question": "怎样把空气里的氮又快、又多、又省地变成氨？",
+    "title": "Industrial Ammonia Synthesis (Haber Process)",
+    "type": "Industrial Process",
+    "question": "How do you turn nitrogen from the air into ammonia quickly, in large amounts, and cheaply?",
     "textbook": [
-      "选择性必修1 化学反应原理 · 第二章 化学反应速率与化学平衡 · 第四节 化学反应的调控",
-      "必修第二册 · 第五章 化工生产中的重要非金属元素 · 第二节 氮及其化合物"
+      "Elective Vol. 1 Principles of Chemical Reactions · Ch. 2 Reaction Rate and Chemical Equilibrium · Sec. 4 Controlling Chemical Reactions",
+      "Required Vol. 2 · Ch. 5 Important Nonmetallic Elements in Chemical Production · Sec. 2 Nitrogen and Its Compounds"
     ],
     "steps": [
-      "为什么建厂",
-      "为什么净化",
-      "为什么加压",
-      "为什么高温",
-      "塔内什么样",
-      "为什么要循环",
-      "考核 · 当班长"
+      "Why Build a Plant",
+      "Why Purify",
+      "Why Pressurize",
+      "Why High Temperature",
+      "What's inside the tower",
+      "Why Recycle",
+      "Test · Shift Leader"
     ],
     "file": "courses/haber-step.html",
     "cover": "covers/haber-step.webp",
@@ -25,21 +25,21 @@
   {
     "slug": "river-step",
     "subject": "geo",
-    "title": "河流地貌的发育",
-    "type": "原理与现象",
-    "question": "长江镇江段的岸线为什么持续向北推移？",
+    "title": "Development of River Landforms",
+    "type": "Principles & Phenomena",
+    "question": "Why does the Yangtze's bank at Zhenjiang keep shifting north?",
     "textbook": [
-      "选择性必修1 自然地理基础 · 第二章 地表形态的塑造 · 第三节 河流地貌的发育"
+      "Elective Vol. 1 Fundamentals of Physical Geography · Ch. 2 Shaping the Land Surface · Sec. 3 Development of River Landforms"
     ],
     "steps": [
-      "认识沙盘",
-      "山区V形谷",
-      "河谷剖面",
-      "冲积扇",
-      "凹岸凸岸",
-      "河漫滩",
-      "三角洲",
-      "考核：汛期来了"
+      "Meet the Sand Table",
+      "Mountain V-Valley",
+      "Valley Cross-Section",
+      "Alluvial fan",
+      "Concave & Convex Banks",
+      "Floodplain",
+      "Delta",
+      "Test: Flood Season Arrives"
     ],
     "file": "courses/river-step.html",
     "cover": "covers/river-step.webp",
@@ -48,22 +48,22 @@
   {
     "slug": "rate-step",
     "subject": "chem",
-    "title": "化学反应速率的影响因素",
-    "type": "原理与现象",
-    "question": "同样两个反应，为什么有的几秒就完、有的等半天？快慢到底由什么决定？",
+    "title": "Factors Affecting Reaction Rate",
+    "type": "Principles & Phenomena",
+    "question": "Of two similar reactions, why does one finish in seconds while the other takes ages? What really decides how fast a reaction goes?",
     "textbook": [
-      "必修第二册 · 第六章 化学反应与能量 · 实验活动7 化学反应速率的影响因素",
-      "选择性必修1 化学反应原理 · 第二章 化学反应速率与化学平衡 · 第一节 化学反应速率"
+      "Required Vol. 2 · Ch. 6 Chemical Reactions and Energy · Lab Activity 7 Factors Affecting Reaction Rate",
+      "Elective Vol. 1 Principles of Chemical Reactions · Ch. 2 Reaction Rate and Chemical Equilibrium · Sec. 1 Reaction Rate"
     ],
     "steps": [
-      "认识实验台",
-      "浓度",
-      "温度",
-      "催化剂",
-      "定量测速率",
-      "看进去",
-      "误差与错误操作",
-      "考核 · 当实验员"
+      "Meet the Lab Bench",
+      "Concentration",
+      "Temperature",
+      "Catalyst",
+      "Measuring rate quantitatively",
+      "Look inside",
+      "Errors & wrong operations",
+      "Test · Be the Lab Technician"
     ],
     "file": "courses/rate-step.html",
     "cover": "covers/rate-step.webp",
@@ -72,22 +72,22 @@
   {
     "slug": "insolation-step",
     "subject": "geo",
-    "title": "太阳直射点的回归运动与四季、五带",
-    "type": "原理与现象",
-    "question": "学校所在地的正午太阳高度和正午太阳方向，一年里为什么有规律地变化？",
+    "title": "Migration of the Subsolar Point: Seasons and Climate Zones",
+    "type": "Principles & Phenomena",
+    "question": "Why do the noon Sun’s altitude and direction at your school change in a regular way over the year?",
     "textbook": [
-      "选择性必修1 自然地理基础 · 第一章 地球的运动 · 第二节 地球运动的地理意义 · 太阳直射点的回归运动 · 四季和五带"
+      "Elective Vol. 1 Fundamentals of Physical Geography · Ch. 1 Earth's Motions · Sec. 2 Geographic Significance of Earth's Motions · Seasonal Migration of the Subsolar Point · Seasons and Climate Zones"
     ],
     "steps": [
-      "黄赤交角",
-      "回归运动",
-      "正午高度",
-      "纬度分布",
-      "年内变化",
-      "正午方向",
-      "四季",
-      "五带",
-      "考核 · 点带"
+      "Obliquity of the Ecliptic",
+      "Migration",
+      "Noon altitude",
+      "By Latitude",
+      "Over the Year",
+      "Noon Direction",
+      "Seasons",
+      "Five zones",
+      "Test · Click the Zone"
     ],
     "file": "courses/insolation-step.html",
     "cover": "covers/insolation-step.webp",
@@ -96,22 +96,22 @@
   {
     "slug": "ball-stick-step",
     "subject": "chem",
-    "title": "搭建球棍模型认识有机化合物分子结构",
-    "type": "原理与现象模拟",
-    "question": "分子画在纸上是平的，真实的三维形状到底是什么样？搭一座球棍模型能看出什么？",
+    "title": "Ball-and-Stick Models of Organic Molecules",
+    "type": "Principles & Phenomena (Simulation)",
+    "question": "Molecules drawn on paper are flat. What is their real 3D shape, and what can building a ball-and-stick model show us?",
     "textbook": [
-      "必修第二册 · 第七章 有机化合物 · 实验活动8 搭建球棍模型认识有机化合物分子结构"
+      "Required Vol. 2 · Ch. 7 Organic Compounds · Lab Activity 8 Building Ball-and-Stick Models of Organic Molecules"
     ],
     "steps": [
-      "零件盒",
-      "甲烷",
-      "二氯甲烷",
-      "单键能转",
-      "碳链",
-      "同分异构",
-      "乙烯与乙炔",
-      "苯",
-      "考核"
+      "Parts Box",
+      "Methane",
+      "Dichloromethane",
+      "Single Bonds Rotate",
+      "Carbon Chains",
+      "Isomers",
+      "Ethene and Ethyne",
+      "Benzene",
+      "Test"
     ],
     "file": "courses/ball-stick-step.html",
     "cover": "covers/ball-stick-step.webp",
@@ -120,22 +120,22 @@
   {
     "slug": "titration-step",
     "subject": "chem",
-    "title": "强酸与强碱的中和滴定",
-    "type": "原理与现象",
-    "question": "前面加了 20 多毫升几乎看不出变化，为什么最后半滴颜色就全变了？",
+    "title": "Strong Acid–Strong Base Titration",
+    "type": "Principles & Phenomena",
+    "question": "After more than 20 mL with almost no visible change, why does the last half drop change the color completely?",
     "textbook": [
-      "选择性必修1 化学反应原理 · 第三章 水溶液中的离子反应与平衡 · 第二节 水的电离和溶液的pH · 酸碱中和滴定 · 实验活动2"
+      "Elective Vol. 1 Principles of Chemical Reactions · Ch. 3 Ionic Reactions and Equilibria in Aqueous Solution · Sec. 2 Ionization of Water and Solution pH · Acid–Base Titration · Lab Activity 2"
     ],
     "steps": [
-      "认识滴定装置",
-      "润洗与赶气泡",
-      "取液与加指示剂",
-      "逐滴加入",
-      "半滴到终点",
-      "读数与计算",
-      "看进去",
-      "误差与错误操作",
-      "考核 · 当滴定员"
+      "Know the Titration Setup",
+      "Rinse and Clear Bubbles",
+      "Measure Sample and Add Indicator",
+      "Add Drop by Drop",
+      "Half a Drop to the End Point",
+      "Read and Calculate",
+      "Look inside",
+      "Errors & wrong operations",
+      "Test · Be the Titrator"
     ],
     "file": "courses/titration-step.html",
     "cover": "covers/titration-step.webp",
@@ -144,22 +144,22 @@
   {
     "slug": "chlorine-step",
     "subject": "chem",
-    "title": "氯气的制备及性质",
-    "type": "原理与现象",
-    "question": "要一瓶干燥、纯净的氯气，装置里每一段各管什么？少一段会怎样？",
+    "title": "Preparation and Properties of Chlorine",
+    "type": "Principles & Phenomena",
+    "question": "To get a bottle of dry, pure chlorine, what does each part of the apparatus do? What happens if one part is missing?",
     "textbook": [
-      "必修第一册 · 第二章 海水中的重要元素——钠和氯 · 第二节 氯及其化合物"
+      "Required Vol. 1 · Ch. 2 Important Elements in Seawater: Sodium and Chlorine · Sec. 2 Chlorine and Its Compounds"
     ],
     "steps": [
-      "认识装置",
-      "为什么加热",
-      "为什么要浓盐酸",
-      "第一瓶洗什么",
-      "第二瓶洗什么",
-      "怎么收集",
-      "多余的氯气去哪",
-      "氯水里有什么",
-      "考核 · 当实验员"
+      "Know the apparatus",
+      "Why heat",
+      "Why conc. HCl",
+      "What the first bottle washes",
+      "What the second bottle washes",
+      "How to collect",
+      "Where excess chlorine goes",
+      "What's in chlorine water",
+      "Test · Be the Lab Technician"
     ],
     "file": "courses/chlorine-step.html",
     "cover": "covers/chlorine-step.webp",
@@ -168,21 +168,21 @@
   {
     "slug": "blast-furnace-step",
     "subject": "chem",
-    "title": "高炉炼铁",
-    "type": "工业流程",
-    "question": "一堆矿石从炉顶倒下去，怎么几小时后就变成一股铁水，还越省越好？",
+    "title": "Ironmaking in a Blast Furnace",
+    "type": "Industrial Process",
+    "question": "A pile of ore is dumped in at the top. How does it become a stream of molten iron a few hours later, and do it ever more cheaply?",
     "textbook": [
-      "必修第二册 · 第八章 化学与可持续发展 · 第一节 自然资源的开发利用 · 金属矿物的开发利用"
+      "Required Vol. 2 · Ch. 8 Chemistry and Sustainable Development · Sec. 1 Developing and Using Natural Resources · Metal Ores"
     ],
     "steps": [
-      "矿石变铁",
-      "分层布料",
-      "剖开看层",
-      "风口烧焦",
-      "逐级还原",
-      "石灰石造渣",
-      "风温的账",
-      "值班考核"
+      "Ore to Iron",
+      "Layered Charging",
+      "Cut Open the Zones",
+      "Coke at the Tuyeres",
+      "Stepwise Reduction",
+      "Limestone Slag",
+      "The Blast-Temperature Bill",
+      "On-Duty Test"
     ],
     "file": "courses/blast-furnace-step.html",
     "cover": "covers/blast-furnace-step.webp",
@@ -191,21 +191,21 @@
   {
     "slug": "smelting-step",
     "subject": "chem",
-    "title": "金属冶炼：电解熔融盐 + 铝热",
-    "type": "工业流程",
-    "question": "为什么铝只能靠电「拆」出来，而铁能被铝「换」出来？",
+    "title": "Metal Smelting: Molten-Salt Electrolysis and the Thermite Reaction",
+    "type": "Industrial Process",
+    "question": "Why can aluminum only be “split out” by electricity, while iron can be “swapped out” by aluminum?",
     "textbook": [
-      "必修第二册 · 第八章 化学与可持续发展 · 第一节 自然资源的开发利用 · 金属矿物的开发利用"
+      "Required Vol. 2 · Ch. 8 Chemistry and Sustainable Development · Sec. 1 Developing and Using Natural Resources · Metal Ores"
     ],
     "steps": [
-      "三处台子",
-      "只能电解",
-      "剖开槽",
-      "谁往哪走",
-      "掺冰晶石",
-      "电耗的账",
-      "铝热",
-      "值班考核"
+      "Three Benches",
+      "Only Electrolysis",
+      "Cutaway cell",
+      "Who Goes Where",
+      "Add Cryolite",
+      "The Power Bill",
+      "Thermite",
+      "On-Duty Test"
     ],
     "file": "courses/smelting-step.html",
     "cover": "covers/smelting-step.webp",
@@ -214,23 +214,23 @@
   {
     "slug": "currents-step",
     "subject": "geo",
-    "title": "世界洋流的分布规律与影响",
-    "type": "原理与现象",
-    "question": "数万只玩具鸭散落海面，为什么会漂到世界各地的海岸？",
+    "title": "World Ocean Currents: Patterns and Effects",
+    "type": "Principles & Phenomena",
+    "question": "Tens of thousands of toy ducks were scattered across the sea. Why did they drift to coasts all over the world?",
     "textbook": [
-      "选择性必修1 自然地理基础 · 第四章 水的运动 · 第二节 洋流",
-      "必修第一册 · 第三章 地球上的水 · 第三节 海水的运动"
+      "Elective Vol. 1 Fundamentals of Physical Geography · Ch. 4 Movement of Water · Sec. 2 Ocean Currents",
+      "Required Vol. 1 · Ch. 3 Water on Earth · Sec. 3 Movement of Seawater"
     ],
     "steps": [
-      "风推水走",
-      "中低纬成圈",
-      "中高纬反着转",
-      "寒暖流",
-      "不绕圈会倒转",
-      "海水性质",
-      "气候影响",
-      "渔场",
-      "考核 · 四站"
+      "Wind pushes water",
+      "Low–mid latitude gyres",
+      "Mid–high latitudes reverse",
+      "Warm and cold currents",
+      "No loop, or reversing",
+      "Seawater properties",
+      "Climate effects",
+      "Fisheries",
+      "Test · Four stops"
     ],
     "file": "courses/currents-step.html",
     "cover": "covers/currents-step.webp",
@@ -239,20 +239,20 @@
   {
     "slug": "enso-step",
     "subject": "geo",
-    "title": "海—气相互作用与厄尔尼诺、拉尼娜",
-    "type": "原理与现象",
-    "question": "秘鲁沿海常年干旱，为什么 2016 年底海水一暖，就下起了暴雨、还死了近百人？",
+    "title": "Ocean–Atmosphere Interaction: El Niño and La Niña",
+    "type": "Principles & Phenomena",
+    "question": "The Peruvian coast is dry year-round — so why, when the sea warmed in late 2016, did torrential rain fall and kill nearly a hundred people?",
     "textbook": [
-      "选择性必修1 自然地理基础 · 第四章 水的运动 · 第三节 海—气相互作用"
+      "Elective Vol. 1 Fundamentals of Physical Geography · Ch. 4 Movement of Water · Sec. 3 Ocean–Atmosphere Interaction"
     ],
     "steps": [
-      "交换",
-      "差",
-      "环流",
-      "厄尔尼诺",
-      "越线",
-      "拉尼娜",
-      "考核"
+      "Exchange",
+      "Gap",
+      "Circulation",
+      "El Niño",
+      "Over the line",
+      "La Niña",
+      "Test"
     ],
     "file": "courses/enso-step.html",
     "cover": "covers/enso-step.webp",
@@ -261,21 +261,21 @@
   {
     "slug": "coal-gas-step",
     "subject": "chem",
-    "title": "煤的综合利用：以煤的气化为主线",
-    "type": "工业流程",
-    "question": "煤只能烧吗？怎么把煤变成能造化肥、造甲醇的气？",
+    "title": "Coal Utilization: Coal Gasification",
+    "type": "Industrial Process",
+    "question": "Is coal only good for burning? How do we turn it into gas for making fertilizer and methanol?",
     "textbook": [
-      "必修第二册 · 第八章 化学与可持续发展 · 第一节 自然资源的开发利用 · 煤的综合利用"
+      "Required Vol. 2 · Ch. 8 Chemistry and Sustainable Development · Sec. 1 Developing and Using Natural Resources · Integrated Use of Coal"
     ],
     "steps": [
-      "为什么气化",
-      "供热还是供气",
-      "炉子里长什么样",
-      "蒸汽多好还是少好",
-      "变换调比例",
-      "为什么要脱硫",
-      "变成什么",
-      "考核"
+      "Why gasify",
+      "Heat or gas",
+      "Inside the gasifier",
+      "More steam or less",
+      "Shift sets the ratio",
+      "Why desulfurize",
+      "What it becomes",
+      "Test"
     ],
     "file": "courses/coal-gas-step.html",
     "cover": "covers/coal-gas-step.webp",
@@ -284,20 +284,20 @@
   {
     "slug": "sulfuric-step",
     "subject": "chem",
-    "title": "接触法制硫酸",
-    "type": "工业流程",
-    "question": "怎样把矿石里的硫，又快、又多、又省、又干净地变成硫酸？",
+    "title": "Sulfuric Acid by the Contact Process",
+    "type": "Industrial Process",
+    "question": "How do we turn the sulfur in ore into sulfuric acid quickly, in high yield, cheaply and cleanly?",
     "textbook": [
-      "必修第二册 · 第五章 化工生产中的重要非金属元素 · 第一节 硫及其化合物 · 工业制硫酸"
+      "Required Vol. 2 · Ch. 5 Important Nonmetallic Elements in Chemical Production · Sec. 1 Sulfur and Its Compounds · Industrial Sulfuric Acid"
     ],
     "steps": [
-      "为什么分五段",
-      "为什么先净化",
-      "为什么这个温度",
-      "为什么要常压",
-      "塔内什么样",
-      "为什么用浓硫酸",
-      "考核 · 当班长"
+      "Why Five Stages",
+      "Why Purify First",
+      "Why This Temperature",
+      "Why Atmospheric Pressure",
+      "What's inside the tower",
+      "Why Concentrated Acid",
+      "Test · Shift Leader"
     ],
     "file": "courses/sulfuric-step.html",
     "cover": "covers/sulfuric-step.webp",
@@ -306,22 +306,22 @@
   {
     "slug": "hydrolysis-step",
     "subject": "chem",
-    "title": "盐类的水解及其应用",
-    "type": "原理与现象",
-    "question": "盐电离出来的离子看上去「既不酸也不碱」，凭什么能让溶液显出酸碱性？",
+    "title": "Hydrolysis of Salts and Its Applications",
+    "type": "Principles & Phenomena",
+    "question": "The ions a salt releases look “neither acidic nor basic”. So how can they make a solution acidic or basic?",
     "textbook": [
-      "选择性必修1 化学反应原理 · 第三章 水溶液中的离子反应与平衡 · 第三节 盐类的水解 · 实验活动3 盐类水解的应用"
+      "Elective Vol. 1 Principles of Chemical Reactions · Ch. 3 Ionic Reactions and Equilibria in Aqueous Solution · Sec. 3 Hydrolysis of Salts · Lab Activity 3 Applications of Salt Hydrolysis"
     ],
     "steps": [
-      "认识实验",
-      "盐的类型",
-      "看进去",
-      "浓度",
-      "温度",
-      "加酸抑制",
-      "净水",
-      "煮沸与蒸干",
-      "考核 · 配溶液"
+      "Meet the Experiment",
+      "Salt types",
+      "Look inside",
+      "Concentration",
+      "Temperature",
+      "Acid suppresses it",
+      "Purification",
+      "Boiling and evaporating",
+      "Test · Prepare a solution"
     ],
     "file": "courses/hydrolysis-step.html",
     "cover": "covers/hydrolysis-step.webp",
@@ -330,22 +330,22 @@
   {
     "slug": "heating-step",
     "subject": "geo",
-    "title": "大气受热过程",
-    "type": "原理与现象",
-    "question": "太阳晒了一整天的地面，为什么白天先热起来，夜里又凉得那么快——大气到底替地面留住了多少热？",
+    "title": "How the Atmosphere Is Heated",
+    "type": "Principles & Phenomena",
+    "question": "The ground bakes in the sun all day — so why does it warm up first by day and then cool so fast at night? How much heat does the atmosphere actually hold in for the ground?",
     "textbook": [
-      "必修第一册 · 第二章 地球上的大气 · 第二节 大气受热过程和大气运动 · 大气受热过程"
+      "Required Vol. 1 · Ch. 2 Earth's Atmosphere · Sec. 2 Atmospheric Heating and Atmospheric Motion · How the Atmosphere Is Heated"
     ],
     "steps": [
-      "削弱",
-      "地面吸收",
-      "长波",
-      "截留",
-      "逆辐射",
-      "云",
-      "温室气体",
-      "月球对照",
-      "考核"
+      "Weakening",
+      "Ground Absorption",
+      "Longwave",
+      "Trapping",
+      "Counter-radiation",
+      "Clouds",
+      "Greenhouse gases",
+      "Moon Comparison",
+      "Test"
     ],
     "file": "courses/heating-step.html",
     "cover": "covers/heating-step.webp",
@@ -354,20 +354,20 @@
   {
     "slug": "karst-step",
     "subject": "geo",
-    "title": "喀斯特地貌的形成与识别",
-    "type": "原理与现象",
-    "question": "徐霞客写的「峭峰离立，分行竞颖」——这些像从地里长出来的尖峰，是怎么一块岩层变出来的？",
+    "title": "Formation and Recognition of Karst Landforms",
+    "type": "Principles & Phenomena",
+    "question": "Xu Xiake wrote of “sheer peaks standing apart, rising in rows as if vying to be tallest.” How did these spires, which seem to grow out of the ground, come from a single rock layer?",
     "textbook": [
-      "必修第一册 · 第四章 地貌 · 第一节 常见地貌类型 · 喀斯特地貌"
+      "Required Vol. 1 · Ch. 4 Landforms · Sec. 1 Common Landform Types · Karst Landforms"
     ],
     "steps": [
-      "溶",
-      "沟→洼",
-      "峰丛→峰林",
-      "孤峰→残丘",
-      "快慢",
-      "洞",
-      "考核"
+      "Dissolve",
+      "Grooves → hollows",
+      "Cluster → forest",
+      "Lone peak → hill",
+      "Fast or slow",
+      "Caves",
+      "Test"
     ],
     "file": "courses/karst-step.html",
     "cover": "covers/karst-step.webp",
@@ -376,21 +376,21 @@
   {
     "slug": "cement-step",
     "subject": "chem",
-    "title": "工业制水泥",
-    "type": "工业流程",
-    "question": "一车石头和土，凭什么磨一磨、烧一烧、再磨一磨，就变成能撑起大坝的水泥？",
+    "title": "Industrial Cement Production",
+    "type": "Industrial Process",
+    "question": "How does a truckload of rock and clay, just ground, fired and ground again, become cement strong enough to hold up a dam?",
     "textbook": [
-      "必修第二册 · 第五章 化工生产中的重要非金属元素 · 第三节 无机非金属材料"
+      "Required Vol. 2 · Ch. 5 Important Nonmetallic Elements in Chemical Production · Sec. 3 Inorganic Nonmetallic Materials"
     ],
     "steps": [
-      "看全厂",
-      "备生料",
-      "预热分解",
-      "窑里走",
-      "烧成带",
-      "急冷",
-      "加石膏",
-      "值班考核"
+      "See the Plant",
+      "Prepare Raw Meal",
+      "Preheat & Decompose",
+      "Through the Kiln",
+      "Burning Zone",
+      "Quench",
+      "Add Gypsum",
+      "On-Duty Test"
     ],
     "file": "courses/cement-step.html",
     "cover": "covers/cement-step.webp",
@@ -399,21 +399,21 @@
   {
     "slug": "carbon-step",
     "subject": "geo",
-    "title": "全球气候变化与国家安全",
-    "type": "原理与现象",
-    "question": "马尔代夫为什么要把内阁会议开到 6 米深的海底去？",
+    "title": "Global Climate Change and National Security",
+    "type": "Principles & Phenomena",
+    "question": "Why did the Maldives hold a cabinet meeting 6 meters under the sea?",
     "textbook": [
-      "选择性必修3 资源、环境与国家安全 · 第三章 环境安全与国家安全 · 第四节 全球气候变化与国家安全"
+      "Elective Vol. 3 Resources, Environment and National Security · Ch. 3 Environmental Security and National Security · Sec. 4 Global Climate Change and National Security"
     ],
     "steps": [
-      "碳循环",
-      "两条输入",
-      "排放去向",
-      "保温增强",
-      "越线",
-      "国家",
-      "应对",
-      "考核"
+      "Carbon Cycle",
+      "Two Inputs",
+      "Where Emissions Go",
+      "Stronger Greenhouse",
+      "Over the line",
+      "Nation",
+      "Respond",
+      "Test"
     ],
     "file": "courses/carbon-step.html",
     "cover": "covers/carbon-step.webp",
@@ -422,19 +422,19 @@
   {
     "slug": "tectonic-step",
     "subject": "geo",
-    "title": "构造地貌的形成",
-    "type": "原理与现象",
-    "question": "青藏高原上为什么会找到阔叶树的叶子化石 —— 什么力量把地表抬起来、又把它切开？",
+    "title": "Formation of Tectonic Landforms",
+    "type": "Principles & Phenomena",
+    "question": "Why are fossil leaves of broadleaf trees found on the Tibetan Plateau? What force lifted the land surface, and then cut it apart?",
     "textbook": [
-      "选择性必修1 自然地理基础 · 第二章 地表形态的塑造 · 第二节 构造地貌的形成"
+      "Elective Vol. 1 Fundamentals of Physical Geography · Ch. 2 Shaping the Land Surface · Sec. 2 Formation of Tectonic Landforms"
     ],
     "steps": [
-      "弯",
-      "分",
-      "倒置",
-      "错开",
-      "升降",
-      "考核"
+      "Bend",
+      "pts",
+      "Inversion",
+      "Offset",
+      "Uplift & Drop",
+      "Test"
     ],
     "file": "courses/tectonic-step.html",
     "cover": "covers/tectonic-step.webp",
@@ -443,22 +443,22 @@
   {
     "slug": "photoelectric-step",
     "subject": "phys",
-    "title": "光电效应",
-    "type": "原理与实验",
-    "question": "同一束光，为什么换成另一种金属就一个电子都打不出来？光电子的能量到底由光的什么决定？",
+    "title": "The Photoelectric Effect",
+    "type": "Principles & Experiment",
+    "question": "With the same light, why does switching to another metal knock out not a single electron? What property of light decides the photoelectrons’ energy?",
     "textbook": [
-      "选择性必修第三册 · 第四章 原子结构和波粒二象性 · 第二节 光电效应"
+      "Elective Vol. 3 · Ch. 4 Atomic Structure and Wave–Particle Duality · Sec. 2 The Photoelectric Effect"
     ],
     "steps": [
-      "认识电路",
-      "加到饱和",
-      "反向扫描",
-      "改光强",
-      "换频率",
-      "换金属",
-      "作图测 h",
-      "真实器材",
-      "考核"
+      "Know the Circuit",
+      "Up to Saturation",
+      "Reverse Sweep",
+      "Change Intensity",
+      "Change Frequency",
+      "Change Metal",
+      "Graph to Find h",
+      "Real equipment",
+      "Test"
     ],
     "file": "courses/photoelectric-step.html",
     "cover": "covers/photoelectric-step.webp",
@@ -467,22 +467,22 @@
   {
     "slug": "capacitor-step",
     "subject": "phys",
-    "title": "观察电容器的充放电",
-    "type": "原理与实验",
-    "question": "电容器里到底存了什么？能不能只用一个数把它的「肚量」量出来？",
+    "title": "Observing Capacitor Charging and Discharging",
+    "type": "Principles & Experiment",
+    "question": "What exactly is stored in a capacitor? Can one number measure how much it can “hold”?",
     "textbook": [
-      "必修第三册 · 第十章 静电场中的能量 · 第四节 电容器的电容 · 学生必做实验：观察电容器的充放电"
+      "Required Vol. 3 · Ch. 10 Energy in Electrostatic Fields · Sec. 4 Capacitance · Required Student Experiment: Observing Capacitor Charging and Discharging"
     ],
     "steps": [
-      "认识器材",
-      "合向 1 充电",
-      "合向 2 放电",
-      "面积得电荷",
-      "两种接法",
-      "记录 q-u",
-      "换 C 换 R",
-      "真实器材",
-      "考核"
+      "Know the Equipment",
+      "To 1: Charge",
+      "To 2: Discharge",
+      "Area gives charge",
+      "Two wirings",
+      "Record q-u",
+      "Change C, change R",
+      "Real equipment",
+      "Test"
     ],
     "file": "courses/capacitor-step.html",
     "cover": "covers/capacitor-step.webp",
@@ -491,23 +491,23 @@
   {
     "slug": "earth-motion-step",
     "subject": "geo",
-    "title": "地球运动的地理意义",
-    "type": "原理与现象",
-    "question": "同一时刻，为什么北京是中午、纽约是半夜，而夏天的白天又比冬天长？",
+    "title": "Geographic Significance of Earth's Motions",
+    "type": "Principles & Phenomena",
+    "question": "At the same moment, why is it noon in Beijing but midnight in New York, and why are summer days longer than winter days?",
     "textbook": [
-      "选择性必修1 自然地理基础 · 第一章 地球的运动 · 第二节 地球运动的地理意义",
-      "选择性必修1 自然地理基础 · 第一章 地球的运动 · 第一节 地球的自转和公转"
+      "Elective Vol. 1 Fundamentals of Physical Geography · Ch. 1 Earth's Motions · Sec. 2 Geographic Significance of Earth's Motions",
+      "Elective Vol. 1 Fundamentals of Physical Geography · Ch. 1 Earth's Motions · Sec. 1 Earth's Rotation and Revolution"
     ],
     "steps": [
-      "自转",
-      "公转",
-      "昼夜半球",
-      "晨线昏线",
-      "地方时",
-      "时区日界线",
-      "昼夜长短",
-      "正午太阳高度",
-      "考核 · 时差"
+      "Rotation",
+      "Revolution",
+      "Day/night hemispheres",
+      "Dawn and dusk lines",
+      "Local time",
+      "Time zones and date line",
+      "Day length",
+      "Noon solar altitude",
+      "Test · Time difference"
     ],
     "file": "courses/earth-motion-step.html",
     "cover": "covers/earth-motion-step.webp",
@@ -516,21 +516,21 @@
   {
     "slug": "accel-force-step",
     "subject": "phys",
-    "title": "实验：探究加速度与力、质量的关系",
-    "type": "原理与现象",
-    "question": "不直接测力、也不直接测加速度——一张纸带加几个槽码，能不能把 a 与 F、m 的关系量出来？",
+    "title": "Experiment: Acceleration vs. Force and Mass",
+    "type": "Principles & Phenomena",
+    "question": "Without measuring force or acceleration directly, can a paper tape and a few slotted masses reveal how a depends on F and m?",
     "textbook": [
-      "必修第一册 · 第四章 运动和力的关系 · 第二节 实验：探究加速度与力、质量的关系"
+      "Required Vol. 1 · Ch. 4 Motion and Force · Sec. 2 Experiment: Acceleration vs. Force and Mass"
     ],
     "steps": [
-      "认识器材",
-      "平衡阻力",
-      "打纸带",
-      "求加速度",
-      "a 与 F",
-      "a 与 m",
-      "误差",
-      "考核"
+      "Know the Equipment",
+      "Balance Friction",
+      "Run the Tape",
+      "Find Acceleration",
+      "a vs. F",
+      "a vs. m",
+      "Error",
+      "Test"
     ],
     "file": "courses/accel-force-step.html",
     "cover": "covers/accel-force-step.webp",
@@ -539,22 +539,22 @@
   {
     "slug": "iron-step",
     "subject": "chem",
-    "title": "铁及其化合物：铁的价态转化",
-    "type": "原理与现象",
-    "question": "同一个铁元素，为什么在试管里一会儿是 +2 价、一会儿是 +3 价，我们凭什么知道它是哪一个？",
+    "title": "Iron and Its Compounds: Changing Oxidation States",
+    "type": "Principles & Phenomena",
+    "question": "It's the same element, iron. Why is it +2 one moment and +3 the next in the test tube, and how can we tell which one it is?",
     "textbook": [
-      "必修第一册 · 第三章 铁 金属材料 · 第一节 铁及其化合物"
+      "Required Vol. 1 · Ch. 3 Iron and Metallic Materials · Sec. 1 Iron and Its Compounds"
     ],
     "steps": [
-      "认识实验",
-      "白色沉淀",
-      "隔绝空气",
-      "KSCN 检验",
-      "价态降下来",
-      "价态升回去",
-      "看进去",
-      "检铁站",
-      "考核 · 压到 +2 价"
+      "Meet the Experiment",
+      "White precipitate",
+      "Air excluded",
+      "KSCN test",
+      "Bringing the state down",
+      "Raising the state back",
+      "Look inside",
+      "Iron-test station",
+      "Test · Hold at +2"
     ],
     "file": "courses/iron-step.html",
     "cover": "covers/iron-step.webp",
@@ -563,21 +563,21 @@
   {
     "slug": "plasmolysis-step",
     "subject": "bio",
-    "title": "植物细胞的吸水和失水",
-    "type": "原理与现象",
-    "question": "菜叶泡在清水里会变硬挺，撒了盐会出水——植物细胞怎样吸水和失水？",
+    "title": "Water Uptake and Loss in Plant Cells",
+    "type": "Principles & Phenomena",
+    "question": "Leafy greens turn crisp in plain water and weep water when salted. How do plant cells take up and lose water?",
     "textbook": [
-      "必修1 分子与细胞 · 第4章 细胞的物质输入和输出 · 第1节 被动运输 · 探究·实践：探究植物细胞的吸水和失水"
+      "Required Vol. 1 Molecules and Cells · Ch. 4 Transport Into and Out of Cells · Sec. 1 Passive Transport · Inquiry: Water Uptake and Loss in Plant Cells"
     ],
     "steps": [
-      "渗透",
-      "原生质层",
-      "失水",
-      "水去哪",
-      "复原",
-      "甘油",
-      "测浓度",
-      "考核"
+      "Osmosis",
+      "Protoplast layer",
+      "Water loss",
+      "Where water goes",
+      "Recovery",
+      "Glycerol",
+      "Measure concentration",
+      "Test"
     ],
     "file": "courses/plasmolysis-step.html",
     "cover": "covers/plasmolysis-step.webp",
@@ -586,22 +586,22 @@
   {
     "slug": "electrolysis-step",
     "subject": "chem",
-    "title": "电解原理：电解氯化铜溶液与饱和食盐水",
-    "type": "原理与现象",
-    "question": "同一个直流电源，为什么电解氯化铜溶液得到铜和氯气，电解饱和食盐水却得到氢气、氯气和氢氧化钠？",
+    "title": "Principles of Electrolysis: CuCl₂ Solution and Brine",
+    "type": "Principles & Phenomena",
+    "question": "With the same DC power supply, why does electrolyzing CuCl₂ solution give copper and chlorine, while electrolyzing saturated brine gives hydrogen, chlorine and sodium hydroxide?",
     "textbook": [
-      "选择性必修1 化学反应原理 · 第四章 化学反应与电能 · 第二节 电解池 · 电解氯化铜溶液 · 电解饱和食盐水"
+      "Elective Vol. 1 Principles of Chemical Reactions · Ch. 4 Chemical Reactions and Electrical Energy · Sec. 2 Electrolytic Cells · Electrolysis of CuCl₂ Solution · Electrolysis of Saturated Brine"
     ],
     "steps": [
-      "认识实验",
-      "接通电源",
-      "通得更久",
-      "看进去",
-      "换食盐水",
-      "阴极区变红",
-      "放电顺序",
-      "铜作阳极",
-      "考核 · 出 29.6 mg 铜"
+      "Meet the Experiment",
+      "Switch on the power",
+      "Run it longer",
+      "Look inside",
+      "Switch to brine",
+      "Cathode region turns red",
+      "Discharge order",
+      "Copper as anode",
+      "Test · Deposit 29.6 mg of Copper"
     ],
     "file": "courses/electrolysis-step.html",
     "cover": "covers/electrolysis-step.webp",
@@ -610,22 +610,22 @@
   {
     "slug": "ammonia-step",
     "subject": "chem",
-    "title": "氨的制备与性质（含喷泉实验）",
-    "type": "原理与现象",
-    "question": "一瓶氨气，凭什么能把烧杯里的水自己「吸」到瓶子里去？",
+    "title": "Preparation and Properties of Ammonia (Fountain Experiment)",
+    "type": "Principles & Phenomena",
+    "question": "How can a flask of ammonia gas “suck” the water from a beaker up into the flask all by itself?",
     "textbook": [
-      "必修第二册 · 第五章 化工生产中的重要非金属元素 · 第二节 氮及其化合物 · 氨和铵盐"
+      "Required Vol. 2 · Ch. 5 Important Nonmetallic Elements in Chemical Production · Sec. 2 Nitrogen and Its Compounds · Ammonia and Ammonium Salts"
     ],
     "steps": [
-      "整套装置",
-      "管口朝哪边",
-      "干燥剂选谁",
-      "怎么收集",
-      "收多久",
-      "验满与白烟",
-      "做喷泉",
-      "看进去",
-      "考核 · 做喷泉"
+      "Full setup",
+      "Tube mouth direction",
+      "Choose a drying agent",
+      "How to collect",
+      "How long to collect",
+      "Full check and white smoke",
+      "Make the fountain",
+      "Look inside",
+      "Test · Make the fountain"
     ],
     "file": "courses/ammonia-step.html",
     "cover": "covers/ammonia-step.webp",
@@ -634,22 +634,22 @@
   {
     "slug": "equilibrium-step",
     "subject": "chem",
-    "title": "探究影响化学平衡移动的因素",
-    "type": "原理与实验",
-    "question": "改变一个条件，凭什么说平衡「往哪边移」？",
+    "title": "Factors That Shift Chemical Equilibrium",
+    "type": "Principles & Experiment",
+    "question": "Change one condition — how can we say which way the equilibrium “shifts”?",
     "textbook": [
-      "选择性必修1 化学反应原理 · 第二章 化学反应速率与化学平衡 · 实验活动1 探究影响化学平衡移动的因素"
+      "Elective Vol. 1 Principles of Chemical Reactions · Ch. 2 Reaction Rate and Chemical Equilibrium · Lab Activity 1 Factors That Shift Chemical Equilibrium"
     ],
     "steps": [
-      "认识实验台",
-      "铁管加料",
-      "铁粉减料",
-      "铬管加碱",
-      "铬管加酸",
-      "冷热两盆",
-      "看进去",
-      "误差 · 读数",
-      "考核"
+      "Meet the Lab Bench",
+      "Add to Iron Tube",
+      "Iron Powder Removes",
+      "Add Base to Chromium Tube",
+      "Add Acid to Chromium Tube",
+      "Hot and Cold Baths",
+      "Look inside",
+      "Error · Readings",
+      "Test"
     ],
     "file": "courses/equilibrium-step.html",
     "cover": "covers/equilibrium-step.webp",
@@ -658,22 +658,22 @@
   {
     "slug": "flame-step",
     "subject": "chem",
-    "title": "焰色试验与原子光谱",
-    "type": "原理与现象",
-    "question": "金属在火焰里为什么各有各的颜色，这点颜色凭什么能当成「化验报告」？",
+    "title": "Flame Tests and Atomic Spectra",
+    "type": "Principles & Phenomena",
+    "question": "Why does each metal have its own flame color, and why can that color serve as a “lab report”?",
     "textbook": [
-      "必修第一册 · 第二章 海水中的重要元素——钠和氯 · 第一节 钠及其化合物 · 焰色试验",
-      "选择性必修2 物质结构与性质 · 第一章 原子结构与性质 · 第一节 原子结构 · 原子光谱"
+      "Required Vol. 1 · Ch. 2 Important Elements in Seawater: Sodium and Chlorine · Sec. 1 Sodium and Its Compounds · Flame Tests",
+      "Elective Vol. 2 Structure and Properties of Matter · Ch. 1 Atomic Structure and Properties · Sec. 1 Atomic Structure · Atomic Spectra"
     ],
     "steps": [
-      "认识实验",
-      "洗净铂丝",
-      "钠双线",
-      "钾与钴玻璃",
-      "能量与波长",
-      "发射与吸收",
-      "六种金属",
-      "考核 · 验出钾"
+      "Meet the Experiment",
+      "Clean the Platinum Wire",
+      "Sodium Doublet",
+      "Potassium and Cobalt Glass",
+      "Energy and Wavelength",
+      "Emission and Absorption",
+      "Six Metals",
+      "Test · Detect Potassium"
     ],
     "file": "courses/flame-step.html",
     "cover": "covers/flame-step.webp",
@@ -682,23 +682,23 @@
   {
     "slug": "galvanic-step",
     "subject": "chem",
-    "title": "原电池：单液到双液",
-    "type": "原理与现象",
-    "question": "同一杯稀硫酸里已经有电流了，为什么还要换成两杯、再加一根盐桥？",
+    "title": "Galvanic Cells: From One Electrolyte to Two",
+    "type": "Principles & Phenomena",
+    "question": "There's already a current in a single beaker of dilute sulfuric acid, so why switch to two beakers and add a salt bridge?",
     "textbook": [
-      "必修第二册 · 第六章 化学反应与能量 · 第一节 化学反应与能量变化 · 实验活动6 化学能转化成电能",
-      "选择性必修1 化学反应原理 · 第四章 化学反应与电能 · 第一节 原电池"
+      "Required Vol. 2 · Ch. 6 Chemical Reactions and Energy · Sec. 1 Chemical Reactions and Energy Changes · Lab Activity 6 Converting Chemical Energy into Electrical Energy",
+      "Elective Vol. 1 Principles of Chemical Reactions · Ch. 4 Chemical Reactions and Electrical Energy · Sec. 1 Galvanic Cells"
     ],
     "steps": [
-      "两台装置",
-      "接通导线",
-      "谁在流",
-      "单液的代价",
-      "换成双液",
-      "拔出盐桥",
-      "看进去",
-      "浓度",
-      "考核 · 组装"
+      "Two setups",
+      "Connect the wires",
+      "What flows",
+      "The cost of one electrolyte",
+      "Switch to two electrolytes",
+      "Remove the salt bridge",
+      "Look inside",
+      "Concentration",
+      "Test · Assemble"
     ],
     "file": "courses/galvanic-step.html",
     "cover": "covers/galvanic-step.webp",
@@ -707,23 +707,23 @@
   {
     "slug": "conductivity-step",
     "subject": "chem",
-    "title": "电解质的电离与溶液导电性、离子反应的实质",
-    "type": "原理与现象",
-    "question": "干手、湿手都是同一只手，为什么湿了反而容易触电？",
+    "title": "Ionization, Solution Conductivity and Ionic Reactions",
+    "type": "Principles & Phenomena",
+    "question": "A dry hand and a wet hand are the same hand — so why is a wet hand more likely to get an electric shock?",
     "textbook": [
-      "必修第一册 · 第一章 物质及其变化 · 第二节 离子反应",
-      "选择性必修1 化学反应原理 · 第三章 水溶液中的离子反应与平衡 · 第一节 电离平衡 · 强电解质和弱电解质"
+      "Required Vol. 1 · Ch. 1 Substances and Their Changes · Sec. 2 Ionic Reactions",
+      "Elective Vol. 1 Principles of Chemical Reactions · Ch. 3 Ionic Reactions and Equilibria in Aqueous Solution · Sec. 1 Ionization Equilibrium · Strong and Weak Electrolytes"
     ],
     "steps": [
-      "认识台面",
-      "干燥与熔融",
-      "溶于水",
-      "水与蔗糖",
-      "强与弱",
-      "滴加稀硫酸",
-      "看进去",
-      "换错滴定剂",
-      "考核 · 找终点"
+      "Meet the Bench",
+      "Dry vs. Molten",
+      "Dissolve in Water",
+      "Water and Sucrose",
+      "Strong vs. Weak",
+      "Add Dilute H₂SO₄",
+      "Look inside",
+      "Wrong Titrant",
+      "Test · Find the End Point"
     ],
     "file": "courses/conductivity-step.html",
     "cover": "covers/conductivity-step.webp",
@@ -732,21 +732,21 @@
   {
     "slug": "energy-step",
     "subject": "phys",
-    "title": "实验：验证机械能守恒定律",
-    "type": "原理与现象",
-    "question": "重物下落时，减少的重力势能是不是正好变成了增加的动能？一条纸带能不能把这件事量出来？",
+    "title": "Experiment: Verifying Conservation of Mechanical Energy",
+    "type": "Principles & Phenomena",
+    "question": "As a weight falls, does the gravitational potential energy it loses turn exactly into the kinetic energy it gains? Can one paper tape measure this?",
     "textbook": [
-      "必修第二册 · 第八章 机械能守恒定律 · 第五节 实验：验证机械能守恒定律"
+      "Required Vol. 2 · Ch. 8 Conservation of Mechanical Energy · Sec. 5 Experiment: Verifying Conservation of Mechanical Energy"
     ],
     "steps": [
-      "认识器材",
-      "先通电后释放",
-      "选点",
-      "量 h 算 v",
-      "记录作图",
-      "换重物",
-      "误差",
-      "考核"
+      "Know the Equipment",
+      "Power before release",
+      "Choosing dots",
+      "Measure h, find v",
+      "Record and plot",
+      "Change the weight",
+      "Error",
+      "Test"
     ],
     "file": "courses/energy-step.html",
     "cover": "covers/energy-step.webp",
@@ -755,21 +755,21 @@
   {
     "slug": "soil-step",
     "subject": "geo",
-    "title": "土壤的主要形成因素与土壤剖面观察",
-    "type": "原理与现象",
-    "question": "东北的土又黑又肥，南方的土为什么相对贫瘠？",
+    "title": "Soil-Forming Factors and Soil Profiles",
+    "type": "Principles & Phenomena",
+    "question": "Soil in Northeast China is black and fertile. Why is soil in the south relatively poor?",
     "textbook": [
-      "必修第一册 · 第五章 植被与土壤 · 第二节 土壤"
+      "Required Vol. 1 · Ch. 5 Vegetation and Soil · Sec. 2 Soil"
     ],
     "steps": [
-      "剖面",
-      "母质",
-      "生物",
-      "气候",
-      "地貌",
-      "时间",
-      "人",
-      "考核"
+      "Cross-section",
+      "Parent material",
+      "Organisms",
+      "Climate",
+      "Landform",
+      "Time",
+      "Human",
+      "Test"
     ],
     "file": "courses/soil-step.html",
     "cover": "covers/soil-step.webp",
@@ -778,22 +778,22 @@
   {
     "slug": "projectile-step",
     "subject": "phys",
-    "title": "实验：探究平抛运动的特点",
-    "type": "原理与现象",
-    "question": "只靠一只斜槽和一块挡板，能不能把平抛拆成两个分运动、量出初速度？",
+    "title": "Experiment: Exploring Projectile Motion",
+    "type": "Principles & Phenomena",
+    "question": "With just a chute and a baffle, can you split projectile motion into two component motions and measure the initial speed?",
     "textbook": [
-      "必修第二册 · 第五章 抛体运动 · 第三节 实验：探究平抛运动的特点"
+      "Required Vol. 2 · Ch. 5 Projectile Motion · Sec. 3 Experiment: Exploring Projectile Motion"
     ],
     "steps": [
-      "认识器材",
-      "先做竖直",
-      "末端要水平",
-      "描四个点",
-      "定时间间隔",
-      "水平是匀速",
-      "换一条刻线",
-      "两种偏大",
-      "考核"
+      "Know the Equipment",
+      "Vertical First",
+      "Level the End",
+      "Mark Four Points",
+      "Set the Interval",
+      "Horizontal Is Uniform",
+      "Change the Mark",
+      "Two Ways to Overestimate",
+      "Test"
     ],
     "file": "courses/projectile-step.html",
     "cover": "covers/projectile-step.webp",
@@ -802,21 +802,21 @@
   {
     "slug": "transport-step",
     "subject": "bio",
-    "title": "物质跨膜运输",
-    "type": "原理与现象",
-    "question": "同一片细胞膜，为什么氧能自己穿过去、葡萄糖要好几个蛋白帮忙、K⁺ 还能逆着浓度往里走？",
+    "title": "Transport Across Cell Membranes",
+    "type": "Principles & Phenomena",
+    "question": "It's the same cell membrane, so why does oxygen cross on its own, glucose need help from proteins, and K⁺ move in against its concentration gradient?",
     "textbook": [
-      "必修1 分子与细胞 · 第4章 细胞的物质输入和输出"
+      "Required Vol. 1 Molecules and Cells · Ch. 4 Transport Into and Out of Cells"
     ],
     "steps": [
-      "自由扩散",
-      "选择透过",
-      "协助扩散",
-      "载体与通道",
-      "主动运输",
-      "胞吞胞吐",
-      "汇总",
-      "考核"
+      "Simple diffusion",
+      "Selective permeability",
+      "Facilitated diffusion",
+      "Carriers and channels",
+      "Active transport",
+      "Endocytosis and exocytosis",
+      "Summary",
+      "Test"
     ],
     "file": "courses/transport-step.html",
     "cover": "covers/transport-step.webp",
@@ -825,22 +825,22 @@
   {
     "slug": "nitric-lab-step",
     "subject": "chem",
-    "title": "浓、稀硝酸的性质与氮氧化物的转化",
-    "type": "原理与现象",
-    "question": "同样是铜和硝酸，为什么一瓶冒红棕色气体、另一瓶什么颜色都没有？",
+    "title": "Concentrated and Dilute Nitric Acid; Nitrogen Oxides",
+    "type": "Principles & Phenomena",
+    "question": "Same copper, same nitric acid: why does one tube give off red-brown gas while the other gives off a colorless one?",
     "textbook": [
-      "必修第二册 · 第五章 化工生产中的重要非金属元素 · 第二节 氮及其化合物 · 一氧化氮和二氧化氮、硝酸"
+      "Required Vol. 2 · Ch. 5 Important Nonmetallic Elements in Chemical Production · Sec. 2 Nitrogen and Its Compounds · NO, NO₂ and Nitric Acid"
     ],
     "steps": [
-      "整套装置",
-      "铜丝插进去",
-      "换成稀硝酸",
-      "换成铁片",
-      "尾气去哪了",
-      "棕色瓶的道理",
-      "通入空气",
-      "振荡与看进去",
-      "考核 · 转化掉它"
+      "Full setup",
+      "Insert the Copper Wire",
+      "Switch to Dilute Acid",
+      "Switch to an Iron Strip",
+      "Where Does the Tail Gas Go?",
+      "Why a Brown Bottle?",
+      "Draw In Air",
+      "Shake and Look Inside",
+      "Test · Convert It"
     ],
     "file": "courses/nitric-lab-step.html",
     "cover": "covers/nitric-lab-step.webp",
@@ -849,21 +849,21 @@
   {
     "slug": "centripetal-step",
     "subject": "phys",
-    "title": "探究向心力大小与半径、角速度、质量的关系",
-    "type": "原理与现象",
-    "question": "这台手摇的演示器只给你两个标尺上的格数——能不能用它把 F 与 m、r、ω 的定量关系量出来？",
+    "title": "Centripetal Force vs. Radius, Angular Velocity and Mass",
+    "type": "Principles & Phenomena",
+    "question": "This hand-cranked demonstrator only gives you division counts on two scales. Can you use it to measure how F depends on m, r and ω?",
     "textbook": [
-      "必修第二册 · 第六章 圆周运动 · 第二节 向心力 · 实验：探究向心力大小与半径、角速度、质量的关系"
+      "Required Vol. 2 · Ch. 6 Circular Motion · Sec. 2 Centripetal Force · Experiment: Centripetal Force vs. Radius, Angular Velocity and Mass"
     ],
     "steps": [
-      "认识演示器",
-      "仪器自检",
-      "质量关系",
-      "半径关系",
-      "角速度关系",
-      "三条合成一条式子",
-      "误差与错误操作",
-      "考核 · ω 是平方"
+      "Meet the Demonstrator",
+      "Instrument Self-Check",
+      "Mass",
+      "Radius",
+      "Angular Velocity",
+      "Three into One Equation",
+      "Errors & wrong operations",
+      "Test · ω Is Squared"
     ],
     "file": "courses/centripetal-step.html",
     "cover": "covers/centripetal-step.webp",
@@ -872,23 +872,23 @@
   {
     "slug": "self-induction-step",
     "subject": "phys",
-    "title": "自感与涡流",
-    "type": "原理与实验",
-    "question": "线圈里只是多绕了几圈铜线，为什么两只灯泡亮得不一样？开关已经断开了，灯泡凭什么还能再亮一下？",
+    "title": "Self-Induction and Eddy Currents",
+    "type": "Principles & Experiment",
+    "question": "The coil just has a few more turns of copper wire, so why do the two bulbs glow differently? And once the switch is open, how can a bulb still flash?",
     "textbook": [
-      "选择性必修第二册 · 第二章 电磁感应 · 第四节 互感和自感",
-      "选择性必修第二册 · 第二章 电磁感应 · 第三节 涡流、电磁阻尼和电磁驱动"
+      "Elective Vol. 2 · Ch. 2 Electromagnetic Induction · Sec. 4 Mutual Induction and Self-Induction",
+      "Elective Vol. 2 · Ch. 2 Electromagnetic Induction · Sec. 3 Eddy Currents, Electromagnetic Damping and Electromagnetic Driving"
     ],
     "steps": [
-      "认识器材",
-      "通电自感",
-      "断电自感",
-      "I-t 曲线",
-      "换线圈",
-      "真实器材",
-      "涡流",
-      "电磁阻尼",
-      "考核"
+      "Know the Equipment",
+      "Switch-on self-induction",
+      "Switch-off self-induction",
+      "I-t curve",
+      "Swap coils",
+      "Real equipment",
+      "Eddy currents",
+      "Electromagnetic damping",
+      "Test"
     ],
     "file": "courses/self-induction-step.html",
     "cover": "covers/self-induction-step.webp",
@@ -897,22 +897,22 @@
   {
     "slug": "emf-step",
     "subject": "phys",
-    "title": "测电源电动势和内阻",
-    "type": "原理与实验",
-    "question": "一节旧干电池的电动势和内阻，怎么用一只电压表、一只电流表和一个滑动变阻器「测」出来？换一种接法，测出来的还一样吗？",
+    "title": "Measuring EMF and Internal Resistance",
+    "type": "Principles & Experiment",
+    "question": "How do you “measure” the EMF and internal resistance of an old dry cell with one voltmeter, one ammeter and a rheostat? Wire it differently, and do you get the same result?",
     "textbook": [
-      "必修第三册 · 第十二章 电能 能量守恒定律 · 第三节 实验：电池电动势和内阻的测量"
+      "Required Vol. 3 · Ch. 12 Electrical Energy and Conservation of Energy · Sec. 3 Experiment: Measuring a Battery's EMF and Internal Resistance"
     ],
     "steps": [
-      "认识接法",
-      "先到最大",
-      "多测几组",
-      "作 U-I 图",
-      "纵轴起点",
-      "只测两组",
-      "换接法",
-      "误差分析",
-      "考核"
+      "Know the wiring",
+      "Max first",
+      "Measure several sets",
+      "Plot U-I graph",
+      "U-axis start",
+      "Only two sets",
+      "Change wiring",
+      "Error analysis",
+      "Test"
     ],
     "file": "courses/emf-step.html",
     "cover": "covers/emf-step.webp",
@@ -921,22 +921,22 @@
   {
     "slug": "impulse-step",
     "subject": "bio",
-    "title": "神经冲动的产生和传导",
-    "type": "原理与现象",
-    "question": "发令枪响后 0.1 s 内起跑就算抢跑（教材 p.27）——兴奋在身体里怎样「跑」过去？",
+    "title": "Generation and Conduction of Nerve Impulses",
+    "type": "Principles & Phenomena",
+    "question": "Starting within 0.1 s of the starting gun counts as a false start (textbook p.27). How does excitation “run” through the body?",
     "textbook": [
-      "选择性必修1 稳态与调节 · 第2章 神经调节 · 第3节 神经冲动的产生和传导"
+      "Elective Vol. 1 Homeostasis and Regulation · Ch. 2 Nervous Regulation · Sec. 3 Generation and Conduction of Nerve Impulses"
     ],
     "steps": [
-      "神经冲动",
-      "静息电位",
-      "动作电位",
-      "局部电流",
-      "突触",
-      "单向与延搁",
-      "可卡因",
-      "膜外 Na⁺",
-      "考核"
+      "Nerve impulse",
+      "Resting potential",
+      "Action potential",
+      "Local current",
+      "Synapse",
+      "One-way and delay",
+      "Cocaine",
+      "Outside Na⁺",
+      "Test"
     ],
     "file": "courses/impulse-step.html",
     "cover": "covers/impulse-step.webp",
@@ -945,20 +945,20 @@
   {
     "slug": "bromine-step",
     "subject": "chem",
-    "title": "海水提溴：空气吹出法",
-    "type": "工业流程",
-    "question": "海水里的溴只有 65 mg/L，怎么把它变成一瓶液溴？",
+    "title": "Bromine from Seawater: The Air Blow-Out Process",
+    "type": "Industrial Process",
+    "question": "Seawater holds only 65 mg/L of bromine. How do we turn it into a bottle of liquid bromine?",
     "textbook": [
-      "必修第二册 · 第八章 化学与可持续发展 · 第一节 自然资源的开发利用 · 海水资源的开发利用"
+      "Required Vol. 2 · Ch. 8 Chemistry and Sustainable Development · Sec. 1 Developing and Using Natural Resources · Seawater Resources"
     ],
     "steps": [
-      "全场",
-      "酸化",
-      "氧化",
-      "吹出",
-      "吸收",
-      "提纯",
-      "考核"
+      "Overview",
+      "Acidification",
+      "Oxidize",
+      "Blow-out",
+      "Absorption",
+      "Purify",
+      "Test"
     ],
     "file": "courses/bromine-step.html",
     "cover": "covers/bromine-step.webp",
@@ -967,22 +967,22 @@
   {
     "slug": "thermal-step",
     "subject": "geo",
-    "title": "大气热力环流",
-    "type": "原理与现象",
-    "question": "台湾海峡两岸的风向，为什么一天里会反过来？",
+    "title": "Thermal Circulation",
+    "type": "Principles & Phenomena",
+    "question": "Why does the wind across the Taiwan Strait reverse direction within a day?",
     "textbook": [
-      "必修第一册 · 第二章 地球上的大气 · 第二节 大气受热过程和大气运动 · 热力环流"
+      "Required Vol. 1 · Ch. 2 Earth's Atmosphere · Sec. 2 Atmospheric Heating and Atmospheric Motion · Thermal Circulation"
     ],
     "steps": [
-      "温差",
-      "高空",
-      "近地面",
-      "成环",
-      "强弱",
-      "海风",
-      "陆风",
-      "热岛",
-      "考核"
+      "Temperature difference",
+      "Upper air",
+      "Near surface",
+      "Close the loop",
+      "Strong vs. weak",
+      "Sea breeze",
+      "Land breeze",
+      "Heat island",
+      "Test"
     ],
     "file": "courses/thermal-step.html",
     "cover": "covers/thermal-step.webp",
@@ -991,22 +991,22 @@
   {
     "slug": "mitosis-step",
     "subject": "bio",
-    "title": "观察根尖分生区组织细胞的有丝分裂",
-    "type": "原理与现象",
-    "question": "一根洋葱根尖上，哪些细胞正在分裂？它们分裂一次各要多久？",
+    "title": "Observing Mitosis in Root-Tip Meristem Cells",
+    "type": "Principles & Phenomena",
+    "question": "On an onion root tip, which cells are dividing? How long does each stage of one division take?",
     "textbook": [
-      "必修1 分子与细胞 · 第6章 细胞的生命历程 · 第1节 细胞的增殖 · 探究·实践：观察根尖分生区组织细胞的有丝分裂"
+      "Required Vol. 1 Molecules and Cells · Ch. 6 The Life of a Cell · Sec. 1 Cell Proliferation · Inquiry: Observing Mitosis in Root-Tip Meristem Cells"
     ],
     "steps": [
-      "制片",
-      "找分生区",
-      "前期",
-      "中期",
-      "后期",
-      "末期",
-      "计数",
-      "算时长",
-      "考核"
+      "Slide Prep",
+      "Find the Meristem",
+      "Prophase",
+      "Metaphase",
+      "Anaphase",
+      "Telophase",
+      "Count",
+      "Duration",
+      "Test"
     ],
     "file": "courses/mitosis-step.html",
     "cover": "covers/mitosis-step.webp",
@@ -1015,22 +1015,22 @@
   {
     "slug": "sodium-step",
     "subject": "chem",
-    "title": "金属钠的性质（含钠着火扑救）",
-    "type": "原理与现象",
-    "question": "一块银白色的小金属，为什么必须泡在煤油里，着火时连水都不能浇？",
+    "title": "Properties of Sodium (and Putting Out Sodium Fires)",
+    "type": "Principles & Phenomena",
+    "question": "Why must a small piece of silvery-white metal be kept under kerosene, and why can't you even pour water on it when it catches fire?",
     "textbook": [
-      "必修第一册 · 第二章 海水中的重要元素——钠和氯 · 第一节 钠及其化合物 · 活泼的金属单质——钠"
+      "Required Vol. 1 · Ch. 2 Important Elements in Seawater: Sodium and Chlorine · Sec. 1 Sodium and Its Compounds · Sodium, a Reactive Metal"
     ],
     "steps": [
-      "认识实验",
-      "银白变暗",
-      "泡在煤油里",
-      "加热燃烧",
-      "浮熔游响红",
-      "钠块大小",
-      "看进去",
-      "着火扑救",
-      "考核"
+      "Meet the Experiment",
+      "Silver to Dull",
+      "Under kerosene",
+      "Heat and Burn",
+      "Float, Melt, Dart, Hiss, Red",
+      "Size of the Piece",
+      "Look inside",
+      "Fighting the Fire",
+      "Test"
     ],
     "file": "courses/sodium-step.html",
     "cover": "covers/sodium-step.webp",
@@ -1039,23 +1039,23 @@
   {
     "slug": "sulfur-step",
     "subject": "chem",
-    "title": "硫、二氧化硫、浓硫酸的性质与不同价态含硫物质的转化",
-    "type": "原理与现象",
-    "question": "同样是硫，为什么有时它是黄色固体、有时让品红褪成无色、有时又跑进铁粉里？",
+    "title": "Sulfur, SO₂ and Sulfuric Acid: Converting Between Oxidation States",
+    "type": "Principles & Phenomena",
+    "question": "It's all sulfur, so why is it sometimes a yellow solid, sometimes bleaches magenta colorless, and sometimes ends up in iron powder?",
     "textbook": [
-      "必修第二册 · 第五章 化工生产中的重要非金属元素 · 第一节 硫及其化合物",
-      "必修第二册 · 第五章 化工生产中的重要非金属元素 · 实验活动5 不同价态含硫物质的转化"
+      "Required Vol. 2 · Ch. 5 Important Nonmetallic Elements in Chemical Production · Sec. 1 Sulfur and Its Compounds",
+      "Required Vol. 2 · Ch. 5 Important Nonmetallic Elements in Chemical Production · Lab Activity 5 Converting Sulfur Compounds Between Oxidation States"
     ],
     "steps": [
-      "整套装置",
-      "硫粉 + 铁粉",
-      "浓硫酸与铜",
-      "浓还是稀",
-      "加热复原",
-      "三支检验管与棉团",
-      "归中到零价",
-      "看进去 · 价态电梯",
-      "考核 · 漂白到底"
+      "Full setup",
+      "Sulfur + iron powder",
+      "Conc. H₂SO₄ and copper",
+      "Concentrated or dilute",
+      "Heat to restore",
+      "Three test tubes and the cotton",
+      "Comproportionation to zero",
+      "Look inside · oxidation-state elevator",
+      "Test · bleach it all the way"
     ],
     "file": "courses/sulfur-step.html",
     "cover": "covers/sulfur-step.webp",
@@ -1064,21 +1064,21 @@
   {
     "slug": "wind-step",
     "subject": "geo",
-    "title": "大气的水平运动——风",
-    "type": "原理与现象",
-    "question": "天气图上的风，为什么不是从高压直直吹向低压？",
+    "title": "Horizontal Motion of the Atmosphere: Wind",
+    "type": "Principles & Phenomena",
+    "question": "Why doesn't the wind on a weather map blow straight from high pressure to low pressure?",
     "textbook": [
-      "必修第一册 · 第二章 地球上的大气 · 第二节 大气受热过程和大气运动 · 大气的水平运动——风"
+      "Required Vol. 1 · Ch. 2 Earth's Atmosphere · Sec. 2 Atmospheric Heating and Atmospheric Motion · Horizontal Air Movement: Wind"
     ],
     "steps": [
-      "等压线",
-      "梯度力",
-      "地转偏向",
-      "高空风",
-      "近地面",
-      "南半球",
-      "疏密",
-      "考核"
+      "Isobars",
+      "Gradient force",
+      "Coriolis deflection",
+      "Upper-air wind",
+      "Near surface",
+      "Southern Hemisphere",
+      "Spacing",
+      "Test"
     ],
     "file": "courses/wind-step.html",
     "cover": "covers/wind-step.webp",
@@ -1087,22 +1087,22 @@
   {
     "slug": "corrosion-step",
     "subject": "chem",
-    "title": "吸氧腐蚀与暖贴的设计",
-    "type": "原理与现象",
-    "question": "铁生锈这么慢的事，凭什么能做出一个 45 ℃ 以上的暖贴？又凭什么反过来用它保护铁不生锈？",
+    "title": "Oxygen-Absorption Corrosion and Designing a Hand Warmer",
+    "type": "Principles & Phenomena",
+    "question": "Iron rusts so slowly, so how can it make a hand warmer above 45 ℃? And how can the same idea be turned around to protect iron from rusting?",
     "textbook": [
-      "选择性必修1 化学反应原理 · 第四章 化学反应与电能 · 第三节 金属的腐蚀与防护 · 研究与实践：暖贴的设计与制作"
+      "Elective Vol. 1 Principles of Chemical Reactions · Ch. 4 Chemical Reactions and Electrical Energy · Sec. 3 Corrosion and Protection of Metals · Research and Practice: Designing and Making a Hand Warmer"
     ],
     "steps": [
-      "台面四站",
-      "液柱为什么升",
-      "碳粉的角色",
-      "换成酸性",
-      "看进去",
-      "暖贴发热",
-      "捂住的代价",
-      "让锌替它锈",
-      "考核 · 设计暖贴"
+      "Four stations",
+      "Why the column rises",
+      "Role of carbon",
+      "Switch to acid",
+      "Look inside",
+      "Hand warmer heats up",
+      "The cost of covering it",
+      "Let zinc rust instead",
+      "Test · design a hand warmer"
     ],
     "file": "courses/corrosion-step.html",
     "cover": "covers/corrosion-step.webp",
@@ -1111,21 +1111,21 @@
   {
     "slug": "enzyme-step",
     "subject": "bio",
-    "title": "影响酶活性的条件",
-    "type": "原理与现象",
-    "question": "同一支酶，为什么放进沸水里就再也救不回来，放进冰水里却还能醒过来？",
+    "title": "Conditions Affecting Enzyme Activity",
+    "type": "Principles & Phenomena",
+    "question": "Why can the same enzyme never be saved after boiling water, yet wake up again after ice water?",
     "textbook": [
-      "必修1 分子与细胞 · 第5章 细胞的能量供应和利用 · 第1节 降低化学反应活化能的酶 · 探究·实践：影响酶活性的条件"
+      "Required Vol. 1 Molecules and Cells · Ch. 5 Energy Supply and Use in Cells · Sec. 1 Enzymes Lower Activation Energy · Inquiry: Conditions Affecting Enzyme Activity"
     ],
     "steps": [
-      "认识实验台",
-      "温度",
+      "Meet the Lab Bench",
+      "Temperature",
       "pH",
-      "高温不可逆",
-      "低温可恢复",
-      "看进去",
-      "过酸过碱",
-      "考核 · 当实验员"
+      "Heat Is Irreversible",
+      "Cold Is Reversible",
+      "Look inside",
+      "Too Acidic, Too Alkaline",
+      "Test · Be the Lab Technician"
     ],
     "file": "courses/enzyme-step.html",
     "cover": "covers/enzyme-step.webp",
@@ -1134,21 +1134,21 @@
   {
     "slug": "chlor-alkali-step",
     "subject": "chem",
-    "title": "氯碱工业",
-    "type": "工业流程",
-    "question": "同样的电，怎样换来更多烧碱、更少电耗，又不出事故？",
+    "title": "The Chlor-Alkali Industry",
+    "type": "Industrial Process",
+    "question": "With the same electricity, how do we get more caustic soda, use less power, and avoid accidents?",
     "textbook": [
-      "选择性必修1 化学反应原理 · 第四章 化学反应与电能 · 第二节 电解池 · 电解饱和食盐水"
+      "Elective Vol. 1 Principles of Chemical Reactions · Ch. 4 Chemical Reactions and Electrical Energy · Sec. 2 Electrolytic Cells · Electrolysis of Saturated Brine"
     ],
     "steps": [
-      "三样产品",
-      "先洗盐",
-      "剖开槽",
-      "膜里看",
-      "多加电",
-      "调槽温",
-      "拆掉膜",
-      "值班考核"
+      "Three products",
+      "Wash the salt first",
+      "Cutaway cell",
+      "Inside the membrane",
+      "More current",
+      "Cell temperature",
+      "Remove the membrane",
+      "On-Duty Test"
     ],
     "file": "courses/chlor-alkali-step.html",
     "cover": "covers/chlor-alkali-step.webp",
@@ -1157,21 +1157,21 @@
   {
     "slug": "hou-soda-step",
     "subject": "chem",
-    "title": "侯氏制碱",
-    "type": "工业流程",
-    "question": "怎样用食盐和氨造出纯碱，还顺手拿到氮肥？",
+    "title": "Hou's Soda Process",
+    "type": "Industrial Process",
+    "question": "How do you make soda ash from salt and ammonia, and get a nitrogen fertilizer on the side?",
     "textbook": [
-      "必修第一册 · 第二章 海水中的重要元素——钠和氯 · 第一节 钠及其化合物 · 情境素材：侯氏制碱法"
+      "Required Vol. 1 · Ch. 2 Important Elements in Seawater: Sodium and Chlorine · Sec. 1 Sodium and Its Compounds · Context Reading: Hou's Soda Process"
     ],
     "steps": [
-      "从盐到碱",
-      "先氨后碳",
-      "为什么它自己析出",
-      "碳化温度",
-      "过滤分两路",
-      "煅烧成碱",
-      "母液与循环",
-      "你来当班长"
+      "From salt to soda",
+      "Ammonia first",
+      "Why it precipitates",
+      "Carbonation temperature",
+      "Filter into two streams",
+      "Calcine into soda",
+      "Mother liquor & recycling",
+      "You're shift leader"
     ],
     "file": "courses/hou-soda-step.html",
     "cover": "covers/hou-soda-step.webp",
@@ -1180,22 +1180,22 @@
   {
     "slug": "current-field-step",
     "subject": "phys",
-    "title": "电流的磁场",
-    "type": "原理与现象",
-    "question": "磁场看不见摸不着，怎么把它画出来、又怎么判断它的方向？",
+    "title": "Magnetic Field of an Electric Current",
+    "type": "Principles & Phenomena",
+    "question": "A magnetic field can't be seen or touched. How do we draw it, and how do we tell its direction?",
     "textbook": [
-      "必修第三册 · 第十三章 电磁感应与电磁波初步 · 第一节 磁场 磁感线"
+      "Required Vol. 3 · Ch. 13 Electromagnetic Induction and Electromagnetic Waves (Introduction) · Sec. 1 Magnetic Fields and Field Lines"
     ],
     "steps": [
-      "铁屑显形",
-      "一圈圈同心圆",
-      "握导线定方向",
-      "疏密就是强弱",
-      "穿环绕回",
-      "多匝叠加",
-      "轴向衰减",
-      "内部匀强",
-      "考核 · 找管口"
+      "Iron Filings Reveal It",
+      "Concentric Circles",
+      "Grip the Wire for Direction",
+      "Density Is Strength",
+      "Through and Back",
+      "Adding Turns",
+      "Fall-off Along the Axis",
+      "Uniform Inside",
+      "Test · Find the End"
     ],
     "file": "courses/current-field-step.html",
     "cover": "covers/current-field-step.webp",
@@ -1204,22 +1204,22 @@
   {
     "slug": "brownian-step",
     "subject": "phys",
-    "title": "布朗运动与扩散",
-    "type": "原理与现象",
-    "question": "看不见的分子，凭什么说它在乱动？",
+    "title": "Brownian Motion and Diffusion",
+    "type": "Principles & Phenomena",
+    "question": "Molecules are invisible — so how can we say they are moving randomly?",
     "textbook": [
-      "选择性必修第三册 · 第一章 分子动理论 · 第一节 分子动理论的基本内容"
+      "Elective Vol. 3 · Ch. 1 Molecular Kinetic Theory · Sec. 1 Basics of Molecular Kinetic Theory"
     ],
     "steps": [
-      "看见它在动",
-      "30 秒一个点",
-      "越久越远",
-      "微粒越小越明显",
-      "温度越高越剧烈",
-      "撞出来的",
-      "单次不等于统计",
-      "扩散：浓度展开",
-      "考核 · 动得更明显"
+      "See It Move",
+      "One Point per 30 s",
+      "Longer Time, Farther",
+      "Smaller Particle, More Obvious",
+      "Hotter, More Vigorous",
+      "Driven by Collisions",
+      "One Run Is Not the Statistic",
+      "Diffusion: Concentration Spreads",
+      "Test · More Obvious Motion"
     ],
     "file": "courses/brownian-step.html",
     "cover": "covers/brownian-step.webp",
@@ -1228,22 +1228,22 @@
   {
     "slug": "water-cycle-step",
     "subject": "geo",
-    "title": "水循环的过程与地理意义",
-    "type": "原理与现象",
-    "question": "江河不断注入大海，为什么大海的水没有增多？",
+    "title": "The Water Cycle and Its Geographic Significance",
+    "type": "Principles & Phenomena",
+    "question": "Rivers keep flowing into the sea, so why doesn't the sea get fuller?",
     "textbook": [
-      "必修第一册 · 第三章 地球上的水 · 第一节 水循环"
+      "Required Vol. 1 · Ch. 3 Water on Earth · Sec. 1 The Water Cycle"
     ],
     "steps": [
-      "全景",
-      "蒸发",
-      "蒸腾",
-      "输送",
-      "下渗",
-      "三类",
-      "砂田",
-      "意义",
-      "考核"
+      "Overview",
+      "Evaporation",
+      "Transpiration",
+      "Transport",
+      "Infiltration",
+      "Three Types",
+      "Sand-Gravel Field",
+      "Significance",
+      "Test"
     ],
     "file": "courses/water-cycle-step.html",
     "cover": "covers/water-cycle-step.webp",
@@ -1252,20 +1252,20 @@
   {
     "slug": "circulation-step",
     "subject": "geo",
-    "title": "气压带、风带与三圈环流",
-    "type": "原理与现象",
-    "question": "麦哲伦船队为什么有的航段逆风、有的顺风，到了 30°S 附近却寸步难行？",
+    "title": "Pressure Belts, Wind Belts and the Three-Cell Circulation",
+    "type": "Principles & Phenomena",
+    "question": "Why did Magellan's fleet face headwinds on some legs and tailwinds on others, yet barely move near 30°S?",
     "textbook": [
-      "选择性必修1 自然地理基础 · 第三章 大气的运动 · 第二节 气压带和风带"
+      "Elective Vol. 1 Fundamentals of Physical Geography · Ch. 3 Atmospheric Motion · Sec. 2 Pressure Belts and Wind Belts"
     ],
     "steps": [
-      "赤道低压",
-      "30° 下沉",
-      "60° 爬升",
-      "七带六风",
-      "季节移动",
-      "海陆分布",
-      "考核 · 麦哲伦"
+      "Equatorial Low",
+      "Sinking at 30°",
+      "Rising at 60°",
+      "Seven Belts, Six Winds",
+      "Seasonal Shift",
+      "Land & Sea",
+      "Test · Magellan"
     ],
     "file": "courses/circulation-step.html",
     "cover": "covers/circulation-step.webp",
