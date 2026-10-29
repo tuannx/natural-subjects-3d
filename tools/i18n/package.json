@@ -1,0 +1,9 @@
+{
+  "name": "natural-subjects-3d-i18n",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "acorn": "^8.15.0",
+    "acorn-walk": "^8.3.4"
+  }
+}
