@@ -1,0 +1,16 @@
+{
+  "name": "natural-subjects-3d",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Interactive 3D science lessons in English (adapted from Tongjiang Lab)",
+  "license": "CC-BY-NC-4.0",
+  "type": "module",
+  "scripts": {
+    "build": "node site/build.mjs",
+    "preview": "npm run build && wrangler dev",
+    "deploy": "npm run build && wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.150.0"
+  }
+}
