@@ -1,0 +1,26 @@
+{
+  "slug": "brownian-step",
+  "order": 520,
+  "level": "high-school",
+  "ages": "15-18",
+  "grades": [10, 12],
+  "title": "Brownian Motion and Diffusion",
+  "type": "Principles & Phenomena",
+  "question": "Molecules are invisible — so how can we say they are moving randomly?",
+  "textbook": [
+    "Elective Vol. 3 · Ch. 1 Molecular Kinetic Theory · Sec. 1 Basics of Molecular Kinetic Theory"
+  ],
+  "steps": [
+    "See It Move",
+    "One Point per 30 s",
+    "Longer Time, Farther",
+    "Smaller Particle, More Obvious",
+    "Hotter, More Vigorous",
+    "Driven by Collisions",
+    "One Run Is Not the Statistic",
+    "Diffusion: Concentration Spreads",
+    "Test · More Obvious Motion"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/brownian-step/"
+}

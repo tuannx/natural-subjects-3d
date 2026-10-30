@@ -1,0 +1,25 @@
+{
+  "slug": "blast-furnace-step",
+  "order": 80,
+  "level": "high-school",
+  "ages": "15-18",
+  "grades": [10, 12],
+  "title": "Ironmaking in a Blast Furnace",
+  "type": "Industrial Process",
+  "question": "A pile of ore is dumped in at the top. How does it become a stream of molten iron a few hours later, and do it ever more cheaply?",
+  "textbook": [
+    "Required Vol. 2 · Ch. 8 Chemistry and Sustainable Development · Sec. 1 Developing and Using Natural Resources · Metal Ores"
+  ],
+  "steps": [
+    "Ore to Iron",
+    "Layered Charging",
+    "Cut Open the Zones",
+    "Coke at the Tuyeres",
+    "Stepwise Reduction",
+    "Limestone Slag",
+    "The Blast-Temperature Bill",
+    "On-Duty Test"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/blast-furnace-step/"
+}

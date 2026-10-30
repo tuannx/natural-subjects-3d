@@ -1,0 +1,25 @@
+{
+  "slug": "chlor-alkali-step",
+  "order": 490,
+  "level": "high-school",
+  "ages": "15-18",
+  "grades": [10, 12],
+  "title": "The Chlor-Alkali Industry",
+  "type": "Industrial Process",
+  "question": "With the same electricity, how do we get more caustic soda, use less power, and avoid accidents?",
+  "textbook": [
+    "Elective Vol. 1 Principles of Chemical Reactions · Ch. 4 Chemical Reactions and Electrical Energy · Sec. 2 Electrolytic Cells · Electrolysis of Saturated Brine"
+  ],
+  "steps": [
+    "Three products",
+    "Wash the salt first",
+    "Cutaway cell",
+    "Inside the membrane",
+    "More current",
+    "Cell temperature",
+    "Remove the membrane",
+    "On-Duty Test"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/chlor-alkali-step/"
+}

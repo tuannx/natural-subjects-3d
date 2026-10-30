@@ -1,89 +1,118 @@
 # Lessons
 
-Each folder is one lesson: `lesson.json` (title, level, ages, steps) and its cover, plus either `index.html` (a complete high school lesson you can download and open in Chrome or Edge) or `scene.js` (a primary lesson, built with the shared engine in `lib/primary/`). On the deployed site every lesson is at `/<slug>/`.
+Lessons are grouped by subject, one folder each, so every subject can grow on its own:
 
-## Primary school (ages 6–11)
+```
+courses/
+  <subject>/                 physics, chemistry, biology, earth-space
+    subject.json             name, colour, blurb, order on the site
+    README.md                this subject's lesson list (npm run readme)
+    _shared/                 optional: 3D helpers only this subject's lessons use
+    <slug>/                  one lesson; its URL is /<slug>/ (slugs are unique across subjects)
+      lesson.json            catalog entry and all lesson text
+      scene.js               the 3D world (engine lesson, see lib/engine/README.md)
+      index.html             or: a complete bundled lesson (the high school labs)
+      cover.webp, cover-480.webp
+```
 
-### Earth & Space
+## Add a lesson to a subject
 
-- [Why Do We Have Day and Night?](day-night/) · ages 6–9
-- [Why Does the Moon Change Shape?](moon-phases/) · ages 8–11
-- [How Do Shadows Change During the Day?](shadows/) · ages 6–9
+1. Pick the topic and grades from [docs/curriculum-map.md](../docs/curriculum-map.md) and mark it there.
+2. Create `courses/<subject>/<slug>/lesson.json` and `scene.js` (see [lib/engine/README.md](../lib/engine/README.md)). Set `level` (`primary` grades 1–5, `middle` grades 6–9, `high-school` grades 10–12) and `grades` `[from, to]` inside that level. The subject comes from the folder.
+3. Check it: `LESSONS=<slug> OUT=/tmp/one npm run build`, then in `video/`: `DIST=/tmp/one node scripts/check.mjs <slug> --shots /tmp/shots` and `DIST=/tmp/one node scripts/covers.mjs <slug>`.
+4. Run `npm run readme` to refresh the lesson lists.
 
-### Physics
+A new lesson only touches its own folder (plus the subject's `README.md` and the map), so lessons for different subjects never conflict.
 
-- [Ice, Water and Steam](states-of-water/) · ages 8–11
-- [Will It Float or Sink?](float-sink/) · ages 6–9
-- [Make the Bulb Light Up](simple-circuit/) · ages 8–11
+## [Physics](physics/) (12)
 
-### Biology
+### Primary school (2)
 
-- [What Do Plants Need to Grow?](plant-needs/) · ages 6–9
+- [Will It Float or Sink?](physics/float-sink/) · Grades 2–3
+- [Make the Bulb Light Up](physics/simple-circuit/) · Grades 4–5
 
-## High school (ages 15–18)
+### High school (10)
 
-### Physics
+- [The Photoelectric Effect](physics/photoelectric-step/) · Grades 10–12
+- [Observing Capacitor Charging and Discharging](physics/capacitor-step/) · Grades 10–12
+- [Experiment: Acceleration vs. Force and Mass](physics/accel-force-step/) · Grades 10–12
+- [Experiment: Verifying Conservation of Mechanical Energy](physics/energy-step/) · Grades 10–12
+- [Experiment: Exploring Projectile Motion](physics/projectile-step/) · Grades 10–12
+- [Centripetal Force vs. Radius, Angular Velocity and Mass](physics/centripetal-step/) · Grades 10–12
+- [Self-Induction and Eddy Currents](physics/self-induction-step/) · Grades 10–12
+- [Measuring EMF and Internal Resistance](physics/emf-step/) · Grades 10–12
+- [Magnetic Field of an Electric Current](physics/current-field-step/) · Grades 10–12
+- [Brownian Motion and Diffusion](physics/brownian-step/) · Grades 10–12
 
-- [The Photoelectric Effect](photoelectric-step/) · ages 15–18
-- [Observing Capacitor Charging and Discharging](capacitor-step/) · ages 15–18
-- [Experiment: Acceleration vs. Force and Mass](accel-force-step/) · ages 15–18
-- [Experiment: Verifying Conservation of Mechanical Energy](energy-step/) · ages 15–18
-- [Experiment: Exploring Projectile Motion](projectile-step/) · ages 15–18
-- [Centripetal Force vs. Radius, Angular Velocity and Mass](centripetal-step/) · ages 15–18
-- [Self-Induction and Eddy Currents](self-induction-step/) · ages 15–18
-- [Measuring EMF and Internal Resistance](emf-step/) · ages 15–18
-- [Magnetic Field of an Electric Current](current-field-step/) · ages 15–18
-- [Brownian Motion and Diffusion](brownian-step/) · ages 15–18
+## [Chemistry](chemistry/) (26)
 
-### Chemistry
+### Primary school (1)
 
-- [Industrial Ammonia Synthesis (Haber Process)](haber-step/) · ages 15–18
-- [Factors Affecting Reaction Rate](rate-step/) · ages 15–18
-- [Ball-and-Stick Models of Organic Molecules](ball-stick-step/) · ages 15–18
-- [Strong Acid–Strong Base Titration](titration-step/) · ages 15–18
-- [Preparation and Properties of Chlorine](chlorine-step/) · ages 15–18
-- [Ironmaking in a Blast Furnace](blast-furnace-step/) · ages 15–18
-- [Metal Smelting: Molten-Salt Electrolysis and the Thermite Reaction](smelting-step/) · ages 15–18
-- [Coal Utilization: Coal Gasification](coal-gas-step/) · ages 15–18
-- [Sulfuric Acid by the Contact Process](sulfuric-step/) · ages 15–18
-- [Hydrolysis of Salts and Its Applications](hydrolysis-step/) · ages 15–18
-- [Industrial Cement Production](cement-step/) · ages 15–18
-- [Iron and Its Compounds: Changing Oxidation States](iron-step/) · ages 15–18
-- [Principles of Electrolysis: CuCl₂ Solution and Brine](electrolysis-step/) · ages 15–18
-- [Preparation and Properties of Ammonia (Fountain Experiment)](ammonia-step/) · ages 15–18
-- [Factors That Shift Chemical Equilibrium](equilibrium-step/) · ages 15–18
-- [Flame Tests and Atomic Spectra](flame-step/) · ages 15–18
-- [Galvanic Cells: From One Electrolyte to Two](galvanic-step/) · ages 15–18
-- [Ionization, Solution Conductivity and Ionic Reactions](conductivity-step/) · ages 15–18
-- [Concentrated and Dilute Nitric Acid; Nitrogen Oxides](nitric-lab-step/) · ages 15–18
-- [Bromine from Seawater: The Air Blow-Out Process](bromine-step/) · ages 15–18
-- [Properties of Sodium (and Putting Out Sodium Fires)](sodium-step/) · ages 15–18
-- [Sulfur, SO₂ and Sulfuric Acid: Converting Between Oxidation States](sulfur-step/) · ages 15–18
-- [Oxygen-Absorption Corrosion and Designing a Hand Warmer](corrosion-step/) · ages 15–18
-- [The Chlor-Alkali Industry](chlor-alkali-step/) · ages 15–18
-- [Hou's Soda Process](hou-soda-step/) · ages 15–18
+- [Ice, Water and Steam](chemistry/states-of-water/) · Grades 2–4
 
-### Biology
+### High school (25)
 
-- [Water Uptake and Loss in Plant Cells](plasmolysis-step/) · ages 15–18
-- [Transport Across Cell Membranes](transport-step/) · ages 15–18
-- [Generation and Conduction of Nerve Impulses](impulse-step/) · ages 15–18
-- [Observing Mitosis in Root-Tip Meristem Cells](mitosis-step/) · ages 15–18
-- [Conditions Affecting Enzyme Activity](enzyme-step/) · ages 15–18
+- [Industrial Ammonia Synthesis (Haber Process)](chemistry/haber-step/) · Grades 10–12
+- [Factors Affecting Reaction Rate](chemistry/rate-step/) · Grades 10–12
+- [Ball-and-Stick Models of Organic Molecules](chemistry/ball-stick-step/) · Grades 10–12
+- [Strong Acid–Strong Base Titration](chemistry/titration-step/) · Grades 10–12
+- [Preparation and Properties of Chlorine](chemistry/chlorine-step/) · Grades 10–12
+- [Ironmaking in a Blast Furnace](chemistry/blast-furnace-step/) · Grades 10–12
+- [Metal Smelting: Molten-Salt Electrolysis and the Thermite Reaction](chemistry/smelting-step/) · Grades 10–12
+- [Coal Utilization: Coal Gasification](chemistry/coal-gas-step/) · Grades 10–12
+- [Sulfuric Acid by the Contact Process](chemistry/sulfuric-step/) · Grades 10–12
+- [Hydrolysis of Salts and Its Applications](chemistry/hydrolysis-step/) · Grades 10–12
+- [Industrial Cement Production](chemistry/cement-step/) · Grades 10–12
+- [Iron and Its Compounds: Changing Oxidation States](chemistry/iron-step/) · Grades 10–12
+- [Principles of Electrolysis: CuCl₂ Solution and Brine](chemistry/electrolysis-step/) · Grades 10–12
+- [Preparation and Properties of Ammonia (Fountain Experiment)](chemistry/ammonia-step/) · Grades 10–12
+- [Factors That Shift Chemical Equilibrium](chemistry/equilibrium-step/) · Grades 10–12
+- [Flame Tests and Atomic Spectra](chemistry/flame-step/) · Grades 10–12
+- [Galvanic Cells: From One Electrolyte to Two](chemistry/galvanic-step/) · Grades 10–12
+- [Ionization, Solution Conductivity and Ionic Reactions](chemistry/conductivity-step/) · Grades 10–12
+- [Concentrated and Dilute Nitric Acid; Nitrogen Oxides](chemistry/nitric-lab-step/) · Grades 10–12
+- [Bromine from Seawater: The Air Blow-Out Process](chemistry/bromine-step/) · Grades 10–12
+- [Properties of Sodium (and Putting Out Sodium Fires)](chemistry/sodium-step/) · Grades 10–12
+- [Sulfur, SO₂ and Sulfuric Acid: Converting Between Oxidation States](chemistry/sulfur-step/) · Grades 10–12
+- [Oxygen-Absorption Corrosion and Designing a Hand Warmer](chemistry/corrosion-step/) · Grades 10–12
+- [The Chlor-Alkali Industry](chemistry/chlor-alkali-step/) · Grades 10–12
+- [Hou's Soda Process](chemistry/hou-soda-step/) · Grades 10–12
 
-### Geography
+## [Biology](biology/) (6)
 
-- [Development of River Landforms](river-step/) · ages 15–18
-- [Migration of the Subsolar Point: Seasons and Climate Zones](insolation-step/) · ages 15–18
-- [World Ocean Currents: Patterns and Effects](currents-step/) · ages 15–18
-- [Ocean–Atmosphere Interaction: El Niño and La Niña](enso-step/) · ages 15–18
-- [How the Atmosphere Is Heated](heating-step/) · ages 15–18
-- [Formation and Recognition of Karst Landforms](karst-step/) · ages 15–18
-- [Global Climate Change and National Security](carbon-step/) · ages 15–18
-- [Formation of Tectonic Landforms](tectonic-step/) · ages 15–18
-- [Geographic Significance of Earth's Motions](earth-motion-step/) · ages 15–18
-- [Soil-Forming Factors and Soil Profiles](soil-step/) · ages 15–18
-- [Thermal Circulation](thermal-step/) · ages 15–18
-- [Horizontal Motion of the Atmosphere: Wind](wind-step/) · ages 15–18
-- [The Water Cycle and Its Geographic Significance](water-cycle-step/) · ages 15–18
-- [Pressure Belts, Wind Belts and the Three-Cell Circulation](circulation-step/) · ages 15–18
+### Primary school (1)
+
+- [What Do Plants Need to Grow?](biology/plant-needs/) · Grades 2–3
+
+### High school (5)
+
+- [Water Uptake and Loss in Plant Cells](biology/plasmolysis-step/) · Grades 10–12
+- [Transport Across Cell Membranes](biology/transport-step/) · Grades 10–12
+- [Generation and Conduction of Nerve Impulses](biology/impulse-step/) · Grades 10–12
+- [Observing Mitosis in Root-Tip Meristem Cells](biology/mitosis-step/) · Grades 10–12
+- [Conditions Affecting Enzyme Activity](biology/enzyme-step/) · Grades 10–12
+
+## [Earth & Space](earth-space/) (17)
+
+### Primary school (3)
+
+- [Why Do We Have Day and Night?](earth-space/day-night/) · Grades 1–2
+- [How Do Shadows Change During the Day?](earth-space/shadows/) · Grades 1–2
+- [Why Does the Moon Change Shape?](earth-space/moon-phases/) · Grades 3–5
+
+### High school (14)
+
+- [Development of River Landforms](earth-space/river-step/) · Grades 10–12
+- [Migration of the Subsolar Point: Seasons and Climate Zones](earth-space/insolation-step/) · Grades 10–12
+- [World Ocean Currents: Patterns and Effects](earth-space/currents-step/) · Grades 10–12
+- [Ocean–Atmosphere Interaction: El Niño and La Niña](earth-space/enso-step/) · Grades 10–12
+- [How the Atmosphere Is Heated](earth-space/heating-step/) · Grades 10–12
+- [Formation and Recognition of Karst Landforms](earth-space/karst-step/) · Grades 10–12
+- [Global Climate Change and National Security](earth-space/carbon-step/) · Grades 10–12
+- [Formation of Tectonic Landforms](earth-space/tectonic-step/) · Grades 10–12
+- [Geographic Significance of Earth's Motions](earth-space/earth-motion-step/) · Grades 10–12
+- [Soil-Forming Factors and Soil Profiles](earth-space/soil-step/) · Grades 10–12
+- [Thermal Circulation](earth-space/thermal-step/) · Grades 10–12
+- [Horizontal Motion of the Atmosphere: Wind](earth-space/wind-step/) · Grades 10–12
+- [The Water Cycle and Its Geographic Significance](earth-space/water-cycle-step/) · Grades 10–12
+- [Pressure Belts, Wind Belts and the Three-Cell Circulation](earth-space/circulation-step/) · Grades 10–12

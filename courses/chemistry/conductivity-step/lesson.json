@@ -1,0 +1,27 @@
+{
+  "slug": "conductivity-step",
+  "order": 310,
+  "level": "high-school",
+  "ages": "15-18",
+  "grades": [10, 12],
+  "title": "Ionization, Solution Conductivity and Ionic Reactions",
+  "type": "Principles & Phenomena",
+  "question": "A dry hand and a wet hand are the same hand — so why is a wet hand more likely to get an electric shock?",
+  "textbook": [
+    "Required Vol. 1 · Ch. 1 Substances and Their Changes · Sec. 2 Ionic Reactions",
+    "Elective Vol. 1 Principles of Chemical Reactions · Ch. 3 Ionic Reactions and Equilibria in Aqueous Solution · Sec. 1 Ionization Equilibrium · Strong and Weak Electrolytes"
+  ],
+  "steps": [
+    "Meet the Bench",
+    "Dry vs. Molten",
+    "Dissolve in Water",
+    "Water and Sucrose",
+    "Strong vs. Weak",
+    "Add Dilute H₂SO₄",
+    "Look inside",
+    "Wrong Titrant",
+    "Test · Find the End Point"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/conductivity-step/"
+}

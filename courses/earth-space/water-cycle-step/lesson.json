@@ -1,0 +1,26 @@
+{
+  "slug": "water-cycle-step",
+  "order": 530,
+  "level": "high-school",
+  "ages": "15-18",
+  "grades": [10, 12],
+  "title": "The Water Cycle and Its Geographic Significance",
+  "type": "Principles & Phenomena",
+  "question": "Rivers keep flowing into the sea, so why doesn't the sea get fuller?",
+  "textbook": [
+    "Required Vol. 1 · Ch. 3 Water on Earth · Sec. 1 The Water Cycle"
+  ],
+  "steps": [
+    "Overview",
+    "Evaporation",
+    "Transpiration",
+    "Transport",
+    "Infiltration",
+    "Three Types",
+    "Sand-Gravel Field",
+    "Significance",
+    "Test"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/water-cycle-step/"
+}

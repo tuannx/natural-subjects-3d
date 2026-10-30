@@ -1,0 +1,24 @@
+{
+  "slug": "circulation-step",
+  "order": 540,
+  "level": "high-school",
+  "ages": "15-18",
+  "grades": [10, 12],
+  "title": "Pressure Belts, Wind Belts and the Three-Cell Circulation",
+  "type": "Principles & Phenomena",
+  "question": "Why did Magellan's fleet face headwinds on some legs and tailwinds on others, yet barely move near 30°S?",
+  "textbook": [
+    "Elective Vol. 1 Fundamentals of Physical Geography · Ch. 3 Atmospheric Motion · Sec. 2 Pressure Belts and Wind Belts"
+  ],
+  "steps": [
+    "Equatorial Low",
+    "Sinking at 30°",
+    "Rising at 60°",
+    "Seven Belts, Six Winds",
+    "Seasonal Shift",
+    "Land & Sea",
+    "Test · Magellan"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/circulation-step/"
+}

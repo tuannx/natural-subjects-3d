@@ -1,0 +1,24 @@
+{
+  "slug": "bromine-step",
+  "order": 410,
+  "level": "high-school",
+  "ages": "15-18",
+  "grades": [10, 12],
+  "title": "Bromine from Seawater: The Air Blow-Out Process",
+  "type": "Industrial Process",
+  "question": "Seawater holds only 65 mg/L of bromine. How do we turn it into a bottle of liquid bromine?",
+  "textbook": [
+    "Required Vol. 2 · Ch. 8 Chemistry and Sustainable Development · Sec. 1 Developing and Using Natural Resources · Seawater Resources"
+  ],
+  "steps": [
+    "Overview",
+    "Acidification",
+    "Oxidize",
+    "Blow-out",
+    "Absorption",
+    "Purify",
+    "Test"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/bromine-step/"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "current-field-step",
+  "order": 510,
+  "level": "high-school",
+  "ages": "15-18",
+  "grades": [10, 12],
+  "title": "Magnetic Field of an Electric Current",
+  "type": "Principles & Phenomena",
+  "question": "A magnetic field can't be seen or touched. How do we draw it, and how do we tell its direction?",
+  "textbook": [
+    "Required Vol. 3 · Ch. 13 Electromagnetic Induction and Electromagnetic Waves (Introduction) · Sec. 1 Magnetic Fields and Field Lines"
+  ],
+  "steps": [
+    "Iron Filings Reveal It",
+    "Concentric Circles",
+    "Grip the Wire for Direction",
+    "Density Is Strength",
+    "Through and Back",
+    "Adding Turns",
+    "Fall-off Along the Axis",
+    "Uniform Inside",
+    "Test · Find the End"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/current-field-step/"
+}

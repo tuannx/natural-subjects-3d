@@ -1,0 +1,26 @@
+{
+  "slug": "equilibrium-step",
+  "order": 280,
+  "level": "high-school",
+  "ages": "15-18",
+  "grades": [10, 12],
+  "title": "Factors That Shift Chemical Equilibrium",
+  "type": "Principles & Experiment",
+  "question": "Change one condition — how can we say which way the equilibrium “shifts”?",
+  "textbook": [
+    "Elective Vol. 1 Principles of Chemical Reactions · Ch. 2 Reaction Rate and Chemical Equilibrium · Lab Activity 1 Factors That Shift Chemical Equilibrium"
+  ],
+  "steps": [
+    "Meet the Lab Bench",
+    "Add to Iron Tube",
+    "Iron Powder Removes",
+    "Add Base to Chromium Tube",
+    "Add Acid to Chromium Tube",
+    "Hot and Cold Baths",
+    "Look inside",
+    "Error · Readings",
+    "Test"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/equilibrium-step/"
+}

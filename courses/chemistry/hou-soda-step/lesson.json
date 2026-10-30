@@ -1,0 +1,25 @@
+{
+  "slug": "hou-soda-step",
+  "order": 500,
+  "level": "high-school",
+  "ages": "15-18",
+  "grades": [10, 12],
+  "title": "Hou's Soda Process",
+  "type": "Industrial Process",
+  "question": "How do you make soda ash from salt and ammonia, and get a nitrogen fertilizer on the side?",
+  "textbook": [
+    "Required Vol. 1 · Ch. 2 Important Elements in Seawater: Sodium and Chlorine · Sec. 1 Sodium and Its Compounds · Context Reading: Hou's Soda Process"
+  ],
+  "steps": [
+    "From salt to soda",
+    "Ammonia first",
+    "Why it precipitates",
+    "Carbonation temperature",
+    "Filter into two streams",
+    "Calcine into soda",
+    "Mother liquor & recycling",
+    "You're shift leader"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/hou-soda-step/"
+}

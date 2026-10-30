@@ -1,0 +1,25 @@
+{
+  "slug": "transport-step",
+  "order": 350,
+  "level": "high-school",
+  "ages": "15-18",
+  "grades": [10, 12],
+  "title": "Transport Across Cell Membranes",
+  "type": "Principles & Phenomena",
+  "question": "It's the same cell membrane, so why does oxygen cross on its own, glucose need help from proteins, and K⁺ move in against its concentration gradient?",
+  "textbook": [
+    "Required Vol. 1 Molecules and Cells · Ch. 4 Transport Into and Out of Cells"
+  ],
+  "steps": [
+    "Simple diffusion",
+    "Selective permeability",
+    "Facilitated diffusion",
+    "Carriers and channels",
+    "Active transport",
+    "Endocytosis and exocytosis",
+    "Summary",
+    "Test"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/transport-step/"
+}

@@ -10,8 +10,9 @@ This repository adapts [Tongjiang Lab](https://lab.tongjiang.app) (CC BY-NC 4.0,
 - Added a home page, a build script, Cloudflare Workers config and a manual deploy workflow.
 - Added the translation tooling and dictionary under `tools/i18n/`.
 
-- Moved each lesson into its own folder (`courses/<slug>/`) with its cover and a `lesson.json` catalog entry.
+- Moved each lesson into its own folder with its cover and a `lesson.json` catalog entry, grouped by subject (`courses/<subject>/<slug>/`, with Geography lessons filed under Earth & Space), and added the grades each lesson fits.
 - Added a small script to each lesson at build time: phone layout (one panel at a time as a bottom sheet), a lower render resolution on phones and slow devices, and camera framing for the bottom sheet.
 - Added 480 px cover thumbnails.
+- Added a message instead of a blank page when the browser has no WebGL.
 
-The 3D scenes, simulations, data and cover images are unchanged. The primary school lessons are new and not part of Tongjiang Lab.
+The 3D scenes, simulations, data and cover images are unchanged. The primary and middle school lessons are new and not part of Tongjiang Lab.

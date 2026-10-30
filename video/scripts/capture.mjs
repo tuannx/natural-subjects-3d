@@ -9,11 +9,12 @@ import { parseArgs, paths } from './args.mjs';
 import { browserPath } from './browser.mjs';
 import { serve } from './serve.mjs';
 import { hideChrome, stepCaption } from './lesson-page.mjs';
+import { findLesson } from '../../site/lib/catalog.mjs';
 
 const o = parseArgs();
 const dist = paths.root + 'dist/';
 if (!existsSync(dist + o.slug + '/index.html')) throw new Error(`dist/${o.slug} not found: run "npm run build" in the repo root first`);
-const meta = JSON.parse(readFileSync(paths.root + `courses/${o.slug}/lesson.json`, 'utf8'));
+const meta = findLesson(paths.root + 'courses/', o.slug);
 const out = paths.video + `public/captures/${o.slug}/`;
 rmSync(out, { recursive: true, force: true });
 mkdirSync(out, { recursive: true });

@@ -1,0 +1,26 @@
+{
+  "slug": "chlorine-step",
+  "order": 70,
+  "level": "high-school",
+  "ages": "15-18",
+  "grades": [10, 12],
+  "title": "Preparation and Properties of Chlorine",
+  "type": "Principles & Phenomena",
+  "question": "To get a bottle of dry, pure chlorine, what does each part of the apparatus do? What happens if one part is missing?",
+  "textbook": [
+    "Required Vol. 1 · Ch. 2 Important Elements in Seawater: Sodium and Chlorine · Sec. 2 Chlorine and Its Compounds"
+  ],
+  "steps": [
+    "Know the apparatus",
+    "Why heat",
+    "Why conc. HCl",
+    "What the first bottle washes",
+    "What the second bottle washes",
+    "How to collect",
+    "Where excess chlorine goes",
+    "What's in chlorine water",
+    "Test · Be the Lab Technician"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/chlorine-step/"
+}

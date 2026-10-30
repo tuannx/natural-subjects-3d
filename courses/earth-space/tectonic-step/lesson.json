@@ -1,0 +1,23 @@
+{
+  "slug": "tectonic-step",
+  "order": 190,
+  "level": "high-school",
+  "ages": "15-18",
+  "grades": [10, 12],
+  "title": "Formation of Tectonic Landforms",
+  "type": "Principles & Phenomena",
+  "question": "Why are fossil leaves of broadleaf trees found on the Tibetan Plateau? What force lifted the land surface, and then cut it apart?",
+  "textbook": [
+    "Elective Vol. 1 Fundamentals of Physical Geography · Ch. 2 Shaping the Land Surface · Sec. 2 Formation of Tectonic Landforms"
+  ],
+  "steps": [
+    "Bend",
+    "pts",
+    "Inversion",
+    "Offset",
+    "Uplift & Drop",
+    "Test"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/tectonic-step/"
+}
