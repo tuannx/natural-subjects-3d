@@ -1,0 +1,36 @@
+/* natural-subjects-3d: small-screen layout for the 3D lesson shell (phones, small tablets).
+   Portrait: panels become one bottom sheet at a time, picked from a dock above the footer.
+   Landscape phones: side panels stay, but narrower and one at a time. */
+#ns-dock{display:none}
+@media (max-width:760px),(max-height:500px) and (pointer:coarse){
+  :root{--top-h:44px!important;--steps-h:40px!important;--foot-h:44px!important;--panelw-l:min(300px,46vw)!important;--panelw-r:min(300px,46vw)!important}
+  #top{padding:2px 8px!important}
+  #top .chain5,#top .mq,#top .brand .eq,#top .stat,#foot .foot2,#top .hud .btn kbd{display:none!important}
+  #top .brand{max-width:none!important;flex:1 1 auto!important;min-width:0!important}
+  #top .brand h1{font-size:15px!important}
+  #top .home{font-size:0!important;padding:0 6px!important;gap:0!important}
+  #top .hud{gap:4px!important;flex:0 0 auto!important}
+  #top .hud .btn{font-size:0!important;gap:0!important;padding:0 7px!important;min-width:30px}
+  #top .hud .btn .ico{display:inline-block!important}
+  #steps{overflow-x:auto!important;scrollbar-width:none;padding:0 6px!important}
+  #steps .sb,#steps .chip .nm{display:none!important}
+  #steps .chip{flex:0 0 auto!important;min-width:40px}
+  #foot .nav .btn{min-height:34px}
+  .tab{display:none!important}
+  #labels .lab{font-size:11px!important}
+  #ns-dock{display:flex;position:fixed;left:50%;transform:translateX(-50%);bottom:calc(var(--foot-h) + 12px);z-index:21;
+    gap:2px;padding:3px;border-radius:999px;background:var(--glass-bar,rgba(255,255,255,.9));border:var(--glass-edge,1px solid #dde5eb);
+    box-shadow:var(--shadow-2,0 4px 14px rgba(0,0,0,.12));backdrop-filter:blur(10px);-webkit-backdrop-filter:blur(10px)}
+  #ns-dock button{border:0;background:none;color:var(--ink2,#53636f);font:600 13px/1 system-ui,sans-serif;padding:9px 14px;border-radius:999px;min-height:36px;white-space:nowrap;cursor:pointer}
+  #ns-dock button.on{background:var(--grad,#1f6fd1);color:#fff}
+}
+@media (max-width:760px){
+  #left,#right{top:auto!important;left:6px!important;right:6px!important;width:auto!important;
+    bottom:calc(var(--foot-h) + 60px)!important;height:min(40vh,380px)!important;max-height:none!important}
+  #left.collapsed,#right.collapsed{transform:translateY(calc(100% + 120px))!important;opacity:0;pointer-events:none}
+  #eqb{top:calc(var(--top-h) + var(--steps-h) + 14px)!important;left:6px!important;right:auto!important;max-width:min(300px,70vw)!important;transform:scale(.78)!important;transform-origin:top left!important}
+}
+@media (max-height:500px) and (pointer:coarse) and (min-width:761px){
+  #left.collapsed{transform:translateX(calc(-100% - 20px))!important}
+  #right.collapsed{transform:translateX(calc(100% + 20px))!important}
+}

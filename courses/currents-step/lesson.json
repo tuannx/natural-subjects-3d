@@ -1,0 +1,27 @@
+{
+  "slug": "currents-step",
+  "order": 100,
+  "level": "high-school",
+  "ages": "15-18",
+  "subject": "geo",
+  "title": "World Ocean Currents: Patterns and Effects",
+  "type": "Principles & Phenomena",
+  "question": "Tens of thousands of toy ducks were scattered across the sea. Why did they drift to coasts all over the world?",
+  "textbook": [
+    "Elective Vol. 1 Fundamentals of Physical Geography · Ch. 4 Movement of Water · Sec. 2 Ocean Currents",
+    "Required Vol. 1 · Ch. 3 Water on Earth · Sec. 3 Movement of Seawater"
+  ],
+  "steps": [
+    "Wind pushes water",
+    "Low–mid latitude gyres",
+    "Mid–high latitudes reverse",
+    "Warm and cold currents",
+    "No loop, or reversing",
+    "Seawater properties",
+    "Climate effects",
+    "Fisheries",
+    "Test · Four stops"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/currents-step/"
+}

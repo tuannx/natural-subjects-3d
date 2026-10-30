@@ -1,0 +1,26 @@
+{
+  "slug": "ammonia-step",
+  "order": 270,
+  "level": "high-school",
+  "ages": "15-18",
+  "subject": "chem",
+  "title": "Preparation and Properties of Ammonia (Fountain Experiment)",
+  "type": "Principles & Phenomena",
+  "question": "How can a flask of ammonia gas “suck” the water from a beaker up into the flask all by itself?",
+  "textbook": [
+    "Required Vol. 2 · Ch. 5 Important Nonmetallic Elements in Chemical Production · Sec. 2 Nitrogen and Its Compounds · Ammonia and Ammonium Salts"
+  ],
+  "steps": [
+    "Full setup",
+    "Tube mouth direction",
+    "Choose a drying agent",
+    "How to collect",
+    "How long to collect",
+    "Full check and white smoke",
+    "Make the fountain",
+    "Look inside",
+    "Test · Make the fountain"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/ammonia-step/"
+}

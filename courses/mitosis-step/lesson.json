@@ -1,0 +1,26 @@
+{
+  "slug": "mitosis-step",
+  "order": 430,
+  "level": "high-school",
+  "ages": "15-18",
+  "subject": "bio",
+  "title": "Observing Mitosis in Root-Tip Meristem Cells",
+  "type": "Principles & Phenomena",
+  "question": "On an onion root tip, which cells are dividing? How long does each stage of one division take?",
+  "textbook": [
+    "Required Vol. 1 Molecules and Cells · Ch. 6 The Life of a Cell · Sec. 1 Cell Proliferation · Inquiry: Observing Mitosis in Root-Tip Meristem Cells"
+  ],
+  "steps": [
+    "Slide Prep",
+    "Find the Meristem",
+    "Prophase",
+    "Metaphase",
+    "Anaphase",
+    "Telophase",
+    "Count",
+    "Duration",
+    "Test"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/mitosis-step/"
+}

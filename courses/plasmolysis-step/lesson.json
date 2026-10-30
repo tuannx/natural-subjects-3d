@@ -1,0 +1,25 @@
+{
+  "slug": "plasmolysis-step",
+  "order": 250,
+  "level": "high-school",
+  "ages": "15-18",
+  "subject": "bio",
+  "title": "Water Uptake and Loss in Plant Cells",
+  "type": "Principles & Phenomena",
+  "question": "Leafy greens turn crisp in plain water and weep water when salted. How do plant cells take up and lose water?",
+  "textbook": [
+    "Required Vol. 1 Molecules and Cells · Ch. 4 Transport Into and Out of Cells · Sec. 1 Passive Transport · Inquiry: Water Uptake and Loss in Plant Cells"
+  ],
+  "steps": [
+    "Osmosis",
+    "Protoplast layer",
+    "Water loss",
+    "Where water goes",
+    "Recovery",
+    "Glycerol",
+    "Measure concentration",
+    "Test"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/plasmolysis-step/"
+}

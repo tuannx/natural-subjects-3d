@@ -1,0 +1,12 @@
+{
+  "name": "natural-subjects-3d-media",
+  "private": true,
+  "type": "module",
+  "description": "One-off media helpers (cover thumbnails). Not needed to build the site.",
+  "scripts": {
+    "thumbs": "node thumbs.mjs ../../courses"
+  },
+  "dependencies": {
+    "sharp": "0.34.4"
+  }
+}

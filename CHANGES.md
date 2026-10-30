@@ -10,4 +10,8 @@ This repository adapts [Tongjiang Lab](https://lab.tongjiang.app) (CC BY-NC 4.0,
 - Added a home page, a build script, Cloudflare Workers config and a manual deploy workflow.
 - Added the translation tooling and dictionary under `tools/i18n/`.
 
-The 3D scenes, simulations, data and cover images are unchanged.
+- Moved each lesson into its own folder (`courses/<slug>/`) with its cover and a `lesson.json` catalog entry.
+- Added a small script to each lesson at build time: phone layout (one panel at a time as a bottom sheet), a lower render resolution on phones and slow devices, and camera framing for the bottom sheet.
+- Added 480 px cover thumbnails.
+
+The 3D scenes, simulations, data and cover images are unchanged. The primary school lessons are new and not part of Tongjiang Lab.

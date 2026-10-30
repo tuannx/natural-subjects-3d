@@ -1,0 +1,57 @@
+{
+  "slug": "float-sink",
+  "order": 5,
+  "level": "primary",
+  "ages": "6-9",
+  "subject": "phys",
+  "title": "Will It Float or Sink?",
+  "type": "Forces",
+  "question": "Why does a big log float when a tiny coin sinks?",
+  "steps": ["Float or sink?", "Heavy or light?", "Heavy for its size", "Water pushes up", "Shape matters", "Test them all"],
+  "content": {
+    "steps": [
+      {
+        "title": "Float or sink?",
+        "text": "Here is a glass tank full of water. Some things stay at the top of the water. We say they float. Other things go down to the bottom. We say they sink.",
+        "try": "Drop the wooden block and the rock into the water.",
+        "see": "The wooden block bobs up and down, then floats. The rock goes all the way to the bottom."
+      },
+      {
+        "title": "Heavy or light?",
+        "text": "Many people think heavy things sink and light things float. Let's test that. The log is much heavier than the coin. Which one will sink?",
+        "try": "Guess first. Then drop the big log and the small coin.",
+        "see": "The heavy log floats and the light coin sinks! So it is not just about heavy or light."
+      },
+      {
+        "title": "Heavy for its size",
+        "text": "What matters is how heavy something is for its size. Put the thing on one side of a balance. Put the same amount of water, in the same shape, on the other side. If the thing is heavier than its own size of water, it sinks. If it is lighter, it floats. Scientists call this idea density.",
+        "try": "Tap each object to put it on the balance next to its own size of water.",
+        "see": "Wood, apple and the plastic ball are lighter than the same amount of water, so they float. Rock and metal are heavier, so they sink."
+      },
+      {
+        "title": "Water pushes up",
+        "text": "Water pushes up on anything you put in it. When you push a ball into water, the ball pushes water out of the way. The more water it pushes aside, the harder the water pushes back up.",
+        "try": "Use the slider to push the ball down into the water. Then press Let go.",
+        "see": "The deeper the ball goes, the bigger the push from the water. When you let go, the ball shoots back up and floats again."
+      },
+      {
+        "title": "Shape matters",
+        "text": "Here are two pieces of clay that weigh exactly the same. One is rolled into a ball. The other is pressed into a boat shape with thin sides. The boat is hollow and full of air, so it pushes aside much more water. That bigger push from the water holds the boat up. This is how big metal ships float.",
+        "try": "Drop the clay ball, then drop the clay boat.",
+        "see": "The clay ball sinks, but the same clay shaped like a boat floats."
+      },
+      {
+        "title": "Test them all",
+        "text": "Now you are the scientist. For each object, guess first: will it float or sink? Then drop it in and see if you were right.",
+        "try": "Say your guess out loud, then tap an object to drop it in. Tap Empty the tank to start again.",
+        "see": "Things that float sit at different heights. The lighter something is for its size, the higher it floats."
+      }
+    ],
+    "quiz": [
+      { "q": "A big log floats, but a tiny coin sinks. Why?", "options": ["Small things always sink", "The coin is heavy for its size, but the log is light for its size", "The coin is colder than the log"], "answer": 1, "why": "Floating is not about heavy or light. A metal coin is heavier than the same amount of water, but wood is lighter than the same amount of water." },
+      { "q": "How can you make a ball of clay float?", "options": ["Press it into a hollow boat shape", "Paint it a bright color", "Roll it into a smaller ball"], "answer": 0, "why": "A hollow boat shape pushes aside much more water, so the water pushes up harder and holds it up." },
+      { "q": "What pushes up on a toy duck floating in the bath?", "options": ["The air", "The water", "Nothing at all"], "answer": 1, "why": "Water pushes up on things in it. For a floating duck, the push from the water is as big as the duck's weight." }
+    ]
+  },
+  "source": "original"
+}

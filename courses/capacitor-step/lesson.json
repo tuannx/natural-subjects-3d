@@ -1,0 +1,26 @@
+{
+  "slug": "capacitor-step",
+  "order": 210,
+  "level": "high-school",
+  "ages": "15-18",
+  "subject": "phys",
+  "title": "Observing Capacitor Charging and Discharging",
+  "type": "Principles & Experiment",
+  "question": "What exactly is stored in a capacitor? Can one number measure how much it can “hold”?",
+  "textbook": [
+    "Required Vol. 3 · Ch. 10 Energy in Electrostatic Fields · Sec. 4 Capacitance · Required Student Experiment: Observing Capacitor Charging and Discharging"
+  ],
+  "steps": [
+    "Know the Equipment",
+    "To 1: Charge",
+    "To 2: Discharge",
+    "Area gives charge",
+    "Two wirings",
+    "Record q-u",
+    "Change C, change R",
+    "Real equipment",
+    "Test"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/capacitor-step/"
+}

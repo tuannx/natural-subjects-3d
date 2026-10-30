@@ -1,16 +1,25 @@
-// Builds the static site into dist/: home page, lessons at /<slug>, covers, catalog.
+// Builds the static site into dist/: home page, every lesson at /<slug>/, catalog.json, cache headers.
 import { readFileSync, writeFileSync, mkdirSync, rmSync, cpSync, readdirSync } from 'node:fs';
 import { renderIndex } from './index-page.mjs';
+import { loadLessons, publicEntry } from './lib/catalog.mjs';
+import { injectBundleRuntime } from './lib/runtime.mjs';
+import { buildPrimary } from './lib/primary.mjs';
 
 const root = new URL('..', import.meta.url).pathname;
-const dist = root + 'dist/';
-const catalog = JSON.parse(readFileSync(root + 'catalog.json', 'utf8'));
+const dist = (process.env.OUT || root + 'dist').replace(/\/?$/, '/'); // OUT=<dir> builds elsewhere
+const lessons = loadLessons(root + 'courses/', process.env.LESSONS?.split(','));
 
 rmSync(dist, { recursive: true, force: true });
 mkdirSync(dist);
-for (const f of readdirSync(root + 'courses').filter(f => f.endsWith('.html'))) cpSync(root + 'courses/' + f, dist + f);
-cpSync(root + 'covers', dist + 'covers', { recursive: true });
-cpSync(root + 'catalog.json', dist + 'catalog.json');
+for (const l of lessons) {
+  const out = dist + l.slug + '/';
+  mkdirSync(out, { recursive: true });
+  for (const f of readdirSync(l.dir).filter(f => /\.(webp|png|jpg)$/.test(f))) cpSync(l.dir + f, out + f);
+  if (l.kind === 'bundle') writeFileSync(out + 'index.html', injectBundleRuntime(readFileSync(l.dir + 'index.html', 'utf8')));
+}
+await buildPrimary(lessons.filter(l => l.kind === 'primary'), root, dist);
+writeFileSync(dist + 'catalog.json', JSON.stringify(lessons.map(publicEntry), null, 1));
 cpSync(root + 'site/site.css', dist + 'site.css');
-writeFileSync(dist + 'index.html', renderIndex(catalog));
-console.log(`built ${catalog.length} lessons into dist/`);
+cpSync(root + 'site/_headers', dist + '_headers');
+writeFileSync(dist + 'index.html', renderIndex(lessons));
+console.log(`built ${lessons.length} lessons into dist/`);

@@ -1,0 +1,24 @@
+{
+  "slug": "enso-step",
+  "order": 110,
+  "level": "high-school",
+  "ages": "15-18",
+  "subject": "geo",
+  "title": "Ocean–Atmosphere Interaction: El Niño and La Niña",
+  "type": "Principles & Phenomena",
+  "question": "The Peruvian coast is dry year-round — so why, when the sea warmed in late 2016, did torrential rain fall and kill nearly a hundred people?",
+  "textbook": [
+    "Elective Vol. 1 Fundamentals of Physical Geography · Ch. 4 Movement of Water · Sec. 3 Ocean–Atmosphere Interaction"
+  ],
+  "steps": [
+    "Exchange",
+    "Gap",
+    "Circulation",
+    "El Niño",
+    "Over the line",
+    "La Niña",
+    "Test"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/enso-step/"
+}

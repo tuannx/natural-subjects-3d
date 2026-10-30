@@ -1,0 +1,25 @@
+{
+  "slug": "smelting-step",
+  "order": 90,
+  "level": "high-school",
+  "ages": "15-18",
+  "subject": "chem",
+  "title": "Metal Smelting: Molten-Salt Electrolysis and the Thermite Reaction",
+  "type": "Industrial Process",
+  "question": "Why can aluminum only be “split out” by electricity, while iron can be “swapped out” by aluminum?",
+  "textbook": [
+    "Required Vol. 2 · Ch. 8 Chemistry and Sustainable Development · Sec. 1 Developing and Using Natural Resources · Metal Ores"
+  ],
+  "steps": [
+    "Three Benches",
+    "Only Electrolysis",
+    "Cutaway cell",
+    "Who Goes Where",
+    "Add Cryolite",
+    "The Power Bill",
+    "Thermite",
+    "On-Duty Test"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/smelting-step/"
+}

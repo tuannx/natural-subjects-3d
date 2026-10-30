@@ -1,0 +1,92 @@
+{
+  "slug": "plant-needs",
+  "order": 7,
+  "level": "primary",
+  "ages": "6-9",
+  "subject": "bio",
+  "title": "What Do Plants Need to Grow?",
+  "type": "Living Things",
+  "question": "Why do some plants grow tall and green while others droop and turn yellow?",
+  "steps": [
+    "A seed wakes up",
+    "Parts of a plant",
+    "Leaves need light",
+    "Water: not too little, not too much",
+    "Plants turn to the light",
+    "From seed to flower"
+  ],
+  "content": {
+    "steps": [
+      {
+        "title": "A seed wakes up",
+        "text": "A seed is a baby plant with a packed lunch. The food inside the seed helps it start to grow. Most seeds do not need light to wake up. They need water and warmth. First a root grows down. Then a little shoot pushes up into the air.",
+        "try": "Switch off the water or the warmth, then press Plant a new seed. What happens?",
+        "see": "The seed only sprouts when the soil is wet and warm. The root always comes out first, and it grows down."
+      },
+      {
+        "title": "Parts of a plant",
+        "text": "Each part of a plant has a job. Roots hold the plant in the soil and drink up water. The stem holds the plant up and carries water from the roots to the leaves. The leaves make food for the whole plant.",
+        "try": "Tap each part to see its job. Watch the blue drops of water travel up.",
+        "see": "Water goes in at the roots, up through the stem and out to the leaves."
+      },
+      {
+        "title": "Leaves need light",
+        "text": "Leaves are little food factories. They use sunlight, air and water to make sugar, which is food for the plant. Without light a plant cannot make food. A plant kept in the dark grows pale, thin and too tall, as if it is stretching to find light.",
+        "try": "The plant has been in the dark. Slide the sunlight up to bright, then back down to dark.",
+        "see": "In the dark the plant is pale yellow, with a thin, stretched stem and small leaves. In bright light it turns green and strong."
+      },
+      {
+        "title": "Water: not too little, not too much",
+        "text": "A plant needs water, but the right amount. With too little water the plant goes floppy and droops. This is called wilting. With far too much water the roots sit in a puddle and cannot get the air they need, so the leaves turn yellow.",
+        "try": "The soil is very dry. Move the water slider from dry to soaking wet and watch the leaves.",
+        "see": "Dry soil makes the plant wilt. Soggy soil makes the leaves yellow and droopy. In between, the plant stands up green and happy."
+      },
+      {
+        "title": "Plants turn to the light",
+        "text": "Here the room is dark and one lamp shines from the side. The side of the stem in the shade grows a little faster than the sunny side. That makes the stem bend toward the lamp. In real life this takes a few days.",
+        "try": "Move the lamp to the left, to the top and to the right.",
+        "see": "The stem always bends toward the lamp, so the leaves can catch more light."
+      },
+      {
+        "title": "From seed to flower",
+        "text": "With enough light, water and warmth, a plant grows bigger and bigger. In the end it makes a flower. Flowers help the plant make new seeds, and the new seeds can grow into new plants.",
+        "try": "Press Grow again and watch. Then try growing it in the cold or with no water.",
+        "see": "The plant only grows tall and makes a flower when it has light, water and warmth all together."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Which part of a plant takes in water from the soil?",
+        "options": [
+          "The leaves",
+          "The roots",
+          "The flower"
+        ],
+        "answer": 1,
+        "why": "Roots reach down into the soil and drink up water. They also hold the plant in place."
+      },
+      {
+        "q": "A plant was left in a dark cupboard for two weeks. What does it look like?",
+        "options": [
+          "Green and strong",
+          "Pale, thin and stretched",
+          "Covered in flowers"
+        ],
+        "answer": 1,
+        "why": "Without light the leaves cannot make food, so the plant grows pale and weak, stretching to find light."
+      },
+      {
+        "q": "What do leaves use to make food for the plant?",
+        "options": [
+          "Sunlight, air and water",
+          "Only soil",
+          "Only rain"
+        ],
+        "answer": 0,
+        "why": "Leaves catch sunlight and use it to turn air and water into sugar, the plant's food."
+      }
+    ]
+  },
+  "source": "original",
+  "coverStep": 1
+}
