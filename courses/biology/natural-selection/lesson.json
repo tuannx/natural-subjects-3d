@@ -1,0 +1,65 @@
+{
+  "slug": "natural-selection",
+  "order": 42,
+  "level": "middle",
+  "ages": "14-15",
+  "grades": [9, 9],
+  "title": "Natural Selection and Evolution",
+  "type": "Evolution",
+  "coverStep": 1,
+  "question": "How can a population of living things change over many generations?",
+  "steps": ["Variation in a population", "Easy to see, easy to eat", "The peppered moth over many generations", "How natural selection works", "Antibiotic resistance", "Evidence: fossils in rock layers", "Evidence: similar limb bones"],
+  "content": {
+    "steps": [
+      {
+        "title": "Variation in a population",
+        "text": "A population is a group of living things of the same species that live in the same place. Its members are not all identical: there is variation between them. Here are peppered moths, which rest on trees during the day. Most are light with dark speckles, some are almost black, and some are in between. A peppered moth's wing colour is set by its genes, so it can be passed on to its offspring. New variations first appear through mutations, changes in the DNA.",
+        "try": "Turn on Line them up by colour.",
+        "see": "The moths leave the bark and line up in three groups: light, medium and dark. All three colours are found in this one population."
+      },
+      {
+        "title": "Easy to see, easy to eat",
+        "text": "Birds hunt moths by sight. A moth that matches its background is camouflaged, so it is more likely to survive. A moth that stands out is more likely to be eaten. Which moths stand out depends on the bark. Clean bark covered with pale lichens hides light moths. Bark blackened by soot from burning coal hides dark moths.",
+        "try": "Choose Light bark or Sooty bark, then tap Birds hunt. Tap Reset moths to start again.",
+        "see": "On light bark the bird finds and eats the dark moths first. On sooty bark it eats the light ones first. The readout counts how many of each colour survive."
+      },
+      {
+        "title": "The peppered moth over many generations",
+        "text": "In Britain in the 1800s, smoke from burning coal killed lichens and blackened tree bark near industrial cities. A dark peppered moth was first recorded near Manchester in 1848, and by 1895 about 98% of the peppered moths there were dark. Birds ate more of the light moths, so dark moths more often survived to breed and passed on the gene for dark wings. After the Clean Air Act of 1956 the air and the bark became cleaner, and light moths became common again. The chart is a model: in each generation, the easily seen moths are a little less likely to survive. Peppered moths have one generation a year.",
+        "try": "Tap Sooty bark (1800s) or Clean bark (after 1956), then move the Generations slider.",
+        "see": "On sooty bark the dark bar grows from 2% to about 93% in 50 generations, and the moths on the bark turn dark. On clean bark the change runs the other way, and the light bar grows back."
+      },
+      {
+        "title": "How natural selection works",
+        "text": "Charles Darwin and Alfred Russel Wallace explained how populations change, in 1858. Natural selection needs four things. 1 Variation: members of a population differ in traits that can be inherited. 2 Overproduction: living things produce more offspring than can survive. 3 Selection: they compete for food and mates and face predators, and those with helpful traits are more likely to survive and reproduce. 4 Inheritance: the survivors pass their helpful traits on to their offspring. Over many generations the helpful trait becomes more common. This change in a population over time is evolution.",
+        "try": "Tap 1 Variation, 2 Overproduction, 3 Selection and 4 Inheritance, then All four.",
+        "see": "On dark bark, the parents vary in colour, they have many young, birds take most of the light ones (shown faded), and the survivors' young are mostly dark."
+      },
+      {
+        "title": "Antibiotic resistance",
+        "text": "Natural selection is happening today. Antibiotics are medicines that kill bacteria. By chance, a few bacteria in a population may carry a mutation that lets them survive an antibiotic: they are resistant. When the antibiotic is used, the others die, but the resistant ones live and multiply. Some bacteria can divide every 20 minutes, so a few survivors can soon become a whole population that the medicine cannot kill. This is why antibiotics should be used only when a doctor prescribes them. They do not work against viruses, such as those that cause colds.",
+        "try": "Move the Stage slider from 0 to 3.",
+        "see": "At the start, 3 of the 100 bacteria (orange) are resistant. The antibiotic kills the rest, the 3 survivors double 5 times to 96, and the second dose kills none of them."
+      },
+      {
+        "title": "Evidence: fossils in rock layers",
+        "text": "Fossils are the remains or traces of living things preserved in rock. Sedimentary rock builds up in layers, with newer layers on top, so in rock that has not been disturbed the deeper layers are older. In many places the oldest layers hold early sea animals such as trilobites and shelled animals, and higher layers hold fish, then reptiles, then mammals. The fossil record shows that life on Earth has changed over very long periods of time.",
+        "try": "Move the Rock layer slider from the top layer down to the bottom.",
+        "see": "Each layer slides out to show its fossils: mammal bones at the top, then reptile bones, then fish, and trilobites and coiled shells in the bottom layer, the oldest."
+      },
+      {
+        "title": "Evidence: similar limb bones",
+        "text": "A human arm, a cat's front leg, a whale's flipper and a bat's wing do very different jobs, but they have the same bones in the same order: one upper arm bone (the humerus), two forearm bones (the radius and the ulna), a group of wrist bones, and finger bones. Body parts that share the same basic plan are called homologous structures. They suggest that these animals evolved from a common ancestor, and that over many generations the bones changed shape for grasping, walking, swimming or flying.",
+        "try": "Tap Humerus, Radius and ulna, Wrist bones and Finger bones.",
+        "see": "The chosen bones glow in all four limbs at once. The bat's finger bones are very long and hold up the wing, and the whale's are short and wide inside a paddle."
+      }
+    ],
+    "quiz": [
+      { "q": "Why did dark peppered moths become common near industrial cities in the 1800s?", "options": ["Soot darkened the bark, so birds found and ate fewer dark moths", "The soot painted the moths black", "The moths chose to change colour to hide", "Dark moths were brought in from other countries"], "answer": 0, "why": "On sooty bark dark moths were camouflaged. Birds ate more light moths, so more dark moths survived to breed and pass on the gene for dark wings." },
+      { "q": "Which of these is needed for natural selection to happen?", "options": ["Variation in a trait that can be passed on to offspring", "Every member of the population being exactly the same", "Animals wanting to change", "Changes during an animal's life, like a scar"], "answer": 0, "why": "Selection can only change a population if its members differ in a trait and that trait is inherited. A scar is not passed on to offspring." },
+      { "q": "Why do bacteria become resistant when an antibiotic is used a lot?", "options": ["The antibiotic kills most of them, but resistant ones survive and multiply", "The antibiotic teaches the bacteria to resist it", "The antibiotic makes the bacteria mutate on purpose", "The bacteria grow bigger and tougher"], "answer": 0, "why": "A few bacteria already carry a resistance mutation by chance. The antibiotic kills the others, so the resistant ones survive, multiply and take over." },
+      { "q": "A human arm, a whale's flipper and a bat's wing have the same set of bones. What does this suggest?", "options": ["They share a common ancestor", "They all do the same job", "They all live in water", "Their bones are made of different materials"], "answer": 0, "why": "These homologous structures have the same basic plan even though they do different jobs. The best explanation is that the animals evolved from a common ancestor." }
+    ]
+  },
+  "source": "original"
+}
