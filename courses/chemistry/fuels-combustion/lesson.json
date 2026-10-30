@@ -1,0 +1,65 @@
+{
+  "slug": "fuels-combustion",
+  "order": 61,
+  "level": "middle",
+  "ages": "14-15",
+  "grades": [9, 9],
+  "title": "Fuels and Hydrocarbons: Burning and Energy",
+  "type": "Reactions",
+  "question": "What is in the gas for a stove, and how much energy does it give when it burns?",
+  "coverStep": 5,
+  "steps": ["Hydrocarbons", "Complete combustion", "Not enough oxygen", "Measuring the energy", "Fossil fuels", "Fractional distillation of crude oil", "Fuels and the environment"],
+  "content": {
+    "steps": [
+      {
+        "title": "Hydrocarbons",
+        "text": "Most fuels we burn, like natural gas, petrol and diesel, are made of hydrocarbons: compounds whose molecules contain only carbon and hydrogen atoms. The simplest family of hydrocarbons is the alkanes. Each carbon atom makes four bonds and each hydrogen atom makes one, so an alkane with n carbon atoms has 2n + 2 hydrogen atoms. Its general formula is CₙH₂ₙ₊₂. Methane, CH₄, is the main gas in natural gas. Propane, C₃H₈, and butane, C₄H₁₀, are the bottled gases used in camping stoves and lighters.",
+        "try": "Move the Carbon atoms slider from 1 to 4.",
+        "see": "Each extra carbon atom adds one CH₂ unit to the chain: CH₄, C₂H₆, C₃H₈, C₄H₁₀. The black carbon atoms join in a zigzag chain, and every carbon atom has four bonds."
+      },
+      {
+        "title": "Complete combustion",
+        "text": "Combustion is burning: a fuel reacts quickly with oxygen and gives out energy as heat and light. When there is plenty of oxygen, a hydrocarbon burns completely to carbon dioxide and water: CH₄ + 2O₂ → CO₂ + 2H₂O. As in the Chemical Reactions lesson, the bonds in the molecules break and the atoms join up in new ways; no atoms are made or lost. Combustion is exothermic: it releases energy, which is why we use fuels.",
+        "try": "Move the Reaction progress slider from 0% to 100% and follow each atom.",
+        "see": "One methane molecule and two oxygen molecules break apart. The carbon atom joins two oxygen atoms to make carbon dioxide, and the four hydrogen atoms join the other two oxygen atoms to make two water molecules. The count stays 1 C, 4 H and 4 O, and a glow shows the energy given out."
+      },
+      {
+        "title": "Not enough oxygen",
+        "text": "A Bunsen burner burns methane. A collar at the bottom opens or closes an air hole that lets air mix with the gas. With the hole open there is plenty of oxygen: the flame is blue, hot and clean, and the fuel burns completely. With the hole closed there is not enough oxygen, so combustion is incomplete. The flame is yellow and sooty, and it makes carbon (soot) and carbon monoxide as well as water, for example 2CH₄ + 3O₂ → 2CO + 4H₂O. Carbon monoxide is a toxic gas with no colour or smell: it stops the blood carrying oxygen. That is why gas heaters need a good air supply and homes have carbon monoxide alarms.",
+        "try": "Move the Air hole slider from open to closed and back.",
+        "see": "With the air hole open the flame is small, blue and steady. As the hole closes, the flame grows tall, yellow and flickering, black soot rises from it, and soot collects on the white dish above."
+      },
+      {
+        "title": "Measuring the energy",
+        "text": "We can measure the energy from a fuel by using it to heat water. The energy Q taken in by the water is Q = m·c·ΔT. Here m is the mass of water in kg, c is the specific heat capacity of water, 4200 J/(kg·°C), which is the energy needed to warm 1 kg of water by 1 °C, and ΔT is the rise in temperature. Burning 1 g of butane releases about 49.5 kJ (49 500 J). In this model only about 40% of that reaches the water; the rest warms the can and the air around it.",
+        "try": "Move the Butane burned slider, then change the Water mass slider.",
+        "see": "The balance shows the burner getting lighter as butane burns, and the thermometer rises. Burning twice as much butane gives twice the temperature rise. With more water, the same energy gives a smaller rise, and Q stays the same."
+      },
+      {
+        "title": "Fossil fuels",
+        "text": "Coal, crude oil and natural gas are fossil fuels: they formed from living things that died long ago. Much of the world's coal formed from plants in swamps about 300 million years ago. The dead plants were buried under layers of mud and sand, and heat and pressure slowly turned them into coal. Oil and natural gas formed from tiny sea organisms buried in mud on the sea bed. They moved up through the rock until a layer they could not pass through trapped them. Fossil fuels take millions of years to form, so they are non-renewable: once used, they are gone.",
+        "try": "Move the Time slider from 0 to 300 million years.",
+        "see": "New layers of rock pile up on the swamp and the sea bed. The plant layer is squeezed thin and turns black: coal. Dark oil with gas above it collects under a rock layer it cannot pass through. At the end a drilling rig stands above the oil."
+      },
+      {
+        "title": "Fractional distillation of crude oil",
+        "text": "Crude oil is a mixture of many hydrocarbons with chains of different lengths. Fractional distillation separates it into fractions: groups of hydrocarbons with similar boiling points. The crude oil is heated until most of it turns to vapour, which enters a tall column that is hot at the bottom and cool at the top. As the vapour rises it cools, and each fraction condenses back to a liquid at the height where it is cool enough. Small molecules have low boiling points, so they rise highest; big molecules condense near the bottom.",
+        "try": "Move the Height in the column slider from the bottom to the top.",
+        "see": "The temperature readout falls as the ring moves up. Thick bitumen and fuel oil come out near the bottom, then diesel, kerosene and petrol higher up, and refinery gases leave from the very top."
+      },
+      {
+        "title": "Fuels and the environment",
+        "text": "Burning fossil fuels releases carbon dioxide, a greenhouse gas that traps heat in the atmosphere and adds to global warming. For the same energy, coal gives the most carbon dioxide and natural gas the least. Many fuels, especially coal, also contain sulfur, which burns to sulfur dioxide (SO₂). Sulfur dioxide dissolves in rain water and makes acid rain, which harms trees, lakes and stone buildings. Cleaner choices include removing sulfur from fuels and smoke, switching from coal to natural gas, using energy more efficiently, and using renewable energy such as sunlight and wind.",
+        "try": "Tap Coal, Oil and Natural gas, then turn on Remove the sulfur.",
+        "see": "Coal gives the darkest smoke, the tallest carbon dioxide bar and acid rain that turns the trees brown. Natural gas has the shortest bar and almost no sulfur dioxide. Removing the sulfur stops the acid rain, but the carbon dioxide bar stays the same."
+      }
+    ],
+    "quiz": [
+      { "q": "What is the general formula of the alkanes?", "options": ["CₙHₙ", "CₙH₂ₙ", "CₙH₂ₙ₊₂", "CₙH₄ₙ"], "answer": 2, "why": "Each carbon atom makes four bonds and each hydrogen atom makes one, so an alkane with n carbon atoms has 2n + 2 hydrogen atoms: CH₄, C₂H₆, C₃H₈, C₄H₁₀." },
+      { "q": "A Bunsen burner flame is yellow and sooty. What does this tell you?", "options": ["The gas is burning completely", "There is not enough oxygen, so combustion is incomplete", "The flame is hotter than a blue flame", "The gas has run out"], "answer": 1, "why": "A yellow, sooty flame means incomplete combustion: there is too little oxygen, so soot and toxic carbon monoxide form. Opening the air hole gives a hot, clean, blue flame." },
+      { "q": "0.20 kg of water warms up by 10 °C. How much energy did it take in? (c = 4200 J/(kg·°C))", "options": ["840 J", "2100 J", "8400 J", "42 000 J"], "answer": 2, "why": "Q = m·c·ΔT = 0.20 kg × 4200 J/(kg·°C) × 10 °C = 8400 J." },
+      { "q": "Why do refinery gases leave from the top of the fractionating column?", "options": ["They have the biggest molecules", "Their boiling points are so low that they stay as gases even at the cool top", "The top of the column is the hottest part", "They are pumped in at the top"], "answer": 1, "why": "Small molecules have low boiling points. Refinery gases do not condense anywhere in the column, so they rise all the way to the top, which is the coolest part." }
+    ]
+  },
+  "source": "original"
+}

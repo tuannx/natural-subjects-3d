@@ -1,0 +1,71 @@
+{
+  "slug": "metals-reactivity",
+  "order": 60,
+  "level": "middle",
+  "ages": "14-15",
+  "grades": [9, 9],
+  "title": "Metals and the Reactivity Series",
+  "type": "Reactions",
+  "question": "Why does sodium fizz on water while gold stays shiny for thousands of years?",
+  "coverStep": 1,
+  "steps": ["What makes a metal a metal?", "Metals and water", "Metals and dilute acid", "Displacement: swapping places", "The reactivity series", "Getting metals out of rocks", "Why iron rusts", "Stopping rust"],
+  "content": {
+    "steps": [
+      {
+        "title": "What makes a metal a metal?",
+        "text": "Most elements are metals, and metals share a set of physical properties. A fresh or polished metal surface is shiny: this shine is called lustre. Metals are good conductors: electricity and heat pass through them easily. They are malleable, which means they can be hammered into thin sheets without breaking, and ductile, which means they can be pulled out into long wires. That is why electric wires are made of copper and cooking pans are made of metal.",
+        "try": "Press Test conductivity, Heat the rod, Hammer it and Pull into a wire.",
+        "see": "The bulb lights when the copper strip closes the gap. Heat travels along the copper rod, and the wax beads melt and drop off one by one, nearest the flame first. The gold lump flattens into a thin sheet, and the short copper rod stretches into a long thin wire."
+      },
+      {
+        "title": "Metals and water",
+        "text": "Metals do not all react in the same way. Sodium reacts strongly with cold water: it fizzes, melts into a silvery ball and skates across the surface, making hydrogen gas and sodium hydroxide: 2Na + 2H₂O → 2NaOH + H₂. Sodium hydroxide is an alkali, so a few drops of phenolphthalein indicator in the water turn pink. Potassium reacts even more violently. Magnesium reacts only very slowly with cold water, and faster with hot water. Copper does not react with water at all. (Only a teacher handles sodium, and only a tiny piece.)",
+        "try": "Move the Water temperature slider and watch the magnesium. Press Add sodium to drop in a new piece.",
+        "see": "The sodium skates around fizzing and shrinks until it is gone, and the water turns pink. Magnesium gives only a few bubbles in cold water and more in hot water. Copper stays the same at every temperature."
+      },
+      {
+        "title": "Metals and dilute acid",
+        "text": "Many metals react with dilute acids to make a salt and hydrogen gas, as you saw with magnesium in the Acids and Bases lesson. For zinc and hydrochloric acid: Zn + 2HCl → ZnCl₂ + H₂. The more reactive the metal, the faster the bubbles come. Each test tube here holds the same dilute hydrochloric acid, and a balloon on top collects the hydrogen.",
+        "try": "Watch the four balloons, then press Start again to run the race again.",
+        "see": "Magnesium fizzes hard and its balloon grows fastest, zinc comes next, iron bubbles slowly, and copper gives no bubbles at all, so its balloon stays flat."
+      },
+      {
+        "title": "Displacement: swapping places",
+        "text": "Put an iron nail into blue copper sulfate solution. Iron is more reactive than copper, so it pushes the copper out of its compound and takes its place. This is a displacement reaction: Fe + CuSO₄ → FeSO₄ + Cu. Pink-brown copper coats the nail, and the blue colour fades as pale green iron(II) sulfate forms. A silver wire in the same solution does nothing, because silver is less reactive than copper.",
+        "try": "Move the Time passing slider from 0% to 100% and compare the two beakers.",
+        "see": "The part of the nail in the solution turns copper-coloured, copper bits collect at the bottom, and the blue fades to pale green. The silver wire and its solution do not change."
+      },
+      {
+        "title": "The reactivity series",
+        "text": "Putting metals in order from the most reactive to the least reactive gives the reactivity series: K, Na, Ca, Mg, Al, Zn, Fe, Pb, (H), Cu, Ag, Au. Hydrogen is not a metal, but it is a useful marker: metals above it react with dilute acids to give hydrogen, and metals below it do not. A metal displaces any metal below it from a solution of that metal's salt. Potassium, sodium and calcium are the exception: in a solution they react with the water first.",
+        "try": "Drag the Metal slider up and down the ladder, and tap a solution to compare.",
+        "see": "Whenever the blue Metal arrow is above the green Solution arrow, the readout predicts a displacement and gives the word equation. Below it, or level with it, nothing happens."
+      },
+      {
+        "title": "Getting metals out of rocks",
+        "text": "A metal's place in the series decides how we get it. Gold is so unreactive that it is found as the pure metal, called a native metal. Most metals are found in ores: rocks that contain metal compounds such as oxides. Carbon would sit between aluminium and zinc in the series. Metals below carbon, like iron, are extracted by heating the ore with carbon. In a blast furnace, carbon monoxide made from coke takes the oxygen away: Fe₂O₃ + 3CO → 2Fe + 3CO₂. Metals above carbon, like aluminium, hold on to oxygen too tightly, so they are extracted by electrolysis: passing electricity through the melted compound.",
+        "try": "Tap Gold, Iron and Aluminium to look at each method.",
+        "see": "The gold sits in the rock and in the pan as shiny metal. Glowing molten iron runs out of the bottom of the blast furnace. In the electrolysis cell, gas bubbles rise at the carbon blocks and molten aluminium collects at the bottom."
+      },
+      {
+        "title": "Why iron rusts",
+        "text": "Corrosion is a metal slowly reacting with substances around it. Rusting is the corrosion of iron: iron reacts with oxygen and water to make rust, a flaky orange-brown hydrated iron(III) oxide. Rust flakes off, so the fresh iron underneath keeps rusting. To find out what rusting needs, nails go into three tubes: one with water and air, one in boiled water under a layer of oil (boiling removes the dissolved air, and the oil stops more getting in), and one in air kept dry by calcium chloride.",
+        "try": "Move the Days slider from 0 to 7.",
+        "see": "Only the nail with both water and air turns orange-brown, and rust flakes collect under it. The nails with no air or no water stay grey, so rusting needs both water and oxygen."
+      },
+      {
+        "title": "Stopping rust",
+        "text": "To stop rust, keep water and oxygen away from the iron. Paint and a coat of oil or grease work as barriers, as long as they are not damaged. Galvanising coats iron with zinc. Zinc is more reactive than iron, so even where the coat is scratched, the zinc corrodes instead of the iron. This is called sacrificial protection.",
+        "try": "Move the Days in the rain slider, then turn on Scratch the coatings.",
+        "see": "The bare iron bar rusts, while the painted, oiled and galvanised bars stay clean. Once scratched, the painted bar rusts along the scratch, but the galvanised bar does not, because the zinc protects it."
+      }
+    ],
+    "quiz": [
+      { "q": "Which metal reacts most strongly with cold water?", "options": ["Copper", "Magnesium", "Sodium", "Gold"], "answer": 2, "why": "Sodium is near the top of the reactivity series. It fizzes and skates across cold water, making hydrogen and sodium hydroxide. Magnesium reacts only very slowly, and copper and gold do not react at all." },
+      { "q": "An iron nail is put into blue copper sulfate solution. What happens?", "options": ["Nothing, because iron is below copper", "Copper coats the nail and the blue colour fades", "The nail turns silver", "The nail dissolves and hydrogen bubbles off quickly"], "answer": 1, "why": "Iron is above copper in the series, so it displaces copper: Fe + CuSO₄ → FeSO₄ + Cu. Copper coats the nail and the solution turns from blue to pale green." },
+      { "q": "Why is aluminium extracted by electrolysis and not by heating its ore with carbon?", "options": ["Aluminium is above carbon in the series, so carbon cannot take the oxygen from it", "Aluminium is found as the pure metal", "Carbon would make the aluminium rust", "Electrolysis is always cheaper"], "answer": 0, "why": "Carbon can only take oxygen from metals below it, like iron. Aluminium is more reactive than carbon, so electricity is needed to split molten aluminium oxide." },
+      { "q": "In which tube does an iron nail rust?", "options": ["In air kept dry by calcium chloride", "In boiled water under a layer of oil", "In water with air", "In all three"], "answer": 2, "why": "Rusting needs both water and oxygen. Boiled water under oil has no air, and the dry tube has no water, so only the nail in water with air rusts." }
+    ]
+  },
+  "source": "original"
+}
