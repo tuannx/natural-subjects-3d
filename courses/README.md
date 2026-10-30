@@ -24,7 +24,7 @@ courses/
 
 A new lesson only touches its own folder (plus the subject's `README.md` and the map), so lessons for different subjects never conflict.
 
-## [Physics](physics/) (21)
+## [Physics](physics/) (24)
 
 ### Primary school (11)
 
@@ -40,6 +40,12 @@ A new lesson only touches its own folder (plus the subject's `README.md` and the
 - [Where Does Heat Go?](physics/heat-flow/) · Grades 4–5
 - [Where Does Our Energy Come From?](physics/energy-sources/) · Grades 4–5
 
+### Middle school (3)
+
+- [Weight and Springs](physics/weight-springs/) · Grade 6
+- [Forces and Motion](physics/forces-motion/) · Grades 6–8
+- [Speed: Distance and Time](physics/speed-motion/) · Grade 7
+
 ### High school (10)
 
 - [The Photoelectric Effect](physics/photoelectric-step/) · Grades 10–12
@@ -53,7 +59,7 @@ A new lesson only touches its own folder (plus the subject's `README.md` and the
 - [Magnetic Field of an Electric Current](physics/current-field-step/) · Grades 10–12
 - [Brownian Motion and Diffusion](physics/brownian-step/) · Grades 10–12
 
-## [Chemistry](chemistry/) (32)
+## [Chemistry](chemistry/) (35)
 
 ### Primary school (7)
 
@@ -64,6 +70,12 @@ A new lesson only touches its own folder (plus the subject's `README.md` and the
 - [Making Muddy Water Clean](chemistry/clean-water/) · Grades 4–5
 - [Mix, Dissolve, Separate](chemistry/mixtures-dissolving/) · Grade 5
 - [Everything Is Made of Tiny Particles](chemistry/tiny-particles/) · Grade 5
+
+### Middle school (3)
+
+- [The Particle Model of Matter](chemistry/particle-model/) · Grade 6
+- [Air, Oxygen and Burning](chemistry/air-oxygen/) · Grade 6
+- [Separating Mixtures](chemistry/separating-mixtures/) · Grade 6
 
 ### High school (25)
 

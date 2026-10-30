@@ -81,9 +81,9 @@ This is a map of topics, not a copy of either standard. Grade placement is a cho
 
 | Grade | Topic | NGSS | VN GDPT 2018 | Lesson | Status |
 |---|---|---|---|---|---|
-| 6 | Weight and springs: gravity pulls, springs stretch | MS-PS2-4 | KHTN 6: Lực, trọng lượng, biến dạng lò xo | `weight-springs` | ○ |
-| 6–8 | Forces and motion: net force, friction, action and reaction | MS-PS2-1, MS-PS2-2 | KHTN 6: Lực, lực ma sát | `forces-motion` | ○ |
-| 7 | Speed: distance, time and graphs | MS-PS2-2 | KHTN 7: Tốc độ | `speed-motion` | ○ |
+| 6 | Weight and springs: gravity pulls, springs stretch | MS-PS2-4 | KHTN 6: Lực, trọng lượng, biến dạng lò xo | `weight-springs` | ✅ |
+| 6–8 | Forces and motion: net force, friction, action and reaction | MS-PS2-1, MS-PS2-2 | KHTN 6: Lực, lực ma sát | `forces-motion` | ✅ |
+| 7 | Speed: distance, time and graphs | MS-PS2-2 | KHTN 7: Tốc độ | `speed-motion` | ✅ |
 | 7 | Sound waves: frequency, amplitude, pitch, loudness | MS-PS4-1 | KHTN 7: Âm thanh | `sound-waves` | ○ |
 | 7 | Light: rays, reflection and mirrors | MS-PS4-2 | KHTN 7: Ánh sáng | `light-reflection` | ○ |
 | 7 | Magnets and magnetic fields | MS-PS2-3, MS-PS2-5 | KHTN 7: Từ | `magnetic-fields` | ○ |
@@ -101,9 +101,9 @@ This is a map of topics, not a copy of either standard. Grade placement is a cho
 
 | Grade | Topic | NGSS | VN GDPT 2018 | Lesson | Status |
 |---|---|---|---|---|---|
-| 6 | The particle model: solids, liquids, gases, changes of state | MS-PS1-4 | KHTN 6: Các thể của chất | `particle-model` | ○ |
-| 6 | Air and oxygen: what air is made of, burning | MS-PS1-2 | KHTN 6: Oxygen, không khí | `air-oxygen` | ○ |
-| 6 | Mixtures and separating them: filter, evaporate, distil | MS-PS1-2 | KHTN 6: Hỗn hợp, tách chất | `separating-mixtures` | ○ |
+| 6 | The particle model: solids, liquids, gases, changes of state | MS-PS1-4 | KHTN 6: Các thể của chất | `particle-model` | ✅ |
+| 6 | Air and oxygen: what air is made of, burning | MS-PS1-2 | KHTN 6: Oxygen, không khí | `air-oxygen` | ✅ |
+| 6 | Mixtures and separating them: filter, evaporate, distil | MS-PS1-2 | KHTN 6: Hỗn hợp, tách chất | `separating-mixtures` | ✅ |
 | 7 | Atoms: protons, neutrons, electrons | MS-PS1-1 | KHTN 7: Nguyên tử | `atoms` | ○ |
 | 7 | The periodic table | MS-PS1-1 | KHTN 7: Bảng tuần hoàn | `periodic-table` | ○ |
 | 7 | Molecules and bonds: ionic and covalent | MS-PS1-1 | KHTN 7: Phân tử, liên kết hóa học | `molecules-bonds` | ○ |
