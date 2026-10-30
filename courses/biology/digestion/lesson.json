@@ -1,0 +1,65 @@
+{
+  "slug": "digestion",
+  "order": 30,
+  "level": "middle",
+  "ages": "13-14",
+  "grades": [8, 8],
+  "title": "Digestion: How Your Body Breaks Down Food",
+  "type": "Human Body",
+  "coverStep": 0,
+  "question": "What happens to a sandwich after you swallow it?",
+  "steps": ["The digestive system", "Mechanical digestion", "Chemical digestion by enzymes", "Swallowing and peristalsis", "Bile and pancreatic juice", "Villi absorb the food", "The journey through the gut"],
+  "content": {
+    "steps": [
+      {
+        "title": "The digestive system",
+        "text": "Most of the food you eat is made of large molecules, such as starch, proteins and fats, that are too big to pass into your blood. Digestion is the breakdown of these large, insoluble molecules into small, soluble ones that can be absorbed. It happens in the alimentary canal (the gut), a muscular tube about 9 metres long in an adult. It runs from the mouth through the oesophagus (food pipe), stomach, small intestine and large intestine to the anus. The liver and the pancreas are not part of the tube, but they make juices that flow into it.",
+        "try": "Tap each organ: Mouth, Oesophagus, Stomach, Small intestine, Large intestine, Liver and Pancreas.",
+        "see": "Each organ glows when you tap it and the readout gives its job. The long small intestine is coiled up to fit inside the belly, with the wider large intestine around it like a frame."
+      },
+      {
+        "title": "Mechanical digestion",
+        "text": "Digestion happens in two ways. Mechanical digestion breaks food into smaller pieces without changing the substances in it. Your teeth cut and grind food, and the muscular stomach churns it. Smaller pieces have a much larger total surface area, so digestive juices can reach more of the food and work faster. Here a 2 cm cube of food is cut into smaller cubes. Its volume stays 8 cm³. The total surface area = number of pieces × 6 × (side length)².",
+        "try": "Move the Cuts slider from 1 to 5.",
+        "see": "The cube splits into 8, 27, 64 and then 125 small cubes. The amount of food stays the same, but the total surface area goes up: 24 cm² for one cube, 48 cm² for 8 pieces, 72 cm² for 27 pieces, all the way to 120 cm²."
+      },
+      {
+        "title": "Chemical digestion by enzymes",
+        "text": "Chemical digestion changes big food molecules into small ones. Enzymes do this. An enzyme is a protein that speeds up a chemical reaction without being used up, and each enzyme works on one kind of molecule. Starch is a long chain of glucose units: amylase breaks it into sugars, and other enzymes in the small intestine finish the job, leaving glucose. Proteins are chains of amino acids: proteases break them into amino acids. Fats are broken by lipase into fatty acids and glycerol.",
+        "try": "Tap Starch, Protein and Fat.",
+        "see": "The green enzyme moves along the big molecule and snips the bonds one by one. Starch falls apart into glucose units, the protein into amino acids of different kinds, and the fat into three fatty acids and one glycerol."
+      },
+      {
+        "title": "Swallowing and peristalsis",
+        "text": "In the mouth, saliva wets the food and its amylase starts digesting starch. The tongue rolls the chewed food into a soft ball called a bolus and pushes it to the back of the throat when you swallow. The oesophagus is about 25 cm long. Its wall has rings of muscle. The muscle just behind the bolus contracts and squeezes, while the muscle in front of it relaxes. This wave of squeezing, called peristalsis, pushes food along the whole gut. It works even if you are upside down.",
+        "try": "Press Swallow.",
+        "see": "A narrow ring of contracted muscle travels down the tube just behind the bolus and pushes it into the stomach. In front of the bolus the tube is relaxed and wide open."
+      },
+      {
+        "title": "Bile and pancreatic juice",
+        "text": "The stomach churns food with acid and pepsin for a few hours, then lets it pass, a little at a time, into the first part of the small intestine, the duodenum. Two juices flow in there. The pancreas makes pancreatic juice, which contains amylase, proteases and lipase. The liver makes bile, which is stored in the gall bladder. Bile is not an enzyme. It breaks large drops of fat into many tiny droplets. This is called emulsifying. The amount of fat stays the same, but its surface area grows, so lipase can digest it much faster. Bile also neutralises the stomach acid.",
+        "try": "Move the Bile added slider.",
+        "see": "Green bile flows from the gall bladder and purple pancreatic juice flows from the pancreas into the duodenum. In the magnified view the big fat drop breaks into more and more tiny droplets, and the readout shows the surface area growing."
+      },
+      {
+        "title": "Villi absorb the food",
+        "text": "The small, soluble food molecules pass into the blood through the wall of the small intestine. This is called absorption. The inner wall has millions of tiny, finger-like villi (one is called a villus), each about 1 mm long, and the cells covering them have even tinier microvilli. Together they give a huge surface area. Each villus has a thin wall, one cell thick, and a network of blood capillaries inside, so glucose and amino acids pass quickly into the blood. Most fatty acids and glycerol go into a small tube in the middle called a lacteal, part of the lymph system.",
+        "try": "Turn Villi off and on.",
+        "see": "With the villi gone the wall is flat and only a few food molecules get through. With villi, many more orange glucose and purple amino acid dots pass into the red capillaries and away in the blood, and yellow fatty acid dots go into the lacteals."
+      },
+      {
+        "title": "The journey through the gut",
+        "text": "Food takes a long time to pass all the way through, and the times vary a lot between people and meals. After the small intestine, what is left is mostly water, fibre that we cannot digest, and dead cells. The large intestine absorbs most of the remaining water, and helpful bacteria live there. The solid waste left, called faeces, is stored in the rectum and leaves the body through the anus. Getting rid of undigested waste this way is called egestion.",
+        "try": "Move the Time after eating slider from start to end.",
+        "see": "The glowing food passes through the mouth and oesophagus in about a minute, stays in the stomach for a few hours and in the small intestine for several more, then takes a day or two to pass through the large intestine."
+      }
+    ],
+    "quiz": [
+      { "q": "Which enzyme starts breaking down starch in your mouth?", "options": ["Amylase", "Lipase", "Pepsin", "Bile"], "answer": 0, "why": "Saliva contains amylase, which breaks starch into sugars. Lipase works on fats, pepsin on proteins, and bile is not an enzyme at all." },
+      { "q": "What does bile do to fats?", "options": ["Breaks them into fatty acids and glycerol", "Breaks big fat drops into tiny droplets, giving lipase more surface", "Turns them into glucose", "Absorbs them into the blood"], "answer": 1, "why": "Bile emulsifies fats: it breaks large drops into many small droplets. The fat is not changed chemically, but its surface area is much bigger, so lipase can digest it faster." },
+      { "q": "Why does the small intestine have villi?", "options": ["To make enzymes", "To give a huge surface area for absorbing food", "To push food along", "To store bile"], "answer": 1, "why": "Millions of villi, each with microvilli, give the small intestine a huge surface area, so digested food is absorbed into the blood quickly." },
+      { "q": "What is peristalsis?", "options": ["A wave of muscle squeezing that pushes food along the gut", "An enzyme in the stomach", "The breaking of food by the teeth", "Water being absorbed in the large intestine"], "answer": 0, "why": "In peristalsis the muscle behind the food contracts while the muscle in front relaxes, so a wave of squeezing moves the food along the gut." }
+    ]
+  },
+  "source": "original"
+}

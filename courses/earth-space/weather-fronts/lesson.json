@@ -1,0 +1,65 @@
+{
+  "slug": "weather-fronts",
+  "order": 24,
+  "level": "middle",
+  "ages": "11-14",
+  "grades": [6, 8],
+  "title": "Weather: Air Masses, Fronts and Pressure",
+  "type": "Weather",
+  "question": "Why does the weather change from one day to the next?",
+  "coverStep": 4,
+  "steps": ["Air has weight", "High and low pressure", "Wind blows from high to low", "Air masses", "A cold front", "A warm front", "Reading a weather map"],
+  "content": {
+    "steps": [
+      {
+        "title": "Air has weight",
+        "text": "Air is made of tiny particles, and all the air above you has weight. The push of that air on every surface is called air pressure. It is measured with a barometer, in hectopascals (hPa). At sea level the average air pressure is about 1013 hPa. Higher up there is less air above you, so the pressure is lower: it halves about every 5.5 km. In this model, pressure = 1013 hPa × 0.5^(height ÷ 5.5 km). On top of Mount Everest, about 8.8 km high, the pressure is only about a third of the pressure at sea level.",
+        "try": "Move the Height slider to send the climber up the mountain, and watch the barometer.",
+        "see": "The blue column of air above the climber gets shorter, there are fewer air dots around, and the barometer needle drops from about 1013 hPa to about 330 hPa at the top."
+      },
+      {
+        "title": "High and low pressure",
+        "text": "At sea level the air pressure changes a little from day to day; on most days it stays between about 980 and 1040 hPa. Where air sinks, it presses down harder: this is high pressure. Sinking air warms up, so clouds dry out and the sky is usually clear. Where air rises, it presses down less: this is low pressure. Rising air cools, its water vapour condenses, and clouds and rain form. That is why old barometers say \"Fair\" at high pressure and \"Rain\" or \"Stormy\" at low pressure.",
+        "try": "Move the Pressure slider from 980 hPa up to 1040 hPa.",
+        "see": "At low pressure the air dots rise above the town, clouds build up and rain falls. At high pressure the dots sink and spread out, the clouds disappear and the needle points to Fair."
+      },
+      {
+        "title": "Wind blows from high to low",
+        "text": "Air moves from where the pressure is higher toward where it is lower, like air rushing out of a balloon. This moving air is wind. Over a high (H), air sinks and spreads out along the ground; over a low (L) it gathers and rises; high up it flows back, closing a loop. The bigger the difference in pressure, the stronger the wind. Over large distances Earth's spin bends the wind, so it spirals out of highs and into lows, but it still flows from high to low.",
+        "try": "Move the High pressure slider to change the difference between the high and the low.",
+        "see": "With a bigger difference, the dots along the ground move faster and the windsock stands out straighter, pointing toward the low."
+      },
+      {
+        "title": "Air masses",
+        "text": "An air mass is a huge body of air, often more than 1,000 km across, with about the same temperature and humidity (amount of water vapour) all through it. It gets them from the place where it forms. Air that forms over land is dry (continental); air that forms over the ocean is moist (maritime). Air that forms near the poles is cold (polar); air that forms near the equator is warm (tropical). When an air mass moves, it brings its weather with it. North is at the top of this map.",
+        "try": "Press each air mass button.",
+        "see": "The chosen air mass lights up on the map. The cold air masses are blue, the warm ones are orange or red, and the moist ones are full of vapour dots."
+      },
+      {
+        "title": "A cold front",
+        "text": "Where two air masses meet, the boundary between them is called a front. At a cold front, cold air pushes into warm air. Cold air is denser (heavier for its size), so it slides under the warm air like a wedge and pushes it up steeply. The warm air rises fast, cools, and builds tall storm clouds called cumulonimbus. The rain is heavy but short, and after the front passes the air is cooler and drier and the sky clears. This is a cross-section: a slice through the air, seen from the side.",
+        "try": "Move the Time slider to move the cold front across the town.",
+        "see": "The blue wedge of cold air slides under the orange warm air. A tall cloud with a narrow band of heavy rain passes over the town in about an hour, and afterwards the readout shows cooler air and rising pressure."
+      },
+      {
+        "title": "A warm front",
+        "text": "At a warm front, warm air moves toward cold air. The warm air is less dense, so it glides up over the cold air on a long, gentle slope. As it slowly rises it cools and makes layers of flat clouds: first thin, high, wispy cirrus clouds, then thicker grey layers that get lower and lower. The rain is light but lasts many hours, and after the front passes the air is warmer and more humid. Warm fronts usually move more slowly than cold fronts.",
+        "try": "Move the Time slider from 0 to 24 hours.",
+        "see": "First high wispy clouds reach the town, then the clouds thicken and get lower, and light rain falls for about 6 hours before the warm air arrives."
+      },
+      {
+        "title": "Reading a weather map",
+        "text": "Weather maps show the air pressure with lines called isobars. An isobar joins places that have the same pressure (here every 4 hPa). H marks the centre of a high and L the centre of a low. Where isobars are close together the pressure changes quickly over a short distance, so the wind is strong. A cold front is drawn as a blue line with triangles, and a warm front as a red line with half circles; the symbols point the way the front is moving. In the middle latitudes, where most of the USA and Europe are, weather systems usually travel from west to east.",
+        "try": "Move the Time slider to move the weather system across the map, and read the pressure at the town.",
+        "see": "As the low comes closer, the pressure at the town falls. The warm front passes, then the cold front, and then the pressure rises again as the high moves in behind it."
+      }
+    ],
+    "quiz": [
+      { "q": "What is the average air pressure at sea level?", "options": ["About 100 hPa", "About 1013 hPa", "About 500 hPa", "About 5,000 hPa"], "answer": 1, "why": "The weight of all the air above sea level presses with about 1013 hPa on average. Higher up there is less air above, so the pressure is lower." },
+      { "q": "Which kind of pressure usually brings clear skies?", "options": ["Low pressure, because rising air cools", "Pressure makes no difference to clouds", "High pressure, because sinking air warms up and clouds dry out"], "answer": 2, "why": "In a high, air sinks and warms, so water droplets evaporate and clouds disappear. In a low, air rises and cools, so clouds and rain form." },
+      { "q": "A high (1030 hPa) and a low (990 hPa) are close together. Which way does the wind blow, and is it strong?", "options": ["From the high to the low, and strong, because the pressure difference is big", "From the low to the high, and gentle", "From the high to the low, but gentle, because highs have calm air"], "answer": 0, "why": "Air flows from high pressure toward low pressure. A difference of 40 hPa over a short distance means the isobars are close together, so the wind is strong." },
+      { "q": "A town gets a short burst of heavy rain from tall clouds, and then it turns cooler and clearer. What passed over the town?", "options": ["A warm front", "A cold front", "A high-pressure area"], "answer": 1, "why": "At a cold front, cold air pushes warm air up steeply. That makes tall cumulonimbus clouds with short, heavy rain, followed by cooler, drier air." }
+    ]
+  },
+  "source": "original"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "circulation",
+  "order": 31,
+  "level": "middle",
+  "ages": "13-14",
+  "grades": [8, 8],
+  "title": "The Heart and Circulation",
+  "type": "Human Body",
+  "coverStep": 1,
+  "question": "How does your heart push blood all the way around your body, again and again?",
+  "steps": ["A pump with four chambers", "Valves keep blood moving one way", "Double circulation", "Arteries, veins and capillaries", "What is blood made of?", "Heart rate and cardiac output", "Keeping the heart healthy"],
+  "content": {
+    "steps": [
+      {
+        "title": "A pump with four chambers",
+        "text": "The circulatory system is made of the heart, the blood vessels and the blood. The heart is a muscular pump about the size of your fist. Here it is cut open from the front. It has four chambers. The two upper chambers, the atria (one is called an atrium), receive blood coming back to the heart. The two lower chambers, the ventricles, pump blood out of the heart. A wall of muscle called the septum keeps the right side and the left side apart. Diagrams show the heart as if you are facing the person, so the heart's right side is on your left.",
+        "try": "Tap Right atrium, Right ventricle, Left atrium and Left ventricle.",
+        "see": "Each chamber lights up as you tap it, and the heart keeps beating. The wall around the left ventricle is the thickest, because it pumps blood all the way around the body."
+      },
+      {
+        "title": "Valves keep blood moving one way",
+        "text": "The right side of the heart receives deoxygenated blood (low in oxygen, drawn blue) from the body through the vena cava and pumps it to the lungs through the pulmonary artery. The left side receives oxygenated blood (rich in oxygen, drawn red) from the lungs through the pulmonary veins and pumps it to the body through the aorta. Real blood is always red: dark red when it is low in oxygen and bright red when it is rich in oxygen. Valves between each atrium and ventricle, and at the start of each artery, open to let blood through and snap shut to stop it flowing backwards. The \"lub-dub\" sound of a heartbeat is the valves closing.",
+        "try": "Tap Right side, Left side and Both, and watch the cream valve flaps.",
+        "see": "When the atria squeeze, the valves into the ventricles hang open. When the ventricles squeeze, those valves snap shut and the valves into the arteries open, so blood can only go one way. The readout names each stage of the beat."
+      },
+      {
+        "title": "Double circulation",
+        "text": "On each full trip around the body, blood goes through the heart twice, so humans have a double circulation. In the lung loop (pulmonary circulation), the right ventricle pumps blood to the lungs. There it picks up oxygen and gets rid of carbon dioxide, then it returns to the left atrium. In the body loop (systemic circulation), the left ventricle pumps it to all the organs. There it gives oxygen to the cells and collects carbon dioxide, then it returns to the right atrium. Because the blood gets a second push from the heart after the lungs, it reaches the body's organs at high pressure.",
+        "try": "Tap Lung loop, Body loop and Both.",
+        "see": "Blue blood cells turn red as they pass through the lungs, and red blood cells turn blue as they pass through the body's organs. Each cell goes through the heart twice on one full trip."
+      },
+      {
+        "title": "Arteries, veins and capillaries",
+        "text": "Arteries carry blood away from the heart at high pressure. They have thick walls of muscle and elastic tissue that stretch with each heartbeat. This stretch is the pulse you can feel in your wrist. Veins carry blood back to the heart at low pressure. They have thinner walls, a wider lumen (the space inside) and valves that stop blood flowing backwards. Capillaries are the tiniest vessels, with walls only one cell thick. They link arteries to veins and reach every tissue, so oxygen and food can diffuse out to the cells, and carbon dioxide and wastes can diffuse in.",
+        "try": "Tap Artery, Vein and Capillary, then turn on Blood flows back (vein).",
+        "see": "The artery has the thickest wall and a narrow lumen, and its blood surges with each beat. The vein's wall is thin and its lumen is wide. When blood flows back, the valve flaps swing shut and the blood cells pile up behind them. Red blood cells pass through the capillary in single file."
+      },
+      {
+        "title": "What is blood made of?",
+        "text": "Blood is a mixture. Spin a tube of blood very fast in a machine called a centrifuge and it separates into layers. About 55% is plasma, a yellow liquid, mostly water, that carries dissolved food, carbon dioxide, hormones and wastes. About 45% is red blood cells, which carry oxygen using a red protein called haemoglobin. A very thin pale layer in between holds the white blood cells, which fight germs, and the platelets, tiny pieces of cells that help blood to clot when you are cut.",
+        "try": "Turn on Spin the tube, then tap Red blood cells, White blood cells, Platelets and Plasma.",
+        "see": "The tube spins and separates into a yellow plasma layer on top, a thin pale layer of white cells and platelets, and a dark red layer of red cells at the bottom. Each part you tap glows, in the tube and in the models."
+      },
+      {
+        "title": "Heart rate and cardiac output",
+        "text": "Your heart rate is the number of heartbeats per minute (bpm). For most adults at rest it is between about 60 and 100 bpm. With each beat, each ventricle pumps out a volume of blood called the stroke volume, about 70 mL at rest. The volume of blood the heart pumps each minute is the cardiac output: cardiac output = heart rate × stroke volume. At rest that is about 70 × 70 = 4900 mL, close to 5 litres per minute. During exercise both the heart rate and the stroke volume go up, so much more blood carries oxygen to the working muscles. The numbers here are model values.",
+        "try": "Move the Heart rate and Stroke volume sliders.",
+        "see": "The heart beats faster as you raise the heart rate, and the heartbeat trace shows more peaks in the same 6 seconds. The readout works out the cardiac output in millilitres and litres per minute."
+      },
+      {
+        "title": "Keeping the heart healthy",
+        "text": "Heart muscle works all the time, so it needs its own supply of oxygen. It gets it from the coronary arteries, which run over the outside of the heart. In coronary heart disease, fatty material builds up inside the walls of these arteries and narrows them. Less blood can get through, so part of the heart muscle gets too little oxygen. This can cause chest pain, and if an artery is blocked, a heart attack. Regular exercise, a balanced diet that is low in saturated fat and salt, keeping a healthy weight and not smoking all lower the risk.",
+        "try": "Move the Fatty build-up slider from 0% to 80%.",
+        "see": "The yellow fatty layer grows inside the artery and the opening shrinks fast: when half the width is blocked, only a quarter of the area is left. Fewer red blood cells get through."
+      }
+    ],
+    "quiz": [
+      { "q": "Which chamber of the heart pumps blood to the whole body?", "options": ["Right atrium", "Right ventricle", "Left atrium", "Left ventricle"], "answer": 3, "why": "The left ventricle pumps oxygenated blood into the aorta, which carries it to the whole body. That is why it has the thickest, most muscular wall." },
+      { "q": "Why do veins have valves?", "options": ["To make the blood flow faster", "To stop blood flowing backwards", "To add oxygen to the blood", "To make the pulse"], "answer": 1, "why": "Blood in veins is at low pressure. The valves close if blood starts to flow backwards, so it can only move towards the heart." },
+      { "q": "A heart beats 80 times per minute with a stroke volume of 70 mL. What is the cardiac output?", "options": ["150 mL per minute", "560 mL per minute", "5600 mL per minute", "8070 mL per minute"], "answer": 2, "why": "Cardiac output = heart rate × stroke volume = 80 × 70 mL = 5600 mL per minute, which is 5.6 litres per minute." },
+      { "q": "Which part of the blood helps it to clot when you cut yourself?", "options": ["Plasma", "Red blood cells", "Platelets", "White blood cells"], "answer": 2, "why": "Platelets are tiny cell fragments that gather at a cut and help the blood to clot, sealing the wound." }
+    ]
+  },
+  "source": "original"
+}
