@@ -1,0 +1,71 @@
+{
+  "slug": "electric-circuits",
+  "order": 45,
+  "level": "middle",
+  "ages": "13-15",
+  "grades": [8, 9],
+  "title": "Electric Circuits: Series, Parallel, Ohm's Law",
+  "type": "Electricity",
+  "question": "Why do all the fairy lights go out when one bulb breaks, but the lights at home do not?",
+  "steps": ["Real parts and circuit symbols", "Current: a flow of charge", "Voltage (U) and the voltmeter", "Ohm's law: I = U / R", "Series circuit", "Parallel circuit", "Total resistance", "Safety: fuses and short circuits"],
+  "content": {
+    "steps": [
+      {
+        "title": "Real parts and circuit symbols",
+        "text": "An electric circuit is a complete loop that charge can flow round. This one has a battery of two cells, a switch, a bulb and connecting wires. Scientists draw circuits with simple symbols instead of pictures, in a circuit diagram. A cell is drawn as a long line (the + terminal) next to a short line (the − terminal). A bulb is a circle with a cross, a switch is a gap with a lever, and wires are straight lines.",
+        "try": "Tap Cell, Switch, Bulb and Wires, then turn on Close the switch.",
+        "see": "Each part is named on the board and drawn in orange on the circuit diagram. When the switch closes, the loop is complete and the bulb lights; in the diagram the switch's lever closes the gap."
+      },
+      {
+        "title": "Current: a flow of charge",
+        "text": "When the circuit is complete, tiny charged particles move round it. This flow of charge is the electric current. In metal wires the moving charges are electrons (the blue dots). By an old agreement, we say the current flows from the + terminal, round the circuit, to the − terminal (yellow arrows); the electrons actually drift the other way. Current is measured in amperes (A) with an ammeter. An ammeter is connected in series: in the loop itself, so all the current flows through it.",
+        "try": "Switch the Switch closed toggle off and on.",
+        "see": "When the switch is open, the dots stop and the ammeter reads 0.00 A. When it closes, the dots move all round the loop at once, the bulb lights and the ammeter reads 0.30 A."
+      },
+      {
+        "title": "Voltage (U) and the voltmeter",
+        "text": "What pushes the charge round? The cells. Each cell gives the charge a push called voltage (U), measured in volts (V). One cell gives about 1.5 V, and cells joined end to end add up. Voltage is measured with a voltmeter, which is connected in parallel: its two leads touch the two ends of a part, side by side with it, not in the loop. More voltage pushes more current through the same bulb.",
+        "try": "Move the Number of cells slider from 1 to 4.",
+        "see": "With 1 cell the voltmeter reads 1.5 V and the ammeter 0.15 A. With 4 cells it reads 6.0 V and 0.60 A, and the bulb is much brighter."
+      },
+      {
+        "title": "Ohm's law: I = U / R",
+        "text": "Every part resists the flow of charge. This resistance R is measured in ohms (Ω). Georg Ohm found that for a resistor kept at a steady temperature, the current is proportional to the voltage: I = U / R. Here the power supply sets the voltage, and the slider sets the lamp's resistance. (A real filament's resistance grows as it heats up; here we keep R fixed.) The graph of I against U is a straight line through zero.",
+        "try": "Move the Voltage U and Resistance R sliders and watch both meters and the graph.",
+        "see": "Doubling U doubles I: with R = 12 Ω, 6 V gives 0.50 A and 12 V gives 1.00 A. A bigger R makes the line less steep, the current smaller and the lamp dimmer."
+      },
+      {
+        "title": "Series circuit",
+        "text": "In a series circuit the parts are joined one after another in a single loop. There is only one path, so the current is the same everywhere and both ammeters read the same. The battery's voltage is shared between the bulbs: U = U₁ + U₂, and the bulb with more resistance gets more of it. If one bulb breaks, the only path is broken and everything goes out, like an old string of fairy lights.",
+        "try": "Read the meters, then press Unscrew bulb 1 and Screw it back in.",
+        "see": "Both ammeters read 0.20 A. The voltmeters read 2.0 V and 4.0 V, which add up to the battery's 6.0 V. With bulb 1 out, both bulbs go dark and the current drops to 0.00 A."
+      },
+      {
+        "title": "Parallel circuit",
+        "text": "In a parallel circuit each bulb has its own branch, connected straight across the battery, so every branch gets the battery's full voltage. The current splits where the wires join (a junction) and joins up again, so the main current is the sum of the branch currents: I = I₁ + I₂. If one bulb breaks, the other branch still works. The lights and sockets in a house are wired in parallel.",
+        "try": "Press Unscrew bulb 1, then Screw it back in, and watch the three ammeters.",
+        "see": "Branch 1 (10 Ω) takes 0.60 A and branch 2 (20 Ω) takes 0.30 A, so the main ammeter reads 0.90 A. With bulb 1 out, bulb 2 stays on and the main current drops to 0.30 A."
+      },
+      {
+        "title": "Total resistance",
+        "text": "Two resistors in series act like one longer obstacle: the total resistance is R = R₁ + R₂, bigger than either one. In parallel the charge has two paths side by side, so it gets through more easily: 1/R = 1/R₁ + 1/R₂, and the total resistance is smaller than either one. The current from the battery is then I = U / R.",
+        "try": "Tap Series and Parallel, and move the R₁ and R₂ sliders.",
+        "see": "With 10 Ω and 20 Ω, series gives 30 Ω and 0.20 A, while parallel gives about 6.7 Ω and 0.90 A. Adding a branch in parallel always lowers the total resistance."
+      },
+      {
+        "title": "Safety: fuses and short circuits",
+        "text": "A short circuit happens when the current finds a path with almost no resistance, for example when a bare wire touches both ends of a bulb or both terminals of a battery. The resistance becomes tiny, so the current becomes huge, and wires can get hot enough to start a fire. A fuse protects the circuit: it holds a thin wire that melts when the current is bigger than its rating, which breaks the circuit. Homes use fuses or circuit breakers. Never join the two terminals of a battery or a socket with a wire.",
+        "try": "Press Short circuit, then Replace the fuse.",
+        "see": "Normally 0.60 A flows and the fuse stays cool. When the copper wire touches both sides of the bulb, the bulb goes out and the current jumps to about 12 A (model). The fuse wire glows and melts within about a second, and the current stops."
+      }
+    ],
+    "quiz": [
+      { "q": "Which meter measures current, and how is it connected?", "options": ["A voltmeter, in parallel", "An ammeter, in series", "An ammeter, in parallel", "A voltmeter, in series"], "answer": 1, "why": "An ammeter measures current in amperes. It goes in the loop (in series) so that all the current flows through it. A voltmeter measures voltage and is connected in parallel across a part." },
+      { "q": "A 12 V battery is connected to a 4 Ω resistor. What current flows?", "options": ["48 A", "3 A", "0.33 A", "16 A"], "answer": 1, "why": "I = U / R = 12 V ÷ 4 Ω = 3 A." },
+      { "q": "In a string of bulbs, one bulb breaks and all the others go out. How are the bulbs connected?", "options": ["In series", "In parallel", "There is no way to tell"], "answer": 0, "why": "In series there is only one path. A broken bulb breaks that path, so the current stops everywhere. In parallel, the other branches would stay on." },
+      { "q": "Two 10 Ω resistors are connected in parallel. What is their total resistance?", "options": ["20 Ω", "10 Ω", "5 Ω", "0.2 Ω"], "answer": 2, "why": "1/R = 1/10 + 1/10 = 2/10, so R = 10 ÷ 2 = 5 Ω. In parallel the total resistance is smaller than either resistor." }
+    ]
+  },
+  "coverStep": 2,
+  "source": "original"
+}

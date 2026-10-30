@@ -1,0 +1,71 @@
+{
+  "slug": "thermal-energy",
+  "order": 44,
+  "level": "middle",
+  "ages": "13-14",
+  "grades": [8, 8],
+  "title": "Thermal Energy: Conduction, Convection, Radiation",
+  "type": "Energy",
+  "question": "How does heat move from one place to another, and how can we stop it?",
+  "steps": ["Temperature and thermal energy", "Conduction along a rod", "Inside a conductor", "Convection in water", "Convection in a room", "Radiation", "Keeping heat in: the vacuum flask", "How much heat? Q = m · c · ΔT"],
+  "content": {
+    "steps": [
+      {
+        "title": "Temperature and thermal energy",
+        "text": "Everything is made of tiny particles that are always moving. Temperature tells us how fast the particles move on average: the faster they move, the higher the temperature. Thermal energy is the total kinetic energy (energy of movement) of all the particles in an object. So it depends on the temperature and also on how much material there is. A cup of water at 80 °C has fast particles, but a bath at 40 °C has far more particles, so it holds much more thermal energy.",
+        "try": "Move the Water in the bath slider and compare the bath and the cup in the readout.",
+        "see": "The particles in the cup's bubble move faster, because the cup is hotter. But a full bath (100 kg) gives out about 8,400,000 J as it cools to 20 °C, while the cup gives out only about 63,000 J. The cup only wins when the bath holds less than about 0.75 kg of water."
+      },
+      {
+        "title": "Conduction along a rod",
+        "text": "Heat always flows from a hotter place to a colder place. Here three rods, copper, steel and wood, are heated at one end. Under each rod, small drops of wax hold up pins. When the heat reaches a drop, the wax melts (at around 55 °C) and the pin falls. Heat that moves through a material from particle to particle, while the material itself stays still, is called conduction. Materials that let heat through quickly are good conductors, like metals. Materials that let it through slowly are insulators, like wood, plastic and air.",
+        "try": "Press Heat the rods and watch the pins. Press Start again to repeat.",
+        "see": "On the copper rod the pins drop one after another, starting nearest the flame. The steel rod is much slower. On the wooden rod no pin falls, because wood is a poor conductor."
+      },
+      {
+        "title": "Inside a conductor",
+        "text": "Why does heat travel along a rod? At the hot end the particles vibrate strongly. Each particle bumps into its neighbours and makes them vibrate harder too, so the energy is passed along from one particle to the next. Metals have one more trick: free electrons, tiny charged particles that can wander through the whole metal. They pick up energy at the hot end and carry it quickly to the cold end. Wood has no free electrons, so heat creeps along it very slowly.",
+        "try": "Tap Metal and Wood and watch how fast the shaking and the red colour spread.",
+        "see": "In the metal, the red colour and the strong shaking spread along the whole bar in a few seconds, and the yellow electrons rush about. In the wood, only the few particles nearest the flame get hot."
+      },
+      {
+        "title": "Convection in water",
+        "text": "Liquids and gases can carry heat in another way. The flame warms the water at the bottom on the left. Warm water expands, so it becomes less dense and rises. Cooler, denser water sinks and flows in to take its place. This loop is called a convection current. Convection moves heat by moving the liquid or gas itself, so it cannot happen in a solid. The dots show bits of water: red is warmer and blue is cooler (model colours).",
+        "try": "Move the Flame slider from off to high.",
+        "see": "The dots rise above the flame, spread across the top, cool and sink on the far side, then flow back along the bottom. With the flame off the loop slows down and stops; on high it runs fastest."
+      },
+      {
+        "title": "Convection in a room",
+        "text": "A heater warms a whole room by convection. Air next to the heater warms up, expands and rises to the ceiling. It spreads across the room, cools (especially near a cold window) and sinks. Then it flows back along the floor to the heater. That is why heaters are usually placed low down, and why the air near the ceiling is warmer than the air near the floor.",
+        "try": "Switch Heater on off and on again, and watch the air and the two thermometers.",
+        "see": "With the heater on, the air goes round in a loop and the thermometer near the ceiling reads about 4 °C more than the one near the floor (model). With the heater off, the air slows down and the room cools."
+      },
+      {
+        "title": "Radiation",
+        "text": "The Sun's heat crosses about 150 million kilometres of empty space, where there are no particles to conduct it or carry it. It travels as radiation: infrared rays, a kind of light our eyes cannot see. Every object gives off infrared, and hotter objects give off more. When infrared hits a surface, some of it is absorbed and warms the object, and some is reflected. Dark, dull surfaces are good absorbers and good emitters. Light, shiny surfaces reflect most of it, so they are poor absorbers and poor emitters.",
+        "try": "Press Lamp on: absorbing, then Hot water: emitting, and compare the two thermometers.",
+        "see": "Under the lamp, the black can warms up much faster than the shiny can. Filled with hot water, the black can also cools down faster, because it gives off more infrared. (The numbers come from a simple model.)"
+      },
+      {
+        "title": "Keeping heat in: the vacuum flask",
+        "text": "To keep a drink hot, we must slow down all three kinds of heat transfer. A vacuum flask has a glass bottle with two walls, and between them is a vacuum: almost no air at all. With no particles, heat cannot cross by conduction or convection. The walls are silvered like a mirror, so infrared is reflected back and little heat escapes by radiation. A stopper made of a poor conductor stops warm air and steam escaping from the top.",
+        "try": "Tap each part of the flask, then move the Time slider.",
+        "see": "After 6 hours the drink in the flask is still about 70 °C, but the open mug is close to room temperature (about 23 °C) after only 2 hours (model)."
+      },
+      {
+        "title": "How much heat? Q = m · c · ΔT",
+        "text": "How much energy does it take to heat water? It depends on the mass m (in kg), on how much the temperature rises, ΔT (in °C), and on the material. The specific heat capacity c is the energy needed to warm 1 kg of a material by 1 °C. For water, c is about 4200 J/(kg·°C). That is large: water takes a lot of energy to warm up and gives a lot back when it cools. The heat Q, in joules (J), is Q = m · c · ΔT.",
+        "try": "Move the Mass of water and Temperature rise sliders and watch the readout and the energy meter.",
+        "see": "Doubling the mass doubles the energy needed, and so does doubling the temperature rise. Warming 1 kg of water by 50 °C takes 210,000 J; warming 2 kg by 50 °C takes 420,000 J."
+      }
+    ],
+    "quiz": [
+      { "q": "A swimming pool at 25 °C and a cup of tea at 90 °C: which statement is true?", "options": ["The tea has more thermal energy because it is hotter", "The pool has more thermal energy because it has far more particles, even though they move more slowly", "They have the same thermal energy"], "answer": 1, "why": "Temperature measures how fast the particles move on average. Thermal energy is the total kinetic energy of all the particles, and the pool has millions of times more particles than the cup." },
+      { "q": "Why is a room heater usually put low down, near the floor?", "options": ["Heat can only travel downwards", "Warm air rises, so heat from a low heater spreads through the whole room in a convection current", "The floor is a good conductor"], "answer": 1, "why": "Air warmed by the heater expands, becomes less dense and rises; cooler air sinks and flows back to the heater. A heater near the ceiling would leave the warm air trapped at the top." },
+      { "q": "Two cans of cold water stand in the sunshine. One is dull black and the other is shiny silver. Which warms up faster?", "options": ["The dull black can", "The shiny silver can", "Both warm up at the same rate"], "answer": 0, "why": "Dark, dull surfaces absorb most of the infrared radiation that hits them. Shiny surfaces reflect most of it, so they warm up more slowly." },
+      { "q": "How much energy is needed to heat 2 kg of water from 20 °C to 70 °C? (c = 4200 J/(kg·°C))", "options": ["84,000 J", "168,000 J", "420,000 J", "588,000 J"], "answer": 2, "why": "ΔT = 70 °C − 20 °C = 50 °C, so Q = m · c · ΔT = 2 kg × 4200 J/(kg·°C) × 50 °C = 420,000 J." }
+    ]
+  },
+  "coverStep": 3,
+  "source": "original"
+}
