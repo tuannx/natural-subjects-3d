@@ -87,9 +87,9 @@ This is a map of topics, not a copy of either standard. Grade placement is a cho
 | 7 | Sound waves: frequency, amplitude, pitch, loudness | MS-PS4-1 | KHTN 7: Âm thanh | `sound-waves` | ○ |
 | 7 | Light: rays, reflection and mirrors | MS-PS4-2 | KHTN 7: Ánh sáng | `light-reflection` | ○ |
 | 7 | Magnets and magnetic fields | MS-PS2-3, MS-PS2-5 | KHTN 7: Từ | `magnetic-fields` | ○ |
-| 8 | Density | MS-PS1-2 | KHTN 8: Khối lượng riêng | `density` | ○ |
-| 8 | Pressure in solids, liquids and the air | — | KHTN 8: Áp suất | `pressure` | ○ |
-| 8 | Buoyancy: Archimedes' principle | — | KHTN 8: Lực đẩy Archimedes | `buoyancy` | ○ |
+| 8 | Density | MS-PS1-2 | KHTN 8: Khối lượng riêng | `density` | ✅ |
+| 8 | Pressure in solids, liquids and the air | — | KHTN 8: Áp suất | `pressure` | ✅ |
+| 8 | Buoyancy: Archimedes' principle | — | KHTN 8: Lực đẩy Archimedes | `buoyancy` | ✅ |
 | 8 | Levers and turning forces | — | KHTN 8: Moment lực, đòn bẩy | `levers` | ○ |
 | 8 | Thermal energy: conduction, convection, radiation | MS-PS3-3, MS-PS3-4 | KHTN 8: Nhiệt | `thermal-energy` | ○ |
 | 8–9 | Electric circuits: series, parallel, Ohm's law | — | KHTN 8: Điện; KHTN 9: Điện | `electric-circuits` | ○ |

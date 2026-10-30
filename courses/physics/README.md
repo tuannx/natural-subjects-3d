@@ -2,7 +2,7 @@
 
 Forces and motion, energy, sound, light, electricity and magnets.
 
-24 lessons. On the site: `/subjects/physics/`. How to add one: [../README.md](../README.md).
+27 lessons. On the site: `/subjects/physics/`. How to add one: [../README.md](../README.md).
 
 ## Primary school (11)
 
@@ -18,11 +18,14 @@ Forces and motion, energy, sound, light, electricity and magnets.
 - [Where Does Heat Go?](heat-flow/) · Grades 4–5
 - [Where Does Our Energy Come From?](energy-sources/) · Grades 4–5
 
-## Middle school (3)
+## Middle school (6)
 
 - [Weight and Springs](weight-springs/) · Grade 6
 - [Forces and Motion](forces-motion/) · Grades 6–8
 - [Speed: Distance and Time](speed-motion/) · Grade 7
+- [Density](density/) · Grade 8
+- [Pressure in Solids, Liquids and the Air](pressure/) · Grade 8
+- [Buoyancy: Archimedes' Principle](buoyancy/) · Grade 8
 
 ## High school (10)
 
