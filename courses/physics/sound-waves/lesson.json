@@ -1,0 +1,71 @@
+{
+  "slug": "sound-waves",
+  "order": 20,
+  "level": "middle",
+  "ages": "12-13",
+  "grades": [7, 7],
+  "title": "Sound Waves: Pitch and Loudness",
+  "type": "Waves",
+  "coverStep": 2,
+  "question": "What is a sound wave, and what makes a sound high or low, loud or quiet?",
+  "steps": ["Vibrations make sound waves", "The wave moves, the air stays", "Frequency and pitch", "Amplitude and loudness", "Sound needs a medium", "Faster in liquids and solids", "The range of hearing", "Echoes"],
+  "content": {
+    "steps": [
+      {
+        "title": "Vibrations make sound waves",
+        "text": "Every sound starts with a vibration: something moving quickly back and forth. When this loudspeaker cone moves forward, it pushes the air particles in front of it closer together. A crowded region like this is called a compression. When the cone moves back, it leaves a region where the particles are spread out, called a rarefaction. Compressions and rarefactions travel away from the speaker. This travelling pattern is a sound wave.",
+        "try": "Press Speaker off, then Speaker on.",
+        "see": "With the speaker off, the particles are evenly spread. With it on, dark bands (compressions) and pale bands (rarefactions) move away from the speaker towards the microphone."
+      },
+      {
+        "title": "The wave moves, the air stays",
+        "text": "Follow one air particle. It does not travel along with the wave. It only vibrates back and forth around the same spot, passing each push on to its neighbours. Because the particles vibrate in the same direction as the wave travels, sound is called a longitudinal wave. Everything here is shown in very slow motion: real sound vibrates hundreds of times each second.",
+        "try": "Watch the red particle and its red post. Drag the Slow motion slider to slow it down even more.",
+        "see": "The red particle stays close to its post, moving a little forward and back, while the compressions keep moving to the right past it."
+      },
+      {
+        "title": "Frequency and pitch",
+        "text": "Frequency (f) is the number of vibrations each second, measured in hertz (Hz): 1 Hz means one vibration per second. The time for one vibration is the period: T = 1 ÷ f. The distance from one compression to the next is the wavelength (λ). Since wave speed = frequency × wavelength, λ = v ÷ f, where the speed v is about 343 m/s in air at 20 °C. A higher frequency sounds higher in pitch, like a whistle instead of a drum.",
+        "try": "Move the Frequency slider. The oscilloscope screen shows the signal from the microphone.",
+        "see": "At a higher frequency the waves on the screen squeeze closer together, the compressions in the air get closer (a shorter wavelength), and the period gets shorter."
+      },
+      {
+        "title": "Amplitude and loudness",
+        "text": "Amplitude is how far the particles move away from their resting place. On the oscilloscope it is the height of the wave. A bigger amplitude means bigger changes in air pressure, so the sound is louder. Loudness is measured in decibels (dB). Normal talking is about 60 dB, and each time the amplitude doubles, the level goes up by about 6 dB. Sounds above about 85 dB can damage your hearing if you listen to them for a long time.",
+        "try": "Drag the Amplitude slider up and down.",
+        "see": "The trace gets taller and the speaker cone moves further, but the waves on the screen stay the same distance apart. The loudness changes, the pitch does not."
+      },
+      {
+        "title": "Sound needs a medium",
+        "text": "Sound needs particles to pass the vibration along. The material it travels through is called the medium, and it can be a gas, a liquid or a solid. Here an electric bell rings inside a glass jar while a vacuum pump sucks the air out. A vacuum is a space with no particles in it, so sound cannot cross it. That is why space is silent, even though light from the Sun still reaches us.",
+        "try": "Drag the Air left in the jar slider down to 0%.",
+        "see": "The hammer keeps hitting the bell, but as the air is pumped out the orange rings fade and the sound meter drops. With no air left, no sound gets out."
+      },
+      {
+        "title": "Faster in liquids and solids",
+        "text": "Sound travels at different speeds in different media: about 343 m/s in air, about 1500 m/s in water and about 5000 to 6000 m/s in steel. In liquids and solids the particles are packed closely and pulled strongly together, so they pass the vibration on faster. To find how long sound takes, use time = distance ÷ speed.",
+        "try": "Press Race again to tap all three at once, then change the Distance slider.",
+        "see": "The pulse in steel arrives first, then water, and air comes last. Over 1000 m, sound takes about 3 s in air but only about 0.2 s in steel."
+      },
+      {
+        "title": "The range of hearing",
+        "text": "Young people can hear frequencies from about 20 Hz to about 20,000 Hz. Sound below 20 Hz is called infrasound: elephants use it to call to each other over long distances. Sound above 20,000 Hz is called ultrasound: dogs can hear some of it, bats use it to find food by its echoes, and doctors use it to make pictures of the inside of the body. The highest pitch people can hear goes down as they get older.",
+        "try": "Move the Frequency slider from very low to very high and watch the red line on the chart.",
+        "see": "Below 20 Hz and above 20,000 Hz the red line leaves the Humans bar. Dogs can hear higher sounds than we can, and elephants can hear lower ones."
+      },
+      {
+        "title": "Echoes",
+        "text": "An echo is sound that bounces back from a hard surface, such as a cliff or a large wall. The sound goes to the cliff and back, so it travels twice the distance d. The echo time is t = 2d ÷ v, so the distance is d = v × t ÷ 2. Ships use the same idea with sound in water, called sonar, to measure how deep the sea is. You hear a separate echo only if the wall is at least about 17 m away.",
+        "try": "Move the Distance to the cliff slider and watch how long the echo takes to return.",
+        "see": "The farther away the cliff, the longer you wait for the echo. With the cliff 170 m away, the echo comes back after about 1 s."
+      }
+    ],
+    "quiz": [
+      { "q": "A tuning fork makes a sound with a frequency of 500 Hz. What does that mean?", "options": ["The sound travels 500 m every second", "The fork vibrates 500 times every second", "The sound is 500 dB loud"], "answer": 1, "why": "Frequency is the number of vibrations each second, and 1 Hz means one vibration per second. Speed is measured in m/s and loudness in dB." },
+      { "q": "You turn up the volume of a song without changing any notes. What changes in the sound wave?", "options": ["Its frequency", "Its amplitude", "Its wavelength", "Its speed in air"], "answer": 1, "why": "Louder means a bigger amplitude: the particles move further and the pressure changes are bigger. The notes (frequencies), the wavelengths and the speed stay the same." },
+      { "q": "Why could an astronaut not hear an explosion in space?", "options": ["The sound would be too high to hear", "Space is a vacuum, so there are no particles to carry the sound", "Sound travels too slowly in space"], "answer": 1, "why": "Sound needs a medium. In a vacuum there are no particles to pass the vibration along, just like in the jar with all the air pumped out." },
+      { "q": "You shout towards a cliff and hear the echo 2 s later. Sound travels at about 343 m/s. How far away is the cliff?", "options": ["About 172 m", "About 343 m", "About 686 m"], "answer": 1, "why": "In 2 s sound travels 343 × 2 = 686 m. That is there and back, so the cliff is half that distance: 686 ÷ 2 = 343 m." }
+    ]
+  },
+  "source": "original"
+}
