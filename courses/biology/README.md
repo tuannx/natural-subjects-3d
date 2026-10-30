@@ -2,17 +2,22 @@
 
 Living things: plants, animals, the human body, cells, ecosystems and heredity.
 
-12 lessons. On the site: `/subjects/biology/`. How to add one: [../README.md](../README.md).
+17 lessons. On the site: `/subjects/biology/`. How to add one: [../README.md](../README.md).
 
-## Primary school (7)
+## Primary school (12)
 
 - [What Do Animals Need to Live?](animal-needs/) · Grades 1–2
 - [The Parts of a Plant](plant-parts/) · Grades 1–3
 - [What Do Plants Need to Grow?](plant-needs/) · Grades 2–3
 - [Habitats: The Right Home](habitats/) · Grades 2–3
+- [Flowers, Bees and Seeds](seeds-pollinators/) · Grades 2–5
 - [Life Cycles: Butterfly, Frog and Bean](life-cycles/) · Grades 3–5
 - [How Do We See and Hear?](senses/) · Grades 3–4
+- [Inside Your Body](inside-the-body/) · Grades 3–5
+- [Like Parents, Not Quite the Same](traits/) · Grade 3
 - [Food Chains: Who Eats Whom?](food-chains/) · Grades 4–5
+- [Food and Nutrition: A Balanced Plate](food-and-nutrition/) · Grades 4–5
+- [Fungi and Bacteria: Tiny Helpers and Germs](fungi-and-bacteria/) · Grades 4–5
 
 ## High school (5)
 

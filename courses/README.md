@@ -24,9 +24,9 @@ courses/
 
 A new lesson only touches its own folder (plus the subject's `README.md` and the map), so lessons for different subjects never conflict.
 
-## [Physics](physics/) (18)
+## [Physics](physics/) (21)
 
-### Primary school (8)
+### Primary school (11)
 
 - [Pushes and Pulls](physics/push-pull/) · Grades 1–2
 - [Where Does Sound Come From?](physics/making-sound/) · Grades 1–4
@@ -36,6 +36,9 @@ A new lesson only touches its own folder (plus the subject's `README.md` and the
 - [Magnets Pull and Push](physics/magnets/) · Grades 3–4
 - [Make the Bulb Light Up](physics/simple-circuit/) · Grades 4–5
 - [Waves on a Pond](physics/water-waves/) · Grades 4–5
+- [Speed and Energy](physics/speed-and-energy/) · Grades 4–5
+- [Where Does Heat Go?](physics/heat-flow/) · Grades 4–5
+- [Where Does Our Energy Come From?](physics/energy-sources/) · Grades 4–5
 
 ### High school (10)
 
@@ -50,14 +53,17 @@ A new lesson only touches its own folder (plus the subject's `README.md` and the
 - [Magnetic Field of an Electric Current](physics/current-field-step/) · Grades 10–12
 - [Brownian Motion and Diffusion](physics/brownian-step/) · Grades 10–12
 
-## [Chemistry](chemistry/) (29)
+## [Chemistry](chemistry/) (32)
 
-### Primary school (4)
+### Primary school (7)
 
 - [Ice, Water and Steam](chemistry/states-of-water/) · Grades 2–4
 - [What Is It Made Of?](chemistry/materials-properties/) · Grades 2–3
 - [Heat It, Cool It](chemistry/changing-materials/) · Grades 2–3
+- [Air Is All Around Us](chemistry/air-around-us/) · Grade 4
+- [Making Muddy Water Clean](chemistry/clean-water/) · Grades 4–5
 - [Mix, Dissolve, Separate](chemistry/mixtures-dissolving/) · Grade 5
+- [Everything Is Made of Tiny Particles](chemistry/tiny-particles/) · Grade 5
 
 ### High school (25)
 
@@ -87,17 +93,22 @@ A new lesson only touches its own folder (plus the subject's `README.md` and the
 - [The Chlor-Alkali Industry](chemistry/chlor-alkali-step/) · Grades 10–12
 - [Hou's Soda Process](chemistry/hou-soda-step/) · Grades 10–12
 
-## [Biology](biology/) (12)
+## [Biology](biology/) (17)
 
-### Primary school (7)
+### Primary school (12)
 
 - [What Do Animals Need to Live?](biology/animal-needs/) · Grades 1–2
 - [The Parts of a Plant](biology/plant-parts/) · Grades 1–3
 - [What Do Plants Need to Grow?](biology/plant-needs/) · Grades 2–3
 - [Habitats: The Right Home](biology/habitats/) · Grades 2–3
+- [Flowers, Bees and Seeds](biology/seeds-pollinators/) · Grades 2–5
 - [Life Cycles: Butterfly, Frog and Bean](biology/life-cycles/) · Grades 3–5
 - [How Do We See and Hear?](biology/senses/) · Grades 3–4
+- [Inside Your Body](biology/inside-the-body/) · Grades 3–5
+- [Like Parents, Not Quite the Same](biology/traits/) · Grade 3
 - [Food Chains: Who Eats Whom?](biology/food-chains/) · Grades 4–5
+- [Food and Nutrition: A Balanced Plate](biology/food-and-nutrition/) · Grades 4–5
+- [Fungi and Bacteria: Tiny Helpers and Germs](biology/fungi-and-bacteria/) · Grades 4–5
 
 ### High school (5)
 
@@ -107,16 +118,21 @@ A new lesson only touches its own folder (plus the subject's `README.md` and the
 - [Observing Mitosis in Root-Tip Meristem Cells](biology/mitosis-step/) · Grades 10–12
 - [Conditions Affecting Enzyme Activity](biology/enzyme-step/) · Grades 10–12
 
-## [Earth & Space](earth-space/) (20)
+## [Earth & Space](earth-space/) (25)
 
-### Primary school (6)
+### Primary school (11)
 
 - [Why Do We Have Day and Night?](earth-space/day-night/) · Grades 1–2
 - [How Do Shadows Change During the Day?](earth-space/shadows/) · Grades 1–2
 - [What Is the Weather Like Today?](earth-space/weather-watch/) · Grades 1–3
 - [How Do Wind and Water Shape the Land?](earth-space/erosion/) · Grades 2–4
+- [What Shapes Does the Land Have?](earth-space/landforms/) · Grades 2–3
 - [Why Does the Moon Change Shape?](earth-space/moon-phases/) · Grades 3–5
 - [What Can Rock Layers Tell Us?](earth-space/rocks-fossils/) · Grades 3–4
+- [Why Does the Ground Shake and Volcanoes Erupt?](earth-space/shaking-earth/) · Grades 4–5
+- [Where Is Earth's Water and How Does It Move?](earth-space/earths-water/) · Grades 4–5
+- [What Is Soil Made Of?](earth-space/soil/) · Grade 5
+- [The Sun, the Stars and Gravity](earth-space/sun-and-stars/) · Grade 5
 
 ### High school (14)
 

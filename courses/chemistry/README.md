@@ -2,14 +2,17 @@
 
 What things are made of and how they change: materials, mixtures, atoms and reactions.
 
-29 lessons. On the site: `/subjects/chemistry/`. How to add one: [../README.md](../README.md).
+32 lessons. On the site: `/subjects/chemistry/`. How to add one: [../README.md](../README.md).
 
-## Primary school (4)
+## Primary school (7)
 
 - [Ice, Water and Steam](states-of-water/) · Grades 2–4
 - [What Is It Made Of?](materials-properties/) · Grades 2–3
 - [Heat It, Cool It](changing-materials/) · Grades 2–3
+- [Air Is All Around Us](air-around-us/) · Grade 4
+- [Making Muddy Water Clean](clean-water/) · Grades 4–5
 - [Mix, Dissolve, Separate](mixtures-dissolving/) · Grade 5
+- [Everything Is Made of Tiny Particles](tiny-particles/) · Grade 5
 
 ## High school (25)
 

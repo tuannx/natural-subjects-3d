@@ -2,16 +2,21 @@
 
 Our planet and the sky: weather, rocks, water, climate, the Moon, the Sun and the planets.
 
-20 lessons. On the site: `/subjects/earth-space/`. How to add one: [../README.md](../README.md).
+25 lessons. On the site: `/subjects/earth-space/`. How to add one: [../README.md](../README.md).
 
-## Primary school (6)
+## Primary school (11)
 
 - [Why Do We Have Day and Night?](day-night/) · Grades 1–2
 - [How Do Shadows Change During the Day?](shadows/) · Grades 1–2
 - [What Is the Weather Like Today?](weather-watch/) · Grades 1–3
 - [How Do Wind and Water Shape the Land?](erosion/) · Grades 2–4
+- [What Shapes Does the Land Have?](landforms/) · Grades 2–3
 - [Why Does the Moon Change Shape?](moon-phases/) · Grades 3–5
 - [What Can Rock Layers Tell Us?](rocks-fossils/) · Grades 3–4
+- [Why Does the Ground Shake and Volcanoes Erupt?](shaking-earth/) · Grades 4–5
+- [Where Is Earth's Water and How Does It Move?](earths-water/) · Grades 4–5
+- [What Is Soil Made Of?](soil/) · Grade 5
+- [The Sun, the Stars and Gravity](sun-and-stars/) · Grade 5
 
 ## High school (14)
 
