@@ -2,7 +2,7 @@
 
 Living things: plants, animals, the human body, cells, ecosystems and heredity.
 
-29 lessons. On the site: `/subjects/biology/`. How to add one: [../README.md](../README.md).
+32 lessons. On the site: `/subjects/biology/`. How to add one: [../README.md](../README.md).
 
 ## Primary school (12)
 
@@ -19,7 +19,7 @@ Living things: plants, animals, the human body, cells, ecosystems and heredity.
 - [Food and Nutrition: A Balanced Plate](food-and-nutrition/) · Grades 4–5
 - [Fungi and Bacteria: Tiny Helpers and Germs](fungi-and-bacteria/) · Grades 4–5
 
-## Middle school (12)
+## Middle school (15)
 
 - [Cells: Plant and Animal Cells Under the Microscope](cells/) · Grade 6
 - [From Cells to Tissues, Organs and Systems](body-organization/) · Grade 6
@@ -33,6 +33,9 @@ Living things: plants, animals, the human body, cells, ecosystems and heredity.
 - [Breathing and the Lungs](breathing/) · Grade 8
 - [The Nervous System and Reflexes](nervous-system/) · Grade 8
 - [Ecosystems: Food Webs and Energy Pyramids](ecosystems/) · Grade 8
+- [Genes, DNA and Chromosomes](dna-genes/) · Grade 9
+- [Inheritance: Dominant and Recessive, Punnett Squares](inheritance/) · Grade 9
+- [Natural Selection and Evolution](natural-selection/) · Grade 9
 
 ## High school (5)
 

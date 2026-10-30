@@ -129,9 +129,9 @@ This is a map of topics, not a copy of either standard. Grade placement is a cho
 | 8 | Breathing and the lungs | MS-LS1-3 | KHTN 8: Hô hấp | `breathing` | ✅ |
 | 8 | The nervous system and reflexes | MS-LS1-8 | KHTN 8: Thần kinh và giác quan | `nervous-system` | ✅ |
 | 8 | Ecosystems: food webs and energy pyramids | MS-LS2-1, MS-LS2-3 | KHTN 8: Sinh thái | `ecosystems` | ✅ |
-| 9 | Genes, DNA and chromosomes | MS-LS3-1 | KHTN 9: Di truyền | `dna-genes` | ○ |
-| 9 | Inheritance: dominant and recessive, Punnett squares | MS-LS3-2 | KHTN 9: Di truyền | `inheritance` | ○ |
-| 9 | Natural selection and evolution | MS-LS4-4, MS-LS4-6 | KHTN 9: Tiến hóa | `natural-selection` | ○ |
+| 9 | Genes, DNA and chromosomes | MS-LS3-1 | KHTN 9: Di truyền | `dna-genes` | ✅ |
+| 9 | Inheritance: dominant and recessive, Punnett squares | MS-LS3-2 | KHTN 9: Di truyền | `inheritance` | ✅ |
+| 9 | Natural selection and evolution | MS-LS4-4, MS-LS4-6 | KHTN 9: Tiến hóa | `natural-selection` | ✅ |
 
 ### Earth & Space
 

@@ -125,7 +125,7 @@ A new lesson only touches its own folder (plus the subject's `README.md` and the
 - [The Chlor-Alkali Industry](chemistry/chlor-alkali-step/) · Grades 10–12
 - [Hou's Soda Process](chemistry/hou-soda-step/) · Grades 10–12
 
-## [Biology](biology/) (29)
+## [Biology](biology/) (32)
 
 ### Primary school (12)
 
@@ -142,7 +142,7 @@ A new lesson only touches its own folder (plus the subject's `README.md` and the
 - [Food and Nutrition: A Balanced Plate](biology/food-and-nutrition/) · Grades 4–5
 - [Fungi and Bacteria: Tiny Helpers and Germs](biology/fungi-and-bacteria/) · Grades 4–5
 
-### Middle school (12)
+### Middle school (15)
 
 - [Cells: Plant and Animal Cells Under the Microscope](biology/cells/) · Grade 6
 - [From Cells to Tissues, Organs and Systems](biology/body-organization/) · Grade 6
@@ -156,6 +156,9 @@ A new lesson only touches its own folder (plus the subject's `README.md` and the
 - [Breathing and the Lungs](biology/breathing/) · Grade 8
 - [The Nervous System and Reflexes](biology/nervous-system/) · Grade 8
 - [Ecosystems: Food Webs and Energy Pyramids](biology/ecosystems/) · Grade 8
+- [Genes, DNA and Chromosomes](biology/dna-genes/) · Grade 9
+- [Inheritance: Dominant and Recessive, Punnett Squares](biology/inheritance/) · Grade 9
+- [Natural Selection and Evolution](biology/natural-selection/) · Grade 9
 
 ### High school (5)
 
