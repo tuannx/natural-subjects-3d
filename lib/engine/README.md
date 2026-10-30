@@ -56,6 +56,8 @@ export default function setup(k) {
 }
 ```
 
+An `InstancedMesh` or `Points` whose count or positions change after the first frame needs `frustumCulled = false`: three.js keeps its first bounding sphere and may cull it.
+
 Widgets are cleared on every step change, so `step()` adds the ones that step needs. Use only `dt`/`t` for animation (never `Date.now()` or `performance.now()`), and seeded randomness, so the video exporter renders the same frames every time.
 
 `window.__lesson` (`goto(i)`, `renderAt(seconds)`, `steps`) lets the video exporter and tests drive a lesson frame by frame.

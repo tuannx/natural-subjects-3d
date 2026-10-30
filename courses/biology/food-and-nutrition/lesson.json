@@ -1,0 +1,95 @@
+{
+  "slug": "food-and-nutrition",
+  "order": 21,
+  "level": "primary",
+  "ages": "9-11",
+  "grades": [
+    4,
+    5
+  ],
+  "title": "Food and Nutrition: A Balanced Plate",
+  "type": "Human Body",
+  "question": "Why do I need to eat different kinds of food?",
+  "coverStep": 4,
+  "steps": [
+    "Why do we eat?",
+    "The food groups",
+    "Build a balanced plate",
+    "Water, sugar and salt",
+    "Where does the energy come from?",
+    "Keep food safe"
+  ],
+  "content": {
+    "steps": [
+      {
+        "title": "Why do we eat?",
+        "text": "Food does two big jobs. It gives us energy to run, play, think and stay warm. It also gives us the materials our bodies need to grow and to repair themselves, for example when a cut heals. When we play hard we use up energy, and food fills us up again.",
+        "try": "Press Play and watch the energy bar go down. Then press Eat a meal.",
+        "see": "While the child jumps and plays, the energy bar shrinks and turns red. After a meal the bar fills up and turns green again."
+      },
+      {
+        "title": "The food groups",
+        "text": "Foods are sorted into groups by what they give us. Grains like rice and bread give energy. Proteins like fish, eggs and beans help us grow and repair. Fruit and vegetables give vitamins, minerals and fibre to keep us healthy. Dairy foods like milk and cheese give calcium for strong bones and teeth. Fats and oils give energy too, but we need only a little.",
+        "try": "Tap each food group button.",
+        "see": "The foods in that group jump up off the table, and a label shows the group's name and its main job."
+      },
+      {
+        "title": "Build a balanced plate",
+        "text": "No single food has everything we need. A balanced meal has foods from different groups. Fill about half the plate with vegetables and fruit, about a quarter with grains, and about a quarter with protein, with some dairy on the side. Sweets like cupcakes are treats: a little now and then is fine.",
+        "try": "Tap the food buttons to put foods on the plate. Tap a food again to take it off.",
+        "see": "Each food goes to its own part of the plate. The balance meter moves toward green as you add more food groups, and drops when you add a cupcake."
+      },
+      {
+        "title": "Water, sugar and salt",
+        "text": "More than half of your body is water, and you lose some every day when you sweat and breathe. Water is the best drink. A can of fizzy drink has about 35 grams of sugar, like 8 or 9 sugar cubes. That is more than a child should have in a whole day! Snacks like crisps often have lots of added salt, and too much salt is bad for your heart.",
+        "try": "Tap Water, Fizzy drink and Crisps.",
+        "see": "Water brings no sugar cubes at all. The fizzy drink brings a pile of 9 sugar cubes. The crisps bring a heap of salt."
+      },
+      {
+        "title": "Where does the energy come from?",
+        "text": "Rice grains grow on rice plants. The plant used sunlight, water and air to make its own food, and stored some of it in its grains. So when you eat rice, you get energy that the plant caught from the Sun. The Food Chains lesson shows that this is true for almost all our food.",
+        "try": "Tap Rice, Rice plant and Sun to trace the energy back, one step at a time.",
+        "see": "Glowing arrows show the energy moving from the Sun to the rice plant, and from the plant to the bowl of rice."
+      },
+      {
+        "title": "Keep food safe",
+        "text": "Germs are tiny living things that we cannot see. Some germs make us ill if we eat them. In a warm room they grow very fast on food, but in a cold fridge they grow very slowly. So put leftovers in the fridge within about two hours. Always wash your hands with soap before you cook or eat, and wash fruit and vegetables too.",
+        "try": "Move the Hours slider to leave the two bowls of rice for longer.",
+        "see": "The green dots stand for germs. On the warm table they double again and again. In the cold fridge there are only a few more."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Which foods mostly help your body grow and repair itself?",
+        "options": [
+          "Sweets and fizzy drinks",
+          "Proteins like fish, eggs and beans",
+          "Fats and oils"
+        ],
+        "answer": 1,
+        "why": "Proteins are the building materials our bodies use to grow and to repair things like cuts and muscles."
+      },
+      {
+        "q": "Where did the energy in a bowl of rice first come from?",
+        "options": [
+          "The Sun",
+          "The bowl",
+          "The water it was cooked in"
+        ],
+        "answer": 0,
+        "why": "The rice plant used sunlight to make food and stored it in its grains. Eating rice passes that energy on to you."
+      },
+      {
+        "q": "Why should leftovers go into the fridge?",
+        "options": [
+          "Cold makes food sweeter",
+          "Cold slows down the germs that grow on food",
+          "Cold adds vitamins"
+        ],
+        "answer": 1,
+        "why": "Germs grow fast on warm food. In the cold they grow very slowly, so the food stays safe to eat for longer."
+      }
+    ]
+  },
+  "source": "original"
+}

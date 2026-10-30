@@ -1,0 +1,64 @@
+{
+  "slug": "heat-flow",
+  "order": 22,
+  "level": "primary",
+  "ages": "9-11",
+  "grades": [4, 5],
+  "title": "Where Does Heat Go?",
+  "type": "Energy",
+  "coverStep": 1,
+  "question": "Why does hot cocoa get cold if you leave it on the table?",
+  "steps": ["Hot, cold and in between", "Heat moves from hot to cold", "Until they are the same", "The spoon race", "Conductors and insulators", "Wool keeps it warm", "Wool keeps it cold too"],
+  "content": {
+    "steps": [
+      {
+        "title": "Hot, cold and in between",
+        "text": "Heat is a kind of energy. A thermometer tells us how hot or cold something is. We measure this in degrees Celsius (°C). Here is a mug of hot cocoa, a glass of water with ice in it, and a thermometer in the air of the room.",
+        "try": "Tap Hot cocoa, Ice water and Air to look at each thermometer.",
+        "see": "The cocoa is the hottest, about 70 °C. The ice water is the coldest, about 0 °C. The air in the room is in between, about 20 °C."
+      },
+      {
+        "title": "Heat moves from hot to cold",
+        "text": "When a warm thing touches a cold thing, heat moves from the warm thing into the cold thing. It never goes the other way by itself. The orange dots show heat moving. Watch what happens when we drop an ice cube into the hot cocoa.",
+        "try": "Press Drop in an ice cube. Press Start again to do it once more.",
+        "see": "Heat moves out of the cocoa and into the ice. The ice melts, and the cocoa loses some heat, so it gets a little cooler."
+      },
+      {
+        "title": "Until they are the same",
+        "text": "A hot drink left on the table gives its heat to the air around it, so it cools down. A cold drink takes in heat from the air, so it warms up. Both keep changing until they are the same temperature as the room. Then the heat stops moving.",
+        "try": "Move the Time slider to see the drinks after more and more minutes.",
+        "see": "The cocoa cools down and the cold juice warms up. Both end up at about 20 °C, the same as the air. The orange dots slow down and stop."
+      },
+      {
+        "title": "The spoon race",
+        "text": "Three spoons stand in a bowl of hot water. One is metal, one is wood and one is plastic. Heat moves up each spoon from the hot water. The redder a spoon looks, the hotter it is. Which handle will get hot first?",
+        "try": "Press Put the spoons in, and watch the handles. Press Take them out to start again.",
+        "see": "Heat races up the metal spoon and its handle soon gets hot. The wooden and plastic handles stay cool for a long time."
+      },
+      {
+        "title": "Conductors and insulators",
+        "text": "Heat moves easily through metals. We call them good conductors of heat. Heat moves very slowly through wood, plastic, wool and air. We call them insulators. Pans are made of metal so heat gets to the food quickly. Their handles are often wood or plastic, so you can hold them.",
+        "try": "Tap Metal handle, Wooden handle and Plastic handle to change the pan's handle.",
+        "see": "With a metal handle, the heat spreads all the way to the end, so it would burn your hand. A wooden or plastic handle stays cool."
+      },
+      {
+        "title": "Wool keeps it warm",
+        "text": "Insulation is a layer that slows down heat. Here are two cups of hot water. One cup is wrapped in wool. Wool traps lots of tiny pockets of air, and air is a good insulator. So heat leaves the wrapped cup much more slowly.",
+        "try": "Press Start the timer and watch both thermometers and the chart. Press Reset to try again.",
+        "see": "The bare cup cools down fast. The cup in wool stays hot much longer. On the chart, the purple wool line drops more slowly."
+      },
+      {
+        "title": "Wool keeps it cold too",
+        "text": "Insulation does not only keep hot things hot. It also keeps cold things cold, because it slows down heat moving in from the warm room. Here are two ice cubes in cups, one wrapped in wool and one bare. Which one will melt first?",
+        "try": "Press Start the timer and watch the ice. Press Reset to try again.",
+        "see": "Heat from the room gets into the bare cup quickly, so its ice melts first. The wool slows the heat down, so that ice lasts much longer. A cool box for a picnic works the same way."
+      }
+    ],
+    "quiz": [
+      { "q": "A mug of hot cocoa is left on the table for a long time. What happens?", "options": ["It gets colder and colder until it is colder than the room", "It cools down until it is the same temperature as the room", "It stays hot forever"], "answer": 1, "why": "Heat moves from the warm cocoa into the cooler air. When the cocoa is as warm as the room, the heat stops moving, so it stops cooling." },
+      { "q": "Why do many pans have wooden or plastic handles?", "options": ["Wood and plastic are insulators, so the handle stays cool", "Wood and plastic make the food cook faster", "Wood and plastic are good conductors of heat"], "answer": 0, "why": "Heat moves very slowly through wood and plastic, so the handle does not get hot. The metal pan is a good conductor, so it heats the food." },
+      { "q": "You want an ice pop to stay frozen on a warm day. What should you do?", "options": ["Put it on a metal tray in the sun", "Wrap it in a wool scarf or put it in a cool box", "Hold it tightly in your warm hand"], "answer": 1, "why": "Wool and cool boxes are insulators. They slow down the heat moving in from the warm air, so the ice pop melts more slowly." }
+    ]
+  },
+  "source": "original"
+}

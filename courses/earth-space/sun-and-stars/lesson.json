@@ -1,0 +1,58 @@
+{
+  "slug": "sun-and-stars",
+  "order": 24,
+  "level": "primary",
+  "ages": "10-11",
+  "grades": [5, 5],
+  "title": "The Sun, the Stars and Gravity",
+  "type": "Earth & Space",
+  "coverStep": 5,
+  "question": "If the Sun is a star, why do the other stars look so tiny?",
+  "steps": ["The Sun is a star", "Near and far lights", "The Sun and the other stars", "Which way is down?", "Stars move across the sky", "Different stars in each season"],
+  "content": {
+    "steps": [
+      {
+        "title": "The Sun is a star",
+        "text": "The Sun is a star. Like every star, it is a giant ball of very hot, glowing gas. It is the closest star to Earth, so it looks big and bright to us. It is huge: about 109 Earths could fit side by side across it.",
+        "try": "Turn on Show Earth to compare their sizes. Drag the picture to look around the Sun.",
+        "see": "Next to the Sun, the Earth is only a tiny dot. (In real life the Earth is much farther from the Sun than in this picture.)"
+      },
+      {
+        "title": "Near and far lights",
+        "text": "Look down a street at night. All the lamps are the same, but the far ones look smaller and dimmer. Light spreads out as it travels, so less of it reaches your eyes from a lamp that is far away.",
+        "try": "Move the Far lamp slider to send the red-post lamp down the street.",
+        "see": "The farther away the lamp goes, the smaller and dimmer it looks, even though it gives out just as much light."
+      },
+      {
+        "title": "The Sun and the other stars",
+        "text": "The stars you see at night are suns too. Some are even bigger and brighter than our Sun. They look like tiny dots because they are very, very far away. The next nearest star is about 270,000 times farther from us than the Sun.",
+        "try": "Move the Push the Sun away slider to see how the Sun would look from far away.",
+        "see": "As the Sun moves away, it shrinks to a small dot and gets dimmer, until it looks just like the other stars."
+      },
+      {
+        "title": "Which way is down?",
+        "text": "Gravity is a pull. The Earth's gravity pulls everything toward the centre of the Earth. So 'down' always means toward the middle of the Earth, wherever you stand. That is why people on the other side of the world do not fall off.",
+        "try": "Press Drop the balls. Turn on Show the pull to see which way gravity pulls.",
+        "see": "Every ball falls toward the middle of the Earth and lands at the person's feet, even for the person at the bottom."
+      },
+      {
+        "title": "Stars move across the sky",
+        "text": "At night the stars seem to move slowly across the sky. They are not really moving: the Earth is turning, the same reason the Sun seems to move in the day. Look north and the stars circle around the Pole Star, which hardly moves. Star patterns are called constellations. The Big Dipper is part of one called the Great Bear.",
+        "try": "Move the Time slider, or press Play, to watch from evening to early morning. Turn on Star trails.",
+        "see": "The Big Dipper and Cassiopeia turn in a circle around the Pole Star, against the clock. The Pole Star stays in the same place."
+      },
+      {
+        "title": "Different stars in each season",
+        "text": "The Earth also travels around the Sun once a year. At night, your side of the Earth faces away from the Sun, out into space. As the Earth moves, the night side faces different stars. So we see different constellations in winter and in summer.",
+        "try": "Tap Winter, Spring, Summer and Autumn to move the Earth around the Sun.",
+        "see": "For us in the northern half of the world, winter nights face Orion and summer nights face Scorpius. The stars behind the Sun are hidden by daylight."
+      }
+    ],
+    "quiz": [
+      { "q": "Why does the Sun look so much bigger and brighter than the other stars?", "options": ["It is the biggest star there is", "It is much closer to us than the other stars", "It is the only star that gives off light"], "answer": 1, "why": "The Sun is a middle-sized star. It looks big and bright because it is the closest star to Earth. The other stars are much, much farther away." },
+      { "q": "A child in Australia drops a ball. Which way does it fall?", "options": ["Toward the centre of the Earth, onto the ground", "Up into space", "Sideways"], "answer": 0, "why": "Gravity pulls everything toward the centre of the Earth, so 'down' is toward the middle of the Earth wherever you are." },
+      { "q": "Why do the stars seem to move across the night sky?", "options": ["The stars fly around the Earth each night", "The Earth is turning", "The Moon pushes them"], "answer": 1, "why": "The Earth spins once a day. As it turns, the stars seem to move across the sky, just like the Sun does in the day." }
+    ]
+  },
+  "source": "original"
+}

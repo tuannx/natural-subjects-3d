@@ -1,0 +1,58 @@
+{
+  "slug": "speed-and-energy",
+  "order": 21,
+  "level": "primary",
+  "ages": "9-11",
+  "grades": [4, 5],
+  "title": "Speed and Energy",
+  "type": "Energy",
+  "coverStep": 4,
+  "question": "Why does a fast toy car knock things over harder than a slow one?",
+  "steps": ["Moving things have energy", "Higher start, faster car", "Faster car, bigger push", "Energy passes along", "Bang! Sound and heat", "Energy changes form"],
+  "content": {
+    "steps": [
+      {
+        "title": "Moving things have energy",
+        "text": "Energy is what makes things move, change, light up, make sounds or get warm. Anything that is moving has energy. This is called energy of motion. A rolling car has energy, and it can pass that energy to other things.",
+        "try": "Press Roll the car. Press Build the tower again to try once more.",
+        "see": "The moving car hits the tower and the blocks fly and tumble. The car passed some of its energy to the blocks."
+      },
+      {
+        "title": "Higher start, faster car",
+        "text": "Let a toy car go from a mark on a ramp. The higher the mark, the faster the car is going when it reaches the bottom. A car high up has stored energy because of its height. As it rolls down, that stored energy changes into energy of motion.",
+        "try": "Tap Low, Middle or High to let the car go from that mark.",
+        "see": "From the High mark the car is going fastest at the bottom. From the Low mark it is going slowest."
+      },
+      {
+        "title": "Faster car, bigger push",
+        "text": "Now a wooden block sits at the bottom of the ramp. A faster car has more energy, so it can give the block a bigger push. A flag marks where the block stops each time.",
+        "try": "Tap Low, Middle and High, and compare where the flags land.",
+        "see": "The faster the car, the farther it pushes the block. The flag for High is much farther away than the flag for Low."
+      },
+      {
+        "title": "Energy passes along",
+        "text": "This toy is a row of metal balls hanging on strings. When one ball swings in and hits the row, its energy passes from ball to ball through the row. The middle balls hardly move, but the ball at the far end swings out.",
+        "try": "Press Swing one ball, then Swing two balls.",
+        "see": "One ball in makes one ball swing out at the other end. Two balls in make two balls swing out. The energy passes through the middle balls."
+      },
+      {
+        "title": "Bang! Sound and heat",
+        "text": "When things crash into each other, some of the energy changes into sound. That is why a crash goes bang. Some energy also changes into a little heat, so the parts that hit get a tiny bit warmer. Clap your hands hard many times and feel them get warm!",
+        "try": "Press Slow crash, then Fast crash, and compare the bang.",
+        "see": "The rings show the sound spreading out, and the orange glow shows a little heat where they hit. A faster crash makes a bigger bang."
+      },
+      {
+        "title": "Energy changes form",
+        "text": "Energy can change from one form to another. The car high up has stored energy. Rolling down, it changes into energy of motion. In the crash and as the block slides, it changes into sound and heat. The energy is not used up. It just changes form. A flashlight changes the stored energy in its battery into light.",
+        "try": "Press Let go and watch the chart while the car rolls and crashes.",
+        "see": "The stored bar goes down as the motion bar goes up. After the crash, the sound and heat bar grows until all the energy is there."
+      }
+    ],
+    "quiz": [
+      { "q": "Two cars roll into a block. Which one pushes the block farthest?", "options": ["The slower car", "The faster car", "They push it the same distance"], "answer": 1, "why": "A faster car has more energy, so it can give the block a bigger push." },
+      { "q": "From which mark on a ramp does a toy car reach the bottom going fastest?", "options": ["The highest mark", "The lowest mark", "It does not matter"], "answer": 0, "why": "A car higher up has more stored energy. Rolling down, more of it changes into energy of motion, so it goes faster." },
+      { "q": "Why does a crash go bang?", "options": ["Energy is destroyed in the crash", "Some of the energy changes into sound", "The air becomes heavier"], "answer": 1, "why": "In a crash, some of the moving energy changes into sound, and some into a little heat. Energy is never destroyed, it just changes form." }
+    ]
+  },
+  "source": "original"
+}

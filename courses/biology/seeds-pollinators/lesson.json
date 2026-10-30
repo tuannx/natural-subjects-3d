@@ -1,0 +1,63 @@
+{
+  "slug": "seeds-pollinators",
+  "order": 22,
+  "level": "primary",
+  "ages": "7-11",
+  "grades": [2, 5],
+  "title": "Flowers, Bees and Seeds",
+  "type": "Living Things",
+  "question": "How does a flower make seeds, and how do seeds get to new places?",
+  "steps": ["Flowers make seeds", "Bees carry pollen", "From flower to fruit", "Seeds ride the wind", "Seeds ride on animals", "Seeds float and pop", "A seed starts to grow"],
+  "content": {
+    "steps": [
+      {
+        "title": "Flowers make seeds",
+        "text": "Many plants grow flowers. A flower is where a plant makes its seeds. A bud opens into a flower with bright petals. In the middle there is a yellow powder called pollen. To make seeds, a flower needs pollen from another flower of the same kind.",
+        "try": "Press Close the buds, then Open the flowers.",
+        "see": "The closed buds open into pink flowers. Each flower has yellow pollen dots in its middle."
+      },
+      {
+        "title": "Bees carry pollen",
+        "text": "Bees visit flowers to drink sweet nectar. Pollen sticks to their hairy bodies. At the next flower, some of that pollen rubs off onto the sticky tip in the middle. Moving pollen from flower to flower is called pollination. Butterflies, some birds and even bats carry pollen too.",
+        "try": "Tap the Flower buttons to send the bee from one flower to another.",
+        "see": "The bee picks up yellow pollen at each flower. When it lands on a different flower, pollen sticks to that flower's green tip, and the count goes up."
+      },
+      {
+        "title": "From flower to fruit",
+        "text": "After a flower gets pollen, it starts to change. The petals dry up and fall off. The middle of the flower swells and grows into a fruit. Inside the fruit are the seeds. A flower that got no pollen just dries up and makes no seeds.",
+        "try": "Move the Time slider from flowers to ripe fruits.",
+        "see": "Three flowers lose their petals and grow red fruits. The first flower got no pollen, so it droops and makes no fruit. The cut fruit shows the seeds inside."
+      },
+      {
+        "title": "Seeds ride the wind",
+        "text": "A plant cannot walk, so its seeds must travel to find space to grow. Dandelion seeds have tiny fluffy parachutes. The wind picks them up and carries them far away from the parent plant.",
+        "try": "Move the Wind slider. Press New dandelion to try again.",
+        "see": "With no wind the seeds stay put. The stronger the wind, the more seeds fly off, and the farther they float before they land."
+      },
+      {
+        "title": "Seeds ride on animals",
+        "text": "Animals carry seeds too. A bird eats a juicy berry. The seed inside passes through the bird and lands far away in its droppings. Burrs are seed cases covered in tiny hooks. They catch on an animal's fur and fall off later, somewhere new.",
+        "try": "Press Bird eats a berry, then press Rabbit hops past.",
+        "see": "The bird flies off with the berry and a seed drops near the post, where a new plant sprouts. The burrs stick to the rabbit and fall off far from their plant."
+      },
+      {
+        "title": "Seeds float and pop",
+        "text": "Some seeds travel by water. A coconut is a big seed that floats. The sea can carry it to a beach far away, where it can grow into a new palm tree. Other plants shoot their seeds out. The ripe pods of a touch-me-not plant burst open and fling their seeds away.",
+        "try": "Press Float the coconut, then press Pop the pod.",
+        "see": "The coconut bobs across the water to the other island and sprouts. The pod splits open and its seeds fly out in all directions."
+      },
+      {
+        "title": "A seed starts to grow",
+        "text": "When a seed lands in the soil, it can rest for a long time. It starts to grow when it gets water and warmth. The soil also has a little air, which the seed needs too. First a root grows down. Then a shoot grows up toward the light.",
+        "try": "Switch Water and Warmth on and off. Find out which one the seed needs.",
+        "see": "The seed only sprouts when both Water and Warmth are on. With just one of them, it waits."
+      }
+    ],
+    "quiz": [
+      { "q": "What does a bee carry from one flower to another?", "options": ["Seeds", "Pollen", "Water"], "answer": 1, "why": "Pollen sticks to the bee's hairy body, and some rubs off on the next flower. Moving pollen like this is called pollination." },
+      { "q": "How do dandelion seeds travel to new places?", "options": ["The wind carries them on fluffy parachutes", "They float across the sea", "They stick to a bird's beak"], "answer": 0, "why": "Each dandelion seed has a tiny parachute, so the wind can lift it and carry it far away." },
+      { "q": "A seed is lying in the soil. What does it need to start growing?", "options": ["Cold and darkness", "Water and warmth", "Nothing at all"], "answer": 1, "why": "A seed wakes up and sprouts when it gets water and warmth (and a little air from the soil)." }
+    ]
+  },
+  "source": "original"
+}

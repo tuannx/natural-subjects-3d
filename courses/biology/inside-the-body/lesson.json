@@ -1,0 +1,64 @@
+{
+  "slug": "inside-the-body",
+  "order": 21,
+  "level": "primary",
+  "ages": "8-11",
+  "grades": [3, 5],
+  "title": "Inside Your Body",
+  "type": "Human Body",
+  "question": "What is going on inside my body when I run, breathe and eat?",
+  "steps": ["Parts that work together", "Bones hold you up", "Muscles pull on bones", "The heart pumps blood", "Lungs take in air", "The journey of food", "The brain is the boss"],
+  "content": {
+    "steps": [
+      {
+        "title": "Parts that work together",
+        "text": "Your body is made of many parts. Each part has its own job: bones, muscles, the heart, the lungs, the stomach and the brain. Parts that work together on one job make a system. All the systems work together to keep you alive and moving.",
+        "try": "Tap the buttons to see one part of the body at a time. Tap All to see them together.",
+        "see": "Each button shows a different system inside the see-through body, and the readout says what its job is."
+      },
+      {
+        "title": "Bones hold you up",
+        "text": "Your skeleton is the frame of your body. A grown-up has 206 bones. Bones hold you up, give you your shape and protect the soft parts inside. A baby has even more bones, and some of them join together as the baby grows.",
+        "try": "Tap Skull, Ribs, Spine and Leg bones to light each one up.",
+        "see": "The skull wraps around the brain, the ribs make a cage around the chest, the spine runs down the back, and long leg bones carry your weight."
+      },
+      {
+        "title": "Muscles pull on bones",
+        "text": "Muscles move your bones. A muscle can only pull, never push, so muscles work in pairs. To bend your arm, the biceps on the front of your upper arm gets shorter and pulls your lower arm up. To straighten it, the triceps on the back pulls instead.",
+        "try": "Move the Bend the arm slider. Watch the biceps.",
+        "see": "As the arm bends, the biceps gets shorter and fatter (it bulges). When the arm straightens, the biceps gets long and thin again."
+      },
+      {
+        "title": "The heart pumps blood",
+        "text": "Your heart is a strong muscle about the size of your fist. It pumps blood through tubes called blood vessels, all around your body and back again. Blood carries oxygen and food to every part. When you exercise, your muscles need more, so your heart beats faster. Exercise also makes your heart stronger.",
+        "try": "Switch Exercise on and off.",
+        "see": "When the child runs, the heart beats faster and the blood dots race around the body more quickly."
+      },
+      {
+        "title": "Lungs take in air",
+        "text": "When you breathe in, air goes down your windpipe into your two lungs. A muscle under the lungs, the diaphragm, moves down to make room. Your lungs pass oxygen from the air into your blood. When you breathe out, used air with a gas called carbon dioxide goes out.",
+        "try": "Watch the lungs breathe, then switch Exercise on.",
+        "see": "The lungs grow bigger as air flows in and smaller as it flows out. With Exercise on, the breaths come faster and deeper."
+      },
+      {
+        "title": "The journey of food",
+        "text": "Your teeth chew food into small pieces. You swallow, and the food goes down the food pipe to the stomach. The stomach mixes it into mush. In the small intestine, the useful parts of food pass into your blood. The large intestine takes back water, and the rest leaves your body as waste.",
+        "try": "Press Eat an apple and follow the food on its journey.",
+        "see": "The apple goes down the food pipe, gets churned in the stomach, winds through the coiled small intestine and ends in the large intestine."
+      },
+      {
+        "title": "The brain is the boss",
+        "text": "Your brain controls your whole body. Messages travel very fast along nerves. The spinal cord, inside your spine, is the main path between the brain and the body. Your senses send messages to the brain, and the brain sends messages to your muscles. Sleep gives your brain the rest it needs.",
+        "try": "Press Throw the ball and watch the messages travel.",
+        "see": "A spark runs from the eyes to the brain. Then a spark runs down the spinal cord and along the arm nerves, and the arm moves up to catch the ball."
+      }
+    ],
+    "quiz": [
+      { "q": "Which bones make a cage that protects your heart and lungs?", "options": ["The skull", "The ribs", "The leg bones"], "answer": 1, "why": "The ribs curve around your chest like a cage. The skull protects the brain." },
+      { "q": "What does your heart do?", "options": ["It pumps blood around the body", "It breaks down food", "It takes in air"], "answer": 0, "why": "The heart is a muscle that pumps blood through blood vessels to every part of the body." },
+      { "q": "Why does your heart beat faster when you run?", "options": ["Your muscles need more oxygen, so more blood must flow", "Your stomach is full", "Your bones are growing"], "answer": 0, "why": "Working muscles need more oxygen and food. The heart beats faster to send them more blood, and you breathe faster to get more oxygen." }
+    ]
+  },
+  "coverStep": 7,
+  "source": "original"
+}

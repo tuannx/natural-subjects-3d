@@ -1,0 +1,58 @@
+{
+  "slug": "tiny-particles",
+  "order": 21,
+  "level": "primary",
+  "ages": "10-11",
+  "grades": [5, 5],
+  "title": "Everything Is Made of Tiny Particles",
+  "type": "Matter",
+  "coverStep": 5,
+  "question": "When sugar disappears in water, is it still there?",
+  "steps": ["Too small to see", "Sugar breaks into particles", "The sugar is still there", "Dissolving keeps the mass", "Melting and freezing keep the mass", "Smells spread out"],
+  "content": {
+    "steps": [
+      {
+        "title": "Too small to see",
+        "text": "Everything around us is made of particles: water, air, sugar and even you. They are so tiny that no magnifying glass can show them, and a glass of water holds far too many to count. In water, the particles are close together and always moving. We draw them as dots, much bigger than they really are.",
+        "try": "Move the Zoom slider to zoom into the water.",
+        "see": "Up close, the water is not smooth at all. It is a crowd of tiny particles, always jiggling and sliding past each other."
+      },
+      {
+        "title": "Sugar breaks into particles",
+        "text": "In the Mix, Dissolve, Separate lesson you saw sugar vanish in water. A sugar cube is made of sugar particles packed tightly together. In water, the sugar particles come away from the cube one by one. The cube gets smaller until you cannot see it, but its particles are now spread all through the water.",
+        "try": "Press Drop the sugar cube. Turn Show sugar particles off and on.",
+        "see": "The cube shrinks and disappears. Its particles spread out between the water particles until they fill the whole glass."
+      },
+      {
+        "title": "The sugar is still there",
+        "text": "How do we know the sugar is still in the water? Taste it: sugar water tastes sweet. Or leave the sugar water in a warm, sunny place. The water slowly evaporates into the air as water vapour, but the sugar particles stay behind.",
+        "try": "Press Taste it. Then press Leave it in the sun.",
+        "see": "The water level drops until the dish is dry, and white sugar crystals are left. The sugar was there all along."
+      },
+      {
+        "title": "Dissolving keeps the mass",
+        "text": "Put a glass of water and a sugar cube on one pan of a balance, and weights on the other pan, so the balance is level. For example, 250 g of glass and water plus a sugar cube of about 4 g make 254 g. Now drop the sugar into the water. It dissolves, but all its particles are still in the glass.",
+        "try": "Press Dissolve the sugar. Then press Start again.",
+        "see": "The cube disappears, but the balance stays level. The mass is still 254 g."
+      },
+      {
+        "title": "Melting and freezing keep the mass",
+        "text": "Ice in a closed jar melts into water. Then we put the jar in a freezer and the water freezes again. No particles get in or out of the closed jar, so the mass stays the same. Ice takes up a little more space than the water it came from, but it is not heavier.",
+        "try": "Press Melt it. Then press Freeze it.",
+        "see": "The ice turns to water and back to ice, and the balance stays level the whole time. The frozen block reaches a little higher in the jar than the water did."
+      },
+      {
+        "title": "Smells spread out",
+        "text": "When you open a bottle of perfume, soon people across the room can smell it. Perfume particles leave the bottle and move around. They bump into air particles again and again, so they spread out all through the room. In a warm room the particles move faster, so the smell spreads faster.",
+        "try": "Press Open the bottle. Then turn on Warm room and press Start again.",
+        "see": "The pink perfume particles spread out from the bottle until some reach the child, who can smell it. In the warm room they get there sooner."
+      }
+    ],
+    "quiz": [
+      { "q": "Sugar dissolves in water and you cannot see it any more. Where is the sugar?", "options": ["It is gone for good", "Its particles are spread all through the water", "It has turned into water"], "answer": 1, "why": "The sugar breaks into particles too small to see. They are still there: the water tastes sweet, and the sugar is left behind when the water evaporates." },
+      { "q": "A glass of water and a sugar cube have a mass of 254 g together. What is the mass after the sugar dissolves?", "options": ["Less than 254 g", "Still 254 g", "More than 254 g"], "answer": 1, "why": "No particles are lost when sugar dissolves. They are all still in the glass, so the mass stays the same." },
+      { "q": "Why can you smell perfume from across the room?", "options": ["Perfume particles move and spread out through the air", "Air particles turn into perfume", "The smell stays inside the bottle"], "answer": 0, "why": "Perfume particles keep moving and bumping into air particles, so they spread through the whole room and reach your nose." }
+    ]
+  },
+  "source": "original"
+}

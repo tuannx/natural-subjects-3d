@@ -1,0 +1,64 @@
+{
+  "slug": "clean-water",
+  "order": 21,
+  "level": "primary",
+  "ages": "9-11",
+  "grades": [4, 5],
+  "title": "Making Muddy Water Clean",
+  "type": "Matter",
+  "coverStep": 3,
+  "question": "How can we make muddy water safe to drink?",
+  "steps": ["Water dissolves and carries things", "Let it settle", "Build a water filter", "Pour the muddy water", "Clear is not the same as safe", "Boil it before you drink", "Save water"],
+  "content": {
+    "steps": [
+      {
+        "title": "Water dissolves and carries things",
+        "text": "Water is very good at dissolving things. Salt and sugar dissolve in water and seem to vanish. Water can also carry things that do not dissolve, like tiny bits of soil. That is what makes muddy water look brown and cloudy.",
+        "try": "Press Add salt, then press Add mud.",
+        "see": "The salt disappears and the water stays clear. The mud makes the water brown and cloudy, with bits floating in it."
+      },
+      {
+        "title": "Let it settle",
+        "text": "If you leave muddy water to stand still, the bits of soil slowly sink to the bottom. This is called settling. Big, heavy bits sink fast. Very tiny bits sink slowly, so the water can stay a little cloudy for a long time.",
+        "try": "Move the Time waited slider.",
+        "see": "A layer of mud builds up at the bottom of the jar, and the water above it becomes clearer."
+      },
+      {
+        "title": "Build a water filter",
+        "text": "We can clean water even more with a filter made from a plastic bottle. Each layer has a job. Gravel at the top catches big bits like leaves and grit. Sand catches smaller bits of mud. Charcoal holds on to some of the things that cause bad smells, colours and tastes. Cotton at the bottom stops the sand and charcoal from falling out.",
+        "try": "Tap each layer's button to see its job.",
+        "see": "The water must pass through every layer, from the big gaps between the pebbles to the tiny gaps between the sand grains."
+      },
+      {
+        "title": "Pour the muddy water",
+        "text": "Pour muddy water into the top of the filter. It trickles down slowly through the layers. Bits of dirt get stuck in the gaps, and much cleaner water drips out of the bottom.",
+        "try": "Press Pour muddy water. Press it again to pour more.",
+        "see": "Brown water goes in at the top. Much clearer water drips into the glass, and the top layers turn dirty brown."
+      },
+      {
+        "title": "Clear is not the same as safe",
+        "text": "The filtered water looks clean, but it may still hold germs. Germs are tiny living things, far too small to see, and some of them can make us ill. A sand filter cannot catch them all.",
+        "try": "Turn Magnify off and on.",
+        "see": "The magnifier shows germs swimming in the water that looked clean."
+      },
+      {
+        "title": "Boil it before you drink",
+        "text": "Heat kills germs. Bring the water to a full boil, with big bubbles rising all the time, and keep it boiling for about one minute. Then let it cool and keep it in a clean, covered container. Always ask an adult to help with boiling water.",
+        "try": "Press Boil the water.",
+        "see": "The thermometer climbs to 100 °C, big bubbles rise and the germs die. Boiling does not take out salt or other dissolved things, though."
+      },
+      {
+        "title": "Save water",
+        "text": "Clean water takes work to make, so we should not waste it. A tap that drips once every second drips 3,600 times in an hour and 86,400 times in a day. Over a year, that can add up to thousands of litres. Fix leaks, and turn the tap off while you brush your teeth.",
+        "try": "Turn on Fast forward. Then press Fix the tap.",
+        "see": "Drop by drop, the bucket fills up. Once the tap is fixed, no more water is wasted."
+      }
+    ],
+    "quiz": [
+      { "q": "Which layer of a home-made filter catches the biggest bits, like leaves?", "options": ["The gravel at the top", "The cotton at the bottom", "The charcoal"], "answer": 0, "why": "The water reaches the gravel first. Big bits get stuck in the gaps between the pebbles." },
+      { "q": "Filtered water looks clear. Is it safe to drink right away?", "options": ["Yes, clear water is always safe", "No, it may still have germs, so boil it first", "Yes, if it is cold"], "answer": 1, "why": "A sand filter cannot catch all germs. Boiling the water for about a minute kills them." },
+      { "q": "What happens when muddy water stands still for a long time?", "options": ["The mud dissolves", "The mud slowly sinks to the bottom", "The water turns into mud"], "answer": 1, "why": "Bits of soil are heavier than water, so they slowly settle to the bottom." }
+    ]
+  },
+  "source": "original"
+}
