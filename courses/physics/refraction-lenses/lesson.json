@@ -1,0 +1,71 @@
+{
+  "slug": "refraction-lenses",
+  "order": 50,
+  "level": "middle",
+  "ages": "14-15",
+  "grades": [9, 9],
+  "title": "Refraction and Lenses",
+  "type": "Light",
+  "coverStep": 4,
+  "question": "Why does light bend when it goes into glass or water, and how do lenses use that to make images?",
+  "steps": ["Refraction: light changes direction", "Shallow pools and bent sticks", "Total internal reflection", "Optical fibres", "A prism splits white light", "Converging and diverging lenses", "Real images from a converging lens", "The magnifying glass"],
+  "content": {
+    "steps": [
+      {
+        "title": "Refraction: light changes direction",
+        "text": "Light travels at about 300,000 km/s in air, but more slowly in water (about 225,000 km/s) and glass (about 200,000 km/s). When a ray crosses at a slant from one material into another, the change of speed makes it change direction. This is refraction. We measure angles from the normal, a line at 90° to the surface. Going into a slower material, the ray bends toward the normal, so the angle of refraction (r) is smaller than the angle of incidence (i). The refractive index n says how much a material slows light: about 1.00 for air, 1.33 for water and 1.5 for glass. Snell's law, n₁ × sin i = n₂ × sin r, is how the angles are worked out.",
+        "try": "Move the Angle of incidence slider, then press Water and compare.",
+        "see": "The ray always bends toward the normal inside the block, and r is always smaller than i. At 0° it goes straight on without bending. Water bends the ray less than glass, because its refractive index is smaller. The ray leaves through the curved side without bending, because it meets that surface along a radius, at 90°."
+      },
+      {
+        "title": "Shallow pools and bent sticks",
+        "text": "Light from a coin at the bottom of a pool bends away from the normal as it leaves the water, because it speeds up. Your brain thinks light travels in straight lines, so it traces the rays back along the dashed lines. The coin seems to be higher than it really is, so the pool looks shallower than it is. Seen from straight above, water looks about three quarters of its real depth (real depth ÷ 1.33). The same effect makes a stick or a pencil dipped in water look bent at the surface.",
+        "try": "Move the Pool depth slider. Turn on Show the real stick.",
+        "see": "The dashed lines meet above the real coin, where the faint coin shows where it seems to be. The deeper the pool, the bigger the difference. The stick looks bent upward at the water surface; the faint stick shows where it really is."
+      },
+      {
+        "title": "Total internal reflection",
+        "text": "Now the light goes the other way, from glass out into air, so it bends away from the normal. As the angle in the glass grows, the ray outside bends further, until at the critical angle it skims along the surface. For glass the critical angle is about 42° (for water about 49°). At larger angles no light gets out at all: it all reflects back inside the glass. This is total internal reflection. It only happens when light goes from a slower material toward a faster one.",
+        "try": "Move the Angle in the glass slider slowly past 42°.",
+        "see": "Below 42° most of the light gets out, bent away from the normal, and only a faint ray reflects. As you get close to 42° the outgoing ray lies almost along the surface. Beyond 42° the outside ray disappears and the reflected ray becomes bright."
+      },
+      {
+        "title": "Optical fibres",
+        "text": "An optical fibre is a very thin, bendy strand of glass. Light that enters one end hits the sides at large angles, above the critical angle, so it is totally internally reflected again and again and comes out of the other end, even round corners. Real fibres are thinner than a hair and have a coating of a slightly different glass, called cladding, that keeps the light inside. They carry internet and phone signals as flashes of light, and doctors use bundles of them in endoscopes to see inside the body. If a fibre is bent too sharply, the light hits the wall at less than the critical angle and leaks out.",
+        "try": "Move the Bend radius slider to make the bend tighter.",
+        "see": "With a gentle bend the light zig-zags along the fibre and lights up the far end. At a tight bend the smallest angle drops below 42°, rays escape through the wall at the bend, and the far end gets dimmer."
+      },
+      {
+        "title": "A prism splits white light",
+        "text": "White light is a mixture of all the colours of the spectrum: red, orange, yellow, green, blue, indigo and violet. In glass, each colour travels at a slightly different speed, so each has a slightly different refractive index. Violet slows down most and bends most; red bends least. A triangular glass prism bends the light twice, once going in and once coming out, so the colours fan out into a spectrum. Splitting light into colours like this is called dispersion. Rainbows form the same way in raindrops. The drawing spreads the colours more than real glass does, so you can see them; the readout gives the angles for real glass.",
+        "try": "Move the Angle of incidence slider to turn the white beam.",
+        "see": "One white beam goes in and a band of colours comes out, with red at the top of the screen (bent least) and violet at the bottom (bent most). In the readout, violet is always turned through a slightly bigger angle than red."
+      },
+      {
+        "title": "Converging and diverging lenses",
+        "text": "A lens is a piece of glass with curved surfaces that refracts light. A converging (convex) lens is thicker in the middle. It bends rays parallel to its axis so they meet at one point, the principal focus F. A diverging (concave) lens is thinner in the middle. It spreads parallel rays out, as if they came from a focus F in front of the lens. The distance from the lens to F is the focal length, f. A lens with a shorter focal length is more powerful: power = 1 ÷ f, with f in metres, measured in dioptres (D). In these drawings the bending is shown at the middle line of the lens.",
+        "try": "Press Converging and Diverging. Move the Focal length slider.",
+        "see": "Behind the converging lens, all the parallel rays cross at F. Behind the diverging lens they spread apart, and the dashed lines show that they seem to come from F in front of the lens. A shorter focal length bends the rays more and gives a bigger power."
+      },
+      {
+        "title": "Real images from a converging lens",
+        "text": "When the object is further from a converging lens than F, the rays from each point of it meet again on the other side. They form a real image, which can be caught on a screen. It is upside down (inverted). To find it we draw three rays from the top of the object: one parallel to the axis, which goes through F after the lens (red); one through the centre of the lens, which goes straight on (green); and one through F before the lens, which comes out parallel (blue). The image distance d′ comes from the lens formula 1/f = 1/d + 1/d′. Cameras and projectors make real images this way, and so does your eye.",
+        "try": "Move the Object distance slider from 40 cm to 15 cm.",
+        "see": "The three rays always meet at the top of the image on the screen. Far away (beyond 20 cm, twice f) the image is smaller than the object. At 20 cm it is the same size, at 20 cm. Closer than 20 cm the image is bigger and further away."
+      },
+      {
+        "title": "The magnifying glass",
+        "text": "Bring the object closer to the lens than F, and the rays no longer meet after the lens: they spread out. Traced back (dashed lines), they seem to come from a point behind the object. The eye sees an image there that is upright and bigger. No light really comes from that place, so it is a virtual image and cannot be caught on a screen. This is how a magnifying glass works. The lens formula still works, but d′ comes out negative, which means the image is on the same side as the object.",
+        "try": "Move the Object distance slider between 3 cm and 7 cm.",
+        "see": "The faint image is always upright and larger than the object, on the object's side of the lens. The closer the object comes to F (10 cm), the bigger and further away the image gets."
+      }
+    ],
+    "quiz": [
+      { "q": "A ray of light goes from air into water at an angle of incidence of 30°. What happens?", "options": ["It bends away from the normal, so r is bigger than 30°", "It bends toward the normal, so r is smaller than 30°", "It goes straight on without bending"], "answer": 1, "why": "Light slows down in water, so it bends toward the normal. With n = 1.33, sin r = sin 30° ÷ 1.33, which gives r of about 22°." },
+      { "q": "The critical angle for glass is about 42°. A ray inside a glass block hits the surface at 50° to the normal. What happens?", "options": ["It leaves the glass, bent away from the normal", "It leaves the glass without bending", "It is totally internally reflected back into the glass"], "answer": 2, "why": "50° is bigger than the critical angle, so no light can get out into the air. All of it reflects back inside: total internal reflection." },
+      { "q": "White light passes through a glass prism. Which colour is bent the most?", "options": ["Red", "Green", "Violet"], "answer": 2, "why": "Violet light travels most slowly in glass, so glass has the biggest refractive index for violet, and violet is bent most. Red is bent least. This spreading of colours is called dispersion." },
+      { "q": "An object is 30 cm from a converging lens with a focal length of 10 cm. Where is the image, and what is it like?", "options": ["15 cm behind the lens: real, inverted and smaller", "30 cm behind the lens: real, inverted and the same size", "15 cm in front of the lens: virtual and upright", "10 cm behind the lens, at F"], "answer": 0, "why": "1/d′ = 1/f − 1/d = 1/10 − 1/30 = 2/30, so d′ = 15 cm. The object is further than 2f (20 cm), so the image is real, inverted and smaller (half the height)." }
+    ]
+  },
+  "source": "original"
+}
