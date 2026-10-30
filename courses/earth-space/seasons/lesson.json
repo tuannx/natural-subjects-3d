@@ -1,0 +1,64 @@
+{
+  "slug": "seasons",
+  "order": 12,
+  "level": "middle",
+  "ages": "11-12",
+  "grades": [6, 6],
+  "title": "Why Do We Have Seasons?",
+  "type": "Earth & Space",
+  "question": "Why is summer hot and winter cold, if the Sun is always the same?",
+  "steps": ["A tilted Earth", "Month by month", "How high is the noon Sun?", "Long days and short days", "Spread-out sunlight", "Is it the distance?", "Opposite seasons"],
+  "content": {
+    "steps": [
+      {
+        "title": "A tilted Earth",
+        "text": "Earth spins around an imaginary line through the North and South Poles, called its axis. The axis is not straight up and down compared with Earth's orbit: it is tilted by about 23.4°. As Earth travels around the Sun in one year, the axis keeps pointing the same way in space, toward the North Star (Polaris). The Sun and Earth are drawn much too big here so you can see them.",
+        "try": "Press Play and Pause, and compare the axis of the moving Earth with the four small Earths.",
+        "see": "The white axis lines all lean the same way, in every month. In June the top half of Earth leans toward the Sun; in December it leans away."
+      },
+      {
+        "title": "Month by month",
+        "text": "Because of the tilt, the place where the Sun is straight overhead at noon moves during the year. Around 21 June (the June solstice) it is at 23.4° N, the Tropic of Cancer, and the northern half of Earth (the Northern Hemisphere) leans toward the Sun. Around 21 December it is at 23.4° S, the Tropic of Capricorn. At the equinoxes, around 20 March and 22 September, it is over the equator. In this view the sunlight always comes from the left.",
+        "try": "Move the Date slider through the year and watch the yellow 'Sun overhead' spot.",
+        "see": "The spot moves up to 23.4° N in June, down to the equator in March and September, and down to 23.4° S in December. The poles take turns being in sunlight."
+      },
+      {
+        "title": "How high is the noon Sun?",
+        "text": "The Sun is highest in the sky at noon. Its height is measured as an angle above the horizon, from 0° (on the horizon) to 90° (straight overhead). A simple formula gives it: noon Sun height = 90° − |your latitude − the latitude where the Sun is overhead|. The bars |…| mean: ignore the minus sign. The green square is flat ground at your place and the yellow line is the noon sunbeam.",
+        "try": "Move the Latitude slider to choose a place, then move the Date slider from June to December.",
+        "see": "At 40° N the noon Sun is about 73° high in June but only about 27° high in December. The beam hits the ground steeply in summer and at a low angle in winter."
+      },
+      {
+        "title": "Long days and short days",
+        "text": "The ring around Earth marks your latitude. The yellow part is in daylight and the blue part is in night. As Earth spins once a day, your town (the red dot) goes around the whole ring, so the share of the ring that is yellow tells you how long your day is. Scientists work it out with the formula cos H = −tan(latitude) × tan(Sun's overhead latitude), where day length = 2H ÷ 15° hours.",
+        "try": "Move the Date slider and the Latitude slider, and read the daylight hours.",
+        "see": "At 52° N the day lasts about 16 and a half hours in June but only about 7 and a half hours in December. At the equator it stays near 12 hours all year. Near the poles the Sun can stay up, or stay down, for the whole day."
+      },
+      {
+        "title": "Spread-out sunlight",
+        "text": "Here is the main reason summer is warmer. This lamp sends the same square beam of light every time. When the light comes from high up, it lands on a small patch, so each square of ground gets a lot of energy. When it comes in low, the same light is spread over a much bigger patch, so each square gets less and warms up less. Each square gets sin(Sun height) of the energy it would get with the Sun straight overhead.",
+        "try": "Move the Sun height slider from 90° down to 10° and count the squares the lit patch covers.",
+        "see": "At 90° the beam covers exactly one square (the red outline). At 30° the same beam covers about 2 squares, so each square gets about half as much light, and the patch looks dimmer."
+      },
+      {
+        "title": "Is it the distance?",
+        "text": "Many people think summer comes when Earth is closest to the Sun. But Earth's orbit is almost a perfect circle. Earth is closest to the Sun (about 147 million km) in early January and farthest (about 152 million km) in early July. That is only a small difference, and early January is winter in the Northern Hemisphere! The seasons come from the tilt, not from the distance.",
+        "try": "Move the Date slider and compare the distance with the season in each hemisphere.",
+        "see": "The orbit looks like a circle. When Earth is closest to the Sun, it is winter in the north and summer in the south, so distance cannot be what makes the seasons."
+      },
+      {
+        "title": "Opposite seasons",
+        "text": "The two hemispheres always have opposite seasons. When the Northern Hemisphere leans toward the Sun, the Southern Hemisphere leans away. Compare two places at 40° N (near Madrid or Beijing) and 40° S (near Wellington, New Zealand): one has a high Sun and long days while the other has a low Sun and short days. At the equinoxes, both get about 12 hours of daylight.",
+        "try": "Press 'June solstice', 'March equinox' and 'December solstice' and compare the two places.",
+        "see": "In June the 40° N ring is mostly yellow and its sunbeam is steep, while the 40° S ring is mostly blue with a low sunbeam. In December they swap."
+      }
+    ],
+    "quiz": [
+      { "q": "What causes the seasons on Earth?", "options": ["Earth is much closer to the Sun in summer", "Earth's tilted axis, which changes how high the Sun climbs and how long the days are", "The Sun gives out more heat in summer", "Clouds block more sunlight in winter"], "answer": 1, "why": "The tilt makes each hemisphere lean toward the Sun for half the year: the Sun climbs higher and days are longer, so the ground gets more energy." },
+      { "q": "Around 21 June, which hemisphere has summer?", "options": ["The Northern Hemisphere", "The Southern Hemisphere", "Both at the same time"], "answer": 0, "why": "In June the northern half of Earth leans toward the Sun. The Southern Hemisphere leans away, so it has winter." },
+      { "q": "At noon the Sun is 30° above the horizon. Compared with the Sun straight overhead, what happens to the same beam of sunlight?", "options": ["It covers a smaller area, so the ground gets hotter", "It covers about twice the area, so each square metre gets about half the energy", "It covers the same area"], "answer": 1, "why": "A low Sun spreads the light out. At 30°, sin(30°) = 0.5, so the beam covers about 2 times the area and each square metre gets about half the energy." },
+      { "q": "Noon Sun height = 90° − |latitude − Sun's overhead latitude|. On the June solstice the Sun is overhead at 23.4° N. How high is the noon Sun at 40° N?", "options": ["About 26.6°", "About 50°", "About 73.4°", "90°"], "answer": 2, "why": "40° − 23.4° = 16.6°, and 90° − 16.6° = 73.4°. That high noon Sun is one reason June is warm at 40° N." }
+    ]
+  },
+  "source": "original"
+}
