@@ -1,0 +1,65 @@
+{
+  "slug": "resources-sustainability",
+  "order": 30,
+  "level": "middle",
+  "ages": "14-15",
+  "grades": [9, 9],
+  "title": "Natural Resources and Energy for a Sustainable Future",
+  "type": "Resources",
+  "question": "Will we run out of resources, and how can we use them wisely?",
+  "coverStep": 3,
+  "steps": ["Renewable or non-renewable?", "Why resources are unevenly spread", "Electricity from fossil fuels", "Planning a town's power mix", "More people, more resources", "Reduce, reuse, recycle", "Protecting water and soil"],
+  "content": {
+    "steps": [
+      {
+        "title": "Renewable or non-renewable?",
+        "text": "Natural resources are materials and energy from nature that people use, such as water, soil, forests, minerals and fuels. A renewable resource is replaced by nature within a human lifetime, like sunlight, wind and flowing water. A non-renewable resource forms so slowly, over millions of years, that once we use it up it is gone for us: coal, oil, natural gas and metal ores. Some resources are renewable only if we use them carefully. Forests regrow if we replant them, fresh water is refilled by rain if we do not take too much, and soil can take hundreds of years or more to form just 1 cm, so it must be protected.",
+        "try": "Press Renewable, Non-renewable and Renewable if used carefully.",
+        "see": "Rings light up under the resources in each group: the Sun, wind turbines and river; the coal mine, oil pump and metal ore; and the forest, lake and farm soil."
+      },
+      {
+        "title": "Why resources are unevenly spread",
+        "text": "Fossil fuels and ores are found only in some places, because they formed there through past geological processes. Coal formed from the remains of swamp forests (many of them about 300 million years ago) that were buried under layers of sand and mud; heat and pressure slowly turned them into coal. Oil and natural gas formed from tiny sea organisms (plankton) buried in sea-floor mud. They rise through porous rock (rock with tiny holes) until a layer of rock they cannot pass, called cap rock, traps them, often in an upward fold. Metal ores form where hot fluids from magma leave minerals in cracks, or where weathering concentrates them. This is why some countries have lots of coal or oil and others have none.",
+        "try": "Move the Time slider from 300 million years ago to today.",
+        "see": "The swamp forest is buried and squeezed into a black coal seam, oil drops rise and collect under the arched cap rock, and magma leaves gold-coloured ore veins. Today a mine, an oil well and an ore mine stand only above these deposits."
+      },
+      {
+        "title": "Electricity from fossil fuels",
+        "text": "Most of the world's electricity still comes from burning coal and natural gas in power stations. The heat boils water, the steam spins turbines, and generators make electricity. Burning a fossil fuel joins its carbon with oxygen and releases carbon dioxide (CO₂), the main gas that is warming the climate. Coal releases about 1 kg of CO₂ for every kilowatt-hour (kWh) of electricity; natural gas releases about half as much. Mining and drilling also damage land and water, and burning coal pollutes the air with soot and sulfur dioxide. Our model town uses 40 megawatts (MW) all day and night: 40 MW × 24 h = 960 megawatt-hours (MWh) per day.",
+        "try": "Move the Coal slider to change how much of the town's electricity comes from coal instead of gas.",
+        "see": "More coal means more dark smoke from the coal chimney and a taller stack of CO₂ blocks: about 960 tonnes per day with all coal, and about 430 tonnes with all gas."
+      },
+      {
+        "title": "Planning a town's power mix",
+        "text": "Solar panels and wind turbines make electricity without burning fuel, so they release almost no CO₂ while they work. But solar panels make nothing at night, and wind turbines stop when the wind is calm. Hydroelectric power from a dam is steadier, but needs a river with enough water. A town must have enough power every hour of the day, so engineers plan a mix of sources, plus storage such as batteries, or a backup power station. In this model, a gas power station fills any gap, and the sun shines for 12 hours a day.",
+        "try": "Move the Solar, Wind and Hydro sliders. Then press Day and Night, and turn the Windy toggle on and off.",
+        "see": "In the day, solar and wind can cover most of the town's needs. At night, and when the wind stops, the gas station has to work harder, its smoke grows, and the CO₂ per day goes up."
+      },
+      {
+        "title": "More people, more resources",
+        "text": "In 1800 there were about 1 billion people on Earth. By 1950 there were about 2.5 billion, and in 2022 the world reached 8 billion. The United Nations projects about 9.7 billion people in 2050. Each person needs food, water, energy and materials, and in many countries each person also uses more resources than people did in the past. Scientists estimate that people now use renewable resources, such as forests, fish and fresh water, faster than nature can replace them. Using resources in a way that leaves enough for people in the future is called sustainability.",
+        "try": "Move the Year slider from 1800 to 2050.",
+        "see": "The crowd grows slowly at first and then very fast after 1950. Each little figure stands for 100 million people, and figures after 2022 are see-through because they are a projection."
+      },
+      {
+        "title": "Reduce, reuse, recycle",
+        "text": "The best way to save resources is to reduce: use less, for example by repairing things and avoiding throw-away packaging. Next, reuse things, like a refillable water bottle. Last, recycle: turn used materials into new products. Aluminium is a great example. Making new aluminium means digging up bauxite ore and using a lot of electricity, but recycling aluminium uses only about 5% of that energy, a saving of about 95%. Aluminium can be recycled again and again. In this model, energy needed = 100% − 95% × recycling rate.",
+        "try": "Move the Recycling rate slider from 0% to 100%.",
+        "see": "More cans go round the green recycling loop back to the factory, the landfill pile shrinks, the bauxite ore pile shrinks, and the energy readout drops toward 5%."
+      },
+      {
+        "title": "Protecting water and soil",
+        "text": "About 97.5% of Earth's water is salty, and most of the fresh water is frozen in ice or deep underground, so the fresh water we can easily use is less than 1% of all water. Farms and towns can pollute it. Rain washes bare soil into rivers, making them muddy, and too much fertiliser feeds algae, which use up the oxygen that fish need. Farmers protect soil and water with terraces and cover crops (plants that cover the soil between harvests), strips of trees along rivers that catch mud and fertiliser, and by using only as much fertiliser as crops need. Drip irrigation also saves water by putting it right at the plant roots.",
+        "try": "Turn on Terraces and cover crops, Trees along the river and Less fertiliser, one at a time.",
+        "see": "Each change cuts the brown mud or green fertiliser dots running into the river. With all three on, the soil stays on the field and the river turns from muddy green to clear blue."
+      }
+    ],
+    "quiz": [
+      { "q": "Which of these is a non-renewable resource?", "options": ["Wind", "Sunlight", "Natural gas", "Water flowing in a river"], "answer": 2, "why": "Natural gas formed from buried sea organisms over millions of years. Once we burn it, it does not come back in a human lifetime. Wind, sunlight and flowing water are renewed all the time." },
+      { "q": "Why do only some countries have large oil fields?", "options": ["Because oil forms wherever people drill", "Because oil formed only where sea organisms were buried and trapped under cap rock long ago", "Because oil moves to warm countries", "Because oil is made in factories"], "answer": 1, "why": "Oil formed from plankton buried in sea-floor mud, heated over millions of years, and stayed only where cap rock trapped it. Those conditions happened in some places and not others." },
+      { "q": "A town gets its power from solar panels and wind turbines only. When is it most likely to be short of electricity?", "options": ["At noon on a windy day", "On a calm night", "On a sunny afternoon"], "answer": 1, "why": "Solar panels make no electricity at night, and wind turbines stop when the air is calm. So the town needs storage, such as batteries, or another source, such as hydro, for calm nights." },
+      { "q": "Recycling an aluminium can saves about how much of the energy needed to make it from new aluminium?", "options": ["About 5%", "About 50%", "About 95%"], "answer": 2, "why": "Making aluminium from bauxite ore takes a lot of electricity. Melting down used aluminium takes only about 5% of that energy, so recycling saves about 95%." }
+    ]
+  },
+  "source": "original"
+}

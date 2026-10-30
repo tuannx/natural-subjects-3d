@@ -1,0 +1,71 @@
+{
+  "slug": "nervous-system",
+  "order": 33,
+  "level": "middle",
+  "ages": "13-14",
+  "grades": [8, 8],
+  "title": "The Nervous System and Reflexes",
+  "type": "Human Body",
+  "coverStep": 1,
+  "question": "Why does your hand jerk away from something hot before you even feel the pain?",
+  "steps": ["Central and peripheral nervous system", "Neurons: the nerve cells", "How fast is an impulse?", "The synapse", "From stimulus to response", "The reflex arc", "Measure your reaction time", "Sense organs are receptors"],
+  "content": {
+    "steps": [
+      {
+        "title": "Central and peripheral nervous system",
+        "text": "Your nervous system lets you sense what is happening and react to it, very fast. It has two parts. The central nervous system (CNS) is the brain and the spinal cord, which runs down inside your backbone. The peripheral nervous system is made of nerves, which branch out from the brain and spinal cord to every part of the body. Nerves carry messages called nerve impulses, which are tiny electrical signals. Some nerves carry impulses into the CNS from the senses; others carry impulses out of the CNS to the muscles.",
+        "try": "Tap Central (CNS), Peripheral and Both.",
+        "see": "The pink brain and spinal cord glow for the CNS, and the yellow nerves running to the arms, legs and trunk glow for the peripheral nervous system. Bright impulses run along the nerves in both directions."
+      },
+      {
+        "title": "Neurons: the nerve cells",
+        "text": "Nerves are bundles of nerve cells called neurons. A neuron is shaped for carrying impulses over long distances. Short branches called dendrites pick up impulses. The cell body holds the nucleus. A long, thin fibre called the axon carries the impulse away from the cell body; in your legs some axons are about 1 metre long. Many axons are wrapped in a fatty myelin sheath, which insulates them like the plastic round a wire. At the far end, the axon terminals pass the impulse on.",
+        "try": "Tap Dendrites, Cell body, Axon, Myelin sheath and Axon terminals.",
+        "see": "Each part of the purple neuron glows as you tap it. The cream myelin sheath is made of separate pieces with small gaps between them along the axon."
+      },
+      {
+        "title": "How fast is an impulse?",
+        "text": "An impulse always travels along a neuron in one direction: from the dendrites, through the cell body, along the axon to the terminals. Impulses are fast. In thin axons without myelin they travel at about 1 metre per second (m/s), but in thick axons with a myelin sheath they can reach about 120 m/s. You can work out how long an impulse takes with: time = distance ÷ speed. An impulse travelling 1 m from your spinal cord to your toes at 100 m/s takes 1 ÷ 100 = 0.01 s, which is 10 milliseconds (ms).",
+        "try": "Move the Impulse speed and Nerve length sliders.",
+        "see": "The glowing ring runs along the axon faster or slower as you change the speed. The readout works out the time from the distance and the speed."
+      },
+      {
+        "title": "The synapse",
+        "text": "Neurons do not quite touch each other. Where two neurons meet there is a tiny gap called a synapse. An electrical impulse cannot jump across it. Instead, when an impulse reaches the axon terminal, small bags called vesicles release a chemical called a neurotransmitter into the gap. The neurotransmitter diffuses across the gap and fits into receptors on the next neuron, which starts a new impulse there. Because only one side releases the chemical, synapses make sure impulses travel in one direction only.",
+        "try": "Tap Send an impulse.",
+        "see": "A glow arrives along the axon, the orange vesicles move to the edge and burst, tiny dots of neurotransmitter cross the gap, the green receptors light up, and a new impulse travels away along the next neuron."
+      },
+      {
+        "title": "From stimulus to response",
+        "text": "A stimulus is a change in your surroundings that you can detect, such as light, sound, heat or touch. Receptors are cells that detect stimuli. A sensory neuron carries the impulse to the CNS, which coordinates a response. A motor neuron carries an impulse from the CNS to an effector: a muscle that contracts or a gland that releases a substance. Catching a ball goes like this: stimulus → receptor → sensory neuron → CNS → motor neuron → effector → response. This is a voluntary action: your brain decides what to do.",
+        "try": "Tap Play the chain, then tap each stage, from Stimulus to Response.",
+        "see": "The ball flies in, a glow runs from the eye to the brain, the brain lights up, a second glow runs down the spinal cord and along the arm, the red arm muscle bulges, and the arm rises to catch the ball. The label and the readout name each stage."
+      },
+      {
+        "title": "The reflex arc",
+        "text": "Some responses are too urgent to wait for the brain to decide. A reflex is an automatic, very fast response that protects you. If you touch a hot plate, heat receptors in your skin send an impulse along a sensory neuron to the spinal cord. There a relay neuron passes it straight to a motor neuron, which makes your biceps muscle contract and pull your hand away. This pathway is called a reflex arc. The impulse also travels up the spinal cord to the brain, but by the time you feel the pain, your hand has already moved. Blinking and your pupils shrinking in bright light are reflexes too.",
+        "try": "Tap Touch the hot plate.",
+        "see": "The impulse runs along the blue sensory neuron, through the purple relay neuron in the spinal cord, along the red motor neuron to the biceps, and the hand jerks up. Only afterwards does a grey impulse reach the brain and the label Ouch! Pain felt appears."
+      },
+      {
+        "title": "Measure your reaction time",
+        "text": "Your reaction time is how long it takes you to respond to a stimulus. You can measure it with a ruler. A partner holds a ruler with its 0 cm mark between your open finger and thumb, then lets go without warning. You catch it as fast as you can and read how far it fell. Things fall faster and faster because of gravity, so you cannot just divide distance by speed. Instead, the distance fallen is d = ½ × g × t², where g = 9.8 m/s². Turned round, this gives the reaction time: t = √(2d ÷ g). Many people catch the ruler after about 10 to 25 cm, a reaction time of about 0.14 to 0.23 s.",
+        "try": "Move the Distance the ruler falls slider, and turn Slow motion off and on.",
+        "see": "The ruler drops and the fingers close on it at the mark you chose. The readout works out the reaction time: the further it falls, the longer the reaction time."
+      },
+      {
+        "title": "Sense organs are receptors",
+        "text": "Your sense organs are groups of receptors, each sensitive to one kind of stimulus. In the eye, rods and cones in the retina detect light and send impulses along the optic nerve. In the ear, hair cells in the cochlea detect sound and send impulses along the auditory nerve, and other parts detect balance. Receptors in the nose and on the tongue detect chemicals, giving smell and taste. The skin has receptors for touch, pressure, temperature and pain. Receptors only detect; it is the brain that turns the impulses into what you see, hear, smell and taste.",
+        "try": "Tap Eye, Ear, Nose and Tongue.",
+        "see": "Each stimulus streams towards its sense organ (yellow light, blue sound, green smell, orange food), the organ glows, and impulses run along its nerve into the brain."
+      }
+    ],
+    "quiz": [
+      { "q": "Which parts make up the central nervous system (CNS)?", "options": ["The brain and the spinal cord", "The brain and the nerves in the arms", "The spinal cord and the muscles", "All the nerves in the body"], "answer": 0, "why": "The CNS is the brain and the spinal cord. The nerves that link it to the rest of the body make up the peripheral nervous system." },
+      { "q": "An impulse travels 0.9 m along a neuron at 90 m/s. How long does it take?", "options": ["0.01 s", "0.1 s", "1 s", "81 s"], "answer": 0, "why": "Time = distance ÷ speed = 0.9 m ÷ 90 m/s = 0.01 s, which is 10 milliseconds." },
+      { "q": "Why is a reflex faster than a voluntary action?", "options": ["Reflexes use bigger muscles", "The impulse goes through the spinal cord without waiting for the brain to decide", "Reflexes do not use any neurons", "Skin receptors are faster than eyes"], "answer": 1, "why": "In a reflex arc, a relay neuron in the spinal cord passes the impulse straight to a motor neuron. The brain does not have to think about it first, which saves time." },
+      { "q": "In the reflex arc, which neuron carries the impulse from the spinal cord to the muscle?", "options": ["The sensory neuron", "The relay neuron", "The motor neuron", "The optic nerve"], "answer": 2, "why": "Motor neurons carry impulses from the CNS to effectors, such as the biceps muscle that pulls your hand away." }
+    ]
+  },
+  "source": "original"
+}

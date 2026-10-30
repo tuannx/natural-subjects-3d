@@ -1,0 +1,65 @@
+{
+  "slug": "breathing",
+  "order": 32,
+  "level": "middle",
+  "ages": "13-14",
+  "grades": [8, 8],
+  "title": "Breathing and the Lungs",
+  "type": "Human Body",
+  "coverStep": 4,
+  "question": "How does the air you breathe get from your nose into your blood?",
+  "steps": ["The airway", "Breathing in and out", "A bell-jar model", "Breathing rate and volume", "Gas exchange in the alveoli", "Why alveoli are so good at it", "Smoking damages the lungs"],
+  "content": {
+    "steps": [
+      {
+        "title": "The airway",
+        "text": "Your respiratory system brings oxygen into your body and gets rid of carbon dioxide. Air comes in through the nose or mouth and goes down the throat into the trachea (windpipe). The trachea splits into two bronchi, one going into each lung. Inside the lungs the bronchi branch again and again into narrower tubes called bronchioles, which end in tiny air sacs called alveoli (one is an alveolus). Rings of cartilage, a tough but bendy tissue, hold the trachea and bronchi open. Moving air in and out is called breathing or ventilation. It is not the same as respiration, the reaction in every cell that you met in the Cellular Respiration lesson.",
+        "try": "Tap Nose, Trachea, Bronchi, Bronchioles and Alveoli.",
+        "see": "Each part glows when you tap it, while light blue air particles flow down the airway. The trachea has pale C-shaped rings, and every bronchiole ends in a bunch of tiny pink alveoli."
+      },
+      {
+        "title": "Breathing in and out",
+        "text": "Your lungs have no muscles of their own. They are moved by the intercostal muscles between the ribs and by the diaphragm, a dome-shaped sheet of muscle under the lungs. When you breathe in (inhale), the intercostal muscles contract and pull the ribs up and out, and the diaphragm contracts and flattens. The chest gets bigger, so the air pressure inside the lungs falls below the air pressure outside, and air flows in. When you breathe out (exhale), the muscles relax: the ribs move down and in and the diaphragm domes up. The chest gets smaller, the pressure inside rises, and air is pushed out.",
+        "try": "Tap Breathe in, Breathe out and Keep breathing.",
+        "see": "Breathing in, the ribs swing up and out, the red diaphragm flattens, the lungs stretch and air particles flow in through the nose. Breathing out, everything moves back and the air flows out. The readout explains each half of the breath."
+      },
+      {
+        "title": "A bell-jar model",
+        "text": "Scientists use models to explain things that are hard to see. In the bell-jar model, two balloons stand for the lungs, the Y-shaped tube stands for the trachea and bronchi, the glass jar stands for the chest wall, and a rubber sheet at the bottom stands for the diaphragm. Pulling the sheet down makes the space inside the jar bigger, so the pressure falls and air rushes into the balloons, just as when you breathe in. Like every model it is not perfect: the glass jar cannot move up and out the way your ribs do.",
+        "try": "Move the Pull the rubber sheet down slider up and down.",
+        "see": "As the blue rubber sheet bulges down, air flows in through the Y-tube and the balloons inflate. When the sheet goes back up, air flows out and the balloons shrink."
+      },
+      {
+        "title": "Breathing rate and volume",
+        "text": "Your breathing rate is the number of breaths you take each minute. At rest, teenagers and adults take about 12 to 20 breaths per minute, and each normal breath moves about 0.5 litres of air. The volume of air you breathe each minute is: volume per minute = breathing rate × volume per breath. At rest that is about 12 × 0.5 L = 6 L per minute. During exercise your muscles respire faster, so they need more oxygen and make more carbon dioxide. You breathe faster and deeper: 40 or more breaths per minute and 2 to 3 litres per breath, which can add up to over 100 litres of air a minute. The numbers here are model values.",
+        "try": "Move the Breathing rate and Volume per breath sliders.",
+        "see": "The chest moves faster when the rate goes up and further when the volume goes up. The trace shows more peaks for a faster rate and taller peaks for deeper breaths, and the readout works out the volume per minute."
+      },
+      {
+        "title": "Gas exchange in the alveoli",
+        "text": "Each alveolus is wrapped in a net of capillaries, the tiniest blood vessels. Blood arriving from the heart is low in oxygen and high in carbon dioxide. The air in the alveolus has more oxygen than the blood, so oxygen diffuses from the air, through the alveolus wall and the capillary wall, into the blood, where red blood cells pick it up. Carbon dioxide is more concentrated in the blood, so it diffuses the other way, into the alveolus, and is breathed out. Diffusion is the spreading of particles from where they are more concentrated to where they are less concentrated. This swap of gases is called gas exchange.",
+        "try": "Tap Oxygen, Carbon dioxide and Both.",
+        "see": "Red oxygen molecules move out of the air sac into the capillary, grey and white carbon dioxide molecules move the other way, and blue red blood cells turn red as they pass the alveolus. The table shows that breathed-out air has less oxygen and much more carbon dioxide."
+      },
+      {
+        "title": "Why alveoli are so good at it",
+        "text": "Alveoli are an excellent gas exchange surface. Their walls, and the capillary walls next to them, are each only one cell thick, so gases have only a tiny distance to diffuse. They are moist, so gases can dissolve. A rich blood supply keeps carrying oxygen away and bringing carbon dioxide, so there is always a big difference in concentration. Most of all, there are hundreds of millions of them, with a total surface area of roughly 50 to 100 square metres, about the floor of a classroom. The model shows why many small sacs are better than one big one: the same amount of air, split into smaller sacs, touches much more surface.",
+        "try": "Move the Split into smaller sacs slider from 1 sac to 125 sacs.",
+        "see": "The same space fills with more and smaller sacs. With 125 sacs, each 1/5 as wide, the volume of air stays the same but the total surface area is 5 times bigger."
+      },
+      {
+        "title": "Smoking damages the lungs",
+        "text": "The airways are lined with cells that make mucus, which traps dust and germs, and cells with cilia, tiny hairs that beat to sweep the mucus up and away from the lungs. Tobacco smoke contains tar, which coats the airways and contains chemicals that cause cancer; nicotine, an addictive drug; and carbon monoxide, a poisonous gas that takes the place of oxygen in red blood cells. Smoke stops the cilia working, so mucus builds up and people cough. Over the years the thin walls between alveoli can break down (a disease called emphysema), leaving fewer, bigger air spaces with much less surface, so people get breathless. Smoking is the main cause of lung cancer.",
+        "try": "Turn on Damage from smoking.",
+        "see": "The cilia stop beating and turn brown, dark specks of tar coat the lining, the mucus stops moving and piles up, and the bunch of many small pink alveoli changes into a few big grey sacs."
+      }
+    ],
+    "quiz": [
+      { "q": "What holds the trachea open so it does not collapse?", "options": ["Rings of cartilage", "The diaphragm", "The alveoli", "Capillaries"], "answer": 0, "why": "C-shaped rings of cartilage in the wall of the trachea keep it open, even when the pressure inside falls as you breathe in." },
+      { "q": "What happens when you breathe in?", "options": ["The diaphragm relaxes and domes up", "The intercostal muscles contract, the ribs move up and out and the diaphragm flattens", "The lungs use their own muscles to pull in air", "The ribs move down and in"], "answer": 1, "why": "Contracting the intercostal muscles and the diaphragm makes the chest bigger. The pressure inside falls below the pressure outside, so air flows in." },
+      { "q": "Someone takes 15 breaths per minute, and each breath is 0.6 L. What volume of air do they breathe each minute?", "options": ["0.04 L", "9 L", "15.6 L", "25 L"], "answer": 1, "why": "Volume per minute = breathing rate × volume per breath = 15 × 0.6 L = 9 L per minute." },
+      { "q": "Which of these does NOT help the alveoli exchange gases?", "options": ["A huge surface area", "A rich blood supply", "Thick walls", "A moist lining"], "answer": 2, "why": "Alveoli have very thin walls, only one cell thick, so gases diffuse a very short distance. Thick walls would slow gas exchange down." }
+    ]
+  },
+  "source": "original"
+}
