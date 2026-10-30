@@ -43,9 +43,11 @@ export default function setup(k) {
   // k.label(text, object3DOrVector3, { cls: 'big' | 'warm' | 'cool' }) -> { text, show(bool) }
   // k.view({ radius, yaw, pitch, target: [x, y, z] }, instant?) frames a sphere of `radius`
   //   around `target` in the part of the screen the lesson card does not cover
+  //   add `width` (half the scene's width) for wide, flat scenes so they also fit a narrow phone screen
   // k.ui.slider({ label, min, max, step, value, unit, format, onInput }) -> input; input.set(v) moves it from code
-  // k.ui.toggle({ label, value, onChange }), k.ui.buttons([{ label, onClick, on }]), k.ui.readout(html)
-  // k.invalidate() asks for a redraw when nothing is animating
+  // k.ui.toggle({ label, value, onChange }), k.ui.buttons([{ label, onClick, on }]) -> row; row.select(i) marks one from code
+  // k.ui.readout(html)
+  // k.invalidate() asks for a redraw when nothing is animating (any input in the lesson card already does)
   // k.freeRect() -> { l, r, t, b }: screen area not covered by the lesson card (e.g. to place an inset view)
   return {
     step(i, { isQuiz, instant }) { /* set up step i: camera view, widgets, state */ },
