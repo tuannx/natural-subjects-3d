@@ -126,9 +126,9 @@ This is a map of topics, not a copy of either standard. Grade placement is a cho
 | 7 | Water and nutrient transport in plants | MS-LS1-6 | KHTN 7: Trao đổi nước và chất dinh dưỡng | `plant-transport` | ✅ |
 | 8 | Digestion | MS-LS1-3 | KHTN 8: Tiêu hóa | `digestion` | ✅ |
 | 8 | Heart and circulation | MS-LS1-3 | KHTN 8: Tuần hoàn | `circulation` | ✅ |
-| 8 | Breathing and the lungs | MS-LS1-3 | KHTN 8: Hô hấp | `breathing` | ○ |
-| 8 | The nervous system and reflexes | MS-LS1-8 | KHTN 8: Thần kinh và giác quan | `nervous-system` | ○ |
-| 8 | Ecosystems: food webs and energy pyramids | MS-LS2-1, MS-LS2-3 | KHTN 8: Sinh thái | `ecosystems` | ○ |
+| 8 | Breathing and the lungs | MS-LS1-3 | KHTN 8: Hô hấp | `breathing` | ✅ |
+| 8 | The nervous system and reflexes | MS-LS1-8 | KHTN 8: Thần kinh và giác quan | `nervous-system` | ✅ |
+| 8 | Ecosystems: food webs and energy pyramids | MS-LS2-1, MS-LS2-3 | KHTN 8: Sinh thái | `ecosystems` | ✅ |
 | 9 | Genes, DNA and chromosomes | MS-LS3-1 | KHTN 9: Di truyền | `dna-genes` | ○ |
 | 9 | Inheritance: dominant and recessive, Punnett squares | MS-LS3-2 | KHTN 9: Di truyền | `inheritance` | ○ |
 | 9 | Natural selection and evolution | MS-LS4-4, MS-LS4-6 | KHTN 9: Tiến hóa | `natural-selection` | ○ |
@@ -146,5 +146,5 @@ This is a map of topics, not a copy of either standard. Grade placement is a cho
 | 6–8 | The water cycle and the Sun's energy | MS-ESS2-4 | — | `water-cycle` | ✅ |
 | 6–8 | Weather: air masses, fronts, pressure | MS-ESS2-5 | — | `weather-fronts` | ✅ |
 | 6–8 | Climate and the greenhouse effect | MS-ESS2-6, MS-ESS3-5 | — | `climate-greenhouse` | ✅ |
-| 6–8 | Natural hazards: earthquakes, volcanoes, storms | MS-ESS3-2 | — | `natural-hazards` | ○ |
-| 9 | Natural resources and energy for a sustainable future | MS-ESS3-1, MS-ESS3-3 | KHTN 9: Năng lượng với cuộc sống, môi trường | `resources-sustainability` | ○ |
+| 6–8 | Natural hazards: earthquakes, volcanoes, storms | MS-ESS3-2 | — | `natural-hazards` | ✅ |
+| 9 | Natural resources and energy for a sustainable future | MS-ESS3-1, MS-ESS3-3 | KHTN 9: Năng lượng với cuộc sống, môi trường | `resources-sustainability` | ✅ |
