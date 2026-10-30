@@ -24,7 +24,7 @@ courses/
 
 A new lesson only touches its own folder (plus the subject's `README.md` and the map), so lessons for different subjects never conflict.
 
-## [Physics](physics/) (27)
+## [Physics](physics/) (30)
 
 ### Primary school (11)
 
@@ -40,14 +40,17 @@ A new lesson only touches its own folder (plus the subject's `README.md` and the
 - [Where Does Heat Go?](physics/heat-flow/) · Grades 4–5
 - [Where Does Our Energy Come From?](physics/energy-sources/) · Grades 4–5
 
-### Middle school (6)
+### Middle school (9)
 
 - [Weight and Springs](physics/weight-springs/) · Grade 6
 - [Forces and Motion](physics/forces-motion/) · Grades 6–8
+- [Sound Waves: Pitch and Loudness](physics/sound-waves/) · Grade 7
+- [Light: Rays, Reflection and Mirrors](physics/light-reflection/) · Grade 7
 - [Speed: Distance and Time](physics/speed-motion/) · Grade 7
 - [Density](physics/density/) · Grade 8
 - [Pressure in Solids, Liquids and the Air](physics/pressure/) · Grade 8
 - [Buoyancy: Archimedes' Principle](physics/buoyancy/) · Grade 8
+- [Levers and Turning Forces](physics/levers/) · Grade 8
 
 ### High school (10)
 

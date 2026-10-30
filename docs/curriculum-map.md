@@ -84,13 +84,13 @@ This is a map of topics, not a copy of either standard. Grade placement is a cho
 | 6 | Weight and springs: gravity pulls, springs stretch | MS-PS2-4 | KHTN 6: Lực, trọng lượng, biến dạng lò xo | `weight-springs` | ✅ |
 | 6–8 | Forces and motion: net force, friction, action and reaction | MS-PS2-1, MS-PS2-2 | KHTN 6: Lực, lực ma sát | `forces-motion` | ✅ |
 | 7 | Speed: distance, time and graphs | MS-PS2-2 | KHTN 7: Tốc độ | `speed-motion` | ✅ |
-| 7 | Sound waves: frequency, amplitude, pitch, loudness | MS-PS4-1 | KHTN 7: Âm thanh | `sound-waves` | ○ |
-| 7 | Light: rays, reflection and mirrors | MS-PS4-2 | KHTN 7: Ánh sáng | `light-reflection` | ○ |
+| 7 | Sound waves: frequency, amplitude, pitch, loudness | MS-PS4-1 | KHTN 7: Âm thanh | `sound-waves` | ✅ |
+| 7 | Light: rays, reflection and mirrors | MS-PS4-2 | KHTN 7: Ánh sáng | `light-reflection` | ✅ |
 | 7 | Magnets and magnetic fields | MS-PS2-3, MS-PS2-5 | KHTN 7: Từ | `magnetic-fields` | ○ |
 | 8 | Density | MS-PS1-2 | KHTN 8: Khối lượng riêng | `density` | ✅ |
 | 8 | Pressure in solids, liquids and the air | — | KHTN 8: Áp suất | `pressure` | ✅ |
 | 8 | Buoyancy: Archimedes' principle | — | KHTN 8: Lực đẩy Archimedes | `buoyancy` | ✅ |
-| 8 | Levers and turning forces | — | KHTN 8: Moment lực, đòn bẩy | `levers` | ○ |
+| 8 | Levers and turning forces | — | KHTN 8: Moment lực, đòn bẩy | `levers` | ✅ |
 | 8 | Thermal energy: conduction, convection, radiation | MS-PS3-3, MS-PS3-4 | KHTN 8: Nhiệt | `thermal-energy` | ○ |
 | 8–9 | Electric circuits: series, parallel, Ohm's law | — | KHTN 8: Điện; KHTN 9: Điện | `electric-circuits` | ○ |
 | 6–9 | Kinetic and potential energy, energy is conserved | MS-PS3-1, MS-PS3-2, MS-PS3-5 | KHTN 6: Năng lượng; KHTN 9: Năng lượng cơ học | `mechanical-energy` | ○ |
