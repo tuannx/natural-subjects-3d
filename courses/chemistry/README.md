@@ -2,7 +2,7 @@
 
 What things are made of and how they change: materials, mixtures, atoms and reactions.
 
-41 lessons. On the site: `/subjects/chemistry/`. How to add one: [../README.md](../README.md).
+43 lessons. On the site: `/subjects/chemistry/`. How to add one: [../README.md](../README.md).
 
 ## Primary school (7)
 
@@ -14,7 +14,7 @@ What things are made of and how they change: materials, mixtures, atoms and reac
 - [Mix, Dissolve, Separate](mixtures-dissolving/) · Grade 5
 - [Everything Is Made of Tiny Particles](tiny-particles/) · Grade 5
 
-## Middle school (9)
+## Middle school (11)
 
 - [The Particle Model of Matter](particle-model/) · Grade 6
 - [Air, Oxygen and Burning](air-oxygen/) · Grade 6
@@ -25,6 +25,8 @@ What things are made of and how they change: materials, mixtures, atoms and reac
 - [Chemical Reactions and Conservation of Mass](chemical-reactions/) · Grade 8
 - [Reaction Rate: Temperature, Concentration, Surface Area](reaction-rate/) · Grade 8
 - [Acids, Bases and the pH Scale](acids-bases/) · Grade 8
+- [Metals and the Reactivity Series](metals-reactivity/) · Grade 9
+- [Fuels and Hydrocarbons: Burning and Energy](fuels-combustion/) · Grade 9
 
 ## High school (25)
 

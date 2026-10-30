@@ -110,8 +110,8 @@ This is a map of topics, not a copy of either standard. Grade placement is a cho
 | 8 | Chemical reactions and conservation of mass | MS-PS1-2, MS-PS1-5 | KHTN 8: Phản ứng hóa học, định luật bảo toàn khối lượng | `chemical-reactions` | ✅ |
 | 8 | Reaction rate: temperature, concentration, surface area | — | KHTN 8: Tốc độ phản ứng | `reaction-rate` | ✅ |
 | 8 | Acids, bases and the pH scale | — | KHTN 8: Acid, base, thang pH | `acids-bases` | ✅ |
-| 9 | Metals and the reactivity series | — | KHTN 9: Kim loại, dãy hoạt động | `metals-reactivity` | ○ |
-| 9 | Fuels and hydrocarbons: burning and energy | MS-PS1-6 | KHTN 9: Hydrocarbon, nhiên liệu | `fuels-combustion` | ○ |
+| 9 | Metals and the reactivity series | — | KHTN 9: Kim loại, dãy hoạt động | `metals-reactivity` | ✅ |
+| 9 | Fuels and hydrocarbons: burning and energy | MS-PS1-6 | KHTN 9: Hydrocarbon, nhiên liệu | `fuels-combustion` | ✅ |
 
 ### Biology
 
