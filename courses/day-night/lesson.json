@@ -1,0 +1,57 @@
+{
+  "slug": "day-night",
+  "order": 1,
+  "level": "primary",
+  "ages": "6-9",
+  "subject": "space",
+  "title": "Why Do We Have Day and Night?",
+  "type": "Earth & Space",
+  "question": "Where does the Sun go at night?",
+  "steps": ["The Sun lights the Earth", "Earth spins", "Daytime in our town", "Nighttime in our town", "Sunrise and sunset", "Who is moving?"],
+  "content": {
+    "steps": [
+      {
+        "title": "The Sun lights the Earth",
+        "text": "The Sun is a giant ball of glowing hot gas. It shines light on the Earth. The half of the Earth that faces the Sun is bright. The other half is in its own shadow, so it is dark.",
+        "try": "Drag the picture to look around the Earth. Find the bright side and the dark side.",
+        "see": "Only one half of the Earth is lit at a time: the half that faces the Sun."
+      },
+      {
+        "title": "Earth spins",
+        "text": "The Earth is always spinning, like a spinning top. It turns all the way around once every day, which is about 24 hours. We cannot feel it because everything turns with us: the ground, the air and the sea.",
+        "try": "Move the slider to make the Earth spin faster or slower.",
+        "see": "As the Earth turns, places move from the bright side to the dark side and back again."
+      },
+      {
+        "title": "Daytime in our town",
+        "text": "Look for the little red house. That is our town. When our town is on the side facing the Sun, it is daytime there.",
+        "try": "Press Stop when our town is on the bright side.",
+        "see": "When our town faces the Sun, the sky there is light: it is day."
+      },
+      {
+        "title": "Nighttime in our town",
+        "text": "When the Earth turns our town away from the Sun, our town is on the dark side. Now it is night in our town, but it is daytime on the other side of the world.",
+        "try": "Spin the Earth and stop it when our town is on the dark side.",
+        "see": "It is never day everywhere at once. When it is night for us, it is day for children on the other side of the Earth."
+      },
+      {
+        "title": "Sunrise and sunset",
+        "text": "Sunrise is when our town turns into the sunlight. Sunset is when our town turns out of it. The Earth spins toward the east, so the Sun always seems to rise in the east and set in the west.",
+        "try": "Watch the label on our town change from sunrise to day, to sunset, to night.",
+        "see": "Sunrise and sunset happen at the edge between the bright half and the dark half."
+      },
+      {
+        "title": "Who is moving?",
+        "text": "From the ground it looks like the Sun moves across the sky. But the Sun is not going around us each day. It is the Earth that spins, and that makes the Sun look like it moves.",
+        "try": "Turn on 'Stand in our town' to see the sky the way people in our town see it.",
+        "see": "The Sun stays still in the picture. Only the Earth turns, yet from our town the Sun seems to climb up and go down."
+      }
+    ],
+    "quiz": [
+      { "q": "Why is it dark at night?", "options": ["The Sun turns off", "Our side of the Earth is turned away from the Sun", "Clouds cover the Sun"], "answer": 1, "why": "The Sun always shines. At night our side of the Earth faces away from it." },
+      { "q": "How long does the Earth take to spin around once?", "options": ["About 1 hour", "About 1 day (24 hours)", "About 1 year"], "answer": 1, "why": "One full spin takes about 24 hours, which gives us one day and one night." },
+      { "q": "When it is night in our town, what is it like on the other side of the Earth?", "options": ["Also night", "Daytime", "Winter"], "answer": 1, "why": "The other side of the Earth is facing the Sun, so it is daytime there." }
+    ]
+  },
+  "source": "original"
+}

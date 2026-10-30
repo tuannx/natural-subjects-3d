@@ -1,25 +1,25 @@
 // Builds the primary-school lessons: one esbuild pass for all of them, so three.js and the
 // lesson engine land in shared, content-hashed chunks that the browser caches once for every lesson.
 import { build } from 'esbuild';
-import { mkdirSync, writeFileSync, rmSync } from 'node:fs';
+import { mkdirSync, writeFileSync, rmSync, mkdtempSync } from 'node:fs';
+import { tmpdir } from 'node:os';
 import { qualityScript } from './runtime.mjs';
 
 const esc = s => String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;').replace(/"/g, '&quot;');
 
 export async function buildPrimary(lessons, root, dist) {
   if (!lessons.length) return;
-  const tmp = root + '.build/entries/';
-  rmSync(root + '.build', { recursive: true, force: true });
-  mkdirSync(tmp, { recursive: true });
+  const tmp = mkdtempSync(tmpdir() + '/ns3d-entries-') + '/';
   for (const l of lessons) {
     writeFileSync(tmp + l.slug + '.js',
-      `import meta from '../../courses/${l.slug}/lesson.json';\n` +
-      `import setup from '../../courses/${l.slug}/scene.js';\n` +
-      `import { runLesson } from '../../lib/primary/engine.js';\n` +
+      `import meta from ${JSON.stringify(l.dir + 'lesson.json')};\n` +
+      `import setup from ${JSON.stringify(l.dir + 'scene.js')};\n` +
+      `import { runLesson } from ${JSON.stringify(root + 'lib/primary/engine.js')};\n` +
       `runLesson(meta, setup);\n`);
   }
   const res = await build({
     entryPoints: [...lessons.map(l => tmp + l.slug + '.js'), root + 'lib/primary/style.css'],
+    nodePaths: [root + 'node_modules'],
     bundle: true, splitting: true, format: 'esm', minify: true, target: 'es2020',
     outdir: dist + 'assets', entryNames: '[name]-[hash]', chunkNames: 'shared-[hash]',
     metafile: true, legalComments: 'eof', logLevel: 'warning',
@@ -27,7 +27,7 @@ export async function buildPrimary(lessons, root, dist) {
   const outs = Object.entries(res.metafile.outputs);
   const css = outs.find(([, o]) => o.entryPoint?.endsWith('style.css'))[0].replace(/^.*\/assets\//, '/assets/');
   for (const l of lessons) {
-    const [file, o] = outs.find(([, o]) => o.entryPoint?.endsWith(`entries/${l.slug}.js`));
+    const [file, o] = outs.find(([, o]) => o.entryPoint?.endsWith(`/${l.slug}.js`));
     const js = file.replace(/^.*\/assets\//, '/assets/');
     const preload = o.imports.filter(i => i.kind === 'import-statement')
       .map(i => `<link rel="modulepreload" href="${i.path.replace(/^.*\/assets\//, '/assets/')}">`).join('\n');
@@ -51,5 +51,5 @@ ${preload}
 </html>
 `);
   }
-  rmSync(root + '.build', { recursive: true, force: true });
+  rmSync(tmp, { recursive: true, force: true });
 }

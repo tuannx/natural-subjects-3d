@@ -6,7 +6,7 @@ import { injectBundleRuntime } from './lib/runtime.mjs';
 import { buildPrimary } from './lib/primary.mjs';
 
 const root = new URL('..', import.meta.url).pathname;
-const dist = root + 'dist/';
+const dist = (process.env.OUT || root + 'dist').replace(/\/?$/, '/'); // OUT=<dir> builds elsewhere
 const lessons = loadLessons(root + 'courses/');
 
 rmSync(dist, { recursive: true, force: true });
