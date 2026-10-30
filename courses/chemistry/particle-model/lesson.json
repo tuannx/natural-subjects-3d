@@ -1,0 +1,65 @@
+{
+  "slug": "particle-model",
+  "order": 30,
+  "level": "middle",
+  "ages": "11-12",
+  "grades": [6, 6],
+  "title": "The Particle Model of Matter",
+  "type": "Matter",
+  "question": "Why does ice stay at 0 °C while it melts, even though we keep heating it?",
+  "coverStep": 0,
+  "steps": ["Solids, liquids and gases", "Heating gives particles energy", "A heating curve", "Changes of state need energy", "Diffusion", "Gas pressure", "Squashing gases and liquids"],
+  "content": {
+    "steps": [
+      {
+        "title": "Solids, liquids and gases",
+        "text": "The particle model says that all matter is made of tiny particles that are always moving. Each box holds the same 125 particles of water. In a solid, the particles are packed in a regular pattern and vibrate in fixed places. In a liquid, they are still close together but slide past each other. In a gas, they are far apart and move fast in all directions.",
+        "try": "Tap Solid, Liquid and Gas to look closely at each box, then tap All three.",
+        "see": "The particles are the same in every box. Only how they are arranged and how they move is different."
+      },
+      {
+        "title": "Heating gives particles energy",
+        "text": "Kinetic energy is the energy of movement. When we heat a substance, its particles gain kinetic energy: they vibrate or move faster. Temperature is a measure of the average kinetic energy of the particles. Pure water melts at 0 °C (its melting point) and boils at 100 °C at sea level (its boiling point).",
+        "try": "Move the Temperature slider from −20 °C to 120 °C and back. Watch the thermometer and the energy bar.",
+        "see": "Below 0 °C the particles only vibrate. Between 0 °C and 100 °C they slide around at the bottom. Above 100 °C they fly all over the box. The hotter it is, the faster they move."
+      },
+      {
+        "title": "A heating curve",
+        "text": "Now we heat 10 g of ice that starts at −20 °C. The heater gives out energy at a steady rate. Power is measured in watts (W): 1 W means 1 joule (J) of energy every second, so energy = power × time. The graph shows the temperature against the energy added. This graph is called a heating curve.",
+        "try": "Watch the curve grow. Change the Heater power, or press Pause and Start again.",
+        "see": "The temperature rises, then stays flat at 0 °C while the ice melts, rises again, then stays flat at 100 °C for a long time while the water boils. A stronger heater draws the same curve, just faster."
+      },
+      {
+        "title": "Changes of state need energy",
+        "text": "Particles attract each other. On the flat parts of the curve, the energy is used to overcome these forces of attraction, not to make the particles faster, so the temperature stays the same. Melting frees particles from their fixed places. Boiling pulls them right away from each other, which takes much more energy.",
+        "try": "Tap Ice warming, Melting, Water warming and Boiling to see the particles at each part of the curve.",
+        "see": "While the ice melts, ice and water are both there at 0 °C. The boiling part of the curve is about 7 times longer than the melting part."
+      },
+      {
+        "title": "Diffusion",
+        "text": "Diffusion is the spreading out and mixing of particles on their own, because they move randomly. It happens fastest in gases, where particles are far apart and move quickly. It also happens in liquids, but more slowly, because particles keep bumping into close neighbours. Heating makes diffusion faster.",
+        "try": "Press Start again, then Lift the divider. Try Two liquids, and try a higher Temperature.",
+        "see": "Without any stirring, the red and blue particles mix until they are spread evenly. Gases mix much faster than liquids, and both mix faster when hot."
+      },
+      {
+        "title": "Gas pressure",
+        "text": "Gas particles keep hitting the walls of their container. Each hit pushes on the wall. All these pushes together make gas pressure. Pressure is measured in pascals; normal air pressure is about 100 kilopascals (kPa). If we heat a gas in a closed container, its particles move faster and hit the walls more often and harder, so the pressure rises.",
+        "try": "Move the Temperature of the air slider and watch the hits and the pressure.",
+        "see": "Hotter air particles move faster, hit the piston more often and the pressure goes up."
+      },
+      {
+        "title": "Squashing gases and liquids",
+        "text": "A gas can be squashed (compressed) because there are big spaces between its particles. If the temperature stays the same, halving the volume of a gas doubles its pressure: pressure × volume stays the same. A liquid has almost no spaces between its particles, so it can hardly be compressed at all.",
+        "try": "Push the piston in with the slider. Then tap Water and try again.",
+        "see": "With air, the piston moves down, the particles crowd together and the pressure rises. With water, the piston does not move: the particles are already touching."
+      }
+    ],
+    "quiz": [
+      { "q": "Which sentence describes the particles in a liquid?", "options": ["They vibrate in fixed places in a regular pattern", "They are close together and slide past each other", "They are far apart and move fast in all directions", "They do not move at all"], "answer": 1, "why": "Liquid particles stay close together, so a liquid keeps its volume, but they can slide past each other, so it flows." },
+      { "q": "Ice is heated steadily. While it is melting, the thermometer stays at 0 °C. Where does the energy go?", "options": ["It is lost, because the heater stops working", "It makes the particles move faster", "It overcomes the forces holding the particles in their fixed places"], "answer": 2, "why": "During a change of state, the energy is used to overcome the forces of attraction between particles, so the temperature does not rise until all the ice has melted." },
+      { "q": "A 1000 W heater runs for 30 seconds. How much energy does it give out?", "options": ["About 33 J", "1030 J", "30,000 J"], "answer": 2, "why": "Energy = power × time = 1000 W × 30 s = 30,000 J, because 1 W is 1 joule every second." },
+      { "q": "Why can you squash the air in a closed syringe, but not the water?", "options": ["Air particles are smaller than water particles", "There are big spaces between gas particles, but liquid particles are already touching", "Water is heavier than air", "Air particles stop moving when pushed"], "answer": 1, "why": "Squashing a gas pushes its particles closer into the empty space between them. In a liquid the particles are already close together, so there is almost no space to remove." }
+    ]
+  },
+  "source": "original"
+}

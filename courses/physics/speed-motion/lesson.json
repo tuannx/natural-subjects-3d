@@ -1,0 +1,71 @@
+{
+  "slug": "speed-motion",
+  "order": 30,
+  "level": "middle",
+  "ages": "12-13",
+  "grades": [7, 7],
+  "title": "Speed: Distance and Time",
+  "type": "Motion",
+  "coverStep": 2,
+  "question": "How do we measure how fast something is moving, and how can a graph show it?",
+  "steps": ["What is speed?", "Who is faster?", "Distance–time graphs", "Stopped means flat", "Average speed", "m/s and km/h", "Light gates and speed cameras", "Safe following distance"],
+  "content": {
+    "steps": [
+      {
+        "title": "What is speed?",
+        "text": "Speed tells us how far something moves in a certain time. To find it, divide the distance by the time: speed = distance ÷ time. If distance is in metres (m) and time is in seconds (s), speed is in metres per second (m/s). This runner is on a 100 m track with a mark every 10 m, and a stopwatch times the run.",
+        "try": "Set the Runner speed slider, then press Start the race.",
+        "see": "At 8 m/s the runner covers 8 m every second and finishes 100 m in 12.5 s. The readout checks it: 100 m ÷ 12.5 s = 8 m/s."
+      },
+      {
+        "title": "Who is faster?",
+        "text": "To compare two speeds, you can let both move for the same time and see who goes farther. In the same time, the faster one covers more distance. Or you can let both go the same distance and see who takes less time. Here a runner and a cyclist start together.",
+        "try": "Set both speed sliders, press Start, then press Stop the clock while they are still moving.",
+        "see": "When you stop the clock, both have moved for the same time. The cyclist going twice as fast is twice as far along the track."
+      },
+      {
+        "title": "Distance–time graphs",
+        "text": "A distance–time graph shows how far something has gone (up the side) at each moment (along the bottom). For something moving at a steady speed the graph is a straight line. The steeper the line, the faster it is moving, because it covers more metres in each second. The slope of the line is the speed.",
+        "try": "Press Start and watch both lines grow. Change a speed slider and run it again.",
+        "see": "The cyclist's line is steeper than the runner's. Both lines are straight, because both keep a steady speed."
+      },
+      {
+        "title": "Stopped means flat",
+        "text": "If something stops, its distance from the start does not change while time goes on. So the line on a distance–time graph goes flat. A flat line means a speed of 0 m/s. When it moves again, the line slopes upward again.",
+        "try": "Press Start, then use Stop the cyclist and Go on during the ride.",
+        "see": "While the cyclist waits, the orange line is flat. The runner's line keeps climbing, and the runner may even catch up."
+      },
+      {
+        "title": "Average speed",
+        "text": "Real journeys speed up, slow down and stop. The average speed is the total distance divided by the total time, stops included: average speed = total distance ÷ total time. This car goes 20 m/s for the first 50 m, waits at a red light, then goes 10 m/s for the last 50 m. (To keep it simple we skip the speeding up and slowing down.)",
+        "try": "Set the Red light wait slider, then press Drive.",
+        "see": "With a 2.5 s wait the trip takes 2.5 + 2.5 + 5 = 10 s, so the average speed is 100 m ÷ 10 s = 10 m/s. A longer wait makes the average speed lower. The dashed line shows the average speed."
+      },
+      {
+        "title": "m/s and km/h",
+        "text": "Car speeds are usually given in kilometres per hour (km/h). An hour has 3600 seconds, so 1 m/s means 3600 m, which is 3.6 km, every hour: 1 m/s = 3.6 km/h. To change km/h into m/s, divide by 3.6. To change m/s into km/h, multiply by 3.6.",
+        "try": "Move the Car speed slider and read the sign beside the road.",
+        "see": "At 36 km/h the car goes 10 m every second. At 72 km/h it goes twice as fast, 20 m/s, and crosses the 100 m road in 5 s."
+      },
+      {
+        "title": "Light gates and speed cameras",
+        "text": "In a lab, speed is often measured with light gates. Each gate sends a beam of light across the path. A timer starts when the first beam is broken and stops at the second. The gates here are 20 m apart, so speed = 20 m ÷ time. Some speed cameras work the same way: they time a car between two marks on the road a known distance apart. This road's speed limit is 50 km/h.",
+        "try": "Set the Car speed slider, then press Drive through.",
+        "see": "At 50 km/h the car takes 1.44 s between the gates: 20 m ÷ 1.44 s = 13.9 m/s = 50 km/h. Above 50 km/h the camera flashes."
+      },
+      {
+        "title": "Safe following distance",
+        "text": "When the car in front brakes, a driver needs time to notice and react before pressing the brake, often about 1 second, and longer when tired or distracted. During that reaction time the car keeps going at full speed: thinking distance = speed × reaction time. Only then does braking start. That is why drivers keep at least a two-second gap to the car in front.",
+        "try": "Change the Car speed and Reaction time sliders, then press Front car brakes!",
+        "see": "At 50 km/h with a 1 s reaction the car travels about 14 m before braking even starts. At 100 km/h the red thinking distance doubles. The blue two-second gap grows with speed too."
+      }
+    ],
+    "quiz": [
+      { "q": "A cyclist rides 300 m in 60 s. What is the cyclist's speed?", "options": ["5 m/s", "18 m/s", "240 m/s", "0.2 m/s"], "answer": 0, "why": "Speed = distance ÷ time = 300 m ÷ 60 s = 5 m/s." },
+      { "q": "On a distance–time graph, what does a flat (horizontal) line show?", "options": ["Moving very fast", "Stopped: not moving", "Speeding up"], "answer": 1, "why": "A flat line means the distance does not change as time passes, so the object is not moving. Its speed is 0 m/s." },
+      { "q": "A car travels at 90 km/h. What is that in m/s?", "options": ["324 m/s", "25 m/s", "90 m/s", "9 m/s"], "answer": 1, "why": "To change km/h into m/s, divide by 3.6: 90 ÷ 3.6 = 25 m/s." },
+      { "q": "A bus goes 6 km in 0.5 h, then waits 0.5 h at a stop. What is its average speed for the whole hour?", "options": ["12 km/h", "6 km/h", "3 km/h", "0 km/h"], "answer": 1, "why": "Average speed = total distance ÷ total time, stops included: 6 km ÷ 1 h = 6 km/h. While moving it went 12 km/h, but the wait counts too." }
+    ]
+  },
+  "source": "original"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "weight-springs",
+  "order": 30,
+  "level": "middle",
+  "ages": "11-12",
+  "grades": [6, 6],
+  "title": "Weight and Springs",
+  "type": "Forces",
+  "coverStep": 4,
+  "question": "Why does a spring stretch more when you hang more on it, and would it stretch less on the Moon?",
+  "steps": ["Mass and weight", "Weight = mass × g", "Same mass, different weight", "Springs stretch", "Hooke's law", "The newton meter", "Too much: the elastic limit"],
+  "content": {
+    "steps": [
+      {
+        "title": "Mass and weight",
+        "text": "Mass is the amount of matter in an object. We measure it in kilograms (kg) or grams (g), and 1000 g = 1 kg. Weight is something different: it is the force of gravity pulling the object down toward the Earth. Weight is a force, so we measure it in newtons (N). Each brass slotted mass on this spring has a mass of 100 g, which is 0.1 kg.",
+        "try": "Move the Masses slider to hang more 100 g masses on the spring.",
+        "see": "The red Weight arrow grows as you add masses. Twice the mass gives an arrow twice as long, so twice the weight."
+      },
+      {
+        "title": "Weight = mass × g",
+        "text": "On Earth, gravity pulls on every kilogram with a force of about 9.8 N. This number is called the gravitational field strength, g, and on Earth g = 9.8 N/kg. To find a weight, multiply the mass by g: weight (N) = mass (kg) × g (N/kg), or W = m × g. So a 0.5 kg mass weighs 0.5 × 9.8 = 4.9 N.",
+        "try": "Move the Masses slider and watch the sign work out W = m × g.",
+        "see": "One 100 g mass weighs 0.98 N, about 1 N. Every extra 0.1 kg adds 0.98 N to the weight on the sign."
+      },
+      {
+        "title": "Same mass, different weight",
+        "text": "Gravity is weaker on smaller worlds. On the Moon g is about 1.6 N/kg, about 1/6 of Earth's. On Mars it is about 3.7 N/kg. Your mass is the same everywhere, because you are made of the same amount of matter. Your weight changes, because the pull of gravity changes.",
+        "try": "Tap Earth, Moon and Mars. You can also change the Masses slider.",
+        "see": "The mass stays the same, but on the Moon the Weight arrow is about 6 times shorter and the spring hardly stretches. Mars is in between."
+      },
+      {
+        "title": "Springs stretch",
+        "text": "A spring stretches when a force pulls on it. The extension is how much longer it gets: extension = stretched length − natural length. The ruler reads 0 cm at the bottom of the unstretched spring, so the red pointer shows the extension directly. When the masses hang still, the spring pulls up exactly as hard as the weight pulls down. The two forces are balanced.",
+        "try": "Move the Masses slider and read the extension on the ruler.",
+        "see": "Each extra 100 g stretches the spring about 4.9 cm more. When the masses stop bouncing, the blue Spring pull arrow is the same length as the red Weight arrow."
+      },
+      {
+        "title": "Hooke's law",
+        "text": "Now plot each result on a graph of extension against force. The points lie on a straight line that goes through zero. This means the extension is proportional to the force: double the force and you double the extension. This rule is called Hooke's law. This spring stretches 5 cm for every 1 N of force.",
+        "try": "Add masses one at a time with the Masses slider. Then tap Moon and add some more.",
+        "see": "A point appears for each force. Points from Earth and from the Moon fall on the same straight line, because the spring only responds to the force pulling on it."
+      },
+      {
+        "title": "The newton meter",
+        "text": "A newton meter, also called a spring balance, is a spring inside a tube with a scale marked in newtons. Because the extension is proportional to the force, the marks on the scale are evenly spaced. Hang an object on the hook and read its weight. A newton meter measures weight, so on the Moon it reads about 1/6 as much. A balance compares masses, so it gives the same answer anywhere.",
+        "try": "Tap Apple, Can, Water bottle or Bag of sugar. Then switch on Take it to the Moon.",
+        "see": "The 1 kg bag of sugar pulls the pointer down to 9.8 N on Earth, but only to 1.6 N on the Moon. Its mass is still 1 kg."
+      },
+      {
+        "title": "Too much: the elastic limit",
+        "text": "So far the spring went back to its natural length whenever the masses came off. This is called elastic deformation. Every spring has an elastic limit. Stretch it past that limit and it no longer follows Hooke's law, and it stays longer after the load is removed. This is plastic deformation: the change of shape is permanent. This spring's elastic limit is 5 N.",
+        "try": "Hang 6 masses (5.9 N), then press Take the masses off. Press New spring to start again.",
+        "see": "Above 5 N the red point sits above the straight line. With no masses on, the pointer does not go back to 0 cm: the spring stays about 4.4 cm longer than before."
+      }
+    ],
+    "quiz": [
+      { "q": "A rock has a mass of 6 kg on Earth. An astronaut takes it to the Moon. What is its mass there?", "options": ["6 kg", "1 kg", "0 kg"], "answer": 0, "why": "Mass is the amount of matter, and the rock is made of the same matter on the Moon. Its weight drops to about 1/6, but its mass stays 6 kg." },
+      { "q": "What is the weight of a 2 kg bag of flour on Earth, where g = 9.8 N/kg?", "options": ["2 N", "9.8 N", "19.6 N", "20 kg"], "answer": 2, "why": "W = m × g = 2 kg × 9.8 N/kg = 19.6 N. Weight is a force, so its unit is the newton, not the kilogram." },
+      { "q": "A spring stretches 3 cm when a 1 N force pulls it. How far does it stretch with 3 N, if it stays within its elastic limit?", "options": ["3 cm", "6 cm", "9 cm", "1 cm"], "answer": 2, "why": "By Hooke's law the extension is proportional to the force. Three times the force gives three times the extension: 3 × 3 cm = 9 cm." },
+      { "q": "A spring is pulled past its elastic limit, then the load is taken off. What happens?", "options": ["It goes back to its natural length", "It stays longer than before", "It becomes shorter than before"], "answer": 1, "why": "Past the elastic limit the deformation is plastic, which means permanent. The spring does not fully spring back, so it stays longer." }
+    ]
+  },
+  "source": "original"
+}

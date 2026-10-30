@@ -1,0 +1,65 @@
+{
+  "slug": "air-oxygen",
+  "order": 31,
+  "level": "middle",
+  "ages": "11-12",
+  "grades": [6, 6],
+  "title": "Air, Oxygen and Burning",
+  "type": "Matter",
+  "question": "What is air made of, and why does a fire go out when you cover it?",
+  "coverStep": 4,
+  "steps": ["What is air made of?", "The test for oxygen", "Breathing in and out", "A candle under a jar", "The fire triangle", "Putting out fires", "Air pollution"],
+  "content": {
+    "steps": [
+      {
+        "title": "What is air made of?",
+        "text": "Air is a mixture of gases. Here is a model of 100 particles of dry air. By volume, about 78% of air is nitrogen and about 21% is oxygen. About 1% is argon. Air also has a very small amount of carbon dioxide (about 0.04%) and some water vapour, which changes from day to day. Nitrogen (N₂) and oxygen (O₂) particles are molecules: two atoms joined together.",
+        "try": "Press Sort into a bar chart, then Mix them again.",
+        "see": "78 blue nitrogen molecules, 21 red oxygen molecules and 1 gold argon atom. Nitrogen is by far the biggest part of air."
+      },
+      {
+        "title": "The test for oxygen",
+        "text": "Oxygen is a colourless gas with no smell. It does not burn itself, but it makes other things burn: we say oxygen supports combustion. Combustion is burning, when a fuel reacts with oxygen and gives out heat and light. A glowing splint (a wooden stick that has just been blown out) relights in pure oxygen. This is the test for oxygen.",
+        "try": "Press Put it into air, then Put it into oxygen.",
+        "see": "In the jar of air the splint only glows. In the jar of pure oxygen it bursts into flame again."
+      },
+      {
+        "title": "Breathing in and out",
+        "text": "Our bodies need oxygen too. In our cells, oxygen is used to release energy from food, and carbon dioxide and water are made. That is why the air we breathe out has less oxygen and more carbon dioxide than the air we breathe in. Breathed-out air is still about 16% oxygen, which is why rescue breaths can help a person.",
+        "try": "Turn Breathed-out air on and off and compare the bars.",
+        "see": "The oxygen bar drops from about 21% to about 16%. A carbon dioxide bar appears at about 4%. The nitrogen bar does not change."
+      },
+      {
+        "title": "A candle under a jar",
+        "text": "A candle burns its wax as fuel, using oxygen from the air. When we cover it with a jar, no new air can get in. The flame uses up oxygen, gets smaller and goes out, even though some oxygen is still left. A bigger jar holds more air, so it holds more oxygen. In this model the burn time is proportional to the volume: double the volume, double the time.",
+        "try": "Choose a Jar volume, then press Cover the candle. Try 250 mL and 1000 mL.",
+        "see": "The oxygen readout falls and the flame shrinks, then goes out with a wisp of smoke. A 1000 mL jar keeps the candle burning about twice as long as a 500 mL jar."
+      },
+      {
+        "title": "The fire triangle",
+        "text": "A fire needs three things at the same time: fuel (something to burn), oxygen (usually from the air) and heat (enough to get the fuel hot enough to burn). We draw them as the three sides of a triangle. Take away any one side and the fire goes out.",
+        "try": "Turn off Heat, Fuel or Oxygen, then turn it back on.",
+        "see": "As soon as one side of the triangle moves away, the flame dies and only smoke is left."
+      },
+      {
+        "title": "Putting out fires",
+        "text": "Every way of putting out a fire removes one side of the fire triangle. Water cools the fire and takes away heat. Sand, a fire blanket or a carbon dioxide extinguisher cover the fire and keep out oxygen. Turning off the gas, or clearing away wood, removes the fuel. Never throw water on burning oil or an electrical fire: use a fire blanket or the right extinguisher.",
+        "try": "Try Pour water, Cover with sand and Take away the wood. Press Light it again in between.",
+        "see": "Each method puts the fire out in a different way: water cools it (and makes steam), sand smothers it, and moving the logs leaves nothing to burn."
+      },
+      {
+        "title": "Air pollution",
+        "text": "Air pollution is harmful substances in the air. Most of it comes from burning fuels in vehicles, factories and power stations, and from burning rubbish and forests. Smoke and soot hurt our lungs. Sulfur dioxide and nitrogen oxides cause acid rain. Carbon monoxide is a poisonous gas. Extra carbon dioxide adds to global warming. Cleaner transport, filters on chimneys and planting trees all help.",
+        "try": "Move the Pollution slider from 0% to 100% and back.",
+        "see": "With more traffic and factory smoke, the sky turns brown and hazy, distant buildings fade and the air quality gets worse."
+      }
+    ],
+    "quiz": [
+      { "q": "Which gas makes up most of the air?", "options": ["Oxygen, about 21%", "Nitrogen, about 78%", "Carbon dioxide, about 50%", "Argon, about 1%"], "answer": 1, "why": "By volume, air is about 78% nitrogen. Oxygen is about 21%, argon about 1% and carbon dioxide only about 0.04%." },
+      { "q": "A glowing splint is put into a jar of gas and bursts into flame. What is the gas?", "options": ["Oxygen", "Nitrogen", "Carbon dioxide"], "answer": 0, "why": "Oxygen supports combustion, so a glowing splint relights in it. This is the test for oxygen." },
+      { "q": "A candle burns for 10 s under a 500 mL jar. About how long would it burn under a 1000 mL jar?", "options": ["About 5 s", "About 10 s", "About 20 s"], "answer": 2, "why": "A jar with twice the volume holds about twice as much air, and so twice as much oxygen, so the candle burns about twice as long." },
+      { "q": "A fire blanket is thrown over a pan of burning oil. Which side of the fire triangle does it remove?", "options": ["Fuel", "Oxygen", "Heat", "None of them"], "answer": 1, "why": "The blanket stops air reaching the fire, so it removes the oxygen. Water must never be used on burning oil." }
+    ]
+  },
+  "source": "original"
+}

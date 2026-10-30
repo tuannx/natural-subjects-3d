@@ -1,0 +1,71 @@
+{
+  "slug": "forces-motion",
+  "order": 31,
+  "level": "middle",
+  "ages": "11-14",
+  "grades": [6, 8],
+  "title": "Forces and Motion",
+  "type": "Forces",
+  "coverStep": 6,
+  "question": "What makes things start moving, speed up, slow down or keep going?",
+  "steps": ["Forces are arrows", "Net force", "Balanced: no change in motion", "Unbalanced: F = m × a", "Friction opposes motion", "Air resistance and top speed", "Action and reaction", "How a rocket moves"],
+  "content": {
+    "steps": [
+      {
+        "title": "Forces are arrows",
+        "text": "A force is a push or a pull. Every force has a size and a direction, so we draw it as an arrow: the longer the arrow, the bigger the force, and it points the way the force acts. Force is measured in newtons (N). This crate has two forces on it: its weight pulls it down, and the floor pushes up on it with a support force.",
+        "try": "Move the Crate mass slider and watch both arrows.",
+        "see": "A heavier crate has a longer weight arrow, and the floor's support arrow grows to match it. The two arrows are the same length but point in opposite directions."
+      },
+      {
+        "title": "Net force",
+        "text": "When several forces act on one object, we add them up to find the net force (also called the resultant force). Forces in opposite directions take away from each other: a 12 N push to the right and an 8 N push to the left give a net force of 4 N to the right. If the net force is zero, the forces are balanced. This cart runs on a very smooth track, so we can ignore friction for now.",
+        "try": "Move the Push from the left and Push from the right sliders.",
+        "see": "When both pushes are equal, the purple net force arrow disappears and the cart stays still. When one push is bigger, the net force points that way and the cart starts to move that way."
+      },
+      {
+        "title": "Balanced: no change in motion",
+        "text": "Newton's first law: if the forces on an object are balanced, its motion does not change. An object at rest stays at rest, and a moving object keeps moving at the same speed in a straight line. A force is only needed to start, stop, speed up, slow down or turn. The white dots are dropped every 0.5 seconds.",
+        "try": "Press Give it a push, then watch. Press Stop it to bring the cart to rest.",
+        "see": "After the short push the net force is zero, and the cart keeps rolling at a steady speed. The dots are equally spaced, because it covers the same distance every 0.5 s."
+      },
+      {
+        "title": "Unbalanced: F = m × a",
+        "text": "If the forces are unbalanced, the object accelerates: its speed or direction changes. Acceleration is how much the speed changes each second, measured in metres per second squared (m/s²). Newton's second law says force = mass × acceleration, F = m × a, so a = F ÷ m. A bigger net force gives more acceleration. A bigger mass gives less.",
+        "try": "Change the Push force and the Mass sliders and read the acceleration.",
+        "see": "A 10 N push on a 2 kg cart gives 5 m/s². Doubling the mass to 4 kg halves it to 2.5 m/s². The dots get farther apart as the cart speeds up."
+      },
+      {
+        "title": "Friction opposes motion",
+        "text": "Friction is a force between two surfaces that rub. It always acts against the motion. A rough surface can give more friction than a smooth one. Up to a maximum, friction matches your push, so the crate does not move at all. Push harder than the maximum and the crate moves, but friction still takes away from your push: net force = push − friction.",
+        "try": "Tap Ice, Wood or Carpet, then move the Push force slider.",
+        "see": "On carpet a 6 N push does nothing, because friction matches it. On ice the same push makes the crate speed away. The red friction arrow always points backward."
+      },
+      {
+        "title": "Air resistance and top speed",
+        "text": "Air resistance (drag) is friction from the air. It also acts against the motion, and it gets bigger as the object goes faster. This cart has a steady push. As it speeds up, air resistance grows until it is as big as the push. Then the forces are balanced and the speed stops rising. The cart has reached its top speed.",
+        "try": "Switch the Sail up toggle on and off.",
+        "see": "With the sail up, air resistance grows quickly and the cart's speed levels off at about 3 m/s. With the sail down, the cart keeps speeding up for much longer."
+      },
+      {
+        "title": "Action and reaction",
+        "text": "Forces always come in pairs. Newton's third law: when object A pushes on object B, B pushes back on A with a force of the same size in the opposite direction. When two skateboarders push off each other, each one feels the same size of force. The one with less mass gets more acceleration, so they roll away faster.",
+        "try": "Set the masses of Skater A and Skater B, then press Push off.",
+        "see": "The two force arrows are always the same length and point in opposite directions. The lighter skater rolls away faster."
+      },
+      {
+        "title": "How a rocket moves",
+        "text": "A rocket engine pushes hot gas out of the bottom very fast. By Newton's third law, the gas pushes the rocket up with the same size of force. This upward push is called thrust. The rocket lifts off only if the thrust is bigger than its weight. This model rocket has a mass of 0.5 kg, so its weight is 0.5 × 9.8 = 4.9 N. The climb is shown slowed down.",
+        "try": "Set the Thrust slider, then press Launch. Try a thrust below 4.9 N.",
+        "see": "With 4 N of thrust the rocket roars but stays on the pad. Above 4.9 N there is an upward net force, and the rocket accelerates up. More thrust gives more acceleration."
+      }
+    ],
+    "quiz": [
+      { "q": "A cart has a 10 N push to the right and 4 N of friction to the left. What is the net force?", "options": ["14 N to the right", "6 N to the right", "6 N to the left", "0 N"], "answer": 1, "why": "Forces in opposite directions subtract: 10 N − 4 N = 6 N, in the direction of the bigger force, which is to the right." },
+      { "q": "The same net force acts on a 1 kg cart and a 3 kg cart. Which one accelerates more?", "options": ["The 1 kg cart, 3 times as much", "The 3 kg cart, 3 times as much", "They accelerate the same"], "answer": 0, "why": "a = F ÷ m. With the same force, a mass 3 times smaller gets 3 times the acceleration." },
+      { "q": "A car drives at a steady 50 km/h along a straight road. What is true about the forces on it?", "options": ["There are no forces on it", "The forces are balanced, so the net force is zero", "The forward force is bigger than the forces against it"], "answer": 1, "why": "Steady speed in a straight line means no acceleration, so by Newton's first law the net force is zero. The engine's forward force is balanced by friction and air resistance." },
+      { "q": "Skater A pushes Skater B with a force of 50 N. What force does Skater B put on Skater A?", "options": ["0 N", "25 N in the opposite direction", "50 N in the opposite direction", "100 N in the same direction"], "answer": 2, "why": "By Newton's third law, forces come in equal and opposite pairs. B pushes back on A with 50 N in the opposite direction." }
+    ]
+  },
+  "source": "original"
+}
