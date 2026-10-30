@@ -123,9 +123,9 @@ This is a map of topics, not a copy of either standard. Grade placement is a cho
 | 6 | Microorganisms: bacteria, viruses, protists | MS-LS1-1 | KHTN 6: Virus, vi khuẩn, nguyên sinh vật | `microorganisms` | ✅ |
 | 7 | Photosynthesis | MS-LS1-6 | KHTN 7: Quang hợp | `photosynthesis` | ✅ |
 | 7 | Cellular respiration | MS-LS1-7 | KHTN 7: Hô hấp tế bào | `respiration` | ✅ |
-| 7 | Water and nutrient transport in plants | MS-LS1-6 | KHTN 7: Trao đổi nước và chất dinh dưỡng | `plant-transport` | ○ |
-| 8 | Digestion | MS-LS1-3 | KHTN 8: Tiêu hóa | `digestion` | ○ |
-| 8 | Heart and circulation | MS-LS1-3 | KHTN 8: Tuần hoàn | `circulation` | ○ |
+| 7 | Water and nutrient transport in plants | MS-LS1-6 | KHTN 7: Trao đổi nước và chất dinh dưỡng | `plant-transport` | ✅ |
+| 8 | Digestion | MS-LS1-3 | KHTN 8: Tiêu hóa | `digestion` | ✅ |
+| 8 | Heart and circulation | MS-LS1-3 | KHTN 8: Tuần hoàn | `circulation` | ✅ |
 | 8 | Breathing and the lungs | MS-LS1-3 | KHTN 8: Hô hấp | `breathing` | ○ |
 | 8 | The nervous system and reflexes | MS-LS1-8 | KHTN 8: Thần kinh và giác quan | `nervous-system` | ○ |
 | 8 | Ecosystems: food webs and energy pyramids | MS-LS2-1, MS-LS2-3 | KHTN 8: Sinh thái | `ecosystems` | ○ |
@@ -143,8 +143,8 @@ This is a map of topics, not a copy of either standard. Grade placement is a cho
 | 6–8 | Earth's layers and plate tectonics | MS-ESS2-2, MS-ESS2-3 | — | `plate-tectonics` | ✅ |
 | 6–8 | The rock cycle | MS-ESS2-1 | — | `rock-cycle` | ✅ |
 | 6–8 | Fossils and the history of Earth | MS-ESS1-4, MS-LS4-1 | — | `geologic-time` | ✅ |
-| 6–8 | The water cycle and the Sun's energy | MS-ESS2-4 | — | `water-cycle` | ○ |
-| 6–8 | Weather: air masses, fronts, pressure | MS-ESS2-5 | — | `weather-fronts` | ○ |
-| 6–8 | Climate and the greenhouse effect | MS-ESS2-6, MS-ESS3-5 | — | `climate-greenhouse` | ○ |
+| 6–8 | The water cycle and the Sun's energy | MS-ESS2-4 | — | `water-cycle` | ✅ |
+| 6–8 | Weather: air masses, fronts, pressure | MS-ESS2-5 | — | `weather-fronts` | ✅ |
+| 6–8 | Climate and the greenhouse effect | MS-ESS2-6, MS-ESS3-5 | — | `climate-greenhouse` | ✅ |
 | 6–8 | Natural hazards: earthquakes, volcanoes, storms | MS-ESS3-2 | — | `natural-hazards` | ○ |
 | 9 | Natural resources and energy for a sustainable future | MS-ESS3-1, MS-ESS3-3 | KHTN 9: Năng lượng với cuộc sống, môi trường | `resources-sustainability` | ○ |

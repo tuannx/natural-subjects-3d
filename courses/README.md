@@ -117,7 +117,7 @@ A new lesson only touches its own folder (plus the subject's `README.md` and the
 - [The Chlor-Alkali Industry](chemistry/chlor-alkali-step/) · Grades 10–12
 - [Hou's Soda Process](chemistry/hou-soda-step/) · Grades 10–12
 
-## [Biology](biology/) (23)
+## [Biology](biology/) (26)
 
 ### Primary school (12)
 
@@ -134,7 +134,7 @@ A new lesson only touches its own folder (plus the subject's `README.md` and the
 - [Food and Nutrition: A Balanced Plate](biology/food-and-nutrition/) · Grades 4–5
 - [Fungi and Bacteria: Tiny Helpers and Germs](biology/fungi-and-bacteria/) · Grades 4–5
 
-### Middle school (6)
+### Middle school (9)
 
 - [Cells: Plant and Animal Cells Under the Microscope](biology/cells/) · Grade 6
 - [From Cells to Tissues, Organs and Systems](biology/body-organization/) · Grade 6
@@ -142,6 +142,9 @@ A new lesson only touches its own folder (plus the subject's `README.md` and the
 - [Microorganisms: Bacteria, Viruses and Protists](biology/microorganisms/) · Grade 6
 - [Photosynthesis: How Plants Make Food](biology/photosynthesis/) · Grade 7
 - [Cellular Respiration: Energy from Food](biology/respiration/) · Grade 7
+- [How Water and Food Travel Through a Plant](biology/plant-transport/) · Grade 7
+- [Digestion: How Your Body Breaks Down Food](biology/digestion/) · Grade 8
+- [The Heart and Circulation](biology/circulation/) · Grade 8
 
 ### High school (5)
 
@@ -151,7 +154,7 @@ A new lesson only touches its own folder (plus the subject's `README.md` and the
 - [Observing Mitosis in Root-Tip Meristem Cells](biology/mitosis-step/) · Grades 10–12
 - [Conditions Affecting Enzyme Activity](biology/enzyme-step/) · Grades 10–12
 
-## [Earth & Space](earth-space/) (31)
+## [Earth & Space](earth-space/) (34)
 
 ### Primary school (11)
 
@@ -167,7 +170,7 @@ A new lesson only touches its own folder (plus the subject's `README.md` and the
 - [What Is Soil Made Of?](earth-space/soil/) · Grade 5
 - [The Sun, the Stars and Gravity](earth-space/sun-and-stars/) · Grade 5
 
-### Middle school (6)
+### Middle school (9)
 
 - [The Solar System: Sizes, Orbits and Gravity](earth-space/solar-system/) · Grade 6
 - [Why Do We Have Seasons?](earth-space/seasons/) · Grade 6
@@ -175,6 +178,9 @@ A new lesson only touches its own folder (plus the subject's `README.md` and the
 - [Earth's Layers and Plate Tectonics](earth-space/plate-tectonics/) · Grades 6–8
 - [The Rock Cycle](earth-space/rock-cycle/) · Grades 6–8
 - [Fossils and the History of Earth](earth-space/geologic-time/) · Grades 6–8
+- [The Water Cycle and the Sun's Energy](earth-space/water-cycle/) · Grades 6–8
+- [Weather: Air Masses, Fronts and Pressure](earth-space/weather-fronts/) · Grades 6–8
+- [Climate and the Greenhouse Effect](earth-space/climate-greenhouse/) · Grades 6–8
 
 ### High school (14)
 

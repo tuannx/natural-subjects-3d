@@ -2,7 +2,7 @@
 
 Our planet and the sky: weather, rocks, water, climate, the Moon, the Sun and the planets.
 
-31 lessons. On the site: `/subjects/earth-space/`. How to add one: [../README.md](../README.md).
+34 lessons. On the site: `/subjects/earth-space/`. How to add one: [../README.md](../README.md).
 
 ## Primary school (11)
 
@@ -18,7 +18,7 @@ Our planet and the sky: weather, rocks, water, climate, the Moon, the Sun and th
 - [What Is Soil Made Of?](soil/) · Grade 5
 - [The Sun, the Stars and Gravity](sun-and-stars/) · Grade 5
 
-## Middle school (6)
+## Middle school (9)
 
 - [The Solar System: Sizes, Orbits and Gravity](solar-system/) · Grade 6
 - [Why Do We Have Seasons?](seasons/) · Grade 6
@@ -26,6 +26,9 @@ Our planet and the sky: weather, rocks, water, climate, the Moon, the Sun and th
 - [Earth's Layers and Plate Tectonics](plate-tectonics/) · Grades 6–8
 - [The Rock Cycle](rock-cycle/) · Grades 6–8
 - [Fossils and the History of Earth](geologic-time/) · Grades 6–8
+- [The Water Cycle and the Sun's Energy](water-cycle/) · Grades 6–8
+- [Weather: Air Masses, Fronts and Pressure](weather-fronts/) · Grades 6–8
+- [Climate and the Greenhouse Effect](climate-greenhouse/) · Grades 6–8
 
 ## High school (14)
 
