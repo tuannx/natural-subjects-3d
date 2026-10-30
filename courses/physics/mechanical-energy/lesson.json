@@ -1,0 +1,59 @@
+{
+  "slug": "mechanical-energy",
+  "order": 46,
+  "level": "middle",
+  "ages": "11-15",
+  "grades": [6, 9],
+  "title": "Kinetic and Potential Energy: Energy Is Conserved",
+  "type": "Energy",
+  "question": "Why can a roller coaster's second hill never be higher than the first?",
+  "steps": ["Kinetic energy: energy of motion", "Gravitational potential energy", "The pendulum: Ep and Ek trade places", "Friction and thermal energy", "Roller coaster hills", "Elastic energy: springs and bows"],
+  "content": {
+    "steps": [
+      {
+        "title": "Kinetic energy: energy of motion",
+        "text": "Energy is what makes things move or change. It is measured in joules (J). Everything that moves has kinetic energy, Ek. It depends on the object's mass m (in kg) and its speed v (in m/s): Ek = ½ · m · v². Because the speed is squared, speed matters much more than mass. Double the mass and Ek doubles, but double the speed and Ek becomes four times as big.",
+        "try": "Move the Mass and Speed sliders and watch the energy bar.",
+        "see": "A 2 kg cart at 4 m/s has 16 J. At 8 m/s it has 64 J, four times as much. With 4 kg at 4 m/s it has 32 J, only twice as much."
+      },
+      {
+        "title": "Gravitational potential energy",
+        "text": "Lifting something up takes energy, and that energy is stored as gravitational potential energy, Ep: energy an object has because of its height. Ep = m · g · h, where h is the height in metres and g is the pull of gravity on each kilogram. On Earth g is about 9.8 N/kg; in this lesson we round it to 10 N/kg, as many textbooks do. Then a 1 kg mass weighs about 10 N, and Ep is the weight times the height (P · h). When the object falls, its potential energy turns into kinetic energy.",
+        "try": "Set the Mass and Height sliders, then press Drop it.",
+        "see": "A 2 kg ball at 3 m has Ep = 60 J. As it falls, the blue Ep bar shrinks and the orange Ek bar grows, while the total stays 60 J. It lands at about 7.7 m/s."
+      },
+      {
+        "title": "The pendulum: Ep and Ek trade places",
+        "text": "A swinging pendulum keeps changing one kind of energy into the other. At each end of the swing the bob stops for an instant, so all its energy is potential energy. At the bottom it moves fastest, so all its energy is kinetic (we measure the height from the lowest point). In between it has some of each. Energy is never made or destroyed, only changed from one form into another: this is the law of conservation of energy. Here there is no air resistance or friction, so the total stays the same.",
+        "try": "Move the Release angle slider and watch the bars as the bob swings.",
+        "see": "The Ep and Ek bars rise and fall in turn, but the green Total bar never changes. The bob always rises to the dashed line, the same height on both sides."
+      },
+      {
+        "title": "Friction and thermal energy",
+        "text": "A skater (50 kg) rides a half-pipe. Without friction, Ep and Ek swap back and forth and the skater always comes back up to the start height. In real life, friction between the wheels and the ramp, and air resistance, slowly turn some of the energy into thermal energy: the wheels, the ramp and the air get a tiny bit warmer. The mechanical energy (Ep + Ek) gets smaller, so the skater rises less each time, but the total energy, including the thermal energy, stays exactly the same.",
+        "try": "Turn on Friction and watch the Thermal bar. Use Start height and Start again to try other runs.",
+        "see": "Without friction the skater keeps reaching the start height. With friction each swing is lower and the Thermal bar grows, while the Total stays at 2,000 J (from 4 m) until the skater stops at the bottom."
+      },
+      {
+        "title": "Roller coaster hills",
+        "text": "A roller coaster has no engine after it is pulled up the first hill. From then on it runs on the energy it got there: m · g · h at the start. Every later hill must be lower than the start, because the car can never have more energy than it started with. On a real ride friction takes some energy too, so later hills are lower still. At the end, the brakes turn the kinetic energy into thermal energy.",
+        "try": "Move the Second hill height slider above and below 5 m, then press Start again.",
+        "see": "With a 4 m hill the car rolls over it and stops in the brakes at the end. With a 5 m or 6 m hill it slows down before the top and rolls back, again and again."
+      },
+      {
+        "title": "Elastic energy: springs and bows",
+        "text": "A squashed spring, a stretched rubber band or a bent bow stores elastic potential energy. When it is let go, this energy can make something move. The more you squash or stretch it, the more energy it stores. For a spring, Ee = ½ · k · x², where x is how far it is squashed (in m) and k is its stiffness (400 N/m for this one). Here the elastic energy becomes the ball's kinetic energy, and then gravitational potential energy as the ball rises.",
+        "try": "Move the Squash the spring slider, then press Release.",
+        "see": "Squashed by 0.10 m, the spring stores 2 J and the 0.2 kg ball rises 1 m. Squashed twice as far (0.20 m), it stores 8 J and the ball rises 4 m, four times as high."
+      }
+    ],
+    "quiz": [
+      { "q": "A car's speed doubles from 10 m/s to 20 m/s. What happens to its kinetic energy?", "options": ["It doubles", "It becomes four times as big", "It stays the same", "It halves"], "answer": 1, "why": "Ek = ½ · m · v². The speed is squared, so twice the speed gives 2² = 4 times the kinetic energy." },
+      { "q": "What is the potential energy of a 3 kg box on a shelf 2 m high? (g = 10 N/kg)", "options": ["6 J", "15 J", "60 J", "600 J"], "answer": 2, "why": "Ep = m · g · h = 3 kg × 10 N/kg × 2 m = 60 J." },
+      { "q": "A ball is dropped. Ignoring air resistance, what happens to its energy as it falls?", "options": ["Its potential energy changes into kinetic energy, and the total stays the same", "Its kinetic and potential energy both increase", "Its energy is used up and destroyed as it falls"], "answer": 0, "why": "As the ball loses height it loses Ep and gains the same amount of Ek. Energy is conserved: it changes form but is never destroyed." },
+      { "q": "Why must the second hill of a roller coaster be lower than the first?", "options": ["The car can never have more energy than it had at the start, and friction even takes some away", "Lower hills are cheaper to build", "Gravity is weaker higher up"], "answer": 0, "why": "To reach a height h the car needs Ep = m · g · h. Its total energy is set at the start and friction turns some into thermal energy, so it cannot climb higher than where it began." }
+    ]
+  },
+  "coverStep": 4,
+  "source": "original"
+}

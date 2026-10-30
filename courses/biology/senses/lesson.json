@@ -1,0 +1,64 @@
+{
+  "slug": "senses",
+  "order": 20,
+  "level": "primary",
+  "ages": "8-10",
+  "grades": [3, 4],
+  "title": "How Do We See and Hear?",
+  "type": "Human Body",
+  "coverStep": 2,
+  "question": "How does a tree outside end up as a picture in my head?",
+  "steps": ["Five senses", "We see with light", "The pupil lets light in", "A picture on the retina", "The brain makes sense of it", "Sound shakes the eardrum", "From ear to brain"],
+  "content": {
+    "steps": [
+      {
+        "title": "Five senses",
+        "text": "Our senses tell us about the world around us. We have five main senses, and each one has its own sense organ: eyes for sight, ears for hearing, the nose for smell, the tongue for taste and the skin for touch. Every sense organ sends messages to the brain.",
+        "try": "Tap Sight, Hearing, Smell, Taste or Touch to find each sense organ.",
+        "see": "Each sense has its own part of the body. The organ for the sense you pick grows and shrinks so you can find it."
+      },
+      {
+        "title": "We see with light",
+        "text": "We can only see things when light from them goes into our eyes. Light from the Sun hits the tree and bounces off it. Some of that light travels straight into the eye. With no light, there is nothing to see.",
+        "try": "Move the Light slider down to 0, then back up.",
+        "see": "When the light is turned down, no light comes from the tree into the eye, and the scene goes dark. Turn it up and the light rays come back."
+      },
+      {
+        "title": "The pupil lets light in",
+        "text": "Light goes into the eye through the clear front window, called the cornea, and then through a small black hole called the pupil. The coloured ring around it is the iris. The iris can make the pupil bigger or smaller to control how much light gets in.",
+        "try": "Move the Brightness slider and watch the black pupil.",
+        "see": "In bright light the pupil gets small, so fewer light rays get in. In dim light it opens wide to let in as many rays as it can. The other rays stop at the iris."
+      },
+      {
+        "title": "A picture on the retina",
+        "text": "Behind the pupil is the lens. It bends the light so that it makes a clear, tiny picture at the back of the eye. The back of the eye is lined with the retina, which has millions of cells that sense light. The picture on the retina is upside down!",
+        "try": "Turn Show the light rays off and on. Follow the rays from the top and bottom of the tree.",
+        "see": "Light from the top of the tree lands low on the retina, and light from the bottom lands high. So the tiny tree on the retina is upside down."
+      },
+      {
+        "title": "The brain makes sense of it",
+        "text": "The retina turns the picture into signals, a kind of message. The optic nerve carries these signals from the eye to the brain. The brain works out what you are looking at, and you see the tree the right way up.",
+        "try": "Press Send to the brain and follow the signals along the optic nerve.",
+        "see": "Glowing signals travel from the back of the eye to the brain. When they arrive, the brain lights up and 'sees' the tree, the right way up."
+      },
+      {
+        "title": "Sound shakes the eardrum",
+        "text": "Sounds are made when something vibrates, which means it shakes back and forth very fast. When the drum is hit, it makes the air vibrate too. The vibrations spread out through the air. The outer ear catches them and sends them along the ear canal to the eardrum, a thin skin that starts to vibrate as well.",
+        "try": "Move the Loudness slider from quiet to loud.",
+        "see": "Sound rings spread out from the drum into the ear. A louder sound makes stronger rings and makes the eardrum shake harder."
+      },
+      {
+        "title": "From ear to brain",
+        "text": "Behind the eardrum are three tiny bones, the smallest bones in your body. They pass the vibrations on to the cochlea, a part shaped like a snail shell. The cochlea turns the vibrations into signals. The hearing nerve carries the signals to the brain, and the brain tells you what you heard.",
+        "try": "Press Beat the drum and follow the sound all the way to the brain.",
+        "see": "The eardrum shakes, the tiny bones wiggle, the cochlea glows, and signals run along the hearing nerve to the brain."
+      }
+    ],
+    "quiz": [
+      { "q": "Why can't we see anything in a completely dark room?", "options": ["Our eyes are closed", "No light goes into our eyes", "The things in the room disappear"], "answer": 1, "why": "We see things when light from them goes into our eyes. In complete darkness no light reaches the eyes, so there is nothing to see." },
+      { "q": "What happens to your pupil in bright sunlight?", "options": ["It gets smaller", "It gets bigger", "It changes colour"], "answer": 0, "why": "In bright light the iris makes the pupil smaller, so not too much light gets into the eye." },
+      { "q": "Which part of the ear vibrates first when sound comes in?", "options": ["The cochlea", "The eardrum", "The hearing nerve"], "answer": 1, "why": "Sound travels along the ear canal to the eardrum, which vibrates first. Then the tiny bones and the cochlea pass the vibrations on." }
+    ]
+  },
+  "source": "original"
+}

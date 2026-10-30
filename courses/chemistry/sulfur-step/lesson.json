@@ -1,0 +1,27 @@
+{
+  "slug": "sulfur-step",
+  "order": 450,
+  "level": "high-school",
+  "ages": "15-18",
+  "grades": [10, 12],
+  "title": "Sulfur, SO₂ and Sulfuric Acid: Converting Between Oxidation States",
+  "type": "Principles & Phenomena",
+  "question": "It's all sulfur, so why is it sometimes a yellow solid, sometimes bleaches magenta colorless, and sometimes ends up in iron powder?",
+  "textbook": [
+    "Required Vol. 2 · Ch. 5 Important Nonmetallic Elements in Chemical Production · Sec. 1 Sulfur and Its Compounds",
+    "Required Vol. 2 · Ch. 5 Important Nonmetallic Elements in Chemical Production · Lab Activity 5 Converting Sulfur Compounds Between Oxidation States"
+  ],
+  "steps": [
+    "Full setup",
+    "Sulfur + iron powder",
+    "Conc. H₂SO₄ and copper",
+    "Concentrated or dilute",
+    "Heat to restore",
+    "Three test tubes and the cotton",
+    "Comproportionation to zero",
+    "Look inside · oxidation-state elevator",
+    "Test · bleach it all the way"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/sulfur-step/"
+}

@@ -1,0 +1,64 @@
+{
+  "slug": "changing-materials",
+  "order": 21,
+  "level": "primary",
+  "ages": "7-9",
+  "grades": [2, 3],
+  "title": "Heat It, Cool It",
+  "type": "Matter",
+  "coverStep": 0,
+  "question": "If you melt something, can you change it back?",
+  "steps": ["Heat can melt things", "Cooling makes it hard again", "Freezing and melting water", "Melting wax", "Cooking an egg", "Baking and burning", "Can undo or cannot undo?"],
+  "content": {
+    "steps": [
+      {
+        "title": "Heat can melt things",
+        "text": "Heating can change a material. This chocolate is a hard solid. When the hot plate warms it up, it melts into a runny liquid.",
+        "try": "Move the Heat slider up and watch the chocolate.",
+        "see": "The hard block gets smaller and runs into a shiny puddle. The thermometer shows the pan getting hotter."
+      },
+      {
+        "title": "Cooling makes it hard again",
+        "text": "Cooling can change a material too. When melted chocolate cools down, it turns back into a hard solid. It is still chocolate, just a new shape. This change can be undone.",
+        "try": "Press Cool to put the pan in the freezer. Then move the Heat slider to melt it again.",
+        "see": "The shiny puddle goes dull and hard. Heat it again and it melts again: melting can be undone."
+      },
+      {
+        "title": "Freezing and melting water",
+        "text": "Water freezes into ice when it gets very cold, at 0 °C. Warm the ice and it melts back into water. You can go back and forth again and again.",
+        "try": "Press Cool, then move the Heat slider up.",
+        "see": "In the freezer the water turns into white, hard ice. On the hot plate the ice melts back into water."
+      },
+      {
+        "title": "Melting wax",
+        "text": "Candles are made of wax. Wax is hard when it is cool. Heat it and it melts into a clear liquid. Let it cool and it goes hard again.",
+        "try": "Move the Heat slider up high, then press Cool.",
+        "see": "The candle melts into a clear puddle. When it cools, the puddle turns hard and pale again. Melting wax can be undone."
+      },
+      {
+        "title": "Cooking an egg",
+        "text": "In a raw egg, the white part is runny and clear. Heat changes it into something new: the white turns firm and white, and the yolk sets.",
+        "try": "Heat the egg, then press Cool.",
+        "see": "The egg stays cooked, even in the freezer. Cooling does not make it raw again. This change cannot be undone."
+      },
+      {
+        "title": "Baking and burning",
+        "text": "Baking turns soft, sticky dough into bread. Burning turns paper into black ash and smoke. These changes can never go back. Fire is dangerous: only grown-ups should burn things.",
+        "try": "Turn the Heat slider up to High, then press Cool.",
+        "see": "The dough grows and turns brown. The paper burns to ash. Cooling them does not change them back."
+      },
+      {
+        "title": "Can undo or cannot undo?",
+        "text": "Melting and freezing can be undone, because the material stays the same stuff. Cooking, baking and burning cannot be undone, because they make new materials.",
+        "try": "Press each item to put it on the right mat.",
+        "see": "Chocolate, ice and wax go on Can undo. The egg, the bread and the ash go on Cannot undo."
+      }
+    ],
+    "quiz": [
+      { "q": "Melted chocolate cools down. What happens?", "options": ["It goes hard again", "It turns into bread", "It stays runny forever"], "answer": 0, "why": "When it cools, chocolate turns back into a solid. Melting can be undone." },
+      { "q": "Which change can NOT be undone?", "options": ["Freezing water", "Melting wax", "Cooking an egg"], "answer": 2, "why": "A cooked egg never turns raw again, even when it is cold. Cooking makes something new." },
+      { "q": "What makes water freeze into ice?", "options": ["Heating it", "Cooling it", "Stirring it"], "answer": 1, "why": "Water freezes when it gets very cold, at 0 °C. Heating melts the ice back into water." }
+    ]
+  },
+  "source": "original"
+}

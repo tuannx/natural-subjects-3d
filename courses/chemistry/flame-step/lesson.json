@@ -1,0 +1,26 @@
+{
+  "slug": "flame-step",
+  "order": 290,
+  "level": "high-school",
+  "ages": "15-18",
+  "grades": [10, 12],
+  "title": "Flame Tests and Atomic Spectra",
+  "type": "Principles & Phenomena",
+  "question": "Why does each metal have its own flame color, and why can that color serve as a “lab report”?",
+  "textbook": [
+    "Required Vol. 1 · Ch. 2 Important Elements in Seawater: Sodium and Chlorine · Sec. 1 Sodium and Its Compounds · Flame Tests",
+    "Elective Vol. 2 Structure and Properties of Matter · Ch. 1 Atomic Structure and Properties · Sec. 1 Atomic Structure · Atomic Spectra"
+  ],
+  "steps": [
+    "Meet the Experiment",
+    "Clean the Platinum Wire",
+    "Sodium Doublet",
+    "Potassium and Cobalt Glass",
+    "Energy and Wavelength",
+    "Emission and Absorption",
+    "Six Metals",
+    "Test · Detect Potassium"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/flame-step/"
+}

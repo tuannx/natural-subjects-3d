@@ -1,0 +1,116 @@
+{
+  "slug": "chemical-reactions",
+  "order": 50,
+  "coverStep": 1,
+  "level": "middle",
+  "ages": "13-14",
+  "grades": [
+    8,
+    8
+  ],
+  "title": "Chemical Reactions and Conservation of Mass",
+  "type": "Reactions",
+  "question": "When something burns or fizzes, where do the atoms go, and does anything get lighter?",
+  "steps": [
+    "Physical or chemical change?",
+    "Signs of a reaction",
+    "Atoms rearrange",
+    "Balancing equations",
+    "Conservation of mass",
+    "Where does the extra mass come from?",
+    "Exothermic and endothermic"
+  ],
+  "content": {
+    "steps": [
+      {
+        "title": "Physical or chemical change?",
+        "text": "When ice melts, it is still water. The substance stays the same; only its state changes. This is a physical change. When paper burns, it turns into ash, smoke and gases that were not there before. New substances form, so this is a chemical change, also called a chemical reaction. The substances we start with are the reactants. The new substances made are the products.",
+        "try": "Press Melt the ice, then press Burn the paper.",
+        "see": "The ice cube shrinks into a puddle of water, which could be frozen back into ice. The paper blackens, shrinks to ash and gives off smoke, and it cannot be turned back into paper."
+      },
+      {
+        "title": "Signs of a reaction",
+        "text": "How can you tell that a new substance has formed? Look for signs. A gas gives bubbles: zinc in hydrochloric acid makes hydrogen gas. A colour change: an iron nail in blue copper(II) sulfate solution slowly turns the solution pale green and coats itself in copper. A precipitate, which is a solid that forms inside a solution: sodium hydroxide solution added to copper(II) sulfate makes a blue solid. Heat and light given out: magnesium ribbon burns with a dazzling white light.",
+        "try": "Tap Gas, Colour change, Precipitate and Heat and light to start each one again.",
+        "see": "Bubbles stream up from the zinc, the blue solution turns green while the nail turns copper-coloured, a blue cloud of solid forms and sinks, and the magnesium ribbon burns with a bright white glow."
+      },
+      {
+        "title": "Atoms rearrange",
+        "text": "In a reaction, the bonds that hold atoms together in the reactant molecules break, and the atoms join up again in new ways. No atoms are made and none are destroyed. Here hydrogen (H₂) reacts with oxygen (O₂) to make water (H₂O). We write this as a chemical equation: 2H₂ + O₂ → 2H₂O. The arrow means 'react to make'. The big number in front of a formula is its coefficient: it tells how many molecules there are.",
+        "try": "Drag the Reaction progress slider from 0% to 100%, or press Play.",
+        "see": "The two H₂ molecules and the O₂ molecule split apart, then the atoms join into two H₂O molecules. There are 3 molecules before and 2 after, but there are always 4 hydrogen atoms (white) and 2 oxygen atoms (red)."
+      },
+      {
+        "title": "Balancing equations",
+        "text": "Because atoms are never made or lost, a correct equation has the same number of each kind of atom on both sides. We say it is balanced. To balance an equation, change only the coefficients in front of the formulas. Never change the small numbers inside a formula: H₂O₂ is hydrogen peroxide, not water! For example, methane (CH₄), the main gas in natural gas, burns like this: CH₄ + 2O₂ → CO₂ + 2H₂O.",
+        "try": "Pick an equation, then use the + and − buttons to change the coefficients until the readout says Balanced.",
+        "see": "Molecules stack up or disappear as you change each coefficient. When every kind of atom has the same count on both sides, the equation board and the arrow turn green."
+      },
+      {
+        "title": "Conservation of mass",
+        "text": "The law of conservation of mass says that in a chemical reaction, the total mass of the products equals the total mass of the reactants. Here baking soda (sodium hydrogen carbonate) is tipped into vinegar. They react and make carbon dioxide gas. With a rubber stopper in, the flask is a closed system: nothing can get in or out. Without it, the gas can escape. (We use only 1 g of baking soda, because the trapped gas pushes on the stopper.)",
+        "try": "Press Start the reaction with the stopper in. Then turn off Stopper in and start again.",
+        "see": "With the stopper in, the reading stays at 156.50 g even though the mixture fizzes. In the open flask, the gas drifts out and the reading falls by about 0.52 g, the mass of the carbon dioxide that escaped."
+      },
+      {
+        "title": "Where does the extra mass come from?",
+        "text": "When magnesium burns, the crucible gets heavier! Magnesium joins with oxygen from the air to make white magnesium oxide: 2Mg + O₂ → 2MgO. The oxide contains the oxygen atoms too, so it weighs more than the magnesium alone. Mass is still conserved: mass of magnesium + mass of oxygen = mass of magnesium oxide. 24 g of magnesium always joins with 16 g of oxygen to make 40 g of magnesium oxide.",
+        "try": "Set the Magnesium slider, then press Burn it and watch the balance.",
+        "see": "The crucible is heated over the burner, the ribbon burns with a white glare and leaves white powder. Back on the balance, the reading has gone up by the mass of oxygen that joined: 2.4 g of magnesium becomes 4.0 g of magnesium oxide."
+      },
+      {
+        "title": "Exothermic and endothermic",
+        "text": "Reactions also give out or take in energy, often as heat. An exothermic reaction gives out heat, so the mixture and its surroundings get warmer. Burning fuels and mixing an acid with an alkali (a base that dissolves in water) are exothermic. An endothermic reaction takes in heat from its surroundings, so the mixture gets colder. Citric acid with baking soda solution is endothermic. The temperature change is ΔT = final temperature − starting temperature.",
+        "try": "Press Acid + alkali, then press Citric acid + baking soda, and watch the thermometer.",
+        "see": "With acid + alkali, the thermometer rises from 20 °C to about 27 °C and red arrows show heat going out. With citric acid + baking soda, it fizzes and falls to about 14 °C, and blue arrows show heat coming in. (Model values.)"
+      }
+    ],
+    "quiz": [
+      {
+        "q": "Which of these is a chemical change?",
+        "options": [
+          "Ice melting",
+          "Sugar dissolving in water",
+          "Iron rusting",
+          "Cutting paper"
+        ],
+        "answer": 2,
+        "why": "Rust (iron oxide) is a new substance, so rusting is a chemical change. Melting, dissolving and cutting change only the state, the mixing or the shape: no new substance forms."
+      },
+      {
+        "q": "Which equation is balanced?",
+        "options": [
+          "H₂ + O₂ → H₂O",
+          "2H₂ + O₂ → 2H₂O",
+          "H₂ + O₂ → 2H₂O",
+          "2H₂ + 2O₂ → H₂O"
+        ],
+        "answer": 1,
+        "why": "2H₂ + O₂ → 2H₂O has 4 hydrogen atoms and 2 oxygen atoms on each side. The others have different atom counts on the two sides."
+      },
+      {
+        "q": "12 g of magnesium burns and makes 20 g of magnesium oxide. What mass of oxygen joined with it?",
+        "options": [
+          "8 g",
+          "12 g",
+          "20 g",
+          "32 g"
+        ],
+        "answer": 0,
+        "why": "Mass is conserved: mass of magnesium + mass of oxygen = mass of magnesium oxide, so the oxygen is 20 g − 12 g = 8 g."
+      },
+      {
+        "q": "Vinegar and baking soda react in an open flask on a balance. Why does the reading go down?",
+        "options": [
+          "Atoms are destroyed in the reaction",
+          "Carbon dioxide gas escapes into the air",
+          "Fizzing liquids are lighter",
+          "The products have no mass"
+        ],
+        "answer": 1,
+        "why": "No atoms are destroyed. The carbon dioxide made in the reaction leaves the open flask, so its mass is no longer on the balance. In a closed flask the reading stays the same."
+      }
+    ]
+  },
+  "source": "original"
+}

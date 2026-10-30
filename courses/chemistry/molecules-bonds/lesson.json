@@ -1,0 +1,65 @@
+{
+  "slug": "molecules-bonds",
+  "order": 42,
+  "level": "middle",
+  "ages": "12-13",
+  "grades": [7, 7],
+  "title": "Molecules and Bonds: Ionic and Covalent",
+  "type": "Matter",
+  "question": "What holds atoms together, and why does salt melt so much harder than ice?",
+  "coverStep": 4,
+  "steps": ["Elements, compounds and molecules", "Molecular mass", "A covalent bond: sharing electrons", "Covalent bonds in water", "An ionic bond: giving an electron", "A salt crystal", "Salt and water: melting and boiling"],
+  "content": {
+    "steps": [
+      {
+        "title": "Elements, compounds and molecules",
+        "text": "An element is made of only one kind of atom. A compound is made of two or more kinds of atom joined together chemically. A molecule is a group of atoms held together by chemical bonds. Helium atoms float about on their own. Hydrogen (H₂) and oxygen (O₂) are elements whose molecules hold two of the same atom. Water (H₂O) and carbon dioxide (CO₂) are compounds: their molecules hold different kinds of atom.",
+        "try": "Tap Elements or Compounds to bring that kind forward, then tap Show all.",
+        "see": "Each element is built from one colour of atom only. Each compound mixes colours: water has red oxygen and white hydrogen, and carbon dioxide has dark grey carbon and red oxygen."
+      },
+      {
+        "title": "Molecular mass",
+        "text": "The small number after a symbol in a formula (the subscript) tells how many of that atom are in the molecule: H₂O has 2 hydrogen atoms and 1 oxygen atom. To find the molecular mass, add up the masses of all the atoms. Using H = 1, C = 12 and O = 16 amu: H₂O = 2 × 1 + 16 = 18 amu. The column next to the model stacks one block for each atom.",
+        "try": "Tap each molecule and watch the readout add up its atoms.",
+        "see": "More atoms does not always mean heavier: methane (CH₄) has five atoms but only 16 amu, while oxygen (O₂) has two atoms and 32 amu."
+      },
+      {
+        "title": "A covalent bond: sharing electrons",
+        "text": "Atoms are most stable when their outer shell is full. A hydrogen atom has 1 electron, but its shell can hold 2. When two hydrogen atoms come close, their shells overlap and each atom shares its electron with the other. The shared pair of electrons holds the two atoms together. A bond made by sharing a pair of electrons is called a covalent bond. In H₂ the two nuclei settle about 74 pm apart (1 picometre, pm, is a millionth of a millionth of a metre).",
+        "try": "Move the Distance slider to bring the two hydrogen atoms together.",
+        "see": "Far apart, each electron circles its own atom. When the shells overlap, the blue and orange electrons pair up between the two nuclei, so each atom now has 2 electrons in its shell."
+      },
+      {
+        "title": "Covalent bonds in water",
+        "text": "An oxygen atom (2, 6) has 6 outer electrons and needs 2 more to fill its outer shell with 8. Each hydrogen atom needs 1 more. So oxygen shares one pair of electrons with each hydrogen. Now oxygen has 8 outer electrons and each hydrogen has 2. Each shared pair is one covalent bond, so a water molecule has two O–H bonds, at an angle of about 104.5° to each other.",
+        "try": "Tap Shells and Ball-and-stick to switch between two pictures of the same molecule.",
+        "see": "In the shell picture, each bond is a shared pair: one blue electron from oxygen and one orange electron from hydrogen. In the ball-and-stick model, each shared pair is drawn as one stick."
+      },
+      {
+        "title": "An ionic bond: giving an electron",
+        "text": "Sodium (2, 8, 1) has just 1 outer electron, and chlorine (2, 8, 7) needs 1 more. When they react, sodium gives its outer electron to chlorine. Sodium is left with 11 protons and 10 electrons, so it becomes a positive ion, Na⁺. Chlorine now has 17 protons and 18 electrons, so it becomes a negative ion, Cl⁻. Both ions now have full outer shells. Opposite charges attract, and this strong pull between ions is called an ionic bond.",
+        "try": "Press Give the electron. Press Start again to watch it once more.",
+        "see": "The yellow electron jumps from sodium's outer shell to chlorine's. Sodium loses its third shell and gets smaller, then the Na⁺ and Cl⁻ ions pull together."
+      },
+      {
+        "title": "A salt crystal",
+        "text": "Table salt is sodium chloride. It has no separate molecules. Instead, a huge number of Na⁺ and Cl⁻ ions stack in a regular 3D pattern called a crystal lattice. Each Na⁺ is surrounded by 6 Cl⁻ ions, and each Cl⁻ by 6 Na⁺. There is one Na⁺ for every Cl⁻, so the formula is NaCl, and one NaCl unit has a mass of 23 + 35.5 = 58.5 amu. A single grain of salt holds about 10¹⁸ (a billion billion) ions.",
+        "try": "Move the Ions along each edge slider to grow the crystal. Drag to turn it.",
+        "see": "The crystal grows as a cube of purple Na⁺ and green Cl⁻ ions taking turns in every direction. The readout shows there are always about as many Na⁺ ions as Cl⁻ ions. The ions are drawn smaller and further apart than they really are, so you can see inside."
+      },
+      {
+        "title": "Salt and water: melting and boiling",
+        "text": "In salt, every ion is pulled strongly by all of its neighbours, so salt melts only at about 801 °C. Water is made of separate molecules. The covalent bonds inside each molecule are strong, but the pull between one molecule and the next is weak. So ice melts at 0 °C and water boils at 100 °C. When water boils, the molecules move apart, but each H₂O molecule stays whole.",
+        "try": "Move the Temperature slider from −20 °C to 1000 °C and watch both substances.",
+        "see": "Ice melts at 0 °C and the water turns to steam at 100 °C, but the salt stays a solid crystal until about 801 °C, when it melts. The water molecules never break apart."
+      }
+    ],
+    "quiz": [
+      { "q": "What is the molecular mass of carbon dioxide, CO₂? (C = 12, O = 16)", "options": ["28 amu", "44 amu", "32 amu", "60 amu"], "answer": 1, "why": "CO₂ has 1 carbon atom and 2 oxygen atoms: 12 + 2 × 16 = 44 amu." },
+      { "q": "Which of these is a compound?", "options": ["O₂", "H₂", "H₂O", "He"], "answer": 2, "why": "Water is made of two different elements, hydrogen and oxygen, joined chemically. O₂, H₂ and He each contain only one kind of atom, so they are elements." },
+      { "q": "What happens to a sodium atom when it forms an ionic bond with chlorine?", "options": ["It shares a pair of electrons with chlorine", "It gives one electron to chlorine and becomes Na⁺", "It takes one electron from chlorine and becomes Na⁻"], "answer": 1, "why": "Sodium (2, 8, 1) gives its single outer electron to chlorine. With 11 protons and only 10 electrons, it has a charge of +1." },
+      { "q": "Why does salt melt at a much higher temperature than ice?", "options": ["Each ion in salt is strongly attracted to all the ions around it", "Salt molecules are bigger than water molecules", "Ice has no bonds at all"], "answer": 0, "why": "In a salt crystal every ion is held by strong attractions to the oppositely charged ions around it, so a lot of energy is needed to free them. To melt ice, only the weak pulls between water molecules have to be overcome; the bonds inside each molecule stay." }
+    ]
+  },
+  "source": "original"
+}

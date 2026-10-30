@@ -1,0 +1,71 @@
+{
+  "slug": "electromagnetism",
+  "order": 51,
+  "level": "middle",
+  "ages": "14-15",
+  "grades": [9, 9],
+  "title": "Electromagnets, Motors and Generators",
+  "type": "Electricity & Magnetism",
+  "coverStep": 6,
+  "question": "How can electricity make a magnet, a magnet make something move, and movement make electricity?",
+  "steps": ["A current makes a magnetic field", "Electromagnets", "Electromagnets at work", "The motor effect", "A simple DC motor", "Electromagnetic induction", "The AC generator", "Transformers"],
+  "content": {
+    "steps": [
+      {
+        "title": "A current makes a magnetic field",
+        "text": "In 1820 Hans Christian Ørsted noticed that a compass needle moved when a current flowed in a wire next to it. An electric current makes a magnetic field. Around a straight wire the field lines are circles, centred on the wire. To find their direction, use the right-hand grip rule: point your right thumb along the current (from + to −) and your fingers curl the way the field goes. The field is stronger with a bigger current and closer to the wire. With no current, the compasses only feel Earth's field and point north.",
+        "try": "Move the Current slider up from 0 A, then press Reverse the current.",
+        "see": "At 0 A every needle points north. As the current grows, the needles turn round to follow the circles about the wire. When the current is reversed, the arrows on the circles and all the needles turn the other way."
+      },
+      {
+        "title": "Electromagnets",
+        "text": "Wind the wire into a coil (also called a solenoid) and the fields of all the turns add up. The coil's field looks like a bar magnet's, with an N pole at one end and an S pole at the other. Put a core of soft iron inside and the iron becomes strongly magnetised too, making the field much stronger. This is an electromagnet. You can make it stronger with a bigger current, more turns of wire, or an iron core. Best of all, you can switch it off: with no current, soft iron loses almost all its magnetism.",
+        "try": "Move the Current and Turns on the coil sliders, switch the Iron core off and on, and turn on Show field lines.",
+        "see": "More current or more turns lift more paper clips, and at 0 A they all drop. Without the iron core it can hardly lift any. The field lines run out of the N end at the bottom and round to the S end at the top, like a bar magnet's."
+      },
+      {
+        "title": "Electromagnets at work",
+        "text": "Because they can be switched on and off, electromagnets are used everywhere. A scrap-yard crane picks up iron and steel and drops it again when the current is switched off. Steel is magnetic, but aluminium is not, so this also sorts metals for recycling. Electric bells, door locks, relays (switches worked by a small current), loudspeakers and hospital MRI scanners all use electromagnets.",
+        "try": "Press Switch on and Switch off. Move the Turn the crane and Lower the magnet sliders.",
+        "see": "With the magnet on, the steel scrap jumps up and sticks to it, but the aluminium can stays on the ground. The crane swings over the bin, and when it is switched off the steel falls in."
+      },
+      {
+        "title": "The motor effect",
+        "text": "A wire carrying a current across a magnetic field feels a force. This is the motor effect. The force is at right angles to both the current and the field. Fleming's left-hand rule shows its direction: hold your first finger along the Field (N to S), your second finger along the Current, and your thumb gives the Motion (the force). When the wire is at right angles to the field, F = B × I × L, where B is the strength of the magnetic field in tesla (T), I is the current in amperes and L is the length of wire in the field in metres.",
+        "try": "Move the Current slider, then press Reverse the current and Flip the magnet.",
+        "see": "With a current, the copper rod is pushed along the rails, and the purple force arrow grows with the current. Reversing the current or flipping the magnet reverses the force; doing both puts it back the same way."
+      },
+      {
+        "title": "A simple DC motor",
+        "text": "In a motor, a coil of wire sits between the poles of a magnet. Current flows one way along one side of the coil and back along the other, so one side is pushed up and the other down, and the coil turns. After half a turn the forces would push it back again, so a split-ring commutator reverses the current in the coil every half turn. Carbon brushes press on the split ring to bring the current in. A bigger current, a stronger magnet or more turns on the coil make the motor turn faster or with more force.",
+        "try": "Move the Current slider.",
+        "see": "The side of the coil on the right is always pushed up and the side on the left always pushed down, so the coil keeps turning the same way. More current makes it spin faster; at 0 A it slows to a stop."
+      },
+      {
+        "title": "Electromagnetic induction",
+        "text": "In 1831 Michael Faraday found the reverse of the motor effect: moving a magnet near a coil makes a voltage in it, and a current flows if the circuit is complete. This is electromagnetic induction. It only happens while the magnetic field through the coil is changing. A galvanometer, a sensitive meter with zero in the middle, shows the current and its direction. Moving the magnet faster, using a stronger magnet or a coil with more turns gives a bigger current. Moving it the other way, or using the other pole, reverses the current.",
+        "try": "Press Push in slowly, Push in fast and Pull out. Then switch on Turn the magnet round and try again.",
+        "see": "While the magnet moves, the needle swings; when it stops, the needle goes back to 0, even with the magnet inside the coil. Faster movement gives a bigger swing. Pulling out swings the needle the other way, and so does turning the magnet round."
+      },
+      {
+        "title": "The AC generator",
+        "text": "A generator turns a coil in a magnetic field, so the field through the coil keeps changing and a voltage is induced. Each side of the coil moves up through the field and then down, so the voltage keeps reversing: this is alternating current (AC). Slip rings let each end of the coil stay connected to its own brush. The voltage is biggest when the sides of the coil cut straight across the field lines, and zero for a moment when they move along them. One turn gives one full cycle, so the frequency in hertz (Hz) equals the turns per second. Power-station generators work the same way at 50 cycles a second (50 Hz) in Vietnam and the UK, and 60 Hz in the USA.",
+        "try": "Move the Turning speed slider.",
+        "see": "The voltage trace goes up and down in a smooth wave, and the meter swings between + and −. Faster turning squeezes more waves into the graph and makes them taller."
+      },
+      {
+        "title": "Transformers",
+        "text": "A transformer changes the size of an alternating voltage. It has two coils on one iron core. The alternating current in the primary coil makes a changing magnetic field in the core, and this induces a voltage in the secondary coil. The voltages are in the same ratio as the turns: Vs ÷ Vp = Ns ÷ Np. A step-up transformer has more turns on the secondary and raises the voltage; a step-down one lowers it. Transformers only work with AC, because only a changing field induces a voltage. Power stations step the voltage up for long cables, which wastes less energy, and it is stepped down again before it reaches homes.",
+        "try": "Move the Turns on the secondary coil slider.",
+        "see": "With 100 turns on each coil, the voltage stays 12 V. More turns on the secondary give a higher voltage and a brighter lamp; fewer give a lower voltage and a dimmer lamp."
+      }
+    ],
+    "quiz": [
+      { "q": "Which change would make an electromagnet weaker?", "options": ["Increasing the current", "Adding more turns to the coil", "Taking out the iron core", "Winding the turns closer together"], "answer": 2, "why": "The soft iron core becomes magnetised and makes the field much stronger. Taking it out weakens the electromagnet. More current and more turns both make it stronger." },
+      { "q": "What does the split-ring commutator do in a DC motor?", "options": ["It makes the magnet stronger", "It reverses the current in the coil every half turn", "It changes DC into AC for the battery"], "answer": 1, "why": "Without it, after half a turn the forces would push the coil back. By reversing the current every half turn, the commutator keeps the forces turning the coil the same way." },
+      { "q": "A magnet is held still inside a coil connected to a galvanometer. What does the meter show?", "options": ["A large steady current", "No current", "A current that keeps reversing"], "answer": 1, "why": "A current is only induced while the magnetic field through the coil is changing. A magnet that is not moving gives an unchanging field, so there is no current." },
+      { "q": "A transformer has 100 turns on the primary coil and 400 on the secondary. The input is 12 V AC. What is the output?", "options": ["3 V", "12 V", "48 V", "400 V"], "answer": 2, "why": "Vs = Vp × Ns ÷ Np = 12 V × 400 ÷ 100 = 48 V. There are four times as many turns on the secondary, so it is a step-up transformer with four times the voltage." }
+    ]
+  },
+  "source": "original"
+}

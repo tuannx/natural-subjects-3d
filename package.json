@@ -9,7 +9,8 @@
     "build": "node site/build.mjs",
     "preview": "npm run build && wrangler dev",
     "deploy": "npm run build && wrangler deploy",
-    "readme": "node site/courses-readme.mjs"
+    "readme": "node site/courses-readme.mjs",
+    "coverage": "node site/coverage.mjs"
   },
   "devDependencies": {
     "esbuild": "0.28.2",

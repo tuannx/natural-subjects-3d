@@ -1,0 +1,59 @@
+{
+  "slug": "light-reflection",
+  "order": 21,
+  "level": "middle",
+  "ages": "12-13",
+  "grades": [7, 7],
+  "title": "Light: Rays, Reflection and Mirrors",
+  "type": "Light",
+  "coverStep": 1,
+  "question": "How does a mirror bounce light, and where is the image you see in it?",
+  "steps": ["Light travels in straight lines", "The law of reflection", "Turning the mirror", "Images in a plane mirror", "Smooth and rough surfaces", "The periscope"],
+  "content": {
+    "steps": [
+      {
+        "title": "Light travels in straight lines",
+        "text": "Light travels in straight lines. We draw its path as a ray: a straight line with an arrow that shows which way the light goes. A narrow stream of light, like the one from this ray box, is called a beam. Here the light has to pass through a small hole in each of three cards. It reaches the screen only when all three holes are in a straight line. Light cannot bend around objects, which is also why objects cast shadows.",
+        "try": "Drag the Move the middle card slider away from 0 cm and back again.",
+        "see": "At 0 cm the holes line up and a bright spot appears on the screen. Move the card by just 1 cm and the beam stops at the middle card."
+      },
+      {
+        "title": "The law of reflection",
+        "text": "When light hits a mirror it bounces off. This is called reflection. The ray going in is the incident ray, and the ray bouncing off is the reflected ray. To measure the angles we draw the normal: a line at right angles (90°) to the mirror, at the point where the ray hits it. The angle between the incident ray and the normal is the angle of incidence (i). The angle between the reflected ray and the normal is the angle of reflection (r). The law of reflection says that i = r, and that both rays and the normal lie in the same flat plane.",
+        "try": "Move the Angle of incidence slider and read both angles on the protractor.",
+        "see": "The reflected ray always leaves at the same angle to the normal as the incident ray arrives. At 0° the light goes straight back the way it came."
+      },
+      {
+        "title": "Turning the mirror",
+        "text": "What happens if the light stays still but the mirror turns? The normal turns with the mirror, so the angle of incidence changes, and the angle of reflection changes with it. So when the mirror turns by some angle, the reflected ray turns by twice that angle. The grey arrow shows where the reflected ray pointed before the mirror turned.",
+        "try": "Move the Turn the mirror slider.",
+        "see": "Turn the mirror by 10° and the reflected ray swings 20° away from the grey arrow. The angles i and r stay equal the whole time."
+      },
+      {
+        "title": "Images in a plane mirror",
+        "text": "A flat mirror is called a plane mirror. Here a sheet of glass acts as the mirror, so we can also see behind it. Rays from the candle bounce off the glass into the eye. Your brain assumes that light travels in straight lines, so it follows the rays back (the dashed lines) to a point behind the glass. That is where you see the image. No light really comes from behind the glass, so it is called a virtual image. The image is upright, the same size as the object, and as far behind the mirror as the object is in front of it.",
+        "try": "Move the Object distance slider and read the ruler on the floor.",
+        "see": "The image moves with the candle: with the candle 25 cm in front, the image is 25 cm behind. The dashed lines of the two rays end at the top and the bottom of the image."
+      },
+      {
+        "title": "Smooth and rough surfaces",
+        "text": "Every surface reflects some light, not only mirrors. On a very smooth surface, like a mirror or still water, parallel rays are still parallel after they bounce. This is regular reflection, and it gives a clear image. On a rough surface, like paper or a wall, tiny bumps face in different directions, so the rays scatter. This is diffuse reflection. Each ray still obeys i = r, measured from the normal (the black line) at the spot where it hits.",
+        "try": "Press Smooth (like a mirror), then Rough (like paper).",
+        "see": "On the smooth surface all the reflected rays point the same way. On the rough surface they spread out in many directions. That is why you can read a page from any angle but cannot see your face in it."
+      },
+      {
+        "title": "The periscope",
+        "text": "A periscope lets you see over a wall. It is a tube with two plane mirrors, one at the top and one at the bottom, each tilted at 45°. Light from the flag hits the top mirror and is turned through 90°, down the tube. The bottom mirror turns it through another 90°, out to the eye. Submarines use periscopes to look above the water while they stay below it.",
+        "try": "Move the Mirror angle slider to find the angle that sends the light into the eye.",
+        "see": "At 45° the light comes out level at the height of the eye, so the eye sees the flag. Far from 45°, the light hits the inside of the tube or misses the bottom mirror."
+      }
+    ],
+    "quiz": [
+      { "q": "A ray hits a plane mirror with an angle of incidence of 35°. What is the angle of reflection?", "options": ["55°", "35°", "70°", "90°"], "answer": 1, "why": "The law of reflection says the angle of reflection equals the angle of incidence, both measured from the normal. 55° would be the angle to the mirror's surface, not to the normal." },
+      { "q": "You stand 2 m in front of a plane mirror. How far are you from your image?", "options": ["1 m", "2 m", "4 m"], "answer": 2, "why": "Your image is as far behind the mirror as you are in front of it: 2 m. So the distance from you to your image is 2 m + 2 m = 4 m." },
+      { "q": "Why can you read a page from any direction, but you cannot see your face in it?", "options": ["Paper takes in all the light that hits it", "The rough paper surface scatters light in all directions (diffuse reflection)", "Paper does not obey the law of reflection"], "answer": 1, "why": "Paper is rough on a tiny scale. Each ray obeys i = r, but the bumps face many ways, so the light scatters. That lets you see the page from anywhere, but it gives no clear image." },
+      { "q": "Why is the image in a plane mirror called a virtual image?", "options": ["It is smaller than the object", "No light actually comes from the place where the image seems to be", "It is upside down"], "answer": 1, "why": "The rays only seem to come from behind the mirror because your brain traces them back in straight lines. No light really passes through that spot, so the image is virtual. It is the same size and upright." }
+    ]
+  },
+  "source": "original"
+}

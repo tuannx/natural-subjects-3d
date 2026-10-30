@@ -1,0 +1,65 @@
+{
+  "slug": "reaction-rate",
+  "order": 51,
+  "level": "middle",
+  "ages": "13-14",
+  "grades": [8, 8],
+  "title": "Reaction Rate: Temperature, Concentration, Surface Area",
+  "type": "Reactions",
+  "question": "Why do some reactions fizz in seconds while others take hours, and how can we speed them up?",
+  "coverStep": 2,
+  "steps": ["What is reaction rate?", "Collision theory", "Temperature", "Concentration", "Surface area", "Catalysts", "Reading the graph"],
+  "content": {
+    "steps": [
+      {
+        "title": "What is reaction rate?",
+        "text": "Reaction rate is how fast reactants are used up or products are made. Marble chips are calcium carbonate. They react with hydrochloric acid: CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂. The carbon dioxide gas pushes out the plunger of a gas syringe, so we can read its volume as time goes by and plot a graph. Average rate = volume of gas ÷ time taken, measured in cm³/s (cubic centimetres per second).",
+        "try": "Press Start and watch the syringe and the graph. Press Reset to run it again.",
+        "see": "The plunger slides out and the curve rises steeply at first, then more and more slowly, until it goes flat at about 85 cm³ when all the marble has reacted."
+      },
+      {
+        "title": "Collision theory",
+        "text": "Why does a reaction happen at all? In this particle view, acid particles dart around and bump into the surface of the marble. Collision theory says particles react only when they collide, and only if they hit with enough energy. The smallest energy needed is called the activation energy. Most collisions are too gentle and the particles just bounce off.",
+        "try": "Turn on Show energetic particles and watch which collisions make a yellow flash.",
+        "see": "Only a few particles (orange) have enough energy. When one of them hits the marble there is a flash and a CO₂ bubble rises. The blue particles hit the marble too, but just bounce away."
+      },
+      {
+        "title": "Temperature",
+        "text": "Heating the reaction (here, in a warm water bath) makes the particles move faster. They collide more often, and a much bigger share of the collisions have at least the activation energy. In this model the rate doubles for every 10 °C rise, a rule of thumb that fits many reactions. This is also why food stays fresh longer in a fridge: the cold slows down the reactions that spoil it.",
+        "try": "Move the Temperature slider and compare the blue curve with the grey one (20 °C).",
+        "see": "At higher temperature the particles zip around faster with more orange ones, more collisions flash, and the blue curve is steeper and goes flat sooner. It ends at the same volume."
+      },
+      {
+        "title": "Concentration",
+        "text": "The concentration of a solution tells how much substance is dissolved in each litre. Chemists measure it in mol/L (moles per litre). A more concentrated acid has more acid particles crowded into the same space, so they hit the marble more often and there are more successful collisions each second. In this model the rate is proportional to the concentration: double the concentration, double the rate.",
+        "try": "Move the Acid concentration slider from 0.5 mol/L to 2.0 mol/L.",
+        "see": "The particle box fills with more acid particles, more collisions flash, and the curve gets steeper. At 2.0 mol/L the starting rate is twice the rate at 1.0 mol/L."
+      },
+      {
+        "title": "Surface area",
+        "text": "Acid can only react with the outside of a piece of marble, its surface. If the same mass is broken into smaller pieces, more of it is on the outside. Smaller pieces have a bigger total surface area, so more particles can collide with the marble at once. Powder reacts fastest. This is why small sticks catch fire more easily than a big log, and why we chew our food.",
+        "try": "Tap Large lumps, Small chips and Powder. The mass of marble stays the same.",
+        "see": "In the particle view the inside of the big lump is hidden, but powder has every particle on the outside. The curve for powder is much steeper, and all three end at the same volume."
+      },
+      {
+        "title": "Catalysts",
+        "text": "A catalyst is a substance that speeds up a reaction without being used up itself. Hydrogen peroxide breaks down very slowly into water and oxygen: 2H₂O₂ → 2H₂O + O₂. Add a little black manganese dioxide (MnO₂) and it fizzes at once. The catalyst gives the reaction an easier path that needs less activation energy. At the end it can be filtered out, and it has the same mass as at the start. Enzymes are the catalysts in living things.",
+        "try": "Turn Add manganese dioxide on and off and compare the curves.",
+        "see": "Without the catalyst almost no oxygen collects. With manganese dioxide the mixture fizzes and the syringe fills quickly, while the readout shows the catalyst still weighs 0.50 g."
+      },
+      {
+        "title": "Reading the graph",
+        "text": "The steepness of the curve is called its gradient, and it shows the rate at that moment: gradient = change in volume ÷ change in time. The curve is steepest at the start, when there is the most marble and acid. As the reactants get used up there are fewer collisions, so the rate falls. When the marble is gone the curve is flat: the rate is zero. Changing the conditions changes how fast the curve rises, not where it ends.",
+        "try": "Drag the Time slider and watch the red tangent line and the readout.",
+        "see": "Early on the red line is steep and the rate is high. Later it gets flatter and flatter, and the rate drops towards 0 cm³/s as the marble chips shrink away."
+      }
+    ],
+    "quiz": [
+      { "q": "Why does powdered marble react faster with acid than the same mass of large lumps?", "options": ["Powder is a different substance", "Powder has a bigger surface area, so more acid particles can collide with it at once", "Powder is heavier", "Powder makes the acid more concentrated"], "answer": 1, "why": "It is the same substance and the same mass, but in powder much more of the marble is on the outside, where acid particles can hit it. More collisions each second means a faster rate." },
+      { "q": "According to collision theory, what is needed for two particles to react?", "options": ["They must stay still", "They must collide with at least the activation energy", "They must collide, with any amount of energy", "They must be at 100 °C"], "answer": 1, "why": "Particles must collide, and the collision must have at least the activation energy. Gentle collisions just bounce off." },
+      { "q": "A gas syringe collects 60 cm³ of gas in 30 s. What is the average rate?", "options": ["0.5 cm³/s", "2 cm³/s", "30 cm³/s", "1800 cm³/s"], "answer": 1, "why": "Average rate = volume ÷ time = 60 cm³ ÷ 30 s = 2 cm³/s." },
+      { "q": "Manganese dioxide speeds up the breakdown of hydrogen peroxide. What is its mass after the reaction?", "options": ["Bigger than before", "The same as before", "Zero, because it was used up"], "answer": 1, "why": "A catalyst speeds up a reaction but is not used up, so it has the same mass at the end and can be used again." }
+    ]
+  },
+  "source": "original"
+}

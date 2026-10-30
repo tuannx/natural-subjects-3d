@@ -1,0 +1,26 @@
+{
+  "slug": "electrolysis-step",
+  "order": 260,
+  "level": "high-school",
+  "ages": "15-18",
+  "grades": [10, 12],
+  "title": "Principles of Electrolysis: CuCl₂ Solution and Brine",
+  "type": "Principles & Phenomena",
+  "question": "With the same DC power supply, why does electrolyzing CuCl₂ solution give copper and chlorine, while electrolyzing saturated brine gives hydrogen, chlorine and sodium hydroxide?",
+  "textbook": [
+    "Elective Vol. 1 Principles of Chemical Reactions · Ch. 4 Chemical Reactions and Electrical Energy · Sec. 2 Electrolytic Cells · Electrolysis of CuCl₂ Solution · Electrolysis of Saturated Brine"
+  ],
+  "steps": [
+    "Meet the Experiment",
+    "Switch on the power",
+    "Run it longer",
+    "Look inside",
+    "Switch to brine",
+    "Cathode region turns red",
+    "Discharge order",
+    "Copper as anode",
+    "Test · Deposit 29.6 mg of Copper"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/electrolysis-step/"
+}

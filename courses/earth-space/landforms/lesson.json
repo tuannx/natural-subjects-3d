@@ -1,0 +1,64 @@
+{
+  "slug": "landforms",
+  "order": 22,
+  "level": "primary",
+  "ages": "7-9",
+  "grades": [2, 3],
+  "title": "What Shapes Does the Land Have?",
+  "type": "Earth's Surface",
+  "coverStep": 4,
+  "question": "What is the difference between a mountain, a hill and a plateau?",
+  "steps": ["Land comes in many shapes", "Mountains and hills", "Valleys and plains", "Plateaus and islands", "Oceans, rivers, lakes and ponds", "From a model to a map", "Earth is mostly water"],
+  "content": {
+    "steps": [
+      {
+        "title": "Land comes in many shapes",
+        "text": "This is a model of an island. The land is not flat everywhere. It has high parts and low parts. Each shape of land has a name. We call these shapes landforms. There is water in many places too.",
+        "try": "Turn on Show the names, then drag the model to look all around it.",
+        "see": "There is high pointy land, low flat land, and water all around the island and on it."
+      },
+      {
+        "title": "Mountains and hills",
+        "text": "A mountain is land that rises very high above the land around it. It has steep sides and often a pointed top. The tops of very high mountains are cold, so snow can stay there. A hill is also higher than the land around it, but it is lower and rounder than a mountain.",
+        "try": "Tap Mountains, then tap Hills.",
+        "see": "The mountains are tall and pointy, with snow on top. The hills are small and round."
+      },
+      {
+        "title": "Valleys and plains",
+        "text": "A valley is low land between hills or mountains. Rivers often flow through valleys. A plain is a wide area of flat, low land. Plains are good places for farms and towns.",
+        "try": "Tap Valley, then tap Plain.",
+        "see": "The valley is a low path between two mountains, with a river in it. The plain is wide, flat and green."
+      },
+      {
+        "title": "Plateaus and islands",
+        "text": "A plateau is high land with a flat top and steep sides. It looks like a giant table. An island is land with water all around it. Our whole model is an island too, and it has a small island next to it.",
+        "try": "Tap Plateau, then tap Island.",
+        "see": "The plateau is high but flat on top. The small island has the ocean all around it."
+      },
+      {
+        "title": "Oceans, rivers, lakes and ponds",
+        "text": "An ocean is a huge body of salty water. A river is water that flows downhill across the land until it reaches a lake or the ocean. A lake is water with land all around it. A pond is like a lake, but much smaller and not as deep. Most rivers, lakes and ponds hold fresh water, which is not salty.",
+        "try": "Tap Ocean, River, Lake and Pond one by one.",
+        "see": "The river starts high up near the mountains, flows through the lake and runs down to the ocean. The lake and the pond have land all around them."
+      },
+      {
+        "title": "From a model to a map",
+        "text": "A map shows the land from above, the way a bird would see it. A map is flat, so it uses colours and symbols. On this map, blue is water, green is low land, yellow and orange are higher land, and brown is the highest land. A triangle shows a mountain top and a curved line shows a hill.",
+        "try": "Turn Map view off and on again.",
+        "see": "The model gets flat. The same mountains, hills, river and lake are still there, shown with colours and symbols."
+      },
+      {
+        "title": "Earth is mostly water",
+        "text": "A globe is a round model of the whole Earth. Blue shows water and the other colours show land. About 7 out of every 10 parts of Earth's surface are covered by water. Almost all of that water is the salty ocean.",
+        "try": "Tap Land, then tap Water, to light up each one.",
+        "see": "There is much more water than land. All the oceans are joined together around the land."
+      }
+    ],
+    "quiz": [
+      { "q": "What is a plateau?", "options": ["High land with a flat top and steep sides", "Low land between two mountains", "Land with water all around it"], "answer": 0, "why": "A plateau is high like a mountain, but its top is flat like a table." },
+      { "q": "Which of these holds salty water?", "options": ["A pond", "A river", "The ocean"], "answer": 2, "why": "Ocean water is salty. Rivers and ponds usually hold fresh water." },
+      { "q": "Is most of Earth's surface covered by land or by water?", "options": ["Land", "Water", "Half land and half water"], "answer": 1, "why": "About 7 out of every 10 parts of Earth's surface are water, and almost all of it is the ocean." }
+    ]
+  },
+  "source": "original"
+}

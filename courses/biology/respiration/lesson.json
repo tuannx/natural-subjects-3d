@@ -1,0 +1,65 @@
+{
+  "slug": "respiration",
+  "order": 21,
+  "level": "middle",
+  "ages": "12-13",
+  "grades": [7, 7],
+  "title": "Cellular Respiration: Energy from Food",
+  "type": "Cells",
+  "coverStep": 2,
+  "question": "How do our cells get energy out of the food we eat?",
+  "steps": ["Respiration releases energy", "In every cell, day and night", "More exercise, more respiration", "Two opposite processes", "Testing for carbon dioxide", "Germinating seeds give off heat", "Slowing respiration to store food"],
+  "content": {
+    "steps": [
+      {
+        "title": "Respiration releases energy",
+        "text": "Every living cell needs energy to move, grow, repair itself and keep warm. Cells release this energy from food by cellular respiration. In aerobic respiration (respiration that uses oxygen), glucose reacts with oxygen. Energy is released, and carbon dioxide and water are made. The word equation is: glucose + oxygen → carbon dioxide + water + energy. It happens mainly in the mitochondria, small parts found in almost every cell. The glucose comes from digested food, and the oxygen from the air we breathe in.",
+        "try": "Tap Glucose, Oxygen, Carbon dioxide, Water and Energy to follow each one.",
+        "see": "Orange glucose and red oxygen go into the cell, where the orange mitochondria glow. Grey carbon dioxide and blue water come out, and yellow sparks of energy are released."
+      },
+      {
+        "title": "In every cell, day and night",
+        "text": "Respiration never stops. It happens in every living cell, all day and all night, in animals and in plants. Plant cells respire too, using some of the glucose they made. In daylight a leaf cell also photosynthesises, faster than it respires, so overall it takes in carbon dioxide and gives out oxygen. At night photosynthesis stops but respiration goes on, so the leaf cell takes in oxygen and gives out carbon dioxide, just like the animal cell.",
+        "try": "Turn Daytime off and on.",
+        "see": "The mitochondria glow in both cells all the time, but the chloroplasts only glow in the day. At night the gases around the plant cell swap over and match the animal cell."
+      },
+      {
+        "title": "More exercise, more respiration",
+        "text": "When you exercise, your muscle cells need much more energy, so they respire faster. They use more glucose and oxygen and make more carbon dioxide. Your body keeps up: you breathe faster and deeper to take in oxygen and get rid of carbon dioxide, and your heart beats faster to carry them in your blood. Much of the energy is released as heat, which is why you get hot. The numbers here are model values for a young teenager.",
+        "try": "Move the Exercise slider from Resting to Running fast.",
+        "see": "The runner speeds up, the heart beats faster, the breaths come quicker with more carbon dioxide, and the mitochondria in the muscle cell glow brighter."
+      },
+      {
+        "title": "Two opposite processes",
+        "text": "Photosynthesis and respiration are opposites. Photosynthesis uses carbon dioxide and water, with light energy, to make glucose and oxygen. Respiration uses glucose and oxygen to release energy, and gives back carbon dioxide and water. Plants make the food and oxygen that animals need, and animals (and plants themselves) give back the carbon dioxide that plants use. Together the two processes keep carbon and oxygen cycling between living things and the air.",
+        "try": "Tap Photosynthesis, Respiration and Both together.",
+        "see": "In photosynthesis, light goes into the plant and oxygen and glucose come out. In respiration, the rabbit uses them up, releases energy and sends carbon dioxide back to the plant."
+      },
+      {
+        "title": "Testing for carbon dioxide",
+        "text": "Limewater is a clear solution of calcium hydroxide. It turns milky when carbon dioxide bubbles through it, because tiny grains of chalk (calcium carbonate) form. Breathed-out air contains about 4% carbon dioxide, while ordinary air has only about 0.04%, about 100 times less. Blow gently through a straw into one tube of limewater (blow out, never suck in), and pump ordinary air through another.",
+        "try": "Move the Breaths slider up to 10.",
+        "see": "The limewater with breathed-out air turns milky after just a few breaths. The tube with ordinary air stays clear."
+      },
+      {
+        "title": "Germinating seeds give off heat",
+        "text": "Respiration releases some of its energy as heat. You can show this with seeds. Soaked seeds that are starting to grow (germinating) respire quickly. Put them in a vacuum flask, which stops heat escaping, with a thermometer. Set up a second flask with seeds that were boiled to kill them and then disinfected, so microbes cannot grow on them. This is the control. Over two days the living seeds warm up, but the dead seeds stay at room temperature.",
+        "try": "Move the Time slider forward to 48 hours.",
+        "see": "The thermometer in the flask of germinating seeds rises by about 5 °C. The thermometer with the boiled seeds stays at 20 °C."
+      },
+      {
+        "title": "Slowing respiration to store food",
+        "text": "Fruit, vegetables and seeds are still alive after they are picked, and they keep respiring. Respiration uses up their stored sugar and starch, and the heat and moisture it gives off help them spoil. Cold slows respiration down: as a rough rule, the rate about halves for every 10 °C cooler. That is why we keep fruit in a fridge, dry grains and seeds before storing them, and sometimes pack food with less oxygen.",
+        "try": "Move the Storage temperature slider between 0 °C and 30 °C.",
+        "see": "At 30 °C the apples give off lots of carbon dioxide and heat. In the cold the carbon dioxide almost stops, so the apples keep their sugar for longer."
+      }
+    ],
+    "quiz": [
+      { "q": "What is the word equation for aerobic respiration?", "options": ["carbon dioxide + water → glucose + oxygen", "glucose + oxygen → carbon dioxide + water + energy", "glucose + carbon dioxide → oxygen + water", "oxygen + water → glucose + energy"], "answer": 1, "why": "In respiration, glucose reacts with oxygen to release energy, and carbon dioxide and water are made. The first option is photosynthesis, the opposite process." },
+      { "q": "Where in a cell does most aerobic respiration happen?", "options": ["In the nucleus", "In the mitochondria", "In the cell wall", "In the chloroplasts"], "answer": 1, "why": "Mitochondria release energy from glucose by respiration. Chloroplasts carry out photosynthesis, and the nucleus controls the cell." },
+      { "q": "Do plants respire?", "options": ["No, plants only photosynthesise", "Yes, but only at night", "Yes, all the time, day and night"], "answer": 2, "why": "Every living cell respires all the time. In daylight a plant also photosynthesises, faster than it respires, so you only notice its respiration at night." },
+      { "q": "Breathed-out air is bubbled through limewater. What happens?", "options": ["It turns milky, because breathed-out air has much more carbon dioxide than ordinary air", "It turns blue, because of the oxygen", "Nothing happens, because breathed-out air is the same as ordinary air"], "answer": 0, "why": "Breathed-out air has about 4% carbon dioxide, about 100 times more than ordinary air, and carbon dioxide turns limewater milky." }
+    ]
+  },
+  "source": "original"
+}

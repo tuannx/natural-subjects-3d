@@ -1,0 +1,64 @@
+{
+  "slug": "shaking-earth",
+  "order": 21,
+  "level": "primary",
+  "ages": "9-11",
+  "grades": [4, 5],
+  "title": "Why Does the Ground Shake and Volcanoes Erupt?",
+  "type": "Natural Hazards",
+  "coverStep": 4,
+  "question": "What makes the ground shake and a volcano erupt?",
+  "steps": ["Rocks under our feet", "Stuck, then slip", "Shaking spreads out", "Strong and weak buildings", "Volcanoes", "Where they happen", "Staying safe"],
+  "content": {
+    "steps": [
+      {
+        "title": "Rocks under our feet",
+        "text": "The ground feels still and solid. Under the soil there is solid rock, many kilometres deep. Deep underground, huge blocks of rock press against each other. A long crack where two blocks of rock meet is called a fault.",
+        "try": "Turn on Show the fault, then drag the picture to look at the cut side of the ground.",
+        "see": "The rock lies in layers, and the fault is a long crack that cuts down through all of them."
+      },
+      {
+        "title": "Stuck, then slip",
+        "text": "The rocks on each side of a fault are slowly pushed in different directions. The rock is rough, so the two sides stay stuck while the push builds up, often for many years. Then, all at once, the rocks slip. That sudden jerk makes the ground shake. This is an earthquake.",
+        "try": "Press Push the rocks and watch the push meter fill up.",
+        "see": "Nothing moves while the push builds. Then the right side jumps down, the town shakes, and the rock layers no longer line up across the fault."
+      },
+      {
+        "title": "Shaking spreads out",
+        "text": "The shaking starts where the rocks slip, deep underground. It spreads out in all directions as waves, a bit like ripples when you drop a stone into a pond. The shaking is strongest near that spot and gets weaker farther away.",
+        "try": "Press Make an earthquake and watch the rings.",
+        "see": "Rings spread out from the slip point. The houses close to it shake hard, and the houses far away shake only a little."
+      },
+      {
+        "title": "Strong and weak buildings",
+        "text": "In an earthquake, most people are hurt by things that fall, like walls, roofs and furniture. Engineers design strong buildings that can sway without falling down. They use frames of steel, or concrete with steel bars inside, and cross braces shaped like an X.",
+        "try": "Set the Shaking strength, then press Shake. Press Build again to fix the town.",
+        "see": "In gentle shaking both buildings stay up. In strong shaking the brick building falls apart, but the braced building only sways."
+      },
+      {
+        "title": "Volcanoes",
+        "text": "Deep inside the Earth it is so hot that some rock melts. Melted rock underground is called magma. It is lighter than the solid rock around it, so it rises and collects in a magma chamber. When magma pushes up to the surface, the volcano erupts. Melted rock that comes out is called lava. Volcanoes can also blast out ash and gas.",
+        "try": "Press Erupt. Turn Look inside off and on.",
+        "see": "Magma rises up the pipe from the chamber. Glowing lava runs down the sides, ash goes up, and later the lava cools into dark new rock."
+      },
+      {
+        "title": "Where they happen",
+        "text": "Scientists mark every earthquake and volcano on maps. The marks are not spread out evenly. Most of them form long belts, often along the edges of continents and oceans. The biggest belt goes all the way around the Pacific Ocean. It is called the Ring of Fire.",
+        "try": "Tap Earthquakes, then Volcanoes, then Both.",
+        "see": "The red dots and orange triangles make long lines, and many of them circle the Pacific Ocean."
+      },
+      {
+        "title": "Staying safe",
+        "text": "We cannot stop earthquakes or volcanoes, but we can stay safer. Strong buildings help. Scientists watch the ground and volcanoes and send warnings. Schools practise drills. If the ground shakes: Drop to your hands and knees, take Cover under a sturdy table, and Hold on until the shaking stops. If there is a volcano warning, leave the area when you are told to.",
+        "try": "Press Drop, then Cover, then Hold on.",
+        "see": "The child gets down low, crawls under the table and holds on to a table leg with one arm over the head, while things on the shelf shake."
+      }
+    ],
+    "quiz": [
+      { "q": "What causes an earthquake?", "options": ["Rocks deep underground suddenly slip", "Strong wind pushes on the ground", "Rain makes the ground soft"], "answer": 0, "why": "Rocks along a fault stay stuck while the push builds up. When they suddenly slip, the ground shakes." },
+      { "q": "What is lava?", "options": ["Melted rock that comes out onto Earth's surface", "Melted rock that stays deep underground", "Hot ash in the sky"], "answer": 0, "why": "Melted rock is called magma while it is underground and lava once it comes out of the volcano." },
+      { "q": "The ground starts shaking while you are in class. What should you do?", "options": ["Run outside right away", "Drop, take cover under your desk and hold on", "Go to the window to watch"], "answer": 1, "why": "Drop, cover and hold on keeps you safe from things that fall. Running while the ground shakes can make you trip or get hit." }
+    ]
+  },
+  "source": "original"
+}

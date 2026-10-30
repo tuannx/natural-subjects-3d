@@ -1,0 +1,59 @@
+{
+  "slug": "atoms",
+  "order": 40,
+  "level": "middle",
+  "ages": "12-13",
+  "grades": [7, 7],
+  "title": "Atoms: Protons, Neutrons and Electrons",
+  "type": "Matter",
+  "question": "What is inside an atom, and what makes a carbon atom different from an oxygen atom?",
+  "coverStep": 5,
+  "steps": ["Zooming in on matter", "Inside an atom", "Protons, neutrons, electrons", "Build an atom", "Electrons fill shells: 2, 8, 8", "Isotopes of carbon"],
+  "content": {
+    "steps": [
+      {
+        "title": "Zooming in on matter",
+        "text": "Everything around you is made of atoms. They are far too small to see, even with a school microscope. Let's zoom into the tip of a pencil. Pencil \"lead\" is really graphite, a form of carbon. Graphite is made of flat sheets of carbon atoms joined in hexagons. One carbon atom is only a few tenths of a nanometre across (1 nanometre, nm, is one billionth of a metre).",
+        "try": "Drag the Zoom slider from left to right. Watch the width of view in the readout.",
+        "see": "The pencil tip turns into sheets of carbon atoms joined in hexagons, then into one atom. To see a single atom you have to zoom in more than a hundred million times."
+      },
+      {
+        "title": "Inside an atom",
+        "text": "An atom has a tiny centre called the nucleus. The nucleus holds protons and neutrons. Much lighter electrons move around it in layers called electron shells (or energy levels). This picture is called the Bohr model. A real nucleus is far smaller than drawn here: if an atom were as big as a football stadium, its nucleus would be about the size of a pea. So an atom is mostly empty space, yet the nucleus holds almost all of its mass.",
+        "try": "Turn on Real size of the nucleus. Drag the picture to turn the atom around.",
+        "see": "The nucleus shrinks to a speck, and even that speck is still too big. Almost all of the atom is empty space with the electrons moving through it."
+      },
+      {
+        "title": "Protons, neutrons, electrons",
+        "text": "These three particles make up every atom. A proton has a charge of +1 (positive). An electron has a charge of −1 (negative). A neutron has no charge: it is neutral. Grams are far too big for atoms, so we measure their mass in atomic mass units (amu); 1 amu is about 1.66 × 10⁻²⁴ g. A proton and a neutron each have a mass of about 1 amu. An electron is about 1840 times lighter than a proton.",
+        "try": "Tap Proton, Neutron and Electron. Each ball sits on a column whose height shows its mass.",
+        "see": "The proton and neutron columns are the same height, about 1 amu each. The electron's column is so short you cannot see it, so the electron sits on the floor. The balls are not to scale."
+      },
+      {
+        "title": "Build an atom",
+        "text": "The number of protons is the atomic number, and it decides the element: 1 proton is always hydrogen, 6 is always carbon. The mass number counts protons and neutrons: mass number = p + n. The charge is p − e. If protons and electrons are equal, the charges cancel and the atom is neutral. If not, the particle is an ion.",
+        "try": "Use the + and − buttons to add or remove protons, neutrons and electrons. Watch the readout.",
+        "see": "Changing the protons changes the element's name. Changing the neutrons changes only the mass number. Changing the electrons makes a charged ion, but it is still the same element."
+      },
+      {
+        "title": "Electrons fill shells: 2, 8, 8",
+        "text": "Electrons fill the shells from the inside out. For the first 20 elements, the first shell holds up to 2 electrons, the second up to 8, and the third takes 8 before the fourth shell starts. So potassium (19 electrons) is 2, 8, 8, 1 and calcium (20) is 2, 8, 8, 2. The electrons in the outermost shell are called outer electrons. They decide how an atom reacts with other atoms.",
+        "try": "Move the Electrons slider from 1 to 20. The faint dots are empty places in the shells.",
+        "see": "Each shell fills up before the next one starts. The yellow outer electrons count up to a full shell, then a new shell begins with just one."
+      },
+      {
+        "title": "Isotopes of carbon",
+        "text": "All atoms of one element have the same number of protons, but they can have different numbers of neutrons. These atoms are called isotopes. Every carbon atom has 6 protons. Carbon-12 has 6 neutrons, carbon-13 has 7 and carbon-14 has 8. About 99% of carbon is carbon-12. Carbon-14 is rare and radioactive: it slowly breaks down, which lets scientists work out the age of old wood and bones.",
+        "try": "Tap C-12, C-13 and C-14 to compare them.",
+        "see": "All three have 6 red protons and 6 electrons, so all three are carbon. Only the number of grey neutrons and the mass number change."
+      }
+    ],
+    "quiz": [
+      { "q": "An atom has 11 protons, 12 neutrons and 11 electrons. What is its mass number?", "options": ["11", "12", "23", "34"], "answer": 2, "why": "Mass number = protons + neutrons = 11 + 12 = 23. Electrons are so light that they are not counted. (11 protons means this atom is sodium.)" },
+      { "q": "What decides which element an atom is?", "options": ["The number of neutrons", "The number of protons", "The number of electron shells", "The size of the atom"], "answer": 1, "why": "The number of protons is the atomic number. Every atom with 6 protons is carbon, whatever its number of neutrons or electrons." },
+      { "q": "An atom has 17 electrons. How are they arranged in shells?", "options": ["2, 8, 7", "2, 7, 8", "8, 8, 1"], "answer": 0, "why": "The first shell takes 2, the second takes 8, and the other 7 go into the third shell: 2, 8, 7. This is chlorine." },
+      { "q": "A particle has 8 protons and 10 electrons. What is it?", "options": ["A neutral oxygen atom", "An oxygen ion with a charge of 2−", "A neon atom"], "answer": 1, "why": "8 protons means oxygen. The charge is p − e = 8 − 10 = −2, so it is a negative ion, O²⁻." }
+    ]
+  },
+  "source": "original"
+}

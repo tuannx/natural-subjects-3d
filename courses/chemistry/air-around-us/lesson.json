@@ -1,0 +1,58 @@
+{
+  "slug": "air-around-us",
+  "order": 20,
+  "level": "primary",
+  "ages": "9-10",
+  "grades": [4, 4],
+  "title": "Air Is All Around Us",
+  "type": "Matter",
+  "coverStep": 4,
+  "question": "Is air really something, or is it just nothing?",
+  "steps": ["Air is all around us", "Air takes up space", "Air has mass", "Moving air is wind", "Air is a mixture", "Fire needs oxygen"],
+  "content": {
+    "steps": [
+      {
+        "title": "Air is all around us",
+        "text": "We cannot see air or hold it, but it is all around us. It fills the room, and it fills every \"empty\" jar and bottle. Air is made of tiny particles, much too small to see. Here we show them as dots.",
+        "try": "Turn Show the air off and on.",
+        "see": "The \"empty\" jar is full of moving air particles, and so is the space around it."
+      },
+      {
+        "title": "Air takes up space",
+        "text": "Push a cup upside down into water. The air trapped in the cup has nowhere to go, so the water cannot fill the cup. The tissue at the top stays dry. Air takes up space, just like water or a stone.",
+        "try": "Move the slider to push the cup down. Then press Poke a hole in the cup.",
+        "see": "The water creeps only a little way into the cup, and the water in the tank rises. When the air escapes through the hole, water rushes in and the tissue gets wet."
+      },
+      {
+        "title": "Air has mass",
+        "text": "Anything that takes up space and has mass is called matter. Is air matter? Two blown-up balloons hang on a stick, and the stick is level. Let the air out of one balloon and watch the stick.",
+        "try": "Press Let the air out. Then press Blow it up again.",
+        "see": "The stick tips down on the side of the full balloon. The air squeezed into a balloon has mass, so air is matter."
+      },
+      {
+        "title": "Moving air is wind",
+        "text": "When air moves, we call it wind. We feel wind on our faces, and we see it push things: it turns windmills, blows leaves and dries washing. A fan pushes air to make a small wind.",
+        "try": "Move the Fan speed slider.",
+        "see": "The faster the air moves, the faster the pinwheel spins and the higher the ribbons fly."
+      },
+      {
+        "title": "Air is a mixture",
+        "text": "Air is not just one gas. It is a mixture of gases. About four fifths of air is nitrogen. About one fifth is oxygen, the gas we need to breathe. A tiny part is other gases, such as argon and carbon dioxide.",
+        "try": "Press Sort 100 particles, then press Mix them up.",
+        "see": "Out of every 100 air particles, about 78 are nitrogen, about 21 are oxygen and about 1 is another gas."
+      },
+      {
+        "title": "Fire needs oxygen",
+        "text": "A candle flame needs oxygen from the air to keep burning. Under a jar, the flame uses up oxygen until too little is left, and then it goes out. A bigger jar holds more air, so its candle burns longer. A fire blanket puts out a fire the same way: it keeps the air away.",
+        "try": "Press Cover the candles. Then press Take off the jars.",
+        "see": "The candle in the small jar goes out first. The candle in the big jar burns longer, but then it goes out too."
+      }
+    ],
+    "quiz": [
+      { "q": "You push an upside-down cup straight down into water. Why does the tissue inside stay dry?", "options": ["The water is too cold", "Air trapped in the cup takes up space", "Tissue can never get wet"], "answer": 1, "why": "The air in the cup has nowhere to go, so it keeps the water out. Air takes up space." },
+      { "q": "Which gas makes up most of the air?", "options": ["Oxygen", "Nitrogen", "Carbon dioxide"], "answer": 1, "why": "About four fifths of air is nitrogen. Oxygen is about one fifth, and other gases are only a tiny part." },
+      { "q": "Why does a candle under a jar go out?", "options": ["It uses up the oxygen it needs", "The jar makes it too cold", "The jar presses on the flame"], "answer": 0, "why": "A flame needs oxygen. When too little oxygen is left in the jar, the flame goes out." }
+    ]
+  },
+  "source": "original"
+}

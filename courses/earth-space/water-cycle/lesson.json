@@ -1,0 +1,65 @@
+{
+  "slug": "water-cycle",
+  "order": 23,
+  "level": "middle",
+  "ages": "11-14",
+  "grades": [6, 8],
+  "title": "The Water Cycle and the Sun's Energy",
+  "type": "Earth & Space",
+  "question": "What keeps water moving between the sea, the sky and the land?",
+  "coverStep": 0,
+  "steps": ["Powered by the Sun", "Changes of state", "Water from plants", "Rising air makes clouds", "Rain and snow", "Runoff and groundwater", "How long does water stay?"],
+  "content": {
+    "steps": [
+      {
+        "title": "Powered by the Sun",
+        "text": "The water cycle is the endless journey of water between the oceans, the air and the land. It needs energy to keep going. Energy from the Sun heats water so that it evaporates: it changes from a liquid into an invisible gas called water vapour, which rises into the air. Gravity, the pull of Earth, brings the water back down as rain and snow and makes rivers flow downhill. Each year about 500,000 km³ (cubic kilometres) of water evaporates from Earth's surface. In this model, vapour is drawn as light blue dots so you can see it.",
+        "try": "Move the Sunlight slider down to 0% and back up to 100%.",
+        "see": "With less sunlight the scene gets darker and fewer vapour dots rise from the sea, more slowly. At 0% evaporation stops, but the rain and the river still move down, because gravity pulls on them."
+      },
+      {
+        "title": "Changes of state",
+        "text": "Water can be a solid (ice), a liquid (water) or a gas (water vapour). Changing from one to another is called a change of state. To melt or to evaporate, water must take in energy: the energy makes its particles, called molecules, move faster and break away from each other. When vapour condenses back into a liquid, or liquid water freezes, the same energy is given out again. Melting 1 gram (g) of ice takes about 334 joules (J). Evaporating 1 g of water takes about 2,260 J at 100 °C, and a little more when the water is cooler. Energy = energy per gram × mass.",
+        "try": "Press Melting, Evaporation, Condensation and Freezing, then move the Mass slider.",
+        "see": "In ice the molecules sit in neat rows and only jiggle. In liquid water they slide past each other, and in vapour they fly far apart. The red arrow points in (energy taken in) for melting and evaporation; the blue arrow points out (energy given out) for condensation and freezing."
+      },
+      {
+        "title": "Water from plants",
+        "text": "Plants pull water up from the soil through their roots and stems. Most of it escapes as water vapour through tiny holes in the leaves called stomata. This is called transpiration. Plants add about 10% of the water vapour in the air; most of the rest evaporates from the oceans. A large oak tree can give off about 150,000 litres (L) of water in a year, which is about 400 L a day on average.",
+        "try": "Move the Trees slider from 0 to 8 and follow the dots from the roots to the leaves.",
+        "see": "Blue dots go up from the roots in the soil, through each trunk, and leave the leaves as vapour. More trees send more vapour up into the air above the land."
+      },
+      {
+        "title": "Rising air makes clouds",
+        "text": "Air that rises spreads out, because less air is pressing on it higher up, and air that spreads out gets cooler. In the average atmosphere the temperature drops about 6.5 °C for every kilometre (km) you go up. When rising air cools to its dew point, the water vapour in it condenses into tiny liquid droplets. The droplets form on specks of dust, sea salt or smoke. Billions of droplets together make a cloud. In this model a parcel (a bubble) of air starts at 20 °C, its dew point is 7 °C, and it cools like the average atmosphere: temperature = 20 °C − 6.5 °C per km × height.",
+        "try": "Move the Height slider to lift the air parcel from 0 km up to 5 km.",
+        "see": "The parcel gets cooler and a little bigger as it rises. At about 2 km it reaches 7 °C, and droplets start to grow around the dark dust specks: the clear bubble turns into a white cloud."
+      },
+      {
+        "title": "Rain and snow",
+        "text": "Cloud droplets are tiny, about 0.02 millimetres (mm) across, so even gently rising air holds them up. Inside the cloud they bump into each other and join together. When the drops grow big enough, gravity pulls them down faster than the air can hold them up, and they fall as precipitation: rain, or snow where the air is below freezing. Drops of about 0.2 to 0.5 mm fall as drizzle; bigger drops fall as rain.",
+        "try": "Move the Drop size slider from 0.02 mm up to 2 mm.",
+        "see": "Small drops stay in the cloud. From about 0.2 mm a light drizzle starts, and bigger drops make heavier rain. One 2 mm raindrop holds about a million cloud droplets. Over the cold mountain top the water falls as snow."
+      },
+      {
+        "title": "Runoff and groundwater",
+        "text": "When rain reaches the ground, some of it flows over the surface into streams and rivers: this is runoff. Some soaks into the soil: this is infiltration. Water that soaks deep fills the tiny spaces between grains of sand and rock and becomes groundwater, which flows slowly toward rivers and the sea. The rest goes back into the air by evaporation and transpiration. Roads and roofs stop water from soaking in, so towns and cities have much more runoff. The cut-away front of the model shows the ground: brown soil on top and the blue groundwater layer below.",
+        "try": "Press Natural ground, About half paved and City.",
+        "see": "As more ground is paved, more dots run down the river and fewer dots soak down through the soil to the blue groundwater layer."
+      },
+      {
+        "title": "How long does water stay?",
+        "text": "Each place that holds water is called a store (or reservoir). Water passes through some stores quickly and through others very slowly. The average time water stays in a store is called its residence time. Water stays in the air for only about 9 days, but it can stay in the ocean for about 3,200 years. These are rough averages, so each one is marked \"about\".",
+        "try": "Move the Store slider to visit each store and read its residence time.",
+        "see": "The glowing marker moves to each store. Water passes through the air, the rivers and the soil in days or months, but deep groundwater and the ocean hold it for thousands of years."
+      }
+    ],
+    "quiz": [
+      { "q": "Where does the energy that makes ocean water evaporate come from?", "options": ["The Sun", "Gravity", "The Moon", "Wind from the land"], "answer": 0, "why": "Sunlight heats the water. That energy lets water molecules break away from the liquid and rise as water vapour. Gravity does the opposite job: it pulls water back down." },
+      { "q": "Which change of state gives out energy?", "options": ["Melting", "Evaporation", "Condensation"], "answer": 2, "why": "When water vapour condenses into liquid droplets it gives out the energy it took in when it evaporated. Melting and evaporation take energy in." },
+      { "q": "Air at the ground is 20 °C. In the average atmosphere it cools by about 6.5 °C per km. About how warm is the air 2 km up?", "options": ["About 13.5 °C", "About 7 °C", "About 33 °C", "About 0 °C"], "answer": 1, "why": "6.5 °C per km × 2 km = 13 °C colder, and 20 °C − 13 °C = 7 °C. If 7 °C is the dew point of that air, a cloud starts to form there." },
+      { "q": "Why does a city have much more runoff than a forest?", "options": ["Roads and roofs stop rain from soaking into the ground", "It rains much more over cities", "City water evaporates faster than it falls", "Trees make rain flow faster"], "answer": 0, "why": "Paved ground does not let water soak in, so most of the rain runs over the surface into drains and rivers. In a forest about half of the rain soaks into the soil." }
+    ]
+  },
+  "source": "original"
+}

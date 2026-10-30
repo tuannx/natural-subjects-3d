@@ -1,0 +1,25 @@
+{
+  "slug": "cement-step",
+  "order": 170,
+  "level": "high-school",
+  "ages": "15-18",
+  "grades": [10, 12],
+  "title": "Industrial Cement Production",
+  "type": "Industrial Process",
+  "question": "How does a truckload of rock and clay, just ground, fired and ground again, become cement strong enough to hold up a dam?",
+  "textbook": [
+    "Required Vol. 2 · Ch. 5 Important Nonmetallic Elements in Chemical Production · Sec. 3 Inorganic Nonmetallic Materials"
+  ],
+  "steps": [
+    "See the Plant",
+    "Prepare Raw Meal",
+    "Preheat & Decompose",
+    "Through the Kiln",
+    "Burning Zone",
+    "Quench",
+    "Add Gypsum",
+    "On-Duty Test"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/cement-step/"
+}

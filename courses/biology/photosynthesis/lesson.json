@@ -1,0 +1,64 @@
+{
+  "slug": "photosynthesis",
+  "order": 20,
+  "level": "middle",
+  "ages": "12-13",
+  "grades": [7, 7],
+  "title": "Photosynthesis: How Plants Make Food",
+  "type": "Plants",
+  "question": "How does a plant make its own food from air, water and light?",
+  "steps": ["Plants make their own food", "Inside a leaf", "Gases in, water up", "Chlorophyll traps light", "The pondweed experiment", "Limiting factors", "What happens to the glucose?"],
+  "content": {
+    "steps": [
+      {
+        "title": "Plants make their own food",
+        "text": "Animals must eat food, but green plants make their own. This process is called photosynthesis. A plant takes in carbon dioxide from the air and water from the soil. Using light energy, trapped by a green pigment called chlorophyll, it turns them into glucose (a sugar) and oxygen. The word equation is: carbon dioxide + water → glucose + oxygen, with light and chlorophyll written over the arrow. The light energy ends up stored as chemical energy in the glucose.",
+        "try": "Tap What goes in and What comes out.",
+        "see": "Yellow light shines on the leaves, grey carbon dioxide drifts into them and blue water climbs up from the roots. Red oxygen leaves the leaves, and orange glucose moves into the stem."
+      },
+      {
+        "title": "Inside a leaf",
+        "text": "Photosynthesis happens mostly in the leaves. This model is a tiny slice of a leaf, magnified many times. The epidermis is a thin, clear skin on the top and bottom. Under the top skin, tall palisade cells are packed with chloroplasts, the parts of a cell where photosynthesis happens. Below them, round spongy cells have air spaces between them. Tiny pores called stomata (one is called a stoma) in the bottom skin let gases in and out, and the veins carry water in and sugar out.",
+        "try": "Tap Epidermis, Palisade cells, Spongy layer, Stomata and Vein to light up each part.",
+        "see": "Most chloroplasts are in the palisade cells near the top of the leaf, where the light is strongest. Each stoma is a gap between two curved guard cells."
+      },
+      {
+        "title": "Gases in, water up",
+        "text": "Carbon dioxide from the air diffuses into the leaf through the stomata. Diffusion means particles spread out from where there are more of them to where there are fewer. Water travels up from the roots, through tubes called xylem in the stem and veins, and into the leaf cells. The oxygen made in photosynthesis diffuses out through the stomata, and some water escapes as water vapour. Guard cells can close the stomata, for example at night or when the plant is short of water.",
+        "try": "Turn Stomata open off and on.",
+        "see": "When the stomata close, the guard cells press together and the carbon dioxide and oxygen stop moving. Water still arrives from the vein, but more slowly."
+      },
+      {
+        "title": "Chlorophyll traps light",
+        "text": "Inside each chloroplast are stacks of thin membranes that hold chlorophyll. Chlorophyll absorbs light energy, mostly red and blue light, and reflects green light, which is why leaves look green. The chloroplast uses the trapped energy to join carbon dioxide and water into glucose, and gives off oxygen. With no light there is no energy, so photosynthesis stops. That is why plants only photosynthesise in the light.",
+        "try": "Turn Light on off and on.",
+        "see": "With the light on, yellow light hits the green stacks, glucose comes out and the count goes up. With the light off, everything stops and the count stays the same."
+      },
+      {
+        "title": "The pondweed experiment",
+        "text": "You can measure how fast photosynthesis happens using pondweed in water. The oxygen it makes comes out of the cut stem as bubbles, so the number of bubbles per minute tells you the rate. When the lamp comes closer, the light on the plant gets stronger: at half the distance the light intensity is about four times as high. More light gives more bubbles, but only up to a limit. Past that point, something else holds the rate back.",
+        "try": "Move the Lamp distance slider from 50 cm down to 10 cm.",
+        "see": "With the lamp far away only a few bubbles come out. As it gets closer the bubbles come faster, but below about 15 cm the number per minute hardly rises any more."
+      },
+      {
+        "title": "Limiting factors",
+        "text": "The rate of photosynthesis is held back by whichever factor is in the shortest supply. This is called the limiting factor. With a bright lamp, the pondweed runs short of carbon dioxide. Stirring in a little baking soda (sodium hydrogencarbonate) supplies extra carbon dioxide to the water, so the rate can climb higher. Temperature matters too: photosynthesis is slow in the cold, and it slows down again if the water gets too hot.",
+        "try": "Move the Carbon dioxide slider from Low to High, then move the lamp closer and further away.",
+        "see": "With low carbon dioxide the bubble rate soon stops rising, however close the lamp is. With high carbon dioxide it keeps rising as the lamp comes closer. The readout names the limiting factor."
+      },
+      {
+        "title": "What happens to the glucose?",
+        "text": "Plants use the glucose they make in three main ways. They break some down in respiration to release energy for living. They turn some into cellulose, which builds new cell walls so the plant can grow. And they change some into starch to store it, in leaves, seeds, roots and tubers such as potatoes. Sugar made from glucose travels around the plant in tubes called phloem. Iodine solution turns blue-black where there is starch: a leaf from a plant kept in the light turns blue-black, but a leaf from a plant kept in the dark for two days does not.",
+        "try": "Tap Energy, Growth, Starch store and Iodine test.",
+        "see": "Glucose moves from the leaves to where it is needed: to the stem cells for energy, up to the tip for growth and down to the tuber, which swells as it stores starch. In the iodine test only the leaf from the light turns blue-black."
+      }
+    ],
+    "quiz": [
+      { "q": "Which word equation shows photosynthesis?", "options": ["glucose + oxygen → carbon dioxide + water", "carbon dioxide + water → glucose + oxygen", "carbon dioxide + oxygen → glucose + water", "water + glucose → oxygen + starch"], "answer": 1, "why": "Plants take in carbon dioxide and water and, using light energy trapped by chlorophyll, make glucose and oxygen. The first option is respiration, which runs the other way." },
+      { "q": "Through which part does carbon dioxide get into a leaf?", "options": ["The veins", "The stomata", "The palisade cells"], "answer": 1, "why": "Carbon dioxide diffuses in through the stomata, tiny pores in the lower epidermis. Veins carry water and sugar, and the palisade cells are where most photosynthesis happens." },
+      { "q": "In the pondweed experiment, the lamp moves closer and the bubbles come faster. What does this show?", "options": ["More light speeds up photosynthesis", "Light makes the water boil", "The plant needs less carbon dioxide"], "answer": 0, "why": "The bubbles are oxygen made by photosynthesis. More bubbles per minute means a faster rate, so stronger light speeds up photosynthesis, up to a limit." },
+      { "q": "A leaf from a plant kept in the dark for two days is tested with iodine. What colour does it go?", "options": ["Blue-black, because it is full of starch", "Orange-brown, because it has no starch", "Bright green, because of its chlorophyll"], "answer": 1, "why": "In the dark the plant cannot photosynthesise, so it uses up its stored starch. With no starch, the iodine solution just stays orange-brown." }
+    ]
+  },
+  "source": "original"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "inheritance",
+  "order": 41,
+  "level": "middle",
+  "ages": "14-15",
+  "grades": [9, 9],
+  "title": "Inheritance: Dominant and Recessive, Punnett Squares",
+  "type": "Heredity",
+  "coverStep": 3,
+  "question": "How can two purple-flowered plants have a white-flowered offspring?",
+  "steps": ["Mendel's pea plants", "Alleles: dominant and recessive", "Each parent passes on one allele", "The Punnett square", "Grow many offspring", "Boy or girl?", "Many genes, many traits"],
+  "content": {
+    "steps": [
+      {
+        "title": "Mendel's pea plants",
+        "text": "In the 1850s and 1860s Gregor Mendel, a monk in Brno (now in the Czech Republic), bred thousands of pea plants to find out how traits pass from parents to offspring. He crossed true-breeding purple-flowered plants with true-breeding white-flowered plants. True-breeding means a plant's offspring always look like it. Every plant in the first generation (F1) had purple flowers. Then he let the F1 plants pollinate themselves. In the second generation (F2) white flowers came back, in about one plant out of every four.",
+        "try": "Tap Parents, First generation (F1) and Second generation (F2).",
+        "see": "Purple × white gives only purple plants in F1. In F2 white flowers appear again: 6 purple to 2 white here, the same 3 : 1 ratio that Mendel found with hundreds of plants."
+      },
+      {
+        "title": "Alleles: dominant and recessive",
+        "text": "A pea plant has two copies of the gene for flower colour, one on each chromosome of a pair: one copy came from each parent. A gene can come in different versions, called alleles. The allele for purple flowers is dominant, written with a capital letter (A): one copy is enough to give purple flowers. The allele for white flowers is recessive, written with a small letter (a): it only shows when the plant has two copies. The pair of alleles a plant has is its genotype. The trait you can see is its phenotype. Two identical alleles (AA or aa) are called homozygous; two different alleles (Aa) are called heterozygous.",
+        "try": "Tap AA, Aa and aa.",
+        "see": "AA and Aa both give purple flowers, because one A is enough. Only aa gives white flowers. The readout names the genotype, the phenotype, and whether the plant is homozygous or heterozygous."
+      },
+      {
+        "title": "Each parent passes on one allele",
+        "text": "When a plant makes sex cells (pollen and egg cells), the two chromosomes of each pair separate, so each sex cell gets only one allele of each gene. Which one it gets is down to chance. A plant with genotype Aa makes sex cells of which half carry A and half carry a. At fertilisation a pollen cell joins an egg cell, so the offspring gets one allele from each parent and has a pair again.",
+        "try": "Tap AA, Aa or aa, then turn on Make sex cells.",
+        "see": "The parent cell splits into two sex cells, each with one chromosome. From AA every sex cell carries A, from aa every one carries a, and from Aa half carry A and half carry a."
+      },
+      {
+        "title": "The Punnett square",
+        "text": "A Punnett square shows all the ways the alleles from two parents can combine. Write one parent's sex cells across the top and the other parent's down the side. Each box gets one allele from its column and one from its row. Every box is equally likely, so each one is a 1 in 4 (25%) chance. The square gives the expected ratio of the offspring, not an exact count.",
+        "try": "Choose the alleles of each parent with the Parent 1 and Parent 2 buttons.",
+        "see": "Aa × Aa gives AA, Aa, Aa and aa: genotypes 1 : 2 : 1 and flowers 3 purple : 1 white (75% : 25%). AA × aa gives only Aa, so all purple. Aa × aa gives half purple and half white."
+      },
+      {
+        "title": "Grow many offspring",
+        "text": "Chance decides which pollen cell meets which egg cell, so real results are only close to the expected ratio. The more offspring you count, the closer the result usually gets to it. That is why Mendel counted hundreds of plants instead of just a few.",
+        "try": "Move the Number of offspring slider, then tap Grow again a few times.",
+        "see": "With only 4 or 10 plants the result can be far from 75% purple. With 400 plants the percentage of purple flowers stays close to 75% every time you grow again."
+      },
+      {
+        "title": "Boy or girl?",
+        "text": "In humans, the sex chromosomes decide whether a baby is a girl or a boy. A mother is XX, so every egg cell she makes carries an X. A father is XY, so half of his sperm carry an X and half carry a Y. An egg fertilised by a sperm with an X gives XX, a girl. An egg fertilised by a sperm with a Y gives XY, a boy. The Punnett square shows a 50% chance of each, for every baby.",
+        "try": "Tap Fill the square and watch each box fill.",
+        "see": "Two boxes are XX and two are XY, so 50% girls and 50% boys. Only the father's sperm can carry a Y, so it is the sperm that decides."
+      },
+      {
+        "title": "Many genes, many traits",
+        "text": "Flower colour in peas is controlled by one gene with two alleles, so there are just two types: purple or white. Most human traits, such as height, skin colour and eye colour, are controlled by many genes working together. They also depend on the environment: for height, food and health matter too. With more genes there are more possible combinations, so the trait shows a smooth range instead of a few types. In this model each gene has one allele that adds a little height and one that does not.",
+        "try": "Move the Number of genes slider from 1 to 6.",
+        "see": "With 1 gene there are only 3 possible heights. With 6 genes there are 13, most offspring are near the middle, and very short or very tall is rare: the bars form a bell-shaped curve."
+      }
+    ],
+    "quiz": [
+      { "q": "In pea plants the purple allele (A) is dominant and the white allele (a) is recessive. Which genotype gives white flowers?", "options": ["AA", "Aa", "aa"], "answer": 2, "why": "A recessive allele only shows when there is no dominant allele to hide it, so only aa gives white flowers. AA and Aa both give purple." },
+      { "q": "Two Aa plants are crossed. What fraction of the offspring are expected to have white flowers?", "options": ["None of them", "1 in 4 (25%)", "1 in 2 (50%)", "3 in 4 (75%)"], "answer": 1, "why": "The Punnett square for Aa × Aa has four equally likely boxes: AA, Aa, Aa and aa. Only aa is white, so 1 in 4." },
+      { "q": "What is the difference between genotype and phenotype?", "options": ["Genotype is the alleles an organism has; phenotype is the trait you can see", "Genotype is the trait you can see; phenotype is the alleles", "They mean exactly the same thing", "Genotype is only used for plants"], "answer": 0, "why": "Genotype is the pair of alleles, like Aa. Phenotype is the trait it produces, like purple flowers. AA and Aa are different genotypes with the same phenotype." },
+      { "q": "Which parent's sex cell decides whether a human baby is XX or XY?", "options": ["The mother's egg cell", "The father's sperm cell", "Both decide equally", "Neither: it is decided after birth"], "answer": 1, "why": "Every egg carries an X. A sperm carries either an X or a Y, so the sperm that fertilises the egg decides: X gives XX (girl), Y gives XY (boy)." }
+    ]
+  },
+  "source": "original"
+}

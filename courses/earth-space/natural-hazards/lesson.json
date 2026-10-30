@@ -1,0 +1,65 @@
+{
+  "slug": "natural-hazards",
+  "order": 26,
+  "level": "middle",
+  "ages": "11-14",
+  "grades": [6, 8],
+  "title": "Natural Hazards: Earthquakes, Volcanoes and Storms",
+  "type": "Natural Hazards",
+  "question": "Can we forecast earthquakes, volcanoes and storms, and keep people safe?",
+  "coverStep": 3,
+  "steps": ["Where hazards happen", "Measuring an earthquake", "How far away was it?", "How a typhoon forms", "Storm surge and sea walls", "Floods and landslides", "Watching and warning"],
+  "content": {
+    "steps": [
+      {
+        "title": "Where hazards happen",
+        "text": "A natural hazard is a natural event that can harm people or damage property, such as an earthquake, a volcanic eruption, a tropical storm, a flood or a landslide. Hazards are not spread evenly over the Earth. Most earthquakes and volcanoes happen along plate boundaries, where Earth's plates meet. The biggest belt goes around the Pacific Ocean and is called the Ring of Fire. Tropical storms form only over warm seas, in a belt on both sides of the Equator, and then drift toward land. Knowing where hazards happen is the first step in planning for them.",
+        "try": "Press Earthquakes and volcanoes, then press Tropical storms.",
+        "see": "Red earthquake dots and dark volcano cones line up along the plate boundaries, especially around the Pacific. The storm arrows start over the orange warm sea and curve toward coasts, including Southeast Asia."
+      },
+      {
+        "title": "Measuring an earthquake",
+        "text": "Scientists measure the size of an earthquake with the magnitude scale (today they use the moment magnitude scale). Each step of 1 on the scale means about 32 times more energy is released, and the waves drawn by a seismograph are about 10 times taller. So a magnitude 7 earthquake releases about 32 × 32 ≈ 1,000 times as much energy as a magnitude 5. Earthquakes below about magnitude 2.5 are usually not felt. The strongest earthquake ever recorded had a magnitude of 9.5. How much damage an earthquake does also depends on how deep and how close it is, and on how well buildings are made.",
+        "try": "Move the Magnitude slider from 4 to 8 and compare the orange energy ball with the grey magnitude 6 ball.",
+        "see": "The energy ball grows enormously: from a tiny dot at magnitude 4 to a ball much bigger than the town at magnitude 8. The houses shake harder, and the readout multiplies by about 32 for each whole step."
+      },
+      {
+        "title": "How far away was it?",
+        "text": "An earthquake starts at a point underground called the focus; the point on the surface right above it is the epicentre. The energy spreads out as seismic waves. P waves (primary waves) push and pull the rock and are the fastest, about 6 km/s in the crust. S waves (secondary waves) shake the rock from side to side and are slower, about 3.4 km/s. A seismometer records the P waves first, then the S waves. The farther away the earthquake, the longer the gap between them. In this model, distance ≈ 8 km × the gap in seconds. With records from three stations, scientists can find the epicentre.",
+        "try": "Move the Distance slider and watch when the P and S waves reach the station.",
+        "see": "The blue P wave reaches the station first and makes small wiggles on the record; the red S wave arrives later with bigger wiggles. The farther the station, the bigger the gap, and the readout turns the gap back into the distance."
+      },
+      {
+        "title": "How a typhoon forms",
+        "text": "A tropical cyclone is a huge spinning storm. Over the Northwest Pacific, near Vietnam, a strong one is called a typhoon; over the Atlantic it is called a hurricane. It forms only over sea water warmer than about 26–27 °C. Warm water evaporates, and when the water vapour condenses into clouds it releases heat, which makes the air rise faster and pulls in more warm, moist air. Earth's spin makes the storm turn, anticlockwise north of the Equator. In the middle is the calm eye, often 30 to 60 km across. Around it, the eyewall has the strongest winds and heaviest rain, and spiral rain bands reach far out. A storm is a typhoon when its winds reach about 119 km/h.",
+        "try": "Move the Sea temperature slider from 24 °C up to 30 °C.",
+        "see": "Below about 26 °C there are only scattered clouds. Above it the clouds organise into a spinning spiral with a clear eye, a tall eyewall and rain bands, and the warm, moist air spirals in faster."
+      },
+      {
+        "title": "Storm surge and sea walls",
+        "text": "When a typhoon reaches the coast, its strong winds push sea water toward the land, and the low air pressure lets the sea bulge up a little. This rise of the sea is called a storm surge. It can be several metres high and is often the most dangerous part of a tropical cyclone, because it floods low coasts quickly. People reduce the harm with sea walls and dykes, by keeping mangrove forests along the coast (their tangled roots calm the waves), and by moving people to safe shelters before the storm arrives. In this model the sea wall is 3 m tall and the village is 1 m above normal high tide.",
+        "try": "Move the Storm surge slider, then turn the Sea wall toggle on and off. Try the Mangrove forest toggle too.",
+        "see": "Without the wall, a surge of more than 1 m floods the village. With the wall, the village stays dry until the surge is higher than 3 m, then water pours over. The mangroves make the waves smaller."
+      },
+      {
+        "title": "Floods and landslides",
+        "text": "Heavy rain from typhoons and monsoon storms can cause floods and landslides, especially in hills and mountains. On a forested slope, leaves catch some of the rain, and soft forest soil full of roots lets water soak in slowly. On a bare slope, rain runs straight off over the surface (this is called runoff), carrying soil with it, so rivers rise fast. When soil is soaked with water, it becomes heavy and slippery and can slide down the slope all at once: a landslide. Keeping and planting forests on slopes is one of the best ways to reduce both hazards.",
+        "try": "Move the Rain slider up to 300 mm in a day and compare the two slopes.",
+        "see": "Brown muddy runoff pours down the bare slope and its river overflows; at very heavy rain a chunk of soil slides down. On the forested slope most water soaks in, and its river rises only a little."
+      },
+      {
+        "title": "Watching and warning",
+        "text": "We cannot stop natural hazards, but we can watch for warning signs. Before an eruption, seismometers record many small earthquakes as magma moves, tilt meters and GPS show the volcano swelling, and gas sensors measure more gas such as sulfur dioxide. This often gives days or weeks of warning, but not always. Scientists cannot predict the exact time of an earthquake, but they map where strong ones are likely, and early-warning systems detect the fast P waves and send alerts seconds before the strong shaking arrives. Satellites watch typhoons all the time, so coasts get warnings days ahead. Being prepared matters too: an emergency kit, a family plan, safe buildings and practice drills.",
+        "try": "Press Volcano, Earthquake and Typhoon to see how each hazard is watched.",
+        "see": "The volcano swells, small earthquakes flash under it and gas rises past the sensors. At the fault, the sensor catches the P wave and the city alert turns on before the S wave arrives. Above the sea, a satellite watches the typhoon move along its forecast path."
+      }
+    ],
+    "quiz": [
+      { "q": "Why do most earthquakes and volcanoes happen in long belts, such as around the Pacific Ocean?", "options": ["Because those places get the most rain", "Because the belts follow the boundaries between Earth's plates", "Because the Moon pulls hardest on those places", "Because the sea is warmest there"], "answer": 1, "why": "Plates move against each other at their boundaries. Rocks there get stuck and slip (earthquakes), and where one plate sinks under another, magma forms and rises (volcanoes)." },
+      { "q": "An earthquake has magnitude 6. About how much more energy does a magnitude 8 earthquake release?", "options": ["2 times as much", "About 64 times as much", "About 1,000 times as much"], "answer": 2, "why": "Each step of 1 on the magnitude scale means about 32 times more energy. Two steps is about 32 × 32 ≈ 1,000 times more." },
+      { "q": "A seismometer records P waves, and 30 seconds later S waves. Using the model rule, about how far away was the earthquake?", "options": ["About 30 km", "About 240 km", "About 8 km", "About 3,000 km"], "answer": 1, "why": "P waves travel faster than S waves, so the gap grows with distance. In the model, distance ≈ 8 km × gap = 8 × 30 = 240 km." },
+      { "q": "Which of these helps most to reduce landslides on hillsides after heavy rain?", "options": ["Cutting down the trees so the rain can dry faster", "Keeping and planting forests on the slopes", "Building houses at the bottom of steep slopes"], "answer": 1, "why": "Tree roots hold the soil together, and forest soil soaks up rain slowly. Bare slopes lose soil in muddy runoff and slide more easily when soaked." }
+    ]
+  },
+  "source": "original"
+}

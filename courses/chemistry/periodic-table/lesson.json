@@ -1,0 +1,59 @@
+{
+  "slug": "periodic-table",
+  "order": 41,
+  "level": "middle",
+  "ages": "12-13",
+  "grades": [7, 7],
+  "title": "The Periodic Table",
+  "type": "Matter",
+  "question": "Why are the elements arranged in rows and columns in the periodic table?",
+  "coverStep": 3,
+  "steps": ["A map of the elements", "Reading a tile", "From 1 to 20", "Periods are rows", "Groups are columns", "Metals, non-metals and noble gases"],
+  "content": {
+    "steps": [
+      {
+        "title": "A map of the elements",
+        "text": "An element is a substance made of only one kind of atom. Scientists know 118 elements, and the periodic table puts them all in order of atomic number, the number of protons in each atom. The coloured tiles are the first 20 elements, hydrogen to calcium. The grey places are the other 98 elements.",
+        "try": "Press Play 1 to 20 to light up the elements in order. Turn Show all 118 places off and on.",
+        "see": "The atomic number goes up by one from tile to tile, left to right along each row, then on to the start of the next row. Hydrogen and helium sit alone in the first row, far apart."
+      },
+      {
+        "title": "Reading a tile",
+        "text": "Each tile shows the atomic number (top), the chemical symbol, the name, and the relative atomic mass in amu (bottom). A symbol is one or two letters, and only the first is a capital. Many symbols come from the English name, like O for oxygen and C for carbon. Some come from Latin: Na for sodium (natrium) and K for potassium (kalium).",
+        "try": "Tap H, C, O, Na, Cl or Ca to bring that tile forward.",
+        "see": "Each tile lists the same four facts in the same places. For most of these light elements, the atomic mass is about twice the atomic number; hydrogen is the exception."
+      },
+      {
+        "title": "From 1 to 20",
+        "text": "Let's walk through the first 20 elements. Each new element has one more proton and one more electron than the one before. The readout gives its group (the column it is in), its period (the row) and its electron arrangement, and the big atom shows its shells.",
+        "try": "Move the Atomic number slider from 1 to 20 and watch which tile lights up.",
+        "see": "Every time a shell is full, the next element starts a new row. Lithium, sodium and potassium each start a row with a single outer electron."
+      },
+      {
+        "title": "Periods are rows",
+        "text": "The rows of the table are called periods. All the elements in one period have the same number of electron shells: period 2 atoms have 2 shells, period 3 atoms have 3. Going along a period from left to right, each atom has one more outer electron, until the outer shell is full at the end of the row.",
+        "try": "Tap Period 1, 2, 3 or 4 to see the atoms of that row side by side.",
+        "see": "In period 3, sodium to argon all have 3 shells. The yellow outer electrons go 1, 2, 3 and so on up to 8 at argon."
+      },
+      {
+        "title": "Groups are columns",
+        "text": "The columns are called groups, numbered 1 to 18. Elements in the same group have the same number of outer electrons, so they react in similar ways. Group 1 metals (lithium, sodium, potassium) are soft and react strongly with water; hydrogen sits on top of group 1 but is a gas. Group 17 (fluorine, chlorine) are very reactive non-metals. For groups 13 to 18, take away 10 from the group number to get the outer electrons.",
+        "try": "Tap a group button. The yellow dots are the outer electrons.",
+        "see": "Every atom in a group has the same number of yellow outer electrons, even though the atoms get bigger going down the column. Helium is the one exception: it has only 2, but its only shell is full."
+      },
+      {
+        "title": "Metals, non-metals and noble gases",
+        "text": "Metals, on the left and in the middle, are shiny, conduct electricity and heat well, and can be hammered into shape. Non-metals, at the top right, are usually dull and do not conduct electricity well; many are gases. The noble gases in group 18 have full outer shells and hardly react at all. Most of the 118 elements are metals. Boron and silicon are in between, and some books call them metalloids.",
+        "try": "Tap Metals, Non-metals or Noble gases to bring those tiles forward.",
+        "see": "Metals are on the left of the first 20 (and fill the whole middle of the full table). Non-metals sit at the top right, the noble gases fill the last column, and hydrogen is a non-metal even though it sits on the left."
+      }
+    ],
+    "quiz": [
+      { "q": "Which elements are in the same group as sodium (Na)?", "options": ["Magnesium and aluminium", "Lithium and potassium", "Neon and argon"], "answer": 1, "why": "A group is a column. Lithium, sodium and potassium are all in group 1, and each has 1 outer electron, so they react in similar ways." },
+      { "q": "An element has the electron arrangement 2, 8, 6. Which period is it in?", "options": ["Period 2", "Period 3", "Period 6"], "answer": 1, "why": "It has 3 shells, so it is in period 3. With 16 electrons (and 6 outer electrons) it is sulfur, in group 16." },
+      { "q": "Why do neon and argon hardly react with anything?", "options": ["They are metals", "Their outer shells are full", "They have no electrons", "They are very heavy"], "answer": 1, "why": "Neon (2, 8) and argon (2, 8, 8) have full outer shells. Atoms with full outer shells do not need to gain, lose or share electrons, so these noble gases hardly react." },
+      { "q": "In what order are the elements placed in the periodic table?", "options": ["By atomic number (number of protons)", "By the date they were discovered", "In alphabetical order"], "answer": 0, "why": "The table goes in order of atomic number: hydrogen 1, helium 2, lithium 3 and so on, one more proton each time." }
+    ]
+  },
+  "source": "original"
+}

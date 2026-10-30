@@ -1,0 +1,58 @@
+{
+  "slug": "fungi-and-bacteria",
+  "order": 22,
+  "level": "primary",
+  "ages": "9-11",
+  "grades": [4, 5],
+  "title": "Fungi and Bacteria: Tiny Helpers and Germs",
+  "type": "Living Things",
+  "question": "Why does old bread grow fuzzy spots?",
+  "coverStep": 3,
+  "steps": ["Meet the fungi", "Mould on old bread", "Yeast makes bread rise", "Bacteria are very tiny", "Helpful bacteria", "Wash the germs away"],
+  "content": {
+    "steps": [
+      {
+        "title": "Meet the fungi",
+        "text": "Mushrooms, moulds and yeast are fungi. Fungi are living things, but they are not plants. They are not green and cannot make their own food from sunlight. Instead they feed on dead things, like old logs and leaves, or on our food. A mushroom is only the part we see. Under the ground are lots of thin white threads. Mushrooms spread by making tiny spores that float away in the air.",
+        "try": "Press Grow mushrooms, then press Release spores.",
+        "see": "The mushrooms push up from the white threads in the soil. Clouds of tiny spores drift away from under the caps."
+      },
+      {
+        "title": "Mould on old bread",
+        "text": "Mould is a fungus too. Its spores are floating in the air all around us. When a spore lands on bread, it grows into fuzzy spots. Mould grows best where it is warm and damp. In a cold, dry place it grows very slowly. Never eat mouldy food: some moulds can make you ill.",
+        "try": "Move the Days slider to see what happens to the two slices over a week.",
+        "see": "The slice in the warm, damp box gets more and bigger green, grey and white spots each day. The slice in the cold box stays almost clean."
+      },
+      {
+        "title": "Yeast makes bread rise",
+        "text": "Yeast is a tiny fungus made of just one cell. Bakers mix it into bread dough. The yeast feeds on sugar in the dough and gives off a gas called carbon dioxide. The gas makes bubbles, and the bubbles puff up the dough. In a warm place, dough with yeast can double in size in about an hour. Dough with no yeast stays flat.",
+        "try": "Move the Time slider from 0 to 60 minutes.",
+        "see": "The dough with yeast fills with gas bubbles and grows to about twice its size. The dough with no yeast does not change."
+      },
+      {
+        "title": "Bacteria are very tiny",
+        "text": "Bacteria are living things made of just one cell. They are so small that hundreds of them in a row would fit across one millimetre. To see them you need a microscope that makes things look about 1000 times bigger. Bacteria come in a few shapes: rods, little spheres and spirals.",
+        "try": "Move the Magnify slider up to look closer and closer at a spoonful of yogurt.",
+        "see": "At first the circle looks empty. As you magnify more, rod-shaped, ball-shaped and spiral bacteria appear and grow bigger."
+      },
+      {
+        "title": "Helpful bacteria",
+        "text": "Many bacteria are helpful. Some turn milk into yogurt by making it thick and sour. Lots of helpful bacteria live inside your gut and help you digest food. Bacteria and fungi also break down dead leaves, logs and animals. They turn them back into soil, which helps new plants grow.",
+        "try": "Press Make yogurt, then press Rot the leaves.",
+        "see": "The bacteria in the jar multiply and the runny milk becomes thick yogurt, so the spoon stands up. The dead leaves shrink and turn into dark soil, and a new plant sprouts."
+      },
+      {
+        "title": "Wash the germs away",
+        "text": "Some bacteria are harmful: they cause illness. We call them germs. Germs get onto our hands when we touch things. Washing with soap and water for about 20 seconds removes far more germs than water alone. Wash your hands before you eat and after you use the toilet. Keep food cold too, because germs grow slowly in the cold.",
+        "try": "Press Rinse with water, then press Wash with soap.",
+        "see": "Rinsing with water alone leaves many germs behind. Scrubbing with soap for 20 seconds washes almost all of them away."
+      }
+    ],
+    "quiz": [
+      { "q": "Where does mould grow fastest on bread?", "options": ["In a warm, damp place", "In a cold, dry fridge", "In the freezer"], "answer": 0, "why": "Mould is a fungus, and fungi grow best where it is warm and damp. Cold and dry slows it down." },
+      { "q": "What makes bread dough rise?", "options": ["The flour gets heavier", "Yeast gives off gas bubbles that puff up the dough", "The salt melts"], "answer": 1, "why": "Yeast feeds on sugar and gives off carbon dioxide gas. The gas makes bubbles that puff up the dough." },
+      { "q": "Which of these is a way bacteria help us?", "options": ["They make milk into yogurt", "They make us sneeze", "They make food go bad"], "answer": 0, "why": "Helpful bacteria turn milk into yogurt. Others help us digest food and turn dead leaves into soil." }
+    ]
+  },
+  "source": "original"
+}

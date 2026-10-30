@@ -1,0 +1,65 @@
+{
+  "slug": "plant-transport",
+  "order": 22,
+  "level": "middle",
+  "ages": "12-13",
+  "grades": [7, 7],
+  "title": "How Water and Food Travel Through a Plant",
+  "type": "Plants",
+  "coverStep": 4,
+  "question": "How does water get from the soil all the way up to the top leaves of a plant?",
+  "steps": ["Two transport systems", "Root hairs take in water", "Xylem and phloem up close", "The celery experiment", "Transpiration pulls water up", "What changes the transpiration rate?", "Phloem carries sugar both ways"],
+  "content": {
+    "steps": [
+      {
+        "title": "Two transport systems",
+        "text": "Every cell in a plant needs water and mineral salts from the soil. The sugar made in the leaves must also reach every part of the plant, even the roots, which are in the dark. Plants have two kinds of transport tubes for this. Xylem (say \"zy-lem\") carries water and dissolved mineral salts up from the roots to the stem and leaves. Phloem (say \"flo-em\") carries dissolved sugars made in the leaves to all the other parts of the plant. Xylem and phloem run side by side in groups called vascular bundles. In a leaf you can see them as the veins.",
+        "try": "Tap Xylem, Phloem and Both.",
+        "see": "Blue water dots climb from the roots, up the stem and into every leaf. Orange sugar dots leave the leaves and travel down to the roots and the tuber, and up to the bud at the top."
+      },
+      {
+        "title": "Root hairs take in water",
+        "text": "Water enters a plant through its roots, mostly through root hairs. A root hair is a long, thin outgrowth of one cell on the surface of the root. Thousands of root hairs give the root a much larger surface area (the total area of its outside), so it can take in more water. Water moves into the root hair cells by osmosis: it passes through the cell membrane from the dilute soil water into the more concentrated cell sap. Mineral salts, such as nitrates that the plant needs to make proteins, are dissolved in the soil water and are taken in too, often using energy from the cell. The water then passes from cell to cell to the xylem in the middle of the root.",
+        "try": "Move the Root hairs slider from 0 to 60.",
+        "see": "As more root hairs grow, the surface area in the readout goes up and more blue water dots and purple mineral salt dots stream into the root and up the xylem in the middle."
+      },
+      {
+        "title": "Xylem and phloem up close",
+        "text": "Under a microscope, xylem and phloem look very different. A xylem vessel is a long, hollow tube made from dead cells joined end to end. The walls between the cells have gone, so water can flow straight through, like water in a pipe. The side walls are thickened with a tough substance called lignin, often in rings or spirals. Lignin stops the vessels from collapsing and helps hold the plant up. Water in xylem moves only one way: up. A phloem sieve tube is made of living cells. The end walls between them, called sieve plates, are full of small holes. Each sieve tube cell has a small companion cell beside it that keeps it alive.",
+        "try": "Tap Xylem vessel and Phloem tube.",
+        "see": "The xylem vessel is a wide, open tube with brown rings of lignin, and blue water dots rise straight up it. The phloem tube is narrower and divided by sieve plates, with small companion cells along its side. Orange sugar dots pass through the holes in the plates."
+      },
+      {
+        "title": "The celery experiment",
+        "text": "You can watch xylem at work with a stick of celery. Stand the stalk in water coloured with food dye and leave it. The dye travels up the stalk in the xylem, and within a few hours the leaves at the top start to change colour. If you then cut across the stalk, you see a curved row of coloured dots near the outside. Each dot is a vascular bundle, and the colour is in its xylem. The dye climbs faster when it is warm and bright. The times shown here are model values.",
+        "try": "Move the Time slider from 0 to 24 hours, then turn on Cut across the stalk.",
+        "see": "The dye climbs the stalk in thin red lines and, after several hours, tints the leaves. The cut end of the stalk shows a curved row of red dots, one for each vascular bundle."
+      },
+      {
+        "title": "Transpiration pulls water up",
+        "text": "Leaves lose water vapour through their stomata, the tiny pores mostly on the underside of a leaf. Losing water by evaporation from the leaves is called transpiration. As water evaporates from a leaf, more water is drawn out of the xylem in the veins to replace it. Water molecules cling to each other, so the whole thin column of water in the xylem is pulled up from the roots, like a drink through a straw. This flow of water from the roots to the leaves is called the transpiration stream. Most of the water a plant takes in is lost this way. Two guard cells around each stoma can close it, for example when the plant is short of water or at night.",
+        "try": "Turn Stomata open off and on.",
+        "see": "When the guard cells close the stoma, water vapour stops leaving the leaves and the blue dots in the stem slow almost to a stop. When the stomata open again, the transpiration stream starts moving."
+      },
+      {
+        "title": "What changes the transpiration rate?",
+        "text": "Scientists measure transpiration with a potometer. A leafy shoot is sealed into a tube of water joined to a thin glass tube with a scale. As the shoot takes up water, an air bubble moves along the scale. The bubble's speed shows how fast the shoot takes up water, which is close to how fast it loses water. Transpiration is faster in bright light, because the stomata open wider, at higher temperatures, because water evaporates faster, and in wind, which blows away the damp air around the leaves. It is slower when the air is humid, which means the air already holds a lot of water vapour. The bubble speeds here come from a model.",
+        "try": "Move the Light, Temperature, Wind and Humidity sliders.",
+        "see": "The bubble moves fastest with bright light, warm air, strong wind and dry air. In dim, cool, still and humid air it hardly moves. The readout gives the bubble speed in millimetres per minute."
+      },
+      {
+        "title": "Phloem carries sugar both ways",
+        "text": "Phloem moves dissolved sugar (mostly sucrose) from a source, where sugar is made or released, to a sink, where it is used or stored. This movement is called translocation. In summer the big leaves are the source: sugar travels down to the roots and to a store such as a potato tuber, and up to the buds, flowers and fruits. In spring, the young leaves are too small to make enough food. The store becomes the source: its starch is turned back into sugar, which travels up the phloem to the growing shoot. So phloem can carry sugar up or down, but xylem only carries water up.",
+        "try": "Tap Summer and Spring.",
+        "see": "In summer, orange sugar dots flow out of the big leaves, down to the tuber and up to the bud. In spring, the top leaves are small and the sugar dots flow up out of the tuber to the bud and the young leaves."
+      }
+    ],
+    "quiz": [
+      { "q": "A celery stalk stood in red dye for a day is cut across. Which part of the stalk shows red dots?", "options": ["The xylem in the vascular bundles", "The phloem", "The stomata", "The root hairs"], "answer": 0, "why": "The dyed water travels up the stalk in the xylem, so the red dots in the cut end are the xylem of each vascular bundle." },
+      { "q": "Why do root hairs help a plant take in water?", "options": ["They make the root heavier", "They give the root a much larger surface area", "They make sugar for the root", "They close the stomata"], "answer": 1, "why": "Thousands of long, thin root hairs give the root a much larger surface area touching the soil water, so more water can enter by osmosis." },
+      { "q": "On which day would a potometer bubble move fastest?", "options": ["A cool, still, humid night", "A warm, sunny, windy day with dry air", "A cold, dark, foggy morning"], "answer": 1, "why": "Bright light opens the stomata, warmth speeds up evaporation, wind blows damp air away and dry air takes up water vapour easily, so transpiration is fastest." },
+      { "q": "In spring, sugar travels from a potato tuber up to the new shoot. Which tissue carries it?", "options": ["Xylem, because it carries everything upwards", "Phloem, which can carry sugar up or down", "The stomata", "The root hairs"], "answer": 1, "why": "Phloem carries dissolved sugar from a source to a sink. In spring the tuber is the source and the growing shoot is the sink, so the sugar moves up in the phloem." }
+    ]
+  },
+  "source": "original"
+}

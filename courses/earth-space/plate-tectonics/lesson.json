@@ -1,0 +1,70 @@
+{
+  "slug": "plate-tectonics",
+  "order": 20,
+  "level": "middle",
+  "ages": "11-14",
+  "grades": [6, 8],
+  "title": "Earth's Layers and Plate Tectonics",
+  "type": "Earth's Structure",
+  "question": "If the ground feels solid, how can whole continents move?",
+  "steps": ["Inside the Earth", "Cracked into plates", "Continents on the move", "Clues from fossils and rocks", "Plates pull apart", "Plates push together", "Plates slide past", "How fast do plates move?"],
+  "content": {
+    "steps": [
+      {
+        "title": "Inside the Earth",
+        "text": "Earth is built in layers, a bit like a peach. The outer skin is the crust: solid rock about 35 km thick under the continents and only about 7 km under the oceans. Below it is the mantle, about 2,900 km thick. Mantle rock is solid, but so hot that it can flow very slowly, like extremely stiff putty. At the centre is the core, made mostly of the metals iron and nickel. The outer core is liquid. The inner core is even hotter, but the pressure there is so huge that it stays solid. Earth's radius is about 6,371 km. The crust is drawn thicker than it really is so you can see it.",
+        "try": "Move the Depth slider, or press a layer button, and read the depth, layer and temperature.",
+        "see": "The deeper the marker goes, the hotter it gets: from about 15 °C at the surface to about 5,000 °C or more at the centre. The outer core is the only liquid layer. The real crust is thinner, compared with the whole Earth, than the skin of an apple."
+      },
+      {
+        "title": "Cracked into plates",
+        "text": "The crust and the stiff top of the mantle together make a rigid shell about 100 km thick, called the lithosphere. It is broken into huge pieces called tectonic plates, like a cracked eggshell. There are about a dozen large plates and many smaller ones. Below the plates, the mantle is hot enough to flow very slowly. Rock heated from below rises, spreads out under the plates, cools and sinks again. These slow loops are called convection currents. Together with the pull of old, heavy plates sinking back into the mantle, they move the plates a few centimetres a year.",
+        "try": "Turn 'Show convection currents' and 'Show plate edges' on and off. Drag to turn the Earth.",
+        "see": "Yellow dots (hot rock) rise and blue dots (cooler rock) sink in slow loops. The red plate edges run across the oceans and along some coasts, not just around the continents."
+      },
+      {
+        "title": "Continents on the move",
+        "text": "On a world map, the bulge of South America seems to fit into the curve of Africa like a jigsaw piece. In 1912 the scientist Alfred Wegener suggested that all the continents were once joined. Today we call that supercontinent Pangaea, which means 'all land'. It began to break apart about 200 million years ago, and the pieces have been carried away from each other by the moving plates ever since. This map is simplified: real coastlines and paths are more complicated.",
+        "try": "Press Play, or drag the Time slider from 200 million years ago to today.",
+        "see": "The continents start joined in one big landmass. The Atlantic Ocean opens between the Americas and Africa and Europe, and India travels north until it reaches Asia."
+      },
+      {
+        "title": "Clues from fossils and rocks",
+        "text": "Wegener collected clues, which we call evidence. The same fossils of land animals and plants are found on continents that are now separated by wide oceans. Rocks of the same type and age, and old mountain chains, also line up across the oceans. All of these clues match up only when the continents are put back together.",
+        "try": "Press Mesosaurus, Glossopteris and Mountain rocks, then drag the Time slider to pull the continents apart.",
+        "see": "When the continents are joined, each set of matching patches makes one area or one long belt. As the continents drift apart, the patches end up on different continents with ocean between them."
+      },
+      {
+        "title": "Plates pull apart",
+        "text": "Where two plates move away from each other, there is a divergent boundary. Under the ocean, magma (melted rock) rises into the crack, cools and makes new sea floor. This builds a long underwater mountain chain called a mid-ocean ridge, like the Mid-Atlantic Ridge. The new rock is carried away on both sides, so the youngest rock is at the ridge and it gets older the farther away you go. The colours show the age: red is youngest, blue is oldest. Earth's magnetic field has flipped many times, and the rock records each flip as a stripe. The stripes match on both sides of the ridge, which is strong evidence that the sea floor spreads.",
+        "try": "Move the 'Distance from the ridge' slider and read how old the sea floor is there. Press Pause and Spread.",
+        "see": "The light and dark stripes move outward on both sides of the ridge, like two conveyor belts. The farther from the ridge, the older the rock: 1,500 km away it is about 120 million years old."
+      },
+      {
+        "title": "Plates push together",
+        "text": "Where plates move toward each other, there is a convergent boundary. What happens depends on what meets. Ocean plates are made of dense rock called basalt, so when an ocean plate meets a continent, the ocean plate sinks under it. This is called subduction. It makes deep ocean trenches and chains of volcanoes, like the Andes in South America. When two continents meet, neither one sinks, so the crust is crumpled up into great mountains. The Himalaya, with Mount Everest (8,849 m), rose this way after India ran into Asia about 50 million years ago.",
+        "try": "Press 'Ocean meets continent' and 'Continent meets continent' and watch each block.",
+        "see": "The ocean plate bends down at the trench and slides into the mantle, and blobs of magma rise to the volcano. When two continents meet, the mountains grow taller and the crust under them grows thicker."
+      },
+      {
+        "title": "Plates slide past",
+        "text": "At a transform boundary, two plates slide past each other sideways. No crust is made and none is destroyed. The rock is rough, so the plates stick, then slip all at once in an earthquake. A large earthquake can move the ground several metres in a few seconds. The San Andreas Fault in California is a famous example: the Pacific Plate slides north-west past the North American Plate by about 3 to 5 cm a year. Roads, fences and streams that cross the fault are slowly pulled out of line.",
+        "try": "Press Slide and watch the road and the stream where they cross the fault. Press Stop or Reset.",
+        "see": "For a while nothing moves, then the two blocks jerk past each other. Each jump shifts the road and the stream farther out of line."
+      },
+      {
+        "title": "How fast do plates move?",
+        "text": "Plates move only a few centimetres a year, about as fast as your fingernails grow. That sounds tiny, but Earth is very old. To find how far plates move, use distance = speed × time. Then change the units: 1 m = 100 cm and 1 km = 1,000 m, so 1 km = 100,000 cm. Here the two continents move apart at the speed you choose, and a new ocean opens between them. The Atlantic Ocean opens at about 2.5 cm a year.",
+        "try": "Move the Time slider and the 'Speed apart' slider and read the distance on the yellow ruler.",
+        "see": "At 2.5 cm a year, 1 million years makes 25 km, and 200 million years makes 5,000 km, about as wide as the Atlantic Ocean between South America and Africa."
+      }
+    ],
+    "quiz": [
+      { "q": "Which layer of the Earth is liquid?", "options": ["The crust", "The mantle", "The outer core", "The inner core"], "answer": 2, "why": "The outer core is melted iron and nickel. The inner core is even hotter, but the huge pressure keeps it solid. The mantle is solid rock that flows very slowly." },
+      { "q": "Fossils of Mesosaurus, a small reptile that lived in fresh water, are found in both South America and Africa. What does this suggest?", "options": ["It swam across the Atlantic Ocean", "South America and Africa were once joined", "It lived all over the world"], "answer": 1, "why": "A small freshwater reptile could not cross a wide salty ocean. Its fossils are in both places because the two continents were joined when it lived, about 280 million years ago." },
+      { "q": "At a mid-ocean ridge, where is the youngest rock on the sea floor?", "options": ["Right at the ridge", "Next to the continents, far from the ridge", "All the sea floor is the same age"], "answer": 0, "why": "New rock forms at the ridge when magma rises and cools, then it is carried away on both sides. So the rock gets older the farther it is from the ridge." },
+      { "q": "A plate moves 5 cm per year. How far does it move in 1 million years?", "options": ["5 km", "50 km", "500 km", "5,000 km"], "answer": 1, "why": "distance = speed × time = 5 cm × 1,000,000 = 5,000,000 cm. Since 1 km = 100,000 cm, that is 5,000,000 ÷ 100,000 = 50 km." }
+    ]
+  },
+  "source": "original"
+}

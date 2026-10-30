@@ -1,0 +1,65 @@
+{
+  "slug": "eclipses",
+  "order": 13,
+  "coverStep": 3,
+  "level": "middle",
+  "ages": "11-12",
+  "grades": [6, 6],
+  "title": "Solar and Lunar Eclipses",
+  "type": "Earth & Space",
+  "question": "Why doesn't the Moon block the Sun every month?",
+  "steps": ["Phases: the sunlit half", "Umbra and penumbra", "A solar eclipse", "A lunar eclipse", "Why not every month?", "Total, annular or partial?", "Who can see it?"],
+  "content": {
+    "steps": [
+      {
+        "title": "Phases: the sunlit half",
+        "text": "The Sun always lights half of the Moon. As the Moon goes around Earth, about 29.5 days from one new moon to the next, we see different amounts of that lit half. These shapes are the phases you met in the Moon phases lesson. At new moon the Moon is between Earth and the Sun. At full moon Earth is between the Sun and the Moon. Eclipses can only happen at these two moments. The distances here are squeezed so everything fits.",
+        "try": "Move the 'Day of the Moon's trip' slider. The small picture in the card shows the Moon as we see it from Earth.",
+        "see": "The lit half of the Moon always faces the Sun. At new moon we see none of the lit half; at full moon we see all of it."
+      },
+      {
+        "title": "Umbra and penumbra",
+        "text": "The Sun is not a tiny point of light: it is a huge glowing ball. So a shadow in space has two parts. In the umbra, the dark inner cone, all of the Sun is hidden. In the penumbra, the paler part around it, only part of the Sun is hidden. The Moon's umbra is a cone about 373,000 km long, which is close to the Moon's distance from Earth.",
+        "try": "Turn on 'Shrink the Sun to a tiny point' and watch the Moon's shadow. Turn it off again.",
+        "see": "With a tiny point of light there is no penumbra: the shadow has sharp edges. With the real, big Sun the umbra narrows to a point and the penumbra spreads out around it."
+      },
+      {
+        "title": "A solar eclipse",
+        "text": "A solar eclipse happens at new moon, when the Moon passes exactly between the Sun and Earth and its shadow falls on Earth. Inside the small umbra spot the Sun is completely hidden: this is a total eclipse, and the sky goes dark for a few minutes. In the much bigger penumbra people see a partial eclipse, with a bite taken out of the Sun. Never look at the Sun without proper eclipse glasses, even when most of it is covered: it can damage your eyes for ever.",
+        "try": "Move the Moon's position slider so that the Moon passes in front of the Sun.",
+        "see": "The Moon's shadow moves across Earth. The picture in the card goes from no eclipse to a partial eclipse, and becomes a total eclipse when the Moon is lined up."
+      },
+      {
+        "title": "A lunar eclipse",
+        "text": "A lunar eclipse happens at full moon, when Earth is between the Sun and the Moon and the Moon moves into Earth's shadow. Earth's umbra is much wider than the Moon, so the total part of a lunar eclipse can last more than an hour. The Moon does not go black. Some sunlight bends through Earth's air on its way to the Moon, and the air lets mostly red light through, just like at sunset. So the Moon turns a coppery red.",
+        "try": "Move the Moon's position slider to carry the full moon through Earth's shadow.",
+        "see": "In the penumbra the Moon only looks a little dimmer. In the umbra it turns red. Lunar eclipses are safe to look at with your eyes."
+      },
+      {
+        "title": "Why not every month?",
+        "text": "If the Moon's orbit lay flat in the same plane as Earth's orbit, there would be a solar eclipse at every new moon and a lunar eclipse at every full moon. But the Moon's orbit is tilted by about 5°. Here it is drawn tilted 25° because the Earth and Moon are drawn far too big. Most months the new moon and the full moon pass above or below the shadows. Eclipses can only happen when the line where the two orbits cross (yellow dashes) points toward the Sun. That happens about twice a year, in 'eclipse seasons'.",
+        "try": "Press 'Next new moon' and 'Next full moon' several times. Then turn on 'Flatten the Moon's orbit' and try again.",
+        "see": "With the tilt, most new moons and full moons miss and there is no eclipse. Eclipses come only when the dashed line points at the Sun. With a flat orbit, every new moon and full moon gives an eclipse."
+      },
+      {
+        "title": "Total, annular or partial?",
+        "text": "The Moon's orbit is a slightly stretched circle, so its distance from Earth changes between about 356,500 km and 406,700 km. The Sun is about 400 times wider than the Moon but also about 400 times farther away, so both look about half a degree wide in our sky. When the Moon is close, it looks a little bigger than the Sun and can cover it completely: a total eclipse. When it is far, its umbra ends before reaching Earth. People in the antumbra, the cone beyond the umbra's tip, see a bright ring of Sun around the Moon: an annular eclipse. People off to the side, in the penumbra, see a partial eclipse.",
+        "try": "Move the Moon distance slider, then move 'Your distance from the shadow centre'.",
+        "see": "When the Moon is closer than about 380,000 km, the umbra reaches Earth and you see a total eclipse. Farther away its tip falls short and you see a ring. Move sideways and the eclipse becomes partial, then stops."
+      },
+      {
+        "title": "Who can see it?",
+        "text": "A solar eclipse is seen only where the Moon's shadow falls: the total eclipse along a narrow path at most a few hundred kilometres wide, and a partial eclipse over a much wider area around it. A lunar eclipse can be seen by everyone on Earth's night side. Lunar eclipses are safe to watch with your eyes. A solar eclipse is never safe to look at directly: use eclipse glasses made to the ISO 12312-2 safety standard, or a pinhole viewer. Ordinary sunglasses are not safe.",
+        "try": "Press 'Solar eclipse' and 'Lunar eclipse' to compare who can see each one.",
+        "see": "The solar eclipse covers only a small patch of Earth's day side. The lunar eclipse can be seen from the whole night half of Earth."
+      }
+    ],
+    "quiz": [
+      { "q": "What happens during a solar eclipse?", "options": ["The Moon passes between the Sun and Earth, and its shadow falls on Earth", "Earth passes between the Sun and the Moon", "A cloud covers the Sun", "The Sun stops shining for a few minutes"], "answer": 0, "why": "At new moon the Moon can line up exactly between the Sun and Earth. Its umbra and penumbra then fall on part of Earth." },
+      { "q": "Why don't we get an eclipse every month?", "options": ["The Moon's orbit is tilted about 5°, so the Moon usually passes above or below the Sun–Earth line", "The Moon stops moving some months", "The Sun is too far away most months"], "answer": 0, "why": "Because of the tilt, eclipses only happen when the line where the two orbits cross points toward the Sun, about twice a year." },
+      { "q": "In an annular eclipse a bright ring of Sun stays around the Moon. Why?", "options": ["The Moon is farther away than usual, so it looks a little smaller than the Sun", "The Moon is closer than usual, so it looks bigger than the Sun", "Earth's shadow covers the middle of the Sun"], "answer": 0, "why": "When the Moon is far from Earth, its umbra ends before reaching the ground. The Moon looks slightly smaller than the Sun, so a ring of Sun shows around it." },
+      { "q": "Which of these is safe to look at with your bare eyes?", "options": ["A partial solar eclipse", "An annular solar eclipse", "A total lunar eclipse", "The Sun when it is mostly covered by the Moon"], "answer": 2, "why": "A lunar eclipse is just the Moon in Earth's shadow, so it is safe to watch. Looking at the Sun, even when it is mostly covered, can damage your eyes: use proper eclipse glasses." }
+    ]
+  },
+  "source": "original"
+}

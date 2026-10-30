@@ -1,0 +1,58 @@
+{
+  "slug": "water-waves",
+  "order": 20,
+  "level": "primary",
+  "ages": "9-11",
+  "grades": [4, 5],
+  "title": "Waves on a Pond",
+  "type": "Waves",
+  "question": "When a wave goes past a duck, why doesn't the duck go with it?",
+  "coverStep": 5,
+  "steps": ["What is a wave?", "The duck bobs up and down", "The wave moves, the water stays", "Wave height (amplitude)", "Wavelength", "Ripples to big waves"],
+  "content": {
+    "steps": [
+      {
+        "title": "What is a wave?",
+        "text": "This is a slice of a pond, so you can see the water from the side. A board at the left end moves up and down. Each push starts a wave. A wave is a pattern of up-and-down motion that moves across the water.",
+        "try": "Press Calm water to stop the board, then press Make waves to start it again.",
+        "see": "The board goes up and down, and a pattern of high and low water travels across the pond. When the board stops, the last waves move away and the water goes flat."
+      },
+      {
+        "title": "The duck bobs up and down",
+        "text": "Watch the rubber duck. Each wave lifts it up and then lets it down again. It also rocks a little forward and back. But the duck does not travel along with the waves. After each wave, it is back where it started.",
+        "try": "Turn on Show the duck's path.",
+        "see": "The duck's path is a small loop: up, forward, down and back. It ends where it started, wave after wave."
+      },
+      {
+        "title": "The wave moves, the water stays",
+        "text": "The wave pattern travels all the way across the pond, but the water does not. Each bit of water just moves up and down in a small loop as the wave passes. A wave carries energy from one place to another, not the water itself.",
+        "try": "Turn on Follow one wave top to put a flag on a wave.",
+        "see": "The flag rides on a wave top across the pond. The leaves only bob up and down in their own places."
+      },
+      {
+        "title": "Wave height (amplitude)",
+        "text": "The top of a wave is called a crest. The low part between two crests is called a trough. The amplitude is how high a crest rises above the calm water level. For a simple wave like this, the trough dips the same distance below it. Bigger waves have a bigger amplitude and carry more energy.",
+        "try": "Move the Wave height slider. Turn on Freeze the water to look closely.",
+        "see": "With a bigger amplitude, the crests are higher, the troughs are deeper and the duck moves up and down more."
+      },
+      {
+        "title": "Wavelength",
+        "text": "The wavelength is the distance from one crest to the next crest. You can also measure it from one trough to the next. Long waves have crests far apart. Short waves have crests close together.",
+        "try": "Move the Wavelength slider and read the ruler. Turn on Freeze the water to measure.",
+        "see": "The ruler goes from one crest to the next. Longer waves have crests farther apart, and they rock the duck up and down more slowly."
+      },
+      {
+        "title": "Ripples to big waves",
+        "text": "Waves on real water can be tiny ripples or big waves. On a pond, wind makes most waves. A stronger wind that blows for longer makes bigger waves. You can describe any wave with its amplitude and its wavelength.",
+        "try": "Tap Ripples, Breezy or Windy, or move the sliders yourself.",
+        "see": "Ripples have a small amplitude and a short wavelength. Windy-day waves are taller and longer, and they lift the duck much higher."
+      }
+    ],
+    "quiz": [
+      { "q": "A wave goes past a floating duck. What does the duck do?", "options": ["It is carried across the pond by the wave", "It bobs up and down and stays in about the same place", "It sinks to the bottom"], "answer": 1, "why": "The wave pattern moves on, but the water and the duck only move up and down in a small loop, so the duck ends up where it started." },
+      { "q": "What is the wavelength of a wave?", "options": ["The distance from one crest to the next crest", "How high a crest is above the calm water", "How fast the duck moves"], "answer": 0, "why": "Wavelength is measured from one crest to the next crest (or one trough to the next). How high the crest rises is the amplitude." },
+      { "q": "Which wave has the bigger amplitude?", "options": ["Crests 2 cm above the calm water", "Crests 10 cm above the calm water", "They are the same"], "answer": 1, "why": "Amplitude is how high a crest rises above the calm water level, so 10 cm is the bigger amplitude. That wave also carries more energy." }
+    ]
+  },
+  "source": "original"
+}

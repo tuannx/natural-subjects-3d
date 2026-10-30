@@ -1,0 +1,64 @@
+{
+  "slug": "mixtures-dissolving",
+  "order": 20,
+  "level": "primary",
+  "ages": "10-11",
+  "grades": [5, 5],
+  "title": "Mix, Dissolve, Separate",
+  "type": "Matter",
+  "coverStep": 6,
+  "question": "Where does sugar go when it disappears in water?",
+  "steps": ["What is a mixture?", "Dissolving", "Some things do not dissolve", "Dissolving faster", "Sieve and magnet", "Filtering", "Evaporating"],
+  "content": {
+    "steps": [
+      {
+        "title": "What is a mixture?",
+        "text": "A mixture is two or more materials mixed together. Each material in a mixture stays the same stuff: sand is still sand, and iron is still iron. That is why a mixture can be separated again.",
+        "try": "Press Mix to stir the pebbles, sand and iron filings together.",
+        "see": "The three piles become one mixture in the bowl. You can still see the pebbles, the sand and the dark bits of iron."
+      },
+      {
+        "title": "Dissolving",
+        "text": "Some materials dissolve in water. When sugar dissolves, it breaks up into particles far too small to see, even with a magnifying glass. They spread out all through the water. The sugar is still there, because the water tastes sweet. Sugar and water together make a solution.",
+        "try": "Press Add sugar. Turn Show tiny particles on and off.",
+        "see": "The sugar grains sink and shrink until they vanish. The dots show where the tiny sugar particles go: they spread through all of the water."
+      },
+      {
+        "title": "Some things do not dissolve",
+        "text": "Salt dissolves in water, just like sugar. Sand does not dissolve: it sinks to the bottom. Oil does not dissolve either. It is lighter than water, so it floats on top in a layer.",
+        "try": "Press Add to all glasses.",
+        "see": "The sugar and the salt vanish. The sand stays at the bottom, and the oil makes a yellow layer on top of the water."
+      },
+      {
+        "title": "Dissolving faster",
+        "text": "Warm water dissolves sugar faster than cold water. Stirring makes it faster too, because it brings fresh water to the sugar. Crushing a sugar cube into small grains also helps.",
+        "try": "Set the Water temperature and Stir for your glass, then press Drop sugar cubes.",
+        "see": "A hot, stirred glass dissolves its cube much faster than the cold glass that is not stirred."
+      },
+      {
+        "title": "Sieve and magnet",
+        "text": "We separate a mixture by using the different properties of its parts. A sieve lets small grains fall through its holes and keeps the big pebbles. A magnet pulls out iron, but not sand.",
+        "try": "Press Use the sieve, then Use the magnet.",
+        "see": "The pebbles stay in the sieve. The magnet lifts out the iron filings and leaves the sand behind in the dish."
+      },
+      {
+        "title": "Filtering",
+        "text": "Sand and water can be separated with a filter. Filter paper is full of tiny holes. Water passes through them, but the sand grains are too big and get stuck.",
+        "try": "Press Pour.",
+        "see": "Clean water drips into the flask. The sand stays behind on the filter paper."
+      },
+      {
+        "title": "Evaporating",
+        "text": "Dissolved salt passes through a filter with the water. To get the salt back, we heat the salt water. The water evaporates: it turns into water vapour, a gas, and goes into the air. The salt is left behind.",
+        "try": "Turn Heat on.",
+        "see": "The water level drops until the dish is dry, and white salt crystals are left. Sea salt is made this way in salt fields by the sea, using the heat of the Sun."
+      }
+    ],
+    "quiz": [
+      { "q": "Which of these dissolves in water?", "options": ["Sand", "Sugar", "Oil"], "answer": 1, "why": "Sugar breaks up into tiny particles that spread through the water. Sand sinks and oil floats: they do not dissolve." },
+      { "q": "How can you get the salt back out of salt water?", "options": ["Pour it through a filter", "Let the water evaporate", "Use a magnet"], "answer": 1, "why": "Dissolved salt goes through a filter with the water. When the water evaporates, the salt is left behind." },
+      { "q": "Which makes sugar dissolve faster?", "options": ["Cold water and no stirring", "Warm water and stirring", "Adding sand"], "answer": 1, "why": "Warm water and stirring both make sugar dissolve faster." }
+    ]
+  },
+  "source": "original"
+}

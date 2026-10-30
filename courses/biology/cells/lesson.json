@@ -1,0 +1,71 @@
+{
+  "slug": "cells",
+  "order": 11,
+  "level": "middle",
+  "ages": "11-12",
+  "grades": [6, 6],
+  "title": "Cells: Plant and Animal Cells Under the Microscope",
+  "type": "Cells",
+  "coverStep": 6,
+  "question": "What are living things made of, and how is a plant cell different from an animal cell?",
+  "steps": ["The light microscope", "Magnification", "Onion skin cells", "Cheek cells", "Inside an animal cell", "Inside a plant cell", "Plant and animal cells compared", "Cells grow and divide"],
+  "content": {
+    "steps": [
+      {
+        "title": "The light microscope",
+        "text": "All living things are made of cells, the smallest units that can carry out life. Most cells are far too small to see with your eyes alone, so we use a light microscope. Light from a lamp shines up through a very thin specimen on a glass slide. Two lenses then magnify it, which means they make it look bigger than it really is: the objective lens just above the slide, and the eyepiece lens you look into.",
+        "try": "Tap Eyepiece, Objective lenses, Stage, Lamp and Focus knobs to light up each part.",
+        "see": "The light travels straight up from the lamp, through the slide on the stage, then through the objective lens and the eyepiece to your eye."
+      },
+      {
+        "title": "Magnification",
+        "text": "Each lens has its magnification marked on it. This eyepiece is 10×, so it makes things look 10 times bigger. The objective lenses are 4×, 10× and 40×. To find the total magnification, multiply them: total magnification = eyepiece × objective. With the 40× objective, 10 × 40 = 400×.",
+        "try": "Move the Objective lens slider to turn the nosepiece to 4×, 10× or 40×.",
+        "see": "The nosepiece turns a new lens over the slide. At a higher magnification each cell looks bigger, but fewer cells fit in the view, and the scale bar stands for a shorter length."
+      },
+      {
+        "title": "Onion skin cells",
+        "text": "Peel the thin, see-through skin from the inside of an onion layer and lay it flat on a slide. A drop of iodine solution stains the cells, so their parts are easier to see. Onion skin cells are long boxes packed together like bricks, each with a cell wall around it and a dark nucleus. We measure cells in micrometres (µm): 1 mm = 1000 µm. An onion skin cell is roughly 250 µm (0.25 mm) long. Its image is bigger: image size = real size × magnification.",
+        "try": "Tap No stain and Iodine stain, then move the Objective lens slider.",
+        "see": "Without stain the cells are pale and hard to see. With iodine the walls and nuclei stand out. At 400× a single cell stretches a long way across the view."
+      },
+      {
+        "title": "Cheek cells",
+        "text": "Now gently rub the inside of your cheek with a clean cotton bud and smear it on a slide. These are animal cells. A blue stain called methylene blue shows them up. Cheek cells are thin and flat with an uneven outline. Each has a nucleus, but there is no cell wall. They are only about 60 µm across, so you need a high magnification to see them well.",
+        "try": "Tap Cheek cells and Onion skin to compare, then move the Objective lens slider to 400×.",
+        "see": "Cheek cells lie scattered and folded, not packed in neat rows. At 40× they are tiny specks. At 400× you can see the dark blue nucleus in each cell."
+      },
+      {
+        "title": "Inside an animal cell",
+        "text": "This model of an animal cell has a slice cut away so you can see inside. The cell membrane is a thin layer around the cell that controls what goes in and out. The cytoplasm is a jelly where most of the cell's chemical reactions happen. The nucleus holds the genetic material (DNA) and controls the cell. Mitochondria release energy from food, in a process called respiration.",
+        "try": "Tap Cell membrane, Cytoplasm, Nucleus and Mitochondria to make each part glow.",
+        "see": "The membrane is the thin pink outer layer, the pale cytoplasm fills the cell, the purple nucleus sits in the middle and the orange mitochondria are spread through the cytoplasm."
+      },
+      {
+        "title": "Inside a plant cell",
+        "text": "A plant cell has all the parts of an animal cell, plus three more. The cell wall is a stiff layer of cellulose outside the membrane; it gives the cell its shape and support. Chloroplasts contain a green pigment called chlorophyll, which traps light to make food by photosynthesis. A large vacuole filled with watery cell sap keeps the cell firm.",
+        "try": "Tap Cell wall, Chloroplasts and Vacuole, then the other parts.",
+        "see": "The thick green wall makes a box shape. The big blue vacuole fills most of the middle and pushes the nucleus to one side. Green chloroplasts sit in the cytoplasm around the edges."
+      },
+      {
+        "title": "Plant and animal cells compared",
+        "text": "Both kinds of cell have a cell membrane, cytoplasm, a nucleus and mitochondria. Only plant cells have a cell wall, chloroplasts and a large permanent vacuole. The wall gives plant cells a fixed, often box-like shape, while animal cells are rounder or uneven. A typical animal cell is about 10 to 30 µm across; plant cells are about 10 to 100 µm. Not every plant cell is green: onion skin cells grow away from light and have no chloroplasts.",
+        "try": "Tap In both and Only in plant cells.",
+        "see": "In both lights up the same four parts in each cell. Only in plant cells lights up the wall, chloroplasts and vacuole of the plant cell, and nothing in the animal cell."
+      },
+      {
+        "title": "Cells grow and divide",
+        "text": "A living thing grows because its cells grow and divide. A young cell takes in nutrients and gets bigger. When it is big enough, it divides into two new cells, and each of those can grow and divide again. If every cell divides each time, then after n divisions one cell has become 2 × 2 × … × 2 = 2ⁿ cells. Cell division also replaces cells that are worn out or damaged.",
+        "try": "Move the Divisions slider from 0 up to 5.",
+        "see": "Each time, every cell splits into two and the new cells grow: 1, 2, 4, 8, 16, 32. The number doubles with every division."
+      }
+    ],
+    "quiz": [
+      { "q": "A microscope has a 10× eyepiece and a 40× objective lens. What is the total magnification?", "options": ["50×", "400×", "4×", "30×"], "answer": 1, "why": "Total magnification = eyepiece × objective = 10 × 40 = 400×. You multiply the two magnifications; you do not add them." },
+      { "q": "Which part is found in plant cells but not in animal cells?", "options": ["Nucleus", "Cell membrane", "Chloroplast", "Mitochondrion"], "answer": 2, "why": "Chloroplasts trap light for photosynthesis, and animal cells do not have them. Plant and animal cells both have a nucleus, a cell membrane and mitochondria." },
+      { "q": "What is the job of the nucleus?", "options": ["It makes the cell stiff", "It holds the genetic material and controls the cell", "It makes food using light", "It stores watery cell sap"], "answer": 1, "why": "The nucleus contains the genetic material (DNA) that controls what the cell does. The wall makes a plant cell stiff, chloroplasts make food and the vacuole stores cell sap." },
+      { "q": "One cell divides 4 times, and every new cell divides each time too. How many cells are there at the end?", "options": ["4", "8", "16", "32"], "answer": 2, "why": "The number doubles with each division: 1 → 2 → 4 → 8 → 16. That is 2⁴ = 2 × 2 × 2 × 2 = 16 cells." }
+    ]
+  },
+  "source": "original"
+}

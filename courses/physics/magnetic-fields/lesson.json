@@ -1,0 +1,65 @@
+{
+  "slug": "magnetic-fields",
+  "order": 22,
+  "level": "middle",
+  "ages": "12-13",
+  "grades": [7, 7],
+  "title": "Magnets and Magnetic Fields",
+  "type": "Magnetism",
+  "coverStep": 3,
+  "question": "What is the invisible field around a magnet, and why does a compass point north?",
+  "steps": ["Poles: attract and repel", "The magnetic field", "Compasses show the direction", "Two magnets, two patterns", "Magnetic materials", "Earth is a giant magnet", "Making a magnet"],
+  "content": {
+    "steps": [
+      {
+        "title": "Poles: attract and repel",
+        "text": "Every magnet has two ends where its pull is strongest. These are its poles: a north pole (N) and a south pole (S). Two magnets push or pull on each other without touching. Unlike poles (N and S) attract, and like poles (N and N, or S and S) repel. The purple arrows show the force on each magnet. The forces on the two magnets are equal in size and opposite in direction. The closer the magnets are, the bigger the force, and it grows very quickly at small gaps.",
+        "try": "Move the Gap between the magnets slider, then press N facing N and do it again.",
+        "see": "At 8 cm the force arrows are short. As the gap closes they grow longer and longer. With N facing S the arrows point toward each other (attract); with N facing N they point apart (repel)."
+      },
+      {
+        "title": "The magnetic field",
+        "text": "The space around a magnet where it can push or pull on magnetic things is called its magnetic field. We cannot see a field, but iron filings show its shape. Each tiny filing becomes a little magnet and turns to line up with the field. The pattern they make shows the field lines. The field is strongest where the lines are closest together, at the poles.",
+        "try": "Press Tap the paper, then turn on Show field lines.",
+        "see": "The scattered filings swing round into curved lines that run from one pole to the other. They crowd together around the N and S poles, and the drawn field lines follow the same pattern."
+      },
+      {
+        "title": "Compasses show the direction",
+        "text": "A compass needle is a small magnet that can turn freely, so it lines up with the field it is in. By agreement, the direction of a field line is the way the north (red) end of a compass needle points. So outside a magnet, field lines go from the N pole to the S pole. Field lines never cross each other.",
+        "try": "Move the Move the compass slider to carry the big compass all the way round the magnet.",
+        "see": "The red end of the needle always points along the field line next to it: away from the N pole, toward the S pole, and from N toward S along the sides. The small compasses all follow the arrows on the lines."
+      },
+      {
+        "title": "Two magnets, two patterns",
+        "text": "When two magnets are close, their fields add together. With N facing S, field lines run straight across the gap from one magnet to the other, and the magnets attract. With N facing N, the lines from the two magnets bend away from each other. Half way between them is a neutral point, where the two fields cancel and a compass would not point any particular way.",
+        "try": "Press N facing S, then N facing N. Turn the Iron filings and Field lines switches on and off.",
+        "see": "N facing S: filings and lines bridge the gap. N facing N: the filings in the middle are scattered and the lines turn sharply away from the neutral point."
+      },
+      {
+        "title": "Magnetic materials",
+        "text": "Only a few materials are magnetic, which means a magnet attracts them. The magnetic elements are iron, nickel and cobalt. Most kinds of steel are also magnetic, because steel is mostly iron. Many other metals, such as copper, aluminium, gold and silver, are not magnetic, and neither are plastic, wood or glass. So not every metal sticks to a magnet!",
+        "try": "Move the Gap above the samples slider to lower the long magnet over the row. Press Put them back to test again.",
+        "see": "When the gap is small enough, the iron rod, the steel clip, the nickel disc and the cobalt block jump up and stick to the magnet. The copper, plastic, aluminium and wood stay on the board, however close the magnet comes."
+      },
+      {
+        "title": "Earth is a giant magnet",
+        "text": "Earth has a magnetic field, as if a giant bar magnet were buried inside it. (It actually comes from hot, liquid iron moving deep in Earth's core.) A compass needle's N end points roughly north, toward the geographic North Pole. But unlike poles attract, so the magnetic pole near the geographic North Pole must really be a magnetic south pole! The magnetic poles are not exactly at the geographic poles, and they slowly move over the years.",
+        "try": "Move the Move the compass slider to carry the compass from the south to the north. Switch See the magnet inside off and on.",
+        "see": "Wherever the compass is, its red end points north along Earth's surface. The S end of the buried magnet sits near the geographic North Pole, and the red field lines go from the southern half round to the northern half."
+      },
+      {
+        "title": "Making a magnet",
+        "text": "Iron and steel are made of tiny regions called domains. Each domain acts like a very small magnet. In an ordinary steel bar the domains point in all directions, so their effects cancel. Stroke the bar many times in one direction with one pole of a magnet, and more and more domains line up. The bar becomes a magnet. The end where each stroke finishes becomes the opposite pole (here S, because the stroking end is N). Hard knocks or heating jumble the domains again.",
+        "try": "Watch the magnet stroke the bar, or press Stroke it. Then press Drop it hard.",
+        "see": "With every stroke the purple domain arrows turn to point the same way, and the percentage in the readout rises. Once most are lined up, the bar has an N and an S end and holds paper clips. After a hard drop the arrows are jumbled again and the clips fall off."
+      }
+    ],
+    "quiz": [
+      { "q": "You bring the S pole of one magnet near the S pole of another. What happens?", "options": ["They attract", "They repel", "Nothing, because S poles are not magnetic"], "answer": 1, "why": "Like poles repel. Two S poles (or two N poles) push each other apart; only unlike poles, N and S, attract." },
+      { "q": "Where is the magnetic field of a bar magnet strongest?", "options": ["In the middle of the magnet", "At the poles, where the field lines are closest together", "Far away from the magnet"], "answer": 1, "why": "The closer together the field lines are, the stronger the field. The lines crowd together at the poles, which is also where the iron filings gather." },
+      { "q": "Which of these would a magnet attract?", "options": ["A copper coin", "An aluminium can", "A steel paper clip", "A gold ring"], "answer": 2, "why": "Steel is mostly iron, so it is magnetic. Copper, aluminium and gold are metals too, but they are not magnetic. Only iron, nickel, cobalt and alloys made from them, such as steel, are attracted." },
+      { "q": "A compass needle's N end points toward the geographic North Pole. What kind of magnetic pole is near the geographic North Pole?", "options": ["A magnetic north pole", "A magnetic south pole", "No magnetic pole at all"], "answer": 1, "why": "Unlike poles attract. The needle's N pole is pulled toward it, so the magnetic pole near the geographic North Pole must be a magnetic south pole." }
+    ]
+  },
+  "source": "original"
+}

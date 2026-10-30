@@ -1,0 +1,57 @@
+{
+  "slug": "traits",
+  "order": 22,
+  "level": "primary",
+  "ages": "8-9",
+  "grades": [3, 3],
+  "title": "Like Parents, Not Quite the Same",
+  "type": "Heredity",
+  "question": "Why do kittens look like their parents, but not exactly the same?",
+  "steps": ["A cat family", "Traits from parents", "Brothers and sisters differ", "Plants pass on traits too", "Light changes a plant", "A trick must be learned"],
+  "content": {
+    "steps": [
+      {
+        "title": "A cat family",
+        "text": "Here is a cat family: a mother cat, a father cat and their four kittens. Young animals look a lot like their parents. These kittens will grow up into cats, never into dogs or rabbits.",
+        "try": "Tap Mom, Dad and Kittens to look at each one up close. Tap Whole family to go back.",
+        "see": "Mom is grey with white paws. Dad is black with fluffy fur. The kittens are smaller, but they are clearly cats like their parents."
+      },
+      {
+        "title": "Traits from parents",
+        "text": "A trait is a feature of a living thing, like its fur colour or how long its fur is. Parents pass traits on to their young. We say these traits are inherited. Each kitten got some traits from its mother and some from its father.",
+        "try": "Tap a trait button to see which cats have that trait.",
+        "see": "Gold rings show who has each trait. Two kittens have grey fur like Mom, two have black fur like Dad. Two have fluffy fur like Dad. All six have the cat shape."
+      },
+      {
+        "title": "Brothers and sisters differ",
+        "text": "Kittens from the same parents are brothers and sisters, but they are not all the same. Each kitten gets its own mix of its parents' traits. That is why brothers and sisters can look different from each other.",
+        "try": "Press New litter to see other kittens these same parents could have.",
+        "see": "Every new litter mixes grey or black fur, white paws or not, and fluffy or short fur in a new way. Every kitten still has pointed ears, whiskers and a long tail."
+      },
+      {
+        "title": "Plants pass on traits too",
+        "text": "Plants have parents too. Seeds from a plant with red flowers grow into plants with red flowers. Seeds from a plant with yellow flowers grow into plants with yellow flowers. The young plants are like their parent, but not exactly the same: one may grow a bit taller or shorter.",
+        "try": "Press Plant the seeds and watch the young plants grow.",
+        "see": "The red parent's seeds grow into red-flowered plants, and the yellow parent's seeds into yellow-flowered plants. Their heights are a little different."
+      },
+      {
+        "title": "Light changes a plant",
+        "text": "Some traits do not come from parents. They come from the world around a living thing, its environment. These two young plants came from the same parent and started out the same. One grows in the sun. The other grows in the shade under a roof.",
+        "try": "Move the Growing time slider and watch the plants and the height chart.",
+        "see": "The plant in the sun grows strong and green with many leaves. The plant in the shade is thin and pale with a few small leaves. It stretches up looking for light, so its bar on the chart is even a bit taller, but its stem is weak and it leans."
+      },
+      {
+        "title": "A trick must be learned",
+        "text": "A dog can learn tricks, like jumping through a hoop. Someone had to teach it. A learned trick comes from the environment, so it is not passed on to the puppies. The puppy has its parent's floppy ears and brown spots, but it must learn tricks for itself.",
+        "try": "Press Ask the dog, then press Ask the puppy.",
+        "see": "The trained dog leaps through the hoop. The puppy tilts its head and hops, but it does not jump through: it has not learned the trick."
+      }
+    ],
+    "quiz": [
+      { "q": "Why do kittens look a lot like their parents?", "options": ["They copy what their parents do", "Parents pass traits on to their young", "All cats look exactly the same"], "answer": 1, "why": "Traits like fur colour and fur length are inherited: they are passed on from the mother and the father." },
+      { "q": "Two plants came from the same parent. One grew pale and thin. What most likely caused that?", "options": ["It grew with too little light", "Its parent was pale and thin", "It is a different kind of plant"], "answer": 0, "why": "A plant that grows in the shade gets little light, so it grows pale and thin. That trait comes from its environment, not from its parent." },
+      { "q": "A dog learned to jump through a hoop. Will its puppies be born knowing this trick?", "options": ["Yes, all of them", "No, each puppy must learn it", "Only the biggest puppy"], "answer": 1, "why": "A trick is learned from the environment, so it is not inherited. Each puppy has to be taught." }
+    ]
+  },
+  "source": "original"
+}

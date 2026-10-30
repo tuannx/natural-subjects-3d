@@ -1,0 +1,65 @@
+{
+  "slug": "climate-greenhouse",
+  "order": 25,
+  "level": "middle",
+  "ages": "11-14",
+  "grades": [6, 8],
+  "title": "Climate and the Greenhouse Effect",
+  "type": "Climate",
+  "question": "How do gases in the air keep Earth warm, and what happens when we add more?",
+  "coverStep": 2,
+  "steps": ["Weather or climate?", "Sunlight in, heat out", "The greenhouse effect", "More carbon dioxide", "CO₂ is rising", "Melting ice and rising seas", "What people can do"],
+  "content": {
+    "steps": [
+      {
+        "title": "Weather or climate?",
+        "text": "Weather is what the air is doing at one place and time: hot or cold, wet or dry, windy or calm, today. Climate is the usual pattern of weather in a place, worked out by averaging many years of weather, usually 30. One cold week does not change a climate, but a change in the 30-year average does. The bars show the monthly average temperatures of a made-up town, and the line shows its 30-year averages.",
+        "try": "Move the Years averaged slider from 1 up to 30.",
+        "see": "With 1 year the bars jump above and below the line, because every year's weather is different. With 30 years the bars settle on the line: that steady pattern is the town's climate."
+      },
+      {
+        "title": "Sunlight in, heat out",
+        "text": "Sunlight brings energy to Earth. About 30% of it is reflected straight back to space by clouds, ice and other bright surfaces. The other 70% is absorbed by the land, the oceans and the air, and warms them. A warm Earth gives off energy too, as infrared radiation: a kind of light that our eyes cannot see but our skin feels as heat. Earth's temperature depends on the balance between the energy coming in and the energy going out.",
+        "try": "Press Sunlight, Infrared and Both.",
+        "see": "Yellow sunlight dots arrive from the Sun on the left, and about 3 in every 10 bounce back to space. Red infrared dots leave Earth's surface in every direction."
+      },
+      {
+        "title": "The greenhouse effect",
+        "text": "Some gases in the air, such as water vapour, carbon dioxide (CO₂) and methane, let sunlight through but absorb infrared. They then give that energy out again in all directions, so some of it goes back down and warms the surface. These gases are called greenhouse gases, and the warming they cause is the greenhouse effect. It is natural, and life needs it: without any greenhouse effect, Earth's average temperature would be about −18 °C instead of about 15 °C, and Earth would be mostly frozen.",
+        "try": "Switch Greenhouse gases off and on, and watch the thermometer.",
+        "see": "With the gases on, many red dots turn back toward Earth and the thermometer shows about 15 °C. With them off, all the infrared escapes to space and the model Earth cools to about −18 °C and turns icy."
+      },
+      {
+        "title": "More carbon dioxide",
+        "text": "The amount of CO₂ in the air is measured in parts per million (ppm): 420 ppm means that out of every million particles of air, about 420 are CO₂. More CO₂ absorbs more infrared and sends more of it back down, so Earth warms. Scientists estimate that doubling the CO₂ warms Earth by about 1.8 °C within a few decades, and more over the following centuries. This simple model uses that estimate: model temperature = 14 °C + 1.8 °C × number of doublings since 280 ppm.",
+        "try": "Move the CO₂ slider from 280 ppm up to 1120 ppm.",
+        "see": "More CO₂ molecules appear in the air, more red dots are sent back down, and the model temperature rises: about 15 °C at 420 ppm, about 15.8 °C at 560 ppm (one doubling) and about 17.6 °C at 1120 ppm (two doublings)."
+      },
+      {
+        "title": "CO₂ is rising",
+        "text": "About 250 years ago, before factories and engines, the air held about 280 ppm of CO₂. Burning coal, oil and natural gas for electricity, heating and transport releases CO₂, and so does cutting down and burning forests. Today the air holds about 420 ppm, about 50% more than before industry, and the amount is still going up. Since the late 1800s Earth's average temperature has risen by more than 1 °C. The older values on this graph come from air bubbles trapped in ancient ice; since 1958 CO₂ has been measured directly in the air.",
+        "try": "Move the Year slider from 1750 to 2025.",
+        "see": "The line stays close to 280 ppm for more than 100 years, then climbs faster and faster after about 1950, reaching about 420 ppm today."
+      },
+      {
+        "title": "Melting ice and rising seas",
+        "text": "A warmer Earth melts glaciers and ice sheets on land. The meltwater flows into the ocean, and ocean water also expands (takes up more space) as it warms. Both make the sea level rise. Between 1900 and 2018 the average sea level rose by about 20 cm, and it is now rising faster than before, by about 3.7 mm every year. Higher seas mean more flooding on low coasts. In this model the changes to the sea and the ice are drawn much bigger than real, so that you can see them.",
+        "try": "Move the Year slider from 1900 to 2020.",
+        "see": "The glacier on the mountain shrinks and the sea creeps up the beach toward the houses. The readout shows that the sea is about 21 cm higher by 2020."
+      },
+      {
+        "title": "What people can do",
+        "text": "Climate change is a big problem, but people already know many ways to slow it down. Making electricity from sunlight and wind instead of coal and gas releases much less CO₂. Growing trees take CO₂ out of the air. Walking, cycling, buses and trains release much less CO₂ than lots of cars. Using less energy at home and wasting less food and stuff helps too. Countries, towns, families and students can all play a part.",
+        "try": "Switch on Solar and wind power, Plant trees, and Buses and bikes.",
+        "see": "Solar panels and wind turbines appear and the power plant stops smoking, young trees grow, and a bus and bikes replace the cars, so fewer grey CO₂ dots rise from the town."
+      }
+    ],
+    "quiz": [
+      { "q": "Which sentence is about climate, not weather?", "options": ["It is raining in our town today", "Our town's July temperature averages about 23 °C over 30 years", "This afternoon will be windy"], "answer": 1, "why": "Climate is the long-term pattern, worked out by averaging many years (usually 30). Rain today and a windy afternoon are weather." },
+      { "q": "What do greenhouse gases do?", "options": ["They block most of the sunlight", "They absorb infrared from Earth and send some of it back down, keeping Earth warmer", "They make holes in the air so heat escapes"], "answer": 1, "why": "Greenhouse gases let sunlight through but absorb the infrared that Earth gives off. They give some of that energy back toward the surface, which keeps it warmer." },
+      { "q": "Without any greenhouse effect, Earth's average temperature would be about:", "options": ["15 °C", "−18 °C", "40 °C", "0 °C"], "answer": 1, "why": "Today Earth averages about 15 °C. With no greenhouse effect it would be about −18 °C, about 33 °C colder, and mostly frozen." },
+      { "q": "CO₂ in the air has gone from about 280 ppm to about 420 ppm. By about how much has it increased?", "options": ["About 15%", "About 50%", "About 140%", "About 420%"], "answer": 1, "why": "420 − 280 = 140 ppm more, and 140 ÷ 280 = 0.5, so CO₂ has increased by about 50%." }
+    ]
+  },
+  "source": "original"
+}

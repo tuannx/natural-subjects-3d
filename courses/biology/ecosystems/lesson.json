@@ -1,0 +1,64 @@
+{
+  "slug": "ecosystems",
+  "order": 34,
+  "level": "middle",
+  "ages": "13-14",
+  "grades": [8, 8],
+  "title": "Ecosystems: Food Webs and Energy Pyramids",
+  "type": "Ecology",
+  "question": "Why are there far fewer hawks than rabbits, and what happens if one species disappears?",
+  "steps": ["What is an ecosystem?", "Populations, communities and habitats", "Food webs: who eats whom", "Take a species away", "The energy pyramid", "Matter cycles, energy flows", "Predators and prey"],
+  "content": {
+    "steps": [
+      {
+        "title": "What is an ecosystem?",
+        "text": "An ecosystem is all the living things in an area together with the non-living parts of their environment, working as one system. The living, or biotic, parts are the plants, animals, fungi and microorganisms. The non-living, or abiotic, parts include sunlight, water, air, soil, rocks and temperature. The two depend on each other: plants need light, water and carbon dioxide from the air; animals need oxygen, water and shelter; and living things change the soil and the air around them. A pond, a meadow, a forest and even a rotting log are all ecosystems.",
+        "try": "Tap Living (biotic) and Non-living (abiotic).",
+        "see": "With Living, the plants, animals and fungi glow. With Non-living, the water, rocks and soil glow, and labels point out the sunlight and the air."
+      },
+      {
+        "title": "Populations, communities and habitats",
+        "text": "Ecologists, the scientists who study ecosystems, use a few special words. A population is all the organisms of one species living in an area, such as all the rabbits in the meadow. A community is all the populations of different species living in the same area. A habitat is the place where an organism lives, which gives it the food, water and shelter it needs. Put a community together with its non-living environment and you have an ecosystem.",
+        "try": "Tap Population, Community, Habitat and Ecosystem.",
+        "see": "Population makes only the rabbits glow. Community makes every living thing glow. Habitat draws a ring round the rabbits' meadow. Ecosystem makes the living things and the non-living parts glow together."
+      },
+      {
+        "title": "Food webs: who eats whom",
+        "text": "In the Food Chains lesson you followed one chain. Real animals usually eat more than one kind of food, and are eaten by more than one predator, so food chains link up into a food web. Each arrow points from the food to the animal that eats it, which is the way energy flows. Producers (plants) make their own food using light energy. Primary consumers eat producers, secondary consumers eat primary consumers, and tertiary consumers eat secondary consumers. Some animals feed at more than one level. Decomposers, mainly fungi and bacteria, break down dead things and waste from every level.",
+        "try": "Tap Producers, Primary consumers, Secondary consumers, Tertiary consumers and Decomposers.",
+        "see": "The pads under each group light up in turn: the grass and berry bush, then the grasshopper, rabbit and mouse, then the frog, thrush and snake, then the hawk at the top. Decomposers lights up the brown mushrooms."
+      },
+      {
+        "title": "Take a species away",
+        "text": "Because everything in a food web is linked, a change in one population affects many others. If a species disappears, its predators lose some of their food and may fall in number, especially if it was their only food. Its prey lose a predator and may increase, and then they may eat more of their own food. The bars here come from a simple model: each one shows how much a population might grow or shrink compared with normal. Real ecosystems are more complicated, but scientists use models like this to predict what might happen when, for example, a pest is removed or a new species arrives.",
+        "try": "Tap each Remove button, then Put them all back.",
+        "see": "The species you remove disappears with its arrows. Green bars rise for species that gain, and orange bars fall for species that lose. Removing the grasshopper hits the frog hardest, because it was the frog's only food."
+      },
+      {
+        "title": "The energy pyramid",
+        "text": "Energy enters a food web when producers capture light energy and store it in their food. Only about 10% of the energy at one level passes to the next level; in real ecosystems it can be anywhere from about 5% to 20%. The rest is used for living, released as heat by respiration, or never passed on because some parts are not eaten (such as roots and bones) or are not digested and leave in droppings. An energy pyramid shows the energy at each level as a block. Energy passed on at each level = energy at the level below × fraction passed on, so with 10%, 10,000 kJ becomes 1,000 kJ, then 100 kJ, then 10 kJ. That is why food chains rarely have more than four or five levels, and why there are far fewer hawks than rabbits.",
+        "try": "Move the Energy captured by producers and Energy passed to the next level sliders.",
+        "see": "The readout and labels give the energy at each level. A bigger percentage makes the upper blocks grow; a smaller one makes them shrink fast. Orange dots rise from every level to show energy lost as heat."
+      },
+      {
+        "title": "Matter cycles, energy flows",
+        "text": "Matter, the atoms that living things are made of, is recycled. Take carbon: plants take in carbon dioxide from the air for photosynthesis and build it into sugars. Animals take in that carbon when they eat plants. When plants and animals die, or produce droppings, decomposers feed on them. Plants, animals and decomposers all respire, which puts carbon dioxide back into the air, and the cycle starts again. Energy is different. It comes in as light from the Sun, passes along food chains in food, and at each level some leaves as heat, which plants cannot use. So energy flows through an ecosystem in one direction and has to be supplied again and again by the Sun.",
+        "try": "Tap Carbon cycle, Energy flow and Both.",
+        "see": "Grey carbon dots go round in loops: from the CO₂ cloud into the tree, to the rabbit, to the mushrooms and back up to the cloud. Yellow energy dots come only from the Sun, and orange heat dots leave the plant, the rabbit and the mushrooms and never come back."
+      },
+      {
+        "title": "Predators and prey",
+        "text": "The numbers of a predator and its prey are linked. When there are lots of rabbits, foxes have plenty of food, so more fox cubs survive and the fox population grows. More foxes eat more rabbits, so the rabbit population falls. With fewer rabbits, foxes go hungry and their numbers fall too. With fewer foxes, the rabbits can recover, and the cycle repeats, with the predator peaks coming a little after the prey peaks. The graph comes from a mathematical model called the Lotka–Volterra model. Real records, such as the numbers of snowshoe hares and lynx in Canada, show cycles about 10 years long.",
+        "try": "Move the Foxes at the start slider, and tap Run again.",
+        "see": "The brown rabbit line and the orange fox line rise and fall again and again, with each fox peak a little after a rabbit peak. The little meadow shows one rabbit for every 20 rabbits and one fox for every 5 foxes, and the readout gives the year and both populations."
+      }
+    ],
+    "quiz": [
+      { "q": "What is an ecosystem?", "options": ["All the rabbits living in a meadow", "A community of living things together with the non-living parts of their environment", "The place where one animal lives", "A single food chain"], "answer": 1, "why": "An ecosystem includes all the living things (the community) and the non-living parts, such as water, soil, air and sunlight. All the rabbits is a population; the place where an animal lives is its habitat." },
+      { "q": "Producers capture 20,000 kJ of energy. If about 10% passes to each next level, how much reaches the secondary consumers?", "options": ["18,000 kJ", "2,000 kJ", "200 kJ", "20 kJ"], "answer": 2, "why": "Primary consumers get 10% of 20,000 kJ = 2,000 kJ. Secondary consumers get 10% of that: 200 kJ." },
+      { "q": "In the food web, snakes are the only animals that eat frogs. What is most likely to happen to the frogs if all the snakes disappear?", "options": ["The frogs increase, because they have lost their predator", "The frogs decrease, because they have lost their food", "Nothing, because frogs do not eat snakes"], "answer": 0, "why": "With no predator, more frogs survive, so the frog population is likely to grow, at least until it runs short of food such as grasshoppers." },
+      { "q": "Which sentence about ecosystems is correct?", "options": ["Energy is recycled, but carbon is lost as heat", "Carbon is recycled, but energy flows one way and is lost as heat", "Both carbon and energy are recycled", "Neither carbon nor energy passes between living things"], "answer": 1, "why": "Carbon atoms go round and round through photosynthesis, feeding, decomposition and respiration. Energy comes from the Sun and leaves as heat, so it must be supplied all the time." }
+    ]
+  },
+  "source": "original"
+}

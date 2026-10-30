@@ -1,0 +1,26 @@
+{
+  "slug": "sodium-step",
+  "order": 440,
+  "level": "high-school",
+  "ages": "15-18",
+  "grades": [10, 12],
+  "title": "Properties of Sodium (and Putting Out Sodium Fires)",
+  "type": "Principles & Phenomena",
+  "question": "Why must a small piece of silvery-white metal be kept under kerosene, and why can't you even pour water on it when it catches fire?",
+  "textbook": [
+    "Required Vol. 1 · Ch. 2 Important Elements in Seawater: Sodium and Chlorine · Sec. 1 Sodium and Its Compounds · Sodium, a Reactive Metal"
+  ],
+  "steps": [
+    "Meet the Experiment",
+    "Silver to Dull",
+    "Under kerosene",
+    "Heat and Burn",
+    "Float, Melt, Dart, Hiss, Red",
+    "Size of the Piece",
+    "Look inside",
+    "Fighting the Fire",
+    "Test"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/sodium-step/"
+}

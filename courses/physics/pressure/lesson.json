@@ -1,0 +1,65 @@
+{
+  "slug": "pressure",
+  "order": 41,
+  "level": "middle",
+  "ages": "13-14",
+  "grades": [8, 8],
+  "title": "Pressure in Solids, Liquids and the Air",
+  "type": "Forces",
+  "question": "Why do snowshoes stop you sinking, and why does water squirt farther from a hole lower down?",
+  "steps": ["Force and area", "More force, more pressure", "Snowshoes and sharp knives", "Pressure in a liquid", "Connected vessels", "The air presses too", "Crushed by the air"],
+  "content": {
+    "steps": [
+      {
+        "title": "Force and area",
+        "text": "This brick weighs 20 N, and its weight presses down on the sand. A force that presses straight onto a surface is called a pressing force. How deep the brick sinks does not depend on the force alone. It also depends on the contact area: the area of the face that touches the sand. Pressure is the pressing force on each square metre: p = F / S. F is the force in newtons (N), S is the contact area in square metres (m²), and p is the pressure in pascals (Pa). 1 Pa = 1 N/m².",
+        "try": "Tap Lying flat, On its side and Standing on end.",
+        "see": "The force is always 20 N. Standing on end, the yellow contact area is only 0.005 m², so the pressure is 4000 Pa and the brick sinks deepest. Lying flat, the area is 0.02 m² and the pressure only 1000 Pa."
+      },
+      {
+        "title": "More force, more pressure",
+        "text": "Now stack more bricks on top. The contact area stays the same, but the force doubles or triples, and so does the pressure. To make a large pressure, put a large force on a small area. To keep the pressure small, spread the force over a large area.",
+        "try": "Move the Bricks slider, then tap the faces again.",
+        "see": "Three bricks standing on end press 60 N onto 0.005 m², which is 12,000 Pa. They sink much deeper than one brick lying flat (1000 Pa)."
+      },
+      {
+        "title": "Snowshoes and sharp knives",
+        "text": "A person who weighs 600 N stands on soft snow. In boots, the soles touch about 0.06 m² of snow, so the pressure is about 10,000 Pa and the boots sink in. Snowshoes spread the same weight over about 0.3 m², so the pressure drops to about 2000 Pa. It also works the other way: the edge of a sharp knife or the point of a nail has a tiny area, so even a small push makes a huge pressure that cuts or pierces.",
+        "try": "Tap Boots, One boot and Snowshoes.",
+        "see": "On one boot (0.03 m²) the pressure is 20,000 Pa and the leg sinks deepest. With snowshoes the person sinks only a little."
+      },
+      {
+        "title": "Pressure in a liquid",
+        "text": "Liquids make pressure too, because of the weight of the liquid above. The deeper you go, the more liquid is above you, so the pressure is greater. At one depth the liquid presses equally in all directions, sideways too. For a liquid, p = d · h. Here h is the depth in metres and d is the specific weight: the weight of 1 m³ of the liquid, in N/m³. Specific weight is density times g (d = D · g), and density is often written ρ, so the same formula is also written p = ρ · g · h. For water, d = 1000 kg/m³ × 9.8 N/kg = 9800 N/m³ (many books round it to 10,000 N/m³).",
+        "try": "Move the Depth slider to lower the pressure sensor.",
+        "see": "At 0.1 m the pressure is 980 Pa; at 0.5 m it is 4900 Pa. Five times deeper means five times the pressure. Water squirts out fastest from the lowest hole, so that jet shoots the farthest."
+      },
+      {
+        "title": "Connected vessels",
+        "text": "These four glasses of different shapes are joined by a pipe at the bottom. Pour water in and it settles at the same level in all of them. If the level were higher in one glass, the pressure at its bottom (p = d · h) would be greater, and it would push water along the pipe until the levels matched. Only the depth matters, not the shape or the width. Watering cans and town water towers work this way.",
+        "try": "Move the Water level slider to pour in more or let some out.",
+        "see": "The water surfaces line up with the red line in all four glasses. At 0.2 m deep the pressure at the bottom is 1960 Pa in every glass, wide or narrow."
+      },
+      {
+        "title": "The air presses too",
+        "text": "We live at the bottom of an ocean of air many kilometres deep. Its weight makes atmospheric pressure: about 101,000 Pa at sea level. That is like the weight of about 10 tonnes on every square metre! We do not feel it because the air presses on us from all sides and the fluids in our body press back. Try this: fill a glass right to the top with water, slide a card over it and turn it over.",
+        "try": "Press Turn the glass over.",
+        "see": "The water stays in. The air below pushes up on the card with about 500 N, while the water in the glass weighs only about 4 N."
+      },
+      {
+        "title": "Crushed by the air",
+        "text": "Heat an empty can with a little water in it. The water boils, and the steam pushes most of the air out. Then turn the can upside down into cold water. The steam inside cools and turns back into a few drops of water, so almost nothing is left inside to press outward. The air outside still presses with about 101,000 Pa, and it crushes the can in an instant.",
+        "try": "Press Heat the can, then Turn it into cold water.",
+        "see": "Steam puffs out of the hot can. As soon as its opening dips into the cold water, the can collapses."
+      }
+    ],
+    "quiz": [
+      { "q": "A box weighs 300 N and its base has an area of 0.5 m². What pressure does it put on the floor?", "options": ["150 Pa", "600 Pa", "300.5 Pa", "0.0017 Pa"], "answer": 1, "why": "p = F / S = 300 N ÷ 0.5 m² = 600 Pa." },
+      { "q": "Why do tractors that work on soft fields have very wide tyres?", "options": ["To go faster", "To spread the weight over a larger area, so the pressure is smaller", "To make the tractor heavier"], "answer": 1, "why": "With a larger contact area S, the same force gives a smaller pressure (p = F / S), so the tractor sinks less into the soft ground." },
+      { "q": "What is the water pressure at a depth of 2 m? (Water: d = 9800 N/m³)", "options": ["4900 Pa", "9800 Pa", "19,600 Pa", "2 Pa"], "answer": 2, "why": "p = d · h = 9800 N/m³ × 2 m = 19,600 Pa. That is the pressure from the water alone; the air above adds about 101,000 Pa more." },
+      { "q": "A wide glass and a narrow glass are joined at the bottom and hold still water. Where is the water level higher?", "options": ["In the wide glass", "In the narrow glass", "It is the same in both"], "answer": 2, "why": "In connected vessels the still water settles at the same height, so the pressure at the bottom (d · h) is the same everywhere and nothing pushes the water along." }
+    ]
+  },
+  "coverStep": 3,
+  "source": "original"
+}

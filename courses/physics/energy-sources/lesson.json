@@ -1,0 +1,58 @@
+{
+  "slug": "energy-sources",
+  "order": 23,
+  "level": "primary",
+  "ages": "9-11",
+  "grades": [4, 5],
+  "title": "Where Does Our Energy Come From?",
+  "type": "Energy",
+  "question": "Where does the energy that lights up our homes come from?",
+  "coverStep": 0,
+  "steps": ["Our island needs energy", "Energy from the Sun", "Energy from the wind", "Energy from moving water", "Energy from fuels", "Renewable or running out?"],
+  "content": {
+    "steps": [
+      {
+        "title": "Our island needs energy",
+        "text": "The people on this little island use energy every day: for lights, cooking, fridges, computers and charging phones. Most of it comes to their homes as electricity, along wires. The island has four ways to make electricity. The glowing dots show energy flowing along the wires to the town.",
+        "try": "Press Power off, then Power on, and watch the windows of the houses.",
+        "see": "With the power on, energy flows from the solar panels, the wind turbine, the water wheel and the power station, and every house lights up. With the power off, the town goes dark."
+      },
+      {
+        "title": "Energy from the Sun",
+        "text": "The Sun gives us light and warmth every day. Plants use its light to grow. Solar panels change sunlight straight into electricity. The more sunshine there is, the more electricity they make. At night they make none.",
+        "try": "Move the Sunshine slider from night to a bright sunny day.",
+        "see": "In bright sunshine the panels send lots of energy to the town and more houses light up. At night, no energy flows from them at all."
+      },
+      {
+        "title": "Energy from the wind",
+        "text": "Moving air is called wind, and it has energy of motion. The wind pushes the blades of a wind turbine round. The spinning blades turn a machine inside called a generator, which makes electricity.",
+        "try": "Move the Wind slider to make the wind stronger or weaker.",
+        "see": "A stronger wind spins the blades faster and more houses light up. With no wind, the blades stop and no energy flows."
+      },
+      {
+        "title": "Energy from moving water",
+        "text": "Rain fills lakes and rivers. Water high up has stored energy. When it falls, it moves fast and can push a wheel round. Here water from a lake rushes down and spins a water wheel. The wheel turns a generator that makes electricity. Big dams do the same thing with huge water wheels called turbines.",
+        "try": "Press Open the gate, then Close the gate.",
+        "see": "When the gate opens, water pours down, the wheel spins and energy flows to the town. When the gate closes, the wheel stops."
+      },
+      {
+        "title": "Energy from fuels",
+        "text": "Coal, oil, natural gas and wood are fuels. Burning a fuel gives off heat. In this power station, the heat boils water into steam, and the steam spins a generator. But burning fuel makes smoke and gases that dirty the air. And once a fuel is burned, it is gone.",
+        "try": "Press Burn fuel and watch the fuel pile and the sky. Press Add more fuel to fill the pile again.",
+        "see": "While the fuel burns, the town gets energy, but smoke rises and the sky turns grey. The pile gets smaller, and when it is used up the lights go out."
+      },
+      {
+        "title": "Renewable or running out?",
+        "text": "Sunshine, wind and moving water are renewable: they keep coming back, because the Sun shines every day, the wind keeps blowing and rain refills the rivers. They also make no smoke. Coal, oil and gas took millions of years to form, so when we use them up they are gone. Wood can grow back, but only slowly. The Sun does not shine at night and the wind does not always blow, so towns often use several sources together.",
+        "try": "Tap Sun, wind and water, then tap Fuel only, and compare the sky and the fuel pile.",
+        "see": "Sun, wind and water light the town and keep the sky clear. Fuel only also lights the town, but the sky turns smoky and the fuel pile shrinks."
+      }
+    ],
+    "quiz": [
+      { "q": "Which of these energy sources is renewable?", "options": ["Coal", "Wind", "Oil"], "answer": 1, "why": "The wind keeps blowing, so it will not run out. Coal and oil took millions of years to form, so once we burn them they are gone." },
+      { "q": "What is a problem with burning fuels to make electricity?", "options": ["It makes smoke and the fuel runs out", "It only works on sunny days", "It makes the wind stop"], "answer": 0, "why": "Burning coal, oil, gas or wood makes smoke and gases that dirty the air, and the fuel is used up as it burns." },
+      { "q": "Why can't a town use only solar panels for all its electricity?", "options": ["Solar panels make smoke", "Solar panels make no electricity at night", "Sunlight runs out"], "answer": 1, "why": "Solar panels need sunlight, so they make no electricity at night. Towns use several sources, or store energy, to keep the lights on." }
+    ]
+  },
+  "source": "original"
+}

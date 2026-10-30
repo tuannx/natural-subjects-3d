@@ -1,0 +1,63 @@
+{
+  "slug": "soil",
+  "order": 23,
+  "level": "primary",
+  "ages": "10-11",
+  "grades": [5, 5],
+  "title": "What Is Soil Made Of?",
+  "type": "Rocks & Soil",
+  "question": "What is really in the dirt under our feet?",
+  "steps": ["Layers of soil", "Soil is alive", "Shake a jar of soil", "Air and water in soil", "Rock slowly turns into soil", "Sand, clay and loam", "Take care of soil"],
+  "content": {
+    "steps": [
+      {
+        "title": "Layers of soil",
+        "text": "If you dig a deep hole, you find that the ground has layers. On top is dark, soft topsoil. Below it is lighter subsoil with more stones. At the bottom is solid rock called bedrock.",
+        "try": "Tap Topsoil, Subsoil and Bedrock to light up each layer. Drag the picture to look around the block.",
+        "see": "Topsoil is the darkest layer and sits on top, where the plants grow. Bedrock is solid grey rock at the bottom."
+      },
+      {
+        "title": "Soil is alive",
+        "text": "Soil is full of life. Earthworms dig tunnels that let air and water in. Roots hold the soil together. Beetles and other small animals live here too. Tiny living things called bacteria break down dead leaves. One spoonful of soil can hold millions of them.",
+        "try": "Watch the worms wiggle. Use the Magnifying glass switch to zoom in on the bacteria.",
+        "see": "Worms, roots and beetles are easy to see. Bacteria are so small that you need a microscope to see them."
+      },
+      {
+        "title": "Shake a jar of soil",
+        "text": "What is soil made of? Put soil and water in a jar, shake it and let it sit. The bits sort themselves into layers. Sand grains are the biggest bits of rock, so they sink first. Silt is finer. Clay bits are so tiny that they sink last. Humus, the dark rotted bits of plants and animals, floats on top.",
+        "try": "Press Shake the jar, then watch the bits settle.",
+        "see": "Sand drops to the bottom first, then silt, then clay. The muddy water slowly clears, and dark humus floats at the top."
+      },
+      {
+        "title": "Air and water in soil",
+        "text": "Soil also has air and water in the spaces between its bits. Pour water onto dry soil and look closely: bubbles come up! The water fills the spaces and pushes the air out. Roots and worms need both air and water.",
+        "try": "Press Pour water and watch the side of the glass.",
+        "see": "Bubbles of air rise out of the soil, and the soil turns darker as the water soaks down."
+      },
+      {
+        "title": "Rock slowly turns into soil",
+        "text": "Soil starts as rock. Rain, ice, wind and plant roots crack the rock and break it into smaller and smaller bits. Small plants grow on it, die and rot into humus. It can take hundreds of years to make just 2 to 3 centimetres (about an inch) of soil.",
+        "try": "Move the Time slider to watch thousands of years go by.",
+        "see": "The rock cracks and breaks into small bits. Moss and plants grow, and slowly a layer of soil builds up."
+      },
+      {
+        "title": "Sand, clay and loam",
+        "text": "Soils are not all the same. Sandy soil has big grains with big gaps, so water runs through fast. Clay soil has tiny bits packed close together, so water drains very slowly. Loam is a mix of sand, silt, clay and humus. It holds enough water and air, so it is best for most plants.",
+        "try": "Press Pour water to water all three pots at once.",
+        "see": "Water rushes out of the sand pot. It sits on top of the clay pot. The loam pot lets some water through and keeps some for its plant."
+      },
+      {
+        "title": "Take care of soil",
+        "text": "Soil takes so long to form that we must protect it. Rain and wind can carry bare soil away. This is called erosion. Plant roots and leaves hold the soil in place. Trash, oil and other pollution can poison the soil and the living things in it.",
+        "try": "Tap Bare soil, With plants, and Trash and oil to compare.",
+        "see": "Rain washes the bare topsoil away as muddy water. With plants, the soil stays put. Oil soaks down into the soil and the worms disappear."
+      }
+    ],
+    "quiz": [
+      { "q": "Which part of soil comes from rotted plants and animals?", "options": ["Sand", "Humus", "Clay"], "answer": 1, "why": "Humus is the dark material made when dead plants and animals rot. It feeds new plants. Sand and clay are tiny bits of rock." },
+      { "q": "You pour water on three pots. Which one drains fastest?", "options": ["Sandy soil", "Clay soil", "Loam"], "answer": 0, "why": "Sand grains are big, with big gaps between them, so water runs straight through. Clay's tiny bits are packed close and hold the water back." },
+      { "q": "Why is it good to keep plants growing on soil?", "options": ["Plants turn soil into rock", "Roots hold the soil so rain and wind do not carry it away", "Plants make the soil dry"], "answer": 1, "why": "Roots grip the soil and leaves soften the rain, so less soil is washed or blown away. New soil takes hundreds of years to form, so it is worth keeping." }
+    ]
+  },
+  "source": "original"
+}

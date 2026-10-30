@@ -1,0 +1,65 @@
+{
+  "slug": "separating-mixtures",
+  "order": 32,
+  "level": "middle",
+  "ages": "11-12",
+  "grades": [6, 6],
+  "title": "Separating Mixtures",
+  "type": "Matter",
+  "question": "How can we get pure water back out of salty sea water?",
+  "coverStep": 4,
+  "steps": ["Pure substances and mixtures", "Magnetic separation", "Filtration", "Evaporation and crystallisation", "Distillation", "Separating two liquids", "Chromatography"],
+  "content": {
+    "steps": [
+      {
+        "title": "Pure substances and mixtures",
+        "text": "A pure substance is made of only one kind of particle, like pure water. A mixture has two or more substances that are mixed but not joined together. In a solution, such as salt water, a solid (the solute) has dissolved in a liquid (the solvent). It looks the same all through, so it is a homogeneous mixture. In a suspension, such as muddy water, solid bits float in the liquid without dissolving. It is a heterogeneous mixture: not the same all through.",
+        "try": "Tap each beaker's button to look closer. Press Stir the muddy water and watch it settle.",
+        "see": "Salt water looks as clear as pure water, but its bubble shows salt particles spread evenly between the water particles. In muddy water the soil bits slowly sink to the bottom."
+      },
+      {
+        "title": "Magnetic separation",
+        "text": "We separate a mixture by using a property that its parts do not share. Iron is attracted to a magnet, but sulfur is not. So a magnet pulls the iron filings out of a mixture of iron and sulfur. Recycling plants use big magnets in the same way to sort steel cans from other rubbish.",
+        "try": "Press Use the magnet. Press Mix again to start over.",
+        "see": "The grey iron filings jump up onto the magnet and are carried to the other dish. The yellow sulfur stays behind."
+      },
+      {
+        "title": "Filtration",
+        "text": "Filtration separates an insoluble solid (one that does not dissolve) from a liquid. Filter paper has tiny holes. The water particles are small enough to pass through, but the sand grains are too big. The solid left on the paper is called the residue. The clear liquid that passes through is called the filtrate.",
+        "try": "Watch the muddy water being poured, then press Pour again.",
+        "see": "Sand builds up in the filter paper as the residue, and clear filtrate drips into the beaker below."
+      },
+      {
+        "title": "Evaporation and crystallisation",
+        "text": "Dissolved salt passes through filter paper, so we use evaporation instead. Heating the salt water turns the water into water vapour, and the salt stays behind. Only about 36 g of salt can dissolve in 100 mL of water at room temperature (about 0.36 g in each mL). Here 10 g of salt is dissolved in 40 mL of water. As the water evaporates, there is soon too little water to hold all the salt, and crystals form. This is crystallisation.",
+        "try": "Change the Heat slider. Press Start again to watch the crystals appear.",
+        "see": "No crystals appear until only about 28 mL of water is left. After that the crystals grow as the water goes. Less heat means slower evaporation."
+      },
+      {
+        "title": "Distillation",
+        "text": "Distillation gets the liquid back, not just the solid. The salt water is heated in a flask until the water boils. The water vapour rises past the thermometer and into the condenser, a tube cooled by cold water flowing around it. There the vapour condenses back into liquid water, which drips into the collecting flask. The salt stays in the flask. This is how pure water can be made from sea water.",
+        "try": "Use the Heat slider and watch the thermometer and the collecting flask. Press Start again to repeat.",
+        "see": "The thermometer climbs to 100 °C and stays there while the water boils. White vapour turns into blue drops in the condenser, and pure water collects in the flask."
+      },
+      {
+        "title": "Separating two liquids",
+        "text": "Distillation can also separate liquids that have different boiling points. Ethanol (an alcohol) boils at about 78 °C, and water boils at 100 °C. When a mixture of the two is heated, the ethanol boils off first, so the first liquid collected is mostly ethanol. When the ethanol is gone, the temperature rises to 100 °C and water comes over. Then we change to a new collecting flask.",
+        "try": "Watch the thermometer reading, and change the Heat slider.",
+        "see": "The thermometer stays near 78 °C while ethanol comes over, then rises to 100 °C. The first flask is moved aside and the second one collects water."
+      },
+      {
+        "title": "Chromatography",
+        "text": "Chromatography separates dissolved substances, such as the colours in an ink. A dot of ink is put on a pencil start line on special paper, which dips into a solvent such as water. The solvent soaks up the paper and carries the dyes with it. Dyes that dissolve better and stick less to the paper travel further. The Rf value of a dye = distance moved by the dye ÷ distance moved by the solvent.",
+        "try": "Watch the black ink separate, then press Green ink.",
+        "see": "Black ink splits into yellow, red and blue spots. Green ink splits into yellow and blue. Each dye keeps the same Rf value as the solvent climbs."
+      }
+    ],
+    "quiz": [
+      { "q": "Salt water looks clear and the same all through. What kind of mixture is it?", "options": ["A pure substance", "A solution (homogeneous mixture)", "A suspension (heterogeneous mixture)"], "answer": 1, "why": "The salt has dissolved: its particles are spread evenly between the water particles, so salt water is a solution, a homogeneous mixture." },
+      { "q": "Which method would you use to get sand out of water?", "options": ["Filtration", "Evaporation", "Chromatography", "A magnet"], "answer": 0, "why": "Sand is insoluble. Its grains are too big to pass through the filter paper, so they stay behind as the residue." },
+      { "q": "Why does the thermometer stay at 100 °C while salt water is distilled?", "options": ["The thermometer is broken", "The water is boiling, and boiling water stays at its boiling point", "The salt keeps it cool"], "answer": 1, "why": "While the water boils, the energy is used to turn liquid into vapour, so the vapour reaching the thermometer stays at the boiling point." },
+      { "q": "A dye moves 3 cm while the solvent moves 6 cm. What is its Rf value?", "options": ["0.5", "2", "3", "18"], "answer": 0, "why": "Rf = distance moved by the dye ÷ distance moved by the solvent = 3 cm ÷ 6 cm = 0.5." }
+    ]
+  },
+  "source": "original"
+}

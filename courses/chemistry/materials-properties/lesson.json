@@ -1,0 +1,58 @@
+{
+  "slug": "materials-properties",
+  "order": 20,
+  "level": "primary",
+  "ages": "7-9",
+  "grades": [2, 3],
+  "title": "What Is It Made Of?",
+  "type": "Matter",
+  "coverStep": 4,
+  "question": "Why are spoons made of metal and windows made of glass?",
+  "steps": ["Things are made of materials", "Hard or soft?", "Bendy or stiff?", "Waterproof or soaks it up?", "Can you see through it?", "The right material for the job"],
+  "content": {
+    "steps": [
+      {
+        "title": "Things are made of materials",
+        "text": "Everything around you is made of materials. Wood, metal, plastic, glass, rubber and fabric are all materials. A table can be made of wood, and a key is made of metal.",
+        "try": "Press a material button to pick up that sample.",
+        "see": "Each sample looks and feels different. The way a material looks and acts is called its properties."
+      },
+      {
+        "title": "Hard or soft?",
+        "text": "A hard material keeps its shape when you press it. A soft material squashes. Let's test each sample with a press.",
+        "try": "Press the Press button and watch the samples.",
+        "see": "Rubber and fabric squash down, then spring back up. Wood, metal, plastic and glass do not change shape: they are hard."
+      },
+      {
+        "title": "Bendy or stiff?",
+        "text": "A bendy material can bend without breaking. A stiff material does not bend. Now each sample lies across two blocks and gets a push in the middle.",
+        "try": "Press Push and watch which samples bend.",
+        "see": "Rubber, fabric and the thin plastic bend. These thick pieces of wood, metal and glass stay straight. Glass is stiff, and it breaks if you bend it too hard."
+      },
+      {
+        "title": "Waterproof or soaks it up?",
+        "text": "A waterproof material does not let water in. Some materials soak water up, like a sponge. Each sample gets one drop of water.",
+        "try": "Press Drop water.",
+        "see": "The drops stay on top of metal, plastic, glass and rubber: they are waterproof. Fabric soaks its drop right up. Wood soaks up a little, slowly."
+      },
+      {
+        "title": "Can you see through it?",
+        "text": "A see-through material lets light pass through it. Most materials block light. Now the samples stand up, and a torch shines at each one.",
+        "try": "Turn the Torches on and off.",
+        "see": "Only the light that shines at the glass reaches the wall. The other samples block the light, so you cannot see through them."
+      },
+      {
+        "title": "The right material for the job",
+        "text": "We choose a material because of its properties. An umbrella must be waterproof and light. A window must be see-through. A spoon must be hard and stiff.",
+        "try": "Pick a job, then pick a material, and see if it works.",
+        "see": "A material can be great for one job and bad for another. Glass makes a great window but a bad umbrella. Some jobs have more than one good material."
+      }
+    ],
+    "quiz": [
+      { "q": "Which material is see-through?", "options": ["Wood", "Glass", "Rubber"], "answer": 1, "why": "Light passes through glass, so we can see through it. That is why windows are made of glass." },
+      { "q": "Why is a towel made of fabric?", "options": ["Fabric is hard", "Fabric soaks up water", "Fabric is see-through"], "answer": 1, "why": "Fabric soaks up water. A towel needs to soak up the water on your skin." },
+      { "q": "Which is the best material for a spoon?", "options": ["Metal", "Fabric", "Rubber"], "answer": 0, "why": "Metal is hard, stiff and waterproof, so a metal spoon holds soup and does not bend." }
+    ]
+  },
+  "source": "original"
+}

@@ -1,0 +1,26 @@
+{
+  "slug": "iron-step",
+  "order": 240,
+  "level": "high-school",
+  "ages": "15-18",
+  "grades": [10, 12],
+  "title": "Iron and Its Compounds: Changing Oxidation States",
+  "type": "Principles & Phenomena",
+  "question": "It's the same element, iron. Why is it +2 one moment and +3 the next in the test tube, and how can we tell which one it is?",
+  "textbook": [
+    "Required Vol. 1 · Ch. 3 Iron and Metallic Materials · Sec. 1 Iron and Its Compounds"
+  ],
+  "steps": [
+    "Meet the Experiment",
+    "White precipitate",
+    "Air excluded",
+    "KSCN test",
+    "Bringing the state down",
+    "Raising the state back",
+    "Look inside",
+    "Iron-test station",
+    "Test · Hold at +2"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/iron-step/"
+}

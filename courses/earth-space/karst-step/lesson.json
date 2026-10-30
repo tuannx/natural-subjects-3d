@@ -1,0 +1,24 @@
+{
+  "slug": "karst-step",
+  "order": 160,
+  "level": "high-school",
+  "ages": "15-18",
+  "grades": [10, 12],
+  "title": "Formation and Recognition of Karst Landforms",
+  "type": "Principles & Phenomena",
+  "question": "Xu Xiake wrote of “sheer peaks standing apart, rising in rows as if vying to be tallest.” How did these spires, which seem to grow out of the ground, come from a single rock layer?",
+  "textbook": [
+    "Required Vol. 1 · Ch. 4 Landforms · Sec. 1 Common Landform Types · Karst Landforms"
+  ],
+  "steps": [
+    "Dissolve",
+    "Grooves → hollows",
+    "Cluster → forest",
+    "Lone peak → hill",
+    "Fast or slow",
+    "Caves",
+    "Test"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/karst-step/"
+}

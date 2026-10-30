@@ -1,0 +1,58 @@
+{
+  "slug": "food-chains",
+  "order": 20,
+  "level": "primary",
+  "ages": "9-11",
+  "grades": [4, 5],
+  "title": "Food Chains: Who Eats Whom?",
+  "type": "Ecosystems",
+  "question": "Where does the energy in my food really come from?",
+  "coverStep": 3,
+  "steps": ["Energy from the Sun", "Producers and consumers", "Herbivores, carnivores, omnivores", "A food chain", "Take away a link", "Decomposers"],
+  "content": {
+    "steps": [
+      {
+        "title": "Energy from the Sun",
+        "text": "Every living thing needs energy. Almost all of that energy starts in the Sun. Green plants, like grass, use sunlight to make their own food (a kind of sugar) from water and air. This is called photosynthesis.",
+        "try": "Move the Sunlight slider down to 0, then back up.",
+        "see": "With lots of sunlight the grass is tall and green. With no sunlight it cannot make food, so it stays small and turns yellow."
+      },
+      {
+        "title": "Producers and consumers",
+        "text": "Plants are producers, because they produce (make) their own food. Animals cannot make their own food. They are consumers: they get their energy by eating, or consuming, plants or other animals.",
+        "try": "Tap Producers, then Consumers.",
+        "see": "The grass and the berry bush are producers. The grasshopper, frog, snake, hawk, rabbit and fox are all consumers. The grasshopper and the rabbit are busy eating grass."
+      },
+      {
+        "title": "Herbivores, carnivores, omnivores",
+        "text": "Consumers come in three kinds. Herbivores eat only plants. Carnivores eat other animals. Omnivores eat both plants and animals. People are omnivores too!",
+        "try": "Tap Herbivores, Carnivores and Omnivores.",
+        "see": "The grasshopper and the rabbit eat grass. The frog, the snake and the hawk eat other animals. The fox eats rabbits, but also berries, so it is an omnivore."
+      },
+      {
+        "title": "A food chain",
+        "text": "A food chain shows who eats whom. The arrows point from the food to the animal that eats it, so read each arrow as 'is eaten by'. The arrows also show the way the energy moves: from the Sun, into the grass, and on from one animal to the next.",
+        "try": "Press Play chain 1, then Play chain 2, and follow the glowing dot.",
+        "see": "Each arrow points to the eater: grass to grasshopper, grasshopper to frog, frog to snake, snake to hawk. In chain 2, grass goes to the rabbit and the rabbit to the fox."
+      },
+      {
+        "title": "Take away a link",
+        "text": "In a food chain, every living thing depends on the others. If one link is taken away, the animals above it lose their food, and the living things below it are no longer eaten. In real habitats animals often have other foods too, but the changes can still be big.",
+        "try": "Tap Take away frogs, then Put them all back. Try the other buttons too.",
+        "see": "Without frogs, the grasshoppers grow in number and eat the grass down, while the snakes have less food. Every change spreads up and down the chain."
+      },
+      {
+        "title": "Decomposers",
+        "text": "When plants and animals die, decomposers break them down. Mushrooms (a kind of fungus), worms and tiny bacteria are decomposers. They turn dead leaves and dead animals into nutrients in the soil. Plants take up these nutrients and use them to grow, so nothing is wasted.",
+        "try": "Press Speed up time and watch the pile of dead leaves.",
+        "see": "The dead leaves get smaller and smaller as the mushrooms and worms break them down. Their nutrients go into the soil, and new plants grow."
+      }
+    ],
+    "quiz": [
+      { "q": "In a food chain, where does the energy first come from?", "options": ["The soil", "The Sun", "The animals at the top"], "answer": 1, "why": "Plants use sunlight to make their food. Animals get that energy by eating plants, or by eating animals that ate plants." },
+      { "q": "In the chain grass → rabbit → fox, what does the arrow from rabbit to fox mean?", "options": ["The rabbit eats the fox", "The rabbit is eaten by the fox", "The rabbit runs away from the fox"], "answer": 1, "why": "Arrows point from the food to the eater. The rabbit is eaten by the fox, and its energy passes to the fox." },
+      { "q": "What do decomposers like mushrooms and worms do?", "options": ["Make food from sunlight", "Hunt other animals", "Break down dead things and return nutrients to the soil"], "answer": 2, "why": "Decomposers break down dead plants and animals. The nutrients go back into the soil, where plants can use them to grow." }
+    ]
+  },
+  "source": "original"
+}

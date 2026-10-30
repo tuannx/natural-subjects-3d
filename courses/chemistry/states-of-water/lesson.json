@@ -1,0 +1,57 @@
+{
+  "slug": "states-of-water",
+  "order": 4,
+  "level": "primary",
+  "ages": "8-11",
+  "grades": [2, 4],
+  "title": "Ice, Water and Steam",
+  "type": "Matter",
+  "question": "How can the same water be hard ice, runny water or invisible steam?",
+  "steps": ["Water has three states", "Heat makes particles move faster", "Melting: ice turns to water", "Evaporation and boiling", "Cooling: condensation and freezing", "Water all around us"],
+  "content": {
+    "steps": [
+      {
+        "title": "Water has three states",
+        "text": "Water can be a solid, a liquid or a gas. Solid water is ice. Liquid water is what you drink. Water as a gas is called water vapour, or steam. All three are made of the same tiny particles.",
+        "try": "Press Ice, Water and Steam, and watch the particles in the box.",
+        "see": "The particles are the same in all three states. Only how they move and how close together they are changes."
+      },
+      {
+        "title": "Heat makes particles move faster",
+        "text": "Everything is made of particles that are far too small to see. They never stop moving. When water gets warmer, its particles move faster. When it gets colder, they move more slowly.",
+        "try": "Move the temperature slider and watch the orange particle.",
+        "see": "When it is hot, the particles zoom around. When it is cold, they only wiggle in their places."
+      },
+      {
+        "title": "Melting: ice turns to water",
+        "text": "In ice, the particles hold on to each other in neat rows. They can only wiggle. When ice warms up to 0 °C, the particles break out of their rows and start to slide past each other. The ice melts into liquid water.",
+        "try": "Press 'Warm it up' and watch the thermometer reach 0 °C.",
+        "see": "The neat block falls apart and the water spreads over the bottom of the box. A liquid flows and takes the shape of its container."
+      },
+      {
+        "title": "Evaporation and boiling",
+        "text": "Even in warm water, a few fast particles at the top escape into the air. This is evaporation, and it is how puddles dry up. At 100 °C (at sea level) the water boils: particles all through the water move fast enough to become a gas. Steam is water vapour, and it is invisible!",
+        "try": "Slide the temperature up to 100 °C and watch the water boil.",
+        "see": "The particles fly apart and fill the whole box. A gas spreads out to fill any space. The white cloud above a kettle is not steam: it is tiny drops of water that formed when the steam cooled."
+      },
+      {
+        "title": "Cooling: condensation and freezing",
+        "text": "When steam cools, its particles slow down and stick together again to make liquid water. This is condensation. It is why drops form on a cold glass. When liquid water cools down to 0 °C, it freezes into ice.",
+        "try": "Watch the thermometer as the box cools. Press 'Start again' to see it once more.",
+        "see": "In our box, steam turns back into water below 100 °C, and water turns into ice at 0 °C. Cooling undoes what heating did."
+      },
+      {
+        "title": "Water all around us",
+        "text": "Water changes state all around us. The Sun warms seas and puddles, and water evaporates into the air. High up, the air is cold, so the vapour condenses into tiny drops that make clouds. The drops fall as rain, or as snow when it is cold enough. This is the water cycle.",
+        "try": "Watch the water change all by itself, or turn that off and use the slider.",
+        "see": "Melting and freezing, evaporation and condensation happen all over the world, every day."
+      }
+    ],
+    "quiz": [
+      { "q": "At what temperature does ice melt?", "options": ["0 °C", "50 °C", "100 °C"], "answer": 0, "why": "Ice melts at 0 °C, and water freezes at that same temperature." },
+      { "q": "What happens to water particles when the water is heated?", "options": ["They get bigger", "They move faster", "They turn into air"], "answer": 1, "why": "Heat gives the particles more energy, so they move faster. They do not get any bigger." },
+      { "q": "Why do drops of water appear on the outside of a glass of cold juice?", "options": ["Juice leaks through the glass", "Water vapour in the air cools down and condenses on the glass", "The glass is melting"], "answer": 1, "why": "Air has invisible water vapour in it. When the vapour touches the cold glass, it cools and turns back into liquid drops." }
+    ]
+  },
+  "source": "original"
+}

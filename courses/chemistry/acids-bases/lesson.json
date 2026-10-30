@@ -1,0 +1,65 @@
+{
+  "slug": "acids-bases",
+  "order": 52,
+  "level": "middle",
+  "ages": "13-14",
+  "grades": [8, 8],
+  "title": "Acids, Bases and the pH Scale",
+  "type": "Reactions",
+  "question": "What makes lemon juice sour and soap slippery, and what happens when an acid meets a base?",
+  "coverStep": 0,
+  "steps": ["Acids and bases around us", "The pH scale and ions", "Indicators", "Neutralisation", "What happens to the ions", "Acids with metals and carbonates", "Using acids and bases safely"],
+  "content": {
+    "steps": [
+      {
+        "title": "Acids and bases around us",
+        "text": "Many things at home are acids or bases. Acids taste sour, like lemon juice and vinegar (but never taste anything in a lab!). Bases feel soapy and are found in soap, baking soda and many cleaners. A base that dissolves in water is called an alkali. The pH scale, from 0 to 14, shows how acidic or basic a solution is. pH 7 is neutral, like pure water. Below 7 is acidic, and above 7 is basic.",
+        "try": "Tap each substance to see where it sits on the pH scale.",
+        "see": "Lemon juice is about pH 2 and vinegar about pH 3, so they are acidic. Pure water is pH 7, neutral. Baking soda solution (about 8 to 9), soap (about 9 to 10) and oven cleaner (about 13) are basic."
+      },
+      {
+        "title": "The pH scale and ions",
+        "text": "What makes a solution acidic? When an acid dissolves in water it releases hydrogen ions, H⁺. An alkali releases hydroxide ions, OH⁻. An ion is an atom or a group of atoms with an electric charge. The more H⁺ ions there are, the lower the pH. Each step down the scale means 10 times more H⁺ ions: a solution at pH 3 has 10 times more H⁺ than one at pH 4, and 10,000 times more than pure water at pH 7.",
+        "try": "Move the pH slider from 0 to 14 and watch the ions and the colour in the beaker.",
+        "see": "At low pH, red H⁺ ions crowd the beaker and the indicator is red. At pH 7 there are only a few, and equal numbers of H⁺ and OH⁻. At high pH, blue OH⁻ ions take over and the colour turns purple. (The ion numbers are not to scale: the real differences are far bigger.)"
+      },
+      {
+        "title": "Indicators",
+        "text": "An indicator is a dye that changes colour in acids and bases. Litmus paper is the simplest: acids turn blue litmus red, and alkalis turn red litmus blue. In a neutral solution neither paper changes. Universal indicator has a whole rainbow of colours: red for strong acids, orange and yellow for weaker acids, green for neutral, and blue to purple for alkalis. Matching its colour to a chart gives the pH.",
+        "try": "Tap Vinegar, Water and Soap solution to dip both litmus papers and add universal indicator.",
+        "see": "In vinegar the blue litmus turns red and the indicator turns orange. In water neither paper changes and the indicator turns green. In soap solution the red litmus turns blue and the indicator turns dark blue."
+      },
+      {
+        "title": "Neutralisation",
+        "text": "When an acid and an alkali react, they cancel each other out. This is called neutralisation: acid + base → salt + water. For hydrochloric acid and sodium hydroxide: HCl + NaOH → NaCl + H₂O. The salt made here is sodium chloride, which is table salt. In the beaker, universal indicator shows the pH as sodium hydroxide solution is added drop by drop to the acid.",
+        "try": "Move the Drops added slider, or press Add 1 drop, and watch the pH readout and the colour.",
+        "see": "For the first drops the pH hardly changes and the mixture stays red. Near 20 drops the colour races through orange and yellow to green at pH 7. A few more drops and it turns blue, then purple, as extra alkali builds up."
+      },
+      {
+        "title": "What happens to the ions",
+        "text": "Hydrochloric acid in water is H⁺ ions and Cl⁻ (chloride) ions. Sodium hydroxide solution is Na⁺ (sodium) ions and OH⁻ ions. When they mix, each H⁺ joins an OH⁻ to make a water molecule: H⁺ + OH⁻ → H₂O. The Na⁺ and Cl⁻ ions stay in the water: they are the salt, dissolved. If the water is evaporated, white crystals of sodium chloride are left.",
+        "try": "Move the Base added slider from 0% to 100%, then past 100%.",
+        "see": "For every OH⁻ that arrives, one H⁺ disappears and a new water molecule appears. At 100% only Na⁺, Cl⁻ and water are left: the solution is neutral. Past 100%, OH⁻ ions are left over and the solution is basic."
+      },
+      {
+        "title": "Acids with metals and carbonates",
+        "text": "Acids react with many metals, such as magnesium, zinc and iron, to make a salt and hydrogen gas: Mg + 2HCl → MgCl₂ + H₂. A lit splint held at the mouth of the tube makes the hydrogen burn with a squeaky pop. Acids also react with carbonates, such as marble (calcium carbonate), to make a salt, water and carbon dioxide: CaCO₃ + 2HCl → CaCl₂ + H₂O + CO₂. Carbon dioxide turns limewater milky.",
+        "try": "Press Add magnesium, then Test with a lit splint. Then press Add marble and Bubble through limewater.",
+        "see": "The magnesium fizzes and the splint makes a pop with a small flash. The marble fizzes too, the gas bubbles through the clear limewater, and the limewater turns cloudy white."
+      },
+      {
+        "title": "Using acids and bases safely",
+        "text": "Strong acids and alkalis are corrosive: they can burn skin and damage eyes. In the lab, always wear safety goggles and use dilute solutions. A dilute solution is mostly water with only a little acid or alkali dissolved in it; a concentrated one has much more. Wash any splash off with plenty of water. To dilute a concentrated acid, always add the acid slowly to the water, never water to the acid, because the mixing gives out a lot of heat. Neutralisation is useful too: antacid tablets neutralise extra stomach acid, and farmers spread lime on soil that is too acidic.",
+        "try": "Press Put on goggles. Then move the Acid concentration slider from dilute to concentrated.",
+        "see": "The goggles move onto the face of the model head. At the dilute end there are only a few acid particles among many water particles; at the concentrated end acid particles crowd the beaker and the readout warns that it is corrosive."
+      }
+    ],
+    "quiz": [
+      { "q": "A solution has a pH of 3. What is it?", "options": ["Strongly basic", "Neutral", "Acidic", "Pure water"], "answer": 2, "why": "Any pH below 7 is acidic. pH 3 is about as acidic as vinegar." },
+      { "q": "What happens to blue litmus paper dipped in vinegar?", "options": ["It turns red", "It stays blue", "It turns green"], "answer": 0, "why": "Vinegar is an acid, and acids turn blue litmus red. Alkalis turn red litmus blue." },
+      { "q": "Hydrochloric acid reacts with sodium hydroxide. What are the products?", "options": ["Hydrogen and oxygen", "Sodium chloride and water", "Carbon dioxide and water", "Sodium and chlorine"], "answer": 1, "why": "Acid + base → salt + water: HCl + NaOH → NaCl + H₂O. The H⁺ and OH⁻ ions join to make water, and Na⁺ and Cl⁻ make the salt." },
+      { "q": "Magnesium is dropped into an acid. Which gas is made, and what is the test for it?", "options": ["Carbon dioxide: it turns limewater milky", "Hydrogen: it burns with a squeaky pop", "Oxygen: it relights a glowing splint"], "answer": 1, "why": "Metal + acid → salt + hydrogen. Hydrogen burns with a squeaky pop when a lit splint is held near it. Carbon dioxide comes from acids with carbonates." }
+    ]
+  },
+  "source": "original"
+}

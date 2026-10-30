@@ -1,0 +1,64 @@
+{
+  "slug": "earths-water",
+  "order": 22,
+  "level": "primary",
+  "ages": "9-11",
+  "grades": [4, 5],
+  "title": "Where Is Earth's Water and How Does It Move?",
+  "type": "Water",
+  "coverStep": 6,
+  "question": "If Earth has so much water, why is fresh water so precious?",
+  "steps": ["If all water were 100 drops", "Salty and fresh", "The Sun heats the water", "Clouds form", "Rain and snow", "Back to the sea", "Round and round"],
+  "content": {
+    "steps": [
+      {
+        "title": "If all water were 100 drops",
+        "text": "Earth has a lot of water. Let's pretend that all of it is shared out into 100 drops. Then we can sort the drops to see where Earth's water is kept.",
+        "try": "Press Sort the drops. Press Mix them up to start again.",
+        "see": "Almost all of the drops go into the ocean tank. Only a few go anywhere else."
+      },
+      {
+        "title": "Salty and fresh",
+        "text": "About 97 of the 100 drops are in the ocean, and ocean water is salty. We cannot drink it. Only about 3 drops are fresh water. About 2 of those are frozen as ice in glaciers and near the North and South Poles. Only about 1 drop is liquid fresh water, and most of it is under the ground. Lakes and rivers hold just a tiny part of that drop.",
+        "try": "Tap Ocean, Ice and Liquid fresh water.",
+        "see": "The ocean group is huge. The fresh water that people can easily use is just one drop."
+      },
+      {
+        "title": "The Sun heats the water",
+        "text": "Earth's water keeps moving around and around. This is called the water cycle, and the Sun powers it. The Sun heats the water in the ocean, lakes and rivers. Some of it evaporates: it turns into an invisible gas called water vapour and rises into the air. The salt stays behind in the sea.",
+        "try": "Move the Sun strength slider.",
+        "see": "With a stronger Sun, more water vapour rises from the sea. We draw the vapour as dots, but in real life you cannot see it."
+      },
+      {
+        "title": "Clouds form",
+        "text": "High in the sky the air is cold. There the water vapour cools and turns back into tiny drops of liquid water. This is called condensation. Lots and lots of these tiny drops together make a cloud. As more drops join, the cloud grows bigger and darker.",
+        "try": "Move the Sun strength slider and watch the cloud.",
+        "see": "The cloud grows and turns grey as it fills with water. Then the wind pushes it toward the mountain."
+      },
+      {
+        "title": "Rain and snow",
+        "text": "Inside a cloud, tiny drops bump together and join into bigger drops. When they are too heavy to float, they fall. Water falling from clouds is called precipitation. When the air is warm, it falls as rain. When the air is cold enough, it falls as snow. High mountains are cold, so snow often falls on them.",
+        "try": "Tap Warm day, then Cold day.",
+        "see": "On a warm day rain falls on the mountain. On a cold day snowflakes fall and the snow on the mountain spreads lower down."
+      },
+      {
+        "title": "Back to the sea",
+        "text": "Rain water runs downhill into streams and rivers, and rivers carry it back to the sea. Some water soaks into the ground and moves slowly through tiny gaps in the soil and rock. This is groundwater. Melting snow and ice also add water to rivers.",
+        "try": "Turn Show water under the ground off and on.",
+        "see": "The river carries water down to the sea. Under the ground, water seeps slowly toward the sea too."
+      },
+      {
+        "title": "Round and round",
+        "text": "Evaporation, condensation, precipitation, and water flowing back to the sea: the water cycle never stops. The same water has been going around for a very, very long time. The water you drink today may once have been in the ocean, in a cloud or in a glacier.",
+        "try": "Move the Sun strength slider and watch the whole cycle.",
+        "see": "Every part of the cycle happens at the same time. With a stronger Sun, more water evaporates, so clouds fill up and rain falls sooner."
+      }
+    ],
+    "quiz": [
+      { "q": "If all of Earth's water were 100 drops, about how many would be salty ocean water?", "options": ["About 50", "About 75", "About 97"], "answer": 2, "why": "About 97 of every 100 drops are in the ocean. Only about 3 are fresh water." },
+      { "q": "Where is most of Earth's fresh water?", "options": ["In rivers", "Frozen as ice", "In lakes"], "answer": 1, "why": "About 2 of the 3 fresh drops are frozen in glaciers and ice near the poles." },
+      { "q": "What happens when water vapour cools high in the sky?", "options": ["It condenses into tiny drops that make clouds", "It turns into salt", "It disappears forever"], "answer": 0, "why": "Cooling turns the vapour back into tiny drops of liquid water. Lots of them together make a cloud." }
+    ]
+  },
+  "source": "original"
+}

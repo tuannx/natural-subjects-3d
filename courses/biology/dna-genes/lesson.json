@@ -1,0 +1,65 @@
+{
+  "slug": "dna-genes",
+  "order": 40,
+  "level": "middle",
+  "ages": "14-15",
+  "grades": [9, 9],
+  "title": "Genes, DNA and Chromosomes",
+  "type": "Heredity",
+  "coverStep": 1,
+  "question": "Where are the instructions for my traits kept, and what are they written in?",
+  "steps": ["Zoom into a cell", "The double helix", "Base pairs match", "Genes code for proteins", "46 chromosomes in 23 pairs", "Copying cells and making sex cells", "Mutations"],
+  "content": {
+    "steps": [
+      {
+        "title": "Zoom into a cell",
+        "text": "Your body is made of trillions of cells, and almost every one has a nucleus. The nucleus holds the chromosomes. Each chromosome is one very long molecule of DNA (deoxyribonucleic acid), coiled up again and again. DNA carries the genetic information: the instructions for building and running your body. Most of the time the DNA is spread out loosely in the nucleus. Just before a cell divides, it coils up tightly into chromosomes that are thick enough to see with a light microscope. Everything here is tiny: a body cell is about 20 µm across (1 µm, one micrometre, is 0.001 mm), and the DNA double helix is only about 2 nm wide (1 nm, one nanometre, is 0.001 µm).",
+        "try": "Move the Zoom slider all the way up and watch the Width of this view readout.",
+        "see": "The view dives from the whole cell into the nucleus, then into one copied chromosome, then to DNA wound round balls of protein, and finally to the double helix. The width of the view falls from about 26 µm to about 5 nm: about 5000 times smaller."
+      },
+      {
+        "title": "The double helix",
+        "text": "DNA is shaped like a twisted ladder, called a double helix. Each side of the ladder is a strand with a backbone made of sugar and phosphate. The rungs are pairs of bases. There are four bases: adenine (A), thymine (T), cytosine (C) and guanine (G). A on one strand always pairs with T on the other strand, and C always pairs with G. James Watson and Francis Crick worked out this structure in 1953, using X-ray pictures of DNA made by Rosalind Franklin and others.",
+        "try": "Turn on Untwist the ladder, then turn it off again.",
+        "see": "The helix untwists into a straight ladder: two backbones with coloured base pairs between them. Red A is always opposite yellow T, and blue C is always opposite green G."
+      },
+      {
+        "title": "Base pairs match",
+        "text": "Because A always pairs with T and C always pairs with G, one strand tells you exactly what the other strand must be. This is how a cell copies its DNA before it divides. The two strands come apart, and each one is used as a template (a pattern) to build a new partner strand. Each new DNA molecule then has one old strand and one new strand, and the two copies are the same.",
+        "try": "Look at the base above the blue ring and tap its partner: A, T, C or G. Tap New strand for another one.",
+        "see": "A right answer adds that base to the partner strand. A wrong answer turns the ring red, and the readout reminds you of the pairing rule. The template strand decides every base of the partner strand."
+      },
+      {
+        "title": "Genes code for proteins",
+        "text": "A gene is a section of DNA that holds the instructions for making a protein. The order of the bases is a code. The cell makes a copy of the gene (called messenger RNA) and reads it three bases at a time. Each group of three bases, called a codon, stands for one amino acid. The amino acids are joined in that order into a long chain, which folds up into a protein with its own shape and job. Proteins build your body and run its chemistry, so genes affect your traits: gene → protein → trait. Humans have about 20,000 genes that code for proteins. Real genes are usually thousands of bases long; these models have only 24.",
+        "try": "Move the Read the gene slider, then tap another gene.",
+        "see": "The blue box moves along the gene three bases at a time and adds one amino acid to the chain for each codon. When all 24 bases are read, the chain folds up and the trait it helps to build appears: eye colour, hair or a red blood cell."
+      },
+      {
+        "title": "46 chromosomes in 23 pairs",
+        "text": "Human body cells have 46 chromosomes in 23 pairs. You got one chromosome of each pair from your mother and the other from your father. The two chromosomes of a pair carry the same genes in the same places. Pairs 1 to 22 are called autosomes. The 23rd pair are the sex chromosomes: females usually have two X chromosomes (XX), and males usually have one X and one Y (XY). A picture of all the chromosomes in a cell, sorted by size, is called a karyotype. It is made from a cell that is about to divide, so each chromosome has already been copied and looks like an X.",
+        "try": "Tap XX (female) and XY (male), then turn on Colour by parent.",
+        "see": "Only the last pair changes: the Y chromosome is much smaller than the X. With Colour by parent on, every pair has one orange chromosome from the mother and one teal chromosome from the father."
+      },
+      {
+        "title": "Copying cells and making sex cells",
+        "text": "When your body grows or repairs itself, cells divide by mitosis. First every chromosome is copied. The chromosomes line up in the middle of the cell, and the two copies of each one are pulled apart, so each of the two new cells gets a full set: 46 chromosomes, exactly like the parent cell. Sex cells (gametes), which are sperm and eggs, are made by a different kind of division called meiosis. The chromosome pairs are split up, so each sex cell gets only one chromosome from each pair: 23 in humans. At fertilisation a sperm (23) joins an egg (23), and the new cell has 46 again.",
+        "try": "Tap Body cell divides (mitosis) or Sex cells form (meiosis), and move the Stage slider.",
+        "see": "In mitosis the parent cell's 4 chromosomes are copied and shared out, so both new cells have 4. In meiosis the cell divides twice, and each of the 4 sex cells ends up with 2 chromosomes: one long and one short, one from each pair."
+      },
+      {
+        "title": "Mutations",
+        "text": "A mutation is a change in the base sequence of DNA. Mutations can happen when DNA is copied with a mistake, or when DNA is damaged, for example by ultraviolet light or some chemicals. Many mutations have no effect. Some change a protein and are harmful, and a few turn out to be helpful. Here is the start of the haemoglobin gene, split into codons. Changing just one base can make no difference at all, or it can swap one amino acid for another. The second change shown here causes sickle cell disease.",
+        "try": "Tap Original gene, Change: GAG → GAA and Change: GAG → GTG.",
+        "see": "GAG to GAA leaves every amino acid the same, because both codons code for Glu. GAG to GTG turns the sixth amino acid from Glu into Val, shown in red on the amino acid row."
+      }
+    ],
+    "quiz": [
+      { "q": "One strand of DNA has the bases A T G C. Which bases are on the partner strand, in the same order?", "options": ["T A C G", "A T G C", "G C A T", "C G T A"], "answer": 0, "why": "A always pairs with T, and C always pairs with G. So A T G C pairs with T A C G." },
+      { "q": "How many chromosomes are in a human sperm cell?", "options": ["46", "23", "92", "22"], "answer": 1, "why": "Body cells have 46 chromosomes in 23 pairs. Meiosis gives each sex cell one chromosome from each pair, so a sperm or an egg has 23. At fertilisation 23 + 23 = 46." },
+      { "q": "What is a gene?", "options": ["A whole chromosome", "A section of DNA that codes for a protein", "A type of cell inside the nucleus", "One base pair, such as A–T"], "answer": 1, "why": "A chromosome holds many genes. Each gene is a section of its DNA whose base sequence codes for a protein, read three bases (one codon) at a time." },
+      { "q": "One base in a gene changes, so a codon GAG becomes GAA. Both codons code for the same amino acid. What happens to the protein?", "options": ["It stays exactly the same", "It gets one amino acid longer", "The cell stops making it", "It becomes a completely different protein"], "answer": 0, "why": "Several codons can code for the same amino acid. If the new codon gives the same amino acid, the protein does not change, so this mutation has no effect. Many mutations are like this." }
+    ]
+  },
+  "source": "original"
+}

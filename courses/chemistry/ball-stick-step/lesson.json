@@ -1,0 +1,26 @@
+{
+  "slug": "ball-stick-step",
+  "order": 50,
+  "level": "high-school",
+  "ages": "15-18",
+  "grades": [10, 12],
+  "title": "Ball-and-Stick Models of Organic Molecules",
+  "type": "Principles & Phenomena (Simulation)",
+  "question": "Molecules drawn on paper are flat. What is their real 3D shape, and what can building a ball-and-stick model show us?",
+  "textbook": [
+    "Required Vol. 2 · Ch. 7 Organic Compounds · Lab Activity 8 Building Ball-and-Stick Models of Organic Molecules"
+  ],
+  "steps": [
+    "Parts Box",
+    "Methane",
+    "Dichloromethane",
+    "Single Bonds Rotate",
+    "Carbon Chains",
+    "Isomers",
+    "Ethene and Ethyne",
+    "Benzene",
+    "Test"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/ball-stick-step/"
+}

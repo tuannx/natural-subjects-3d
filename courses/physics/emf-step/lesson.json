@@ -1,0 +1,26 @@
+{
+  "slug": "emf-step",
+  "order": 390,
+  "level": "high-school",
+  "ages": "15-18",
+  "grades": [10, 12],
+  "title": "Measuring EMF and Internal Resistance",
+  "type": "Principles & Experiment",
+  "question": "How do you “measure” the EMF and internal resistance of an old dry cell with one voltmeter, one ammeter and a rheostat? Wire it differently, and do you get the same result?",
+  "textbook": [
+    "Required Vol. 3 · Ch. 12 Electrical Energy and Conservation of Energy · Sec. 3 Experiment: Measuring a Battery's EMF and Internal Resistance"
+  ],
+  "steps": [
+    "Know the wiring",
+    "Max first",
+    "Measure several sets",
+    "Plot U-I graph",
+    "U-axis start",
+    "Only two sets",
+    "Change wiring",
+    "Error analysis",
+    "Test"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/emf-step/"
+}

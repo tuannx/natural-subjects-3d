@@ -1,0 +1,114 @@
+{
+  "slug": "solar-system",
+  "order": 11,
+  "level": "middle",
+  "ages": "11-12",
+  "grades": [
+    6,
+    6
+  ],
+  "title": "The Solar System: Sizes, Orbits and Gravity",
+  "type": "Earth & Space",
+  "question": "How big is the solar system, and what keeps the planets going around the Sun?",
+  "steps": [
+    "The Sun and its planets",
+    "Sizes to scale",
+    "Distances to scale",
+    "Orbits and years",
+    "A rule for orbits",
+    "Gravity holds the planets",
+    "Our place in the Milky Way"
+  ],
+  "content": {
+    "steps": [
+      {
+        "title": "The Sun and its planets",
+        "text": "The solar system is the Sun and everything that travels around it: eight planets, their moons, and smaller objects such as asteroids and comets. The path a planet follows around the Sun is called its orbit. The four inner planets (Mercury, Venus, Earth and Mars) are small and rocky. The four outer planets (Jupiter, Saturn, Uranus and Neptune) are giant planets made mostly of gas and ice. This picture is not to scale: it squeezes everything together so you can see it all at once.",
+        "try": "Move the Planet slider to pick a planet. Drag the picture to look around.",
+        "see": "The four small rocky planets stay close to the Sun. The four giant planets are much farther out, with big gaps between their orbits."
+      },
+      {
+        "title": "Sizes to scale",
+        "text": "Now the planets are lined up beside the Sun with their sizes to scale. A planet's diameter is its width measured straight through its centre. The Sun's diameter is about 109 times Earth's. Jupiter, the biggest planet, is about 11 times as wide as Earth. Mercury, the smallest, is less than half as wide as Earth.",
+        "try": "Move the Planet slider and read each planet's diameter in the readout.",
+        "see": "The Sun is so big that only part of its edge fits on the screen. Next to it even Jupiter looks small, and Earth is just a tiny dot."
+      },
+      {
+        "title": "Distances to scale",
+        "text": "Distances in space are so big that astronomers use the astronomical unit (AU): the average distance from Earth to the Sun, about 150 million km. Here the distances are to scale: Neptune is about 30 AU from the Sun. At this scale the Sun and planets would be far too small to see, so they are drawn as dots. One picture cannot show both: if Earth were a marble 1 cm wide, the Sun would be a ball about 1.1 m wide, about 117 m away, and Neptune would be about 3.5 km away.",
+        "try": "Press 'Sizes to scale' and 'Distances to scale' to switch pictures, and move the Planet slider.",
+        "see": "The four inner planets crowd close to the Sun. The gaps between the outer planets are huge: Neptune is about 30 times as far from the Sun as Earth."
+      },
+      {
+        "title": "Orbits and years",
+        "text": "The time a planet takes to go once around the Sun is its orbital period, or its year. A planet closer to the Sun moves faster and has a shorter path, so its year is short. Mercury's year is only about 88 Earth days. Neptune's year is about 165 Earth years. The picture is squeezed again, but each planet goes around at the right pace compared with the others.",
+        "try": "Move the Time speed slider, and use the Planet slider to read each planet's distance and year.",
+        "see": "Mercury races around again and again while Neptune hardly moves. The farther a planet is from the Sun, the slower it goes and the longer its year."
+      },
+      {
+        "title": "A rule for orbits",
+        "text": "In 1619 the astronomer Johannes Kepler published a rule that links a planet's distance and its year. Write the distance from the Sun as a (in AU) and the orbital period as T (in Earth years). Then T × T = a × a × a, or T² = a³. For Jupiter, a is about 5.2 AU, so a³ = 5.2 × 5.2 × 5.2 ≈ 141. T is about 11.9 years, so T² = 11.9 × 11.9 ≈ 141. They match!",
+        "try": "Move the Planet slider and compare a³ and T² in the readout for each planet.",
+        "see": "The chosen planet's orbit lights up. For every planet, a³ and T² come out almost the same, so a planet twice as far away has a year almost three times as long."
+      },
+      {
+        "title": "Gravity holds the planets",
+        "text": "Gravity is a pull between all objects that have mass. The Sun has about 99.8% of all the mass in the solar system, so its pull is very strong. Each planet is already moving sideways very fast (green arrow). The Sun's gravity (orange arrow) keeps bending its path toward the Sun, so the planet curves around the Sun instead of going straight. The pull is weaker farther from the Sun, which is one reason the outer planets move more slowly.",
+        "try": "Turn off 'Sun's gravity' and watch the planets. Turn it on again to start over.",
+        "see": "Without gravity, every planet flies off in a straight line in the direction it was moving at that moment, along a tangent to its orbit. The inner planets shoot away fast; Neptune drifts away slowly."
+      },
+      {
+        "title": "Our place in the Milky Way",
+        "text": "The Sun is one star among hundreds of billions in a huge, spinning group of stars called the Milky Way galaxy. It is about 100,000 light-years across. A light-year is the distance light travels in one year, about 9.5 trillion km. The Sun sits in a small spiral arm about 26,000 light-years from the centre of the galaxy, and it takes about 230 million years to go around the centre once.",
+        "try": "Press 'Zoom in' and 'Zoom out' to move between the solar system and the whole galaxy.",
+        "see": "The whole solar system shrinks to a tiny dot. The Milky Way is a flat spiral of stars, and the Sun is about halfway out from the centre."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "What is 1 astronomical unit (AU)?",
+        "options": [
+          "The diameter of the Sun",
+          "The average distance from Earth to the Sun, about 150 million km",
+          "The distance light travels in one year",
+          "The distance from Earth to the Moon"
+        ],
+        "answer": 1,
+        "why": "1 AU is the average Earth–Sun distance, about 150 million km. Astronomers use it to measure distances inside the solar system: Neptune is about 30 AU from the Sun."
+      },
+      {
+        "q": "Why can't one picture show the planets' sizes and their distances to scale at the same time?",
+        "options": [
+          "The planets are tiny compared with the gaps between them, so if they are big enough to see, the distances do not fit",
+          "The planets keep changing size",
+          "Nobody knows how far away the planets are"
+        ],
+        "answer": 0,
+        "why": "If Earth were a 1 cm marble, Neptune would be about 3.5 km away. Planets big enough to see would need a picture kilometres wide."
+      },
+      {
+        "q": "Which planet has the shortest year?",
+        "options": [
+          "Neptune",
+          "Earth",
+          "Mercury",
+          "Jupiter"
+        ],
+        "answer": 2,
+        "why": "Mercury is closest to the Sun. It moves fastest and has the shortest path, so it goes around in only about 88 Earth days."
+      },
+      {
+        "q": "If the Sun's gravity suddenly switched off, what would Earth do?",
+        "options": [
+          "Fall into the Sun",
+          "Stop moving",
+          "Keep moving in a straight line in the direction it was going",
+          "Keep orbiting just the same"
+        ],
+        "answer": 2,
+        "why": "Gravity is what bends Earth's path into an orbit. Without it, nothing would pull Earth sideways, so it would carry on in a straight line along a tangent to its old orbit."
+      }
+    ]
+  },
+  "source": "original"
+}

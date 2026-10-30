@@ -1,0 +1,63 @@
+{
+  "slug": "weather-watch",
+  "order": 20,
+  "level": "primary",
+  "ages": "6-9",
+  "grades": [1, 3],
+  "title": "What Is the Weather Like Today?",
+  "type": "Weather",
+  "question": "How can we find out what the weather is doing?",
+  "steps": ["What is weather?", "Hot or cold? Use a thermometer", "Rain: use a rain gauge", "Wind: use a windsock", "Rain or snow?", "A week of weather", "Weather through the year"],
+  "content": {
+    "steps": [
+      {
+        "title": "What is weather?",
+        "text": "Weather is what the air outside is like right now. It can be sunny or cloudy, rainy or snowy, still or windy, hot or cold. Weather can change from day to day, and even from morning to afternoon.",
+        "try": "Tap the weather buttons to change the weather in the town.",
+        "see": "The sky, the clouds, the trees and the ground all change with each kind of weather."
+      },
+      {
+        "title": "Hot or cold? Use a thermometer",
+        "text": "A thermometer tells us how warm or cold the air is. When the air gets warmer, the red line goes up. When the air gets colder, it goes down. We count the temperature in degrees.",
+        "try": "Tap Hot sunny day, Cool cloudy day and Cold snowy day. Watch the red line.",
+        "see": "On the sunny day the red line is high. On the snowy day it drops below 0 degrees Celsius (32 degrees Fahrenheit)."
+      },
+      {
+        "title": "Rain: use a rain gauge",
+        "text": "Clouds are made of tiny drops of water. When the drops join together and get too heavy, they fall as rain. A rain gauge is a clear tube that catches the rain, so we can measure how much fell.",
+        "try": "Press Make it rain, then Stop the rain. Press Empty the gauge to start again.",
+        "see": "While it rains, the water in the gauge rises. When the rain stops, the water level stays the same."
+      },
+      {
+        "title": "Wind: use a windsock",
+        "text": "Wind is moving air. We cannot see air, but we can see what it pushes. Trees bend. A windsock fills up and points the way the wind is going. A wind vane points its arrow to where the wind is coming from.",
+        "try": "Move the Wind slider from calm to very windy.",
+        "see": "When it is calm, the windsock hangs down. In strong wind it sticks straight out, the trees bend, and leaves fly. The windsock and the vane arrow point opposite ways."
+      },
+      {
+        "title": "Rain or snow?",
+        "text": "Snow comes from clouds too. When the air is very cold, around freezing (0 °C or 32 °F) or colder, the water in the clouds freezes into tiny ice crystals. They stick together and fall as snowflakes.",
+        "try": "Move the Temperature slider up and down.",
+        "see": "When it is warm, rain falls. When it gets cold enough, snowflakes fall instead and the ground turns white. When it warms up again, the snow melts."
+      },
+      {
+        "title": "A week of weather",
+        "text": "Weather watchers write down the weather every day. Then they can see how the weather changes. This chart shows one week in spring in our town.",
+        "try": "Tap a day button to see that day's weather in the town.",
+        "see": "Each bar shows how warm that day was. The rainy days were the coolest days of the week."
+      },
+      {
+        "title": "Weather through the year",
+        "text": "Weather follows a pattern over the year, called the seasons. In our town, winter is cold and snowy and summer is hot. Some places, like southern Vietnam, have a rainy season and a dry season instead.",
+        "try": "Tap Winter, Spring, Summer and Autumn.",
+        "see": "The chart shows our town is coldest in winter and warmest in summer. The trees change too: bare in winter, green in summer, orange in autumn."
+      }
+    ],
+    "quiz": [
+      { "q": "Which tool measures how hot or cold the air is?", "options": ["A rain gauge", "A thermometer", "A windsock"], "answer": 1, "why": "A thermometer measures temperature. A rain gauge measures rain, and a windsock shows the wind." },
+      { "q": "The windsock is sticking straight out. What does that tell you?", "options": ["It is very windy", "It is raining hard", "It is very cold"], "answer": 0, "why": "Moving air fills the windsock. The stronger the wind, the straighter it sticks out." },
+      { "q": "Why does snow fall instead of rain?", "options": ["The wind is strong", "The air is very cold, around freezing or colder", "The Sun is shining"], "answer": 1, "why": "When the air is cold enough, the water in clouds freezes into ice crystals that fall as snow." }
+    ]
+  },
+  "source": "original"
+}

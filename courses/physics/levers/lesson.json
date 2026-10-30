@@ -1,0 +1,59 @@
+{
+  "slug": "levers",
+  "order": 43,
+  "level": "middle",
+  "ages": "13-14",
+  "grades": [8, 8],
+  "title": "Levers and Turning Forces",
+  "type": "Forces",
+  "coverStep": 4,
+  "question": "How can a small force turn a door or lift something much heavier than itself?",
+  "steps": ["The turning effect of a force", "Perpendicular distance", "Balancing: the principle of moments", "A lever makes lifting easier", "Three classes of lever", "Your arm is a lever"],
+  "content": {
+    "steps": [
+      {
+        "title": "The turning effect of a force",
+        "text": "A force can make an object turn around a fixed point, called the pivot. The turning effect of a force is called its moment. Moment = force × distance from the pivot, or M = F × d. Force is measured in newtons (N) and distance in metres (m), so a moment is measured in newton metres (N·m). This door turns around its hinges, and its door closer needs a moment of at least 6 N·m before the door starts to open.",
+        "try": "Keep the Force at 20 N and move the Distance from the hinge slider. Then try a different force.",
+        "see": "Pulling close to the hinge, 20 N gives only 3 N·m and the door stays shut. Pulling at the handle (0.8 m), the same 20 N gives 16 N·m and the door swings open."
+      },
+      {
+        "title": "Perpendicular distance",
+        "text": "The direction of the force matters too. In M = F × d, the distance d is the perpendicular distance (d⊥): the shortest distance from the pivot to the line of action, which is the line along which the force acts (dashed). If you pull the handle straight towards the hinge, the line of action passes through the pivot, d⊥ is zero and there is no turning effect at all. The biggest moment comes from pulling at right angles (90°) to the door.",
+        "try": "Move the Angle between force and door slider from 0° up to 90°.",
+        "see": "At small angles the orange line d⊥ is short, the moment is small and the door stays shut. As the angle grows towards 90°, d⊥ grows to the full 0.8 m and the door opens."
+      },
+      {
+        "title": "Balancing: the principle of moments",
+        "text": "On a see-saw, the left mass tries to turn the plank anticlockwise and the right mass tries to turn it clockwise. Each mass has a weight W = m × g, with g ≈ 10 N/kg, so a 3 kg mass weighs about 30 N. The principle of moments says that an object is balanced when the total clockwise moment equals the total anticlockwise moment: F₁ × d₁ = F₂ × d₂. So a smaller weight can balance a bigger one if it sits farther from the pivot.",
+        "try": "Move the Right distance from pivot and Right mass sliders until the plank is level.",
+        "see": "With 2 kg on the right, the plank balances at 1.5 m: 20 N × 1.5 m = 30 N·m, the same as 30 N × 1.0 m on the left. Other pairs work too, such as 3 kg at 1.0 m or 5 kg at 0.6 m."
+      },
+      {
+        "title": "A lever makes lifting easier",
+        "text": "A lever is a rigid bar that turns around a fixed point called the fulcrum. The force you put in is the effort, and the weight it moves is the load. This crowbar rests on a small stone as its fulcrum, 0.2 m from a 50 kg rock, which weighs about 500 N. By the principle of moments, effort × effort arm = load × load arm. The longer the effort arm, the smaller the effort you need, but your hand has to move farther.",
+        "try": "Move the Effort arm slider to make the crowbar longer or shorter.",
+        "see": "With an effort arm of 1.0 m you need only 100 N to lift the 500 N rock, a fifth of its weight. The blue arrow shrinks as the bar gets longer, and your hand moves much farther than the rock rises."
+      },
+      {
+        "title": "Three classes of lever",
+        "text": "Every lever has a fulcrum, an effort and a load, but they can come in different orders. In a class 1 lever the fulcrum is in the middle, as in a see-saw or scissors. In a class 2 lever the load is in the middle, as in a wheelbarrow or a nutcracker. In a class 3 lever the effort is in the middle, as in tweezers or your forearm. On each example, the green dot marks the fulcrum, the blue dot the effort and the red dot the load.",
+        "try": "Press Class 1, Class 2 and Class 3, and compare the lever with the example beside it.",
+        "see": "The order changes: the fulcrum is in the middle for scissors, the load is in the middle for the wheelbarrow, and the effort is in the middle for tweezers. The coloured dots on each tool match the lever."
+      },
+      {
+        "title": "Your arm is a lever",
+        "text": "Your forearm is a class 3 lever. The elbow is the fulcrum, the biceps muscle pulls up about 4 cm from the elbow (the effort), and a ball in your hand, about 32 cm from the elbow, is the load. Because the effort arm is so short, the biceps must pull about 8 times harder than the weight of the ball (leaving out the weight of the arm itself). In return, the hand moves 8 times farther, and faster, than the point where the muscle pulls.",
+        "try": "Change the Mass in the hand slider and watch the biceps force in the readout.",
+        "see": "A 2 kg ball (20 N) needs a biceps force of about 160 N, and a 5 kg ball needs about 400 N. The blue effort arrow is always much longer than the red load arrow."
+      }
+    ],
+    "quiz": [
+      { "q": "You push a door with a force of 10 N, at right angles to the door, 0.5 m from the hinge. What is the moment?", "options": ["5 N·m", "20 N·m", "10.5 N·m", "0.05 N·m"], "answer": 0, "why": "Moment = force × perpendicular distance = 10 N × 0.5 m = 5 N·m." },
+      { "q": "A 40 kg child sits 1.5 m from the pivot of a see-saw. Where must a 60 kg child sit on the other side to balance it?", "options": ["1.5 m from the pivot", "1.0 m from the pivot", "2.25 m from the pivot"], "answer": 1, "why": "The weights are about 400 N and 600 N. Anticlockwise: 400 N × 1.5 m = 600 N·m. To balance, 600 N × d = 600 N·m, so d = 1.0 m. The heavier child sits closer to the pivot." },
+      { "q": "Why is a door handle placed far from the hinges?", "options": ["The door is lighter there", "A bigger distance gives a bigger moment for the same force", "It makes the door close faster"], "answer": 1, "why": "Moment = F × d. With a big distance from the pivot, a small force gives a moment big enough to turn the door." },
+      { "q": "What kind of lever is a pair of tweezers?", "options": ["Class 1: the fulcrum is in the middle", "Class 2: the load is in the middle", "Class 3: the effort is in the middle"], "answer": 2, "why": "Your fingers press in the middle (effort), the joined end is the fulcrum, and the tips hold the load. Effort in the middle makes it a class 3 lever, like your forearm." }
+    ]
+  },
+  "source": "original"
+}

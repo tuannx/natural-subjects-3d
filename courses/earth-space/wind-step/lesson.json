@@ -1,0 +1,25 @@
+{
+  "slug": "wind-step",
+  "order": 460,
+  "level": "high-school",
+  "ages": "15-18",
+  "grades": [10, 12],
+  "title": "Horizontal Motion of the Atmosphere: Wind",
+  "type": "Principles & Phenomena",
+  "question": "Why doesn't the wind on a weather map blow straight from high pressure to low pressure?",
+  "textbook": [
+    "Required Vol. 1 · Ch. 2 Earth's Atmosphere · Sec. 2 Atmospheric Heating and Atmospheric Motion · Horizontal Air Movement: Wind"
+  ],
+  "steps": [
+    "Isobars",
+    "Gradient force",
+    "Coriolis deflection",
+    "Upper-air wind",
+    "Near surface",
+    "Southern Hemisphere",
+    "Spacing",
+    "Test"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/wind-step/"
+}

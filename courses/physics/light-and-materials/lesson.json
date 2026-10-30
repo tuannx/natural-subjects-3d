@@ -1,0 +1,58 @@
+{
+  "slug": "light-and-materials",
+  "order": 23,
+  "level": "primary",
+  "ages": "6-10",
+  "grades": [1, 4],
+  "title": "How Do We See Things?",
+  "type": "Light",
+  "question": "Why can't I see anything in a dark room?",
+  "steps": ["Light helps us see", "Light goes into your eyes", "Light goes in straight lines", "Clear, cloudy or solid", "Mirrors bounce light", "See around a corner"],
+  "content": {
+    "steps": [
+      {
+        "title": "Light helps us see",
+        "text": "Here is a teddy bear in a dark room. In the dark, it is very hard to see the teddy. Now switch on the torch. Light from the torch shines on the teddy, and you can see it.",
+        "try": "Turn the Torch on switch off and on again.",
+        "see": "With the torch off, the room is dark and the teddy is hard to see. With the torch on, the teddy is bright and easy to see."
+      },
+      {
+        "title": "Light goes into your eyes",
+        "text": "The light from the torch hits the teddy and bounces off it. Some of that light travels into the child's eyes. That is how we see things: light from them gets into our eyes. If light cannot get into your eyes, you cannot see.",
+        "try": "Turn off Eyes open to close the child's eyes.",
+        "see": "Dots of light go from the torch to the teddy, then from the teddy to the eyes. With the eyes shut, the light cannot get in, so the child cannot see the teddy."
+      },
+      {
+        "title": "Light goes in straight lines",
+        "text": "Light travels in straight lines. It does not bend around things by itself. Here are three cards, each with a small hole. The light can only get through when all three holes are in one straight line.",
+        "try": "Move the slider to slide the middle card.",
+        "see": "When the middle hole is out of line, the light stops at the middle card. When all the holes line up, a spot of light reaches the wall."
+      },
+      {
+        "title": "Clear, cloudy or solid",
+        "text": "Some materials let light go straight through. They are transparent, like clear glass. Some let only part of the light through and spread it out. They are translucent, like tracing paper. Some let no light through at all. They are opaque, like wood. Opaque things make a shadow.",
+        "try": "Tap Glass, Tracing paper and Wood to put each one in the beam.",
+        "see": "Glass: a bright spot on the wall. Tracing paper: only a dim, fuzzy glow. Wood: no light gets through, so there is a dark shadow."
+      },
+      {
+        "title": "Mirrors bounce light",
+        "text": "A mirror is very smooth and shiny. When light hits it, the light bounces off in a new direction, like a ball bouncing off a wall. If you turn the mirror, the light goes somewhere else.",
+        "try": "Move the slider to turn the mirror until the light hits the star.",
+        "see": "The light goes in a straight line to the mirror, bounces off, and goes in a straight line again. Turn the mirror a little and the spot of light moves."
+      },
+      {
+        "title": "See around a corner",
+        "text": "The child cannot see the teddy because a wall is in the way. The teddy's light goes in straight lines, and the wall stops it. A mirror can bounce the teddy's light past the wall and into the child's eyes.",
+        "try": "Turn on Add a mirror.",
+        "see": "Without the mirror, the wall blocks the teddy's light. With the mirror, the light bounces into the child's eyes, so now the child can see the teddy."
+      }
+    ],
+    "quiz": [
+      { "q": "Why can't you see a toy in a room that is totally dark?", "options": ["The toy has gone away", "No light comes from the toy into your eyes", "Your eyes are too small"], "answer": 1, "why": "We see a thing when light from it gets into our eyes. In total darkness there is no light to bounce off the toy." },
+      { "q": "Which material is translucent?", "options": ["Clear glass", "Tracing paper", "A wooden board"], "answer": 1, "why": "Tracing paper lets some light through but spreads it out, so you only see a fuzzy glow. Clear glass is transparent and wood is opaque." },
+      { "q": "What does a mirror do to light?", "options": ["It soaks the light up", "It bounces the light off in a new direction", "It makes the light go around corners by itself"], "answer": 1, "why": "A smooth, shiny mirror bounces light off in a new direction. Light still goes in straight lines before and after it bounces." }
+    ]
+  },
+  "coverStep": 2,
+  "source": "original"
+}
