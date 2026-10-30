@@ -1,0 +1,57 @@
+{
+  "slug": "animal-needs",
+  "order": 20,
+  "level": "primary",
+  "ages": "6-8",
+  "grades": [1, 2],
+  "title": "What Do Animals Need to Live?",
+  "type": "Living Things",
+  "question": "What does an animal need to stay alive?",
+  "steps": ["Animals are living things", "Food", "Water", "Air", "Shelter", "Look after the animals"],
+  "content": {
+    "steps": [
+      {
+        "title": "Animals are living things",
+        "text": "A rabbit, a bird and a fish live on this little farm. They look very different, but they are all living things. To stay alive, every animal needs four things: food, water, air and a safe place to live, called a shelter.",
+        "try": "Press Rabbit, Bird or Fish to take a closer look at each animal.",
+        "see": "The rabbit sits on the grass, the bird stands near the tree and the fish swims in the pond. All three need the same four things."
+      },
+      {
+        "title": "Food",
+        "text": "Animals need food to grow and to have energy to move. Different animals eat different food. This rabbit eats plants, like carrots and grass. This bird eats seeds. The fish eats small worms and insects in the pond.",
+        "try": "Press Feed the rabbit, Feed the bird and Feed the fish.",
+        "see": "Each animal goes to its own food: the rabbit to the carrot, the bird to the seeds and the fish to the worm."
+      },
+      {
+        "title": "Water",
+        "text": "All animals need water. Without water to drink, an animal cannot live for long. The rabbit and the bird drink from a water bowl. The fish lives in the pond water all the time.",
+        "try": "Press Fill the bowl, then press Empty the bowl.",
+        "see": "When the bowl has water, the rabbit and the bird come to drink. When it is empty, they cannot drink, so they walk away."
+      },
+      {
+        "title": "Air",
+        "text": "All animals need air to breathe. The rabbit breathes air in through its nose. The bird breathes through two tiny holes on its beak. A fish breathes too! There is a little air mixed into pond water. The fish takes water in through its mouth, and its gills take the air out of the water.",
+        "try": "Press Look at the rabbit, Look at the bird and Look at the fish.",
+        "see": "White dots of air go into the rabbit's nose and the bird's beak. Blue dots of water go into the fish's mouth and come out past its gills."
+      },
+      {
+        "title": "Shelter",
+        "text": "A shelter is a safe place to live. It keeps an animal safe from rain, cold and hot sun, and it helps the animal hide from other animals that want to eat it. The rabbit has a burrow, a hole under the ground. The bird has a nest in a tree. The fish hides in the water plants.",
+        "try": "Press Make it rain, then press Sun comes out.",
+        "see": "When it rains, the rabbit goes into its burrow, the bird flies up to its nest and the fish swims into the water plants. When the sun comes out, they all come back."
+      },
+      {
+        "title": "Look after the animals",
+        "text": "Now you take care of the animals. Pick an animal, then give it each thing it needs: food, water, air and shelter. When it has all four, it jumps for joy!",
+        "try": "Press Rabbit, Bird or Fish, then press Food, Water, Air and Shelter.",
+        "see": "Each need you give gets a tick. When all four have a tick, the animal jumps for joy."
+      }
+    ],
+    "quiz": [
+      { "q": "Which four things do animals need to live?", "options": ["Food, water, air and shelter", "Toys, food, music and a bed", "Only food"], "answer": 0, "why": "Every animal needs food, water and air, and a shelter to stay safe from bad weather and from animals that hunt it." },
+      { "q": "How does a fish get the air it needs?", "options": ["It jumps out of the water to breathe", "Its gills take air out of the water", "Fish do not need air"], "answer": 1, "why": "There is a little air mixed into water. Water goes in at the fish's mouth, and its gills take the air out of it." },
+      { "q": "Why does a rabbit need a burrow?", "options": ["To keep its toys in", "To stay safe from bad weather and hungry animals", "To find food inside"], "answer": 1, "why": "A burrow is the rabbit's shelter. It keeps the rabbit dry and warm and helps it hide from foxes and other hunters." }
+    ]
+  },
+  "source": "original"
+}

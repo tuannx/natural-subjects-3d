@@ -1,0 +1,64 @@
+{
+  "slug": "erosion",
+  "order": 20,
+  "level": "primary",
+  "ages": "7-10",
+  "grades": [2, 4],
+  "title": "How Do Wind and Water Shape the Land?",
+  "type": "Earth's Surface",
+  "coverStep": 1,
+  "question": "How can water carve a valley out of solid ground?",
+  "steps": ["Water carries soil away", "A river carves a valley", "Sand drops where the river slows", "Waves wear away cliffs", "Wind builds dunes", "Roots hold the soil", "Fast and slow changes"],
+  "content": {
+    "steps": [
+      {
+        "title": "Water carries soil away",
+        "text": "When rain falls on a hill, the water runs downhill. On the way it picks up tiny bits of soil, sand and rock and carries them along. When water or wind moves bits of the land from one place to another, we call it erosion.",
+        "try": "Press Make it rain and watch where the water goes.",
+        "see": "The rain runs down the slopes into the river. The river turns brown because it is carrying soil."
+      },
+      {
+        "title": "A river carves a valley",
+        "text": "A river carries sand and pebbles that scrape its bed, bit by bit. Over a very long time, the river cuts down into the land and makes a valley. This is too slow to see in a lifetime. It takes thousands of years or more.",
+        "try": "Slide Years passing to the right.",
+        "see": "The valley gets deeper and wider. Up in the steep hills it becomes a deep V shape."
+      },
+      {
+        "title": "Sand drops where the river slows",
+        "text": "When the river reaches the sea, its water slows down. Slow water cannot carry as much, so the river drops its sand and mud there. This is called deposition. Over time, the sand builds new flat land at the river's mouth, called a delta.",
+        "try": "Slide Years passing to the right and watch the river's mouth.",
+        "see": "A fan of new sandy land grows out into the sea where the river ends."
+      },
+      {
+        "title": "Waves wear away cliffs",
+        "text": "Waves crash against the coast again and again. They throw sand and pebbles at the rock and break pieces off. Slowly the cliff wears back, and broken rocks pile up at its foot.",
+        "try": "Slide Years passing to the right.",
+        "see": "The cliff edge moves back toward the land. Fallen rocks are left on a flat rocky shelf at the bottom."
+      },
+      {
+        "title": "Wind builds dunes",
+        "text": "Wind moves sand too. Wind from the sea picks up dry sand from the beach. Where the wind slows down, it drops the sand, and the sand piles up into hills called dunes. Dunes slowly creep the same way the wind blows.",
+        "try": "Press Blow the wind, then Stop the wind.",
+        "see": "Sand blows off the beach and the dunes creep inland, away from the sea. Each dune has a gentle slope facing the wind and a steep slope on the other side."
+      },
+      {
+        "title": "Roots hold the soil",
+        "text": "Here is a test with two slopes. One is bare soil. The other is covered with grass and bushes. Plant roots grow through the soil and hold it together like a net, and the leaves soften the falling rain.",
+        "try": "Press Make it rain on both slopes. Press Start again to repeat the test.",
+        "see": "The bare slope gets deep grooves, and lots of muddy water collects at the bottom. The planted slope hardly changes, and its water is much clearer."
+      },
+      {
+        "title": "Fast and slow changes",
+        "text": "Most changes to the land are slow, like a river carving a valley. Some changes are fast. In a landslide, part of a hillside slides down in minutes. A big flood can change a river's banks in a day.",
+        "try": "Press Landslide, then press Many years.",
+        "see": "The landslide changes the hillside in a moment. The river's slow work only shows after many, many years."
+      }
+    ],
+    "quiz": [
+      { "q": "What is erosion?", "options": ["Bits of soil and rock being carried away by water or wind", "Rain falling from a cloud", "A plant growing new roots"], "answer": 0, "why": "Erosion means bits of the land are picked up and moved somewhere else, most often by moving water or wind." },
+      { "q": "Why does a river drop its sand where it meets the sea?", "options": ["The water gets colder", "The water slows down", "The sand gets lighter"], "answer": 1, "why": "Slow water cannot carry as much sand, so the sand settles and builds up a delta." },
+      { "q": "How can people stop a hillside from washing away in the rain?", "options": ["Take away all the plants", "Plant grass and trees on it", "Pour more water on it"], "answer": 1, "why": "Roots hold the soil together and leaves soften the rain, so much less soil is washed away." }
+    ]
+  },
+  "source": "original"
+}

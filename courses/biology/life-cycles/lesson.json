@@ -1,0 +1,58 @@
+{
+  "slug": "life-cycles",
+  "order": 20,
+  "level": "primary",
+  "ages": "8-11",
+  "grades": [3, 5],
+  "title": "Life Cycles: Butterfly, Frog and Bean",
+  "type": "Living Things",
+  "question": "How does a tiny egg turn into a butterfly?",
+  "steps": ["What is a life cycle?", "Butterfly: egg and caterpillar", "Butterfly: chrysalis and adult", "Frog: from frogspawn to frog", "Bean plant: from seed to pods", "Same pattern, different paths"],
+  "content": {
+    "steps": [
+      {
+        "title": "What is a life cycle?",
+        "text": "Every living thing has a life cycle. It starts life as an egg or a seed, or it is born. It grows. As an adult it makes young of its own. In the end it dies, but its young carry on and grow up too. Because this happens again and again, we draw it as a circle.",
+        "try": "Press Butterfly, Frog and Bean plant to see three different life cycles.",
+        "see": "The orange marker goes round and round the track. The last stage makes eggs or seeds, and they start the circle again."
+      },
+      {
+        "title": "Butterfly: egg and caterpillar",
+        "text": "A butterfly lays tiny eggs on a plant. A monarch butterfly lays them on milkweed leaves. After a few days a caterpillar hatches from each egg. It eats and eats, and grows very fast. It gets too big for its skin, so it sheds its skin several times.",
+        "try": "Move the slider from Egg to Caterpillar.",
+        "see": "The tiny egg hatches into a small caterpillar. As it eats the leaf, the caterpillar grows much bigger."
+      },
+      {
+        "title": "Butterfly: chrysalis and adult",
+        "text": "When the caterpillar is fully grown, it hangs upside down and makes a hard case around itself, called a chrysalis. Inside, its whole body changes. A big change of body shape like this is called metamorphosis. After one to two weeks a butterfly comes out. It can fly, and it lays eggs, so the cycle starts again.",
+        "try": "Move the slider from Chrysalis to Butterfly, then on to the end of the track.",
+        "see": "The chrysalis darkens, and then a butterfly comes out. At the end of the track the marker is back at the egg."
+      },
+      {
+        "title": "Frog: from frogspawn to frog",
+        "text": "Frogs lay their eggs in ponds. The eggs sit in a clump of jelly called frogspawn. A tadpole hatches. It lives under water, swims with its tail and breathes with gills, like a fish. It grows back legs, then front legs. Now it is a froglet: it has a short tail and starts to breathe air with lungs. The adult frog has no tail. It lives on land and in water, and lays its eggs in water.",
+        "try": "Move the slider slowly through the Tadpole stage.",
+        "see": "First the back legs grow, then the front legs. The froglet still has a short tail. The adult frog has no tail at all."
+      },
+      {
+        "title": "Bean plant: from seed to pods",
+        "text": "Plants have life cycles too. A bean seed needs water and warmth to start growing. A root grows down and a shoot grows up. The young plant makes more leaves, then flowers. Each flower turns into a pod with new seeds inside. At the end of the season the old bean plant dies, but its seeds can grow into new plants.",
+        "try": "Move the slider all the way round the track.",
+        "see": "The seed becomes a seedling, then a young plant with flowers, then pods. The new seeds start the circle again."
+      },
+      {
+        "title": "Same pattern, different paths",
+        "text": "The butterfly, the frog and the bean plant look very different, but their life cycles share one pattern: start life, grow, make young, and die. Butterflies and frogs change shape completely as they grow up (metamorphosis). Many other animals, like dogs and people, do not. Their babies look like small adults.",
+        "try": "Move the Move all three slider to compare the three cycles.",
+        "see": "All three go round in a circle. The young look very different from the adults, but every adult makes new eggs or seeds."
+      }
+    ],
+    "quiz": [
+      { "q": "What is the right order for a butterfly's life cycle?", "options": ["Egg, caterpillar, chrysalis, butterfly", "Caterpillar, egg, butterfly, chrysalis", "Egg, butterfly, chrysalis, caterpillar"], "answer": 0, "why": "The egg hatches into a caterpillar. The caterpillar makes a chrysalis, and the adult butterfly comes out of it." },
+      { "q": "What happens as a tadpole turns into a frog?", "options": ["It grows legs and loses its tail", "It grows wings", "It turns into a fish"], "answer": 0, "why": "A tadpole grows back legs, then front legs. Its tail shrinks away and it starts to breathe air with lungs." },
+      { "q": "What does a bean flower turn into?", "options": ["A root", "A pod with seeds inside", "A leaf"], "answer": 1, "why": "After the flower, a pod grows. The pod holds new bean seeds, which can grow into new plants." }
+    ]
+  },
+  "source": "original",
+  "coverStep": 2
+}

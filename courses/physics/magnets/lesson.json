@@ -1,0 +1,64 @@
+{
+  "slug": "magnets",
+  "order": 21,
+  "level": "primary",
+  "ages": "8-10",
+  "grades": [3, 4],
+  "title": "Magnets Pull and Push",
+  "type": "Forces",
+  "question": "What can a magnet pick up, and how can it pull without touching?",
+  "steps": ["What sticks to a magnet?", "Iron and steel", "Two poles", "Attract or repel", "Pull without touching", "Through paper and water", "Magnets at work"],
+  "content": {
+    "steps": [
+      {
+        "title": "What sticks to a magnet?",
+        "text": "Here is a bar magnet and five things from around the house: a paper clip, a nail, a coin, an eraser and a ball of foil. Let's test each one. Does it stick to the magnet or not?",
+        "try": "Press a button to bring the magnet up to that object. Test all five.",
+        "see": "The paper clip and the nail jump to the magnet and stick. The coin, the eraser and the foil stay where they are."
+      },
+      {
+        "title": "Iron and steel",
+        "text": "Magnets attract things made of iron or steel. Steel is made mostly from iron. Most other materials, like paper, plastic, rubber and wood, are not attracted. Not every metal sticks either. Foil is made of aluminum, and most coins are made of metals such as copper and zinc. Magnets do not attract these metals.",
+        "try": "Press Sort them all to put each object in the right tray.",
+        "see": "Only the steel paper clip and the iron nail go in the Sticks tray. The coin and the foil are metal, but they go in the Does not stick tray with the eraser."
+      },
+      {
+        "title": "Two poles",
+        "text": "Every magnet has two ends called poles: a north pole (N) and a south pole (S). The pull of a magnet is strongest at its poles and weakest in the middle.",
+        "try": "Press Dip in paper clips, then watch which part of the magnet picks them up.",
+        "see": "The paper clips hang from the two ends of the magnet. Almost none stick to the middle."
+      },
+      {
+        "title": "Attract or repel",
+        "text": "Bring two magnets close together. If a north pole faces a south pole, the magnets pull together. We say opposite poles attract. If two north poles or two south poles face each other, the magnets push apart. We say like poles repel.",
+        "try": "Press Flip the right magnet to turn it around. Press Start again to set it back near the other magnet.",
+        "see": "When N faces S, the right magnet slides over and clicks onto the left one. When it is flipped so that N faces N, it is pushed away, even though nothing touches it."
+      },
+      {
+        "title": "Pull without touching",
+        "text": "A magnet can pull on things without touching them. The pull gets stronger as the magnet comes closer, and weaker as it moves away. When it is close enough, the pull is strong enough to move the paper clip.",
+        "try": "Move the slider to bring the magnet closer to the paper clip. Press Put the clip back to try again.",
+        "see": "The pull arrow on the clip grows as the magnet comes closer. Far away the clip does not move. Close up, the clip jumps across the gap to the magnet."
+      },
+      {
+        "title": "Through paper and water",
+        "text": "The pull of a magnet can pass through many things, like paper, card, plastic and water. Here the magnet is hidden under a sheet of card, and then under a tank of water. It still pulls on the paper clip.",
+        "try": "Press Through card, then press Through water.",
+        "see": "As the magnet moves in a circle underneath, the paper clip follows it on top of the card, and along the bottom of the tank under the water."
+      },
+      {
+        "title": "Magnets at work",
+        "text": "People use magnets to solve problems every day. A fridge magnet holds a note on a steel door. A compass needle is a tiny magnet. The Earth acts like a giant magnet, so the red end of the needle turns to point north. A magnet close by pulls much harder than the Earth, so it can turn the needle away from north.",
+        "try": "Use the Turn the compass slider. Then switch on Bring a magnet near.",
+        "see": "However you turn the compass, the red end of the needle keeps pointing north. When the magnet comes near, the needle swings to point at the magnet instead."
+      }
+    ],
+    "quiz": [
+      { "q": "Which of these will a magnet pick up?", "options": ["A steel paper clip", "A ball of aluminum foil", "A rubber eraser"], "answer": 0, "why": "Magnets attract iron and steel. Foil is a metal, but aluminum is not attracted, and rubber is not attracted either." },
+      { "q": "You hold the north pole of one magnet near the north pole of another. What happens?", "options": ["They pull together", "They push apart", "Nothing at all"], "answer": 1, "why": "Like poles repel. Two north poles (or two south poles) push each other away." },
+      { "q": "Can a magnet move a paper clip through a sheet of paper?", "options": ["Yes, the magnet's pull goes through paper", "No, the magnet has to touch the clip", "Only if the paper is wet"], "answer": 0, "why": "The pull of a magnet works at a distance and passes through paper, card and water." }
+    ]
+  },
+  "coverStep": 2,
+  "source": "original"
+}

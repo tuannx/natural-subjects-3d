@@ -1,0 +1,58 @@
+{
+  "slug": "friction-forces",
+  "order": 20,
+  "level": "primary",
+  "ages": "8-10",
+  "grades": [3, 4],
+  "title": "Balanced Forces and Friction",
+  "type": "Forces",
+  "question": "Why does a box slide far on ice but stop quickly on carpet?",
+  "steps": ["Balanced forces", "Unbalanced forces", "Friction slows things down", "Ice, wood and carpet", "Motion has patterns", "Predict where it lands"],
+  "content": {
+    "steps": [
+      {
+        "title": "Balanced forces",
+        "text": "A force is a push or a pull. Every force has a size (how strong) and a direction (which way). In this tug of war, both teams pull the rope just as hard, but in opposite directions. The two pulls cancel out. We say the forces are balanced, so the rope does not move.",
+        "try": "Press Both pull gently, then Both pull hard.",
+        "see": "The arrows get longer when both teams pull hard, but they stay the same size as each other. The red ribbon stays on the middle line."
+      },
+      {
+        "title": "Unbalanced forces",
+        "text": "Now change the teams. If one side pulls harder than the other, the forces are unbalanced. Unbalanced forces change how something moves. The rope starts to move toward the side that pulls harder.",
+        "try": "Use the Blue team and Orange team sliders to add or take away children. Press Start again to put the ribbon back in the middle.",
+        "see": "When the teams have the same number of children, the ribbon stays still. When one team is bigger, its arrow is longer and the ribbon moves toward that team."
+      },
+      {
+        "title": "Friction slows things down",
+        "text": "Give a box a push and it slides, then slows down and stops. Why? The bottom of the box rubs on the floor. This rubbing force is called friction. Friction always pushes against the way the box is sliding. Once your push ends, friction is the only force left, so the forces are unbalanced and the box slows down.",
+        "try": "Press Push the box and watch the green friction arrow.",
+        "see": "The orange push arrow points forward and lasts only a moment. The green friction arrow points backward the whole time the box slides, until it stops."
+      },
+      {
+        "title": "Ice, wood and carpet",
+        "text": "Friction is not the same on every surface. Smooth surfaces have little friction. Rough surfaces have more. Here three boxes get exactly the same push, one on ice, one on a wooden floor and one on carpet.",
+        "try": "Press Push all three and compare how far each box slides.",
+        "see": "The box on carpet stops first, after a short slide. The box on wood goes a bit farther. The box on smooth ice slides the farthest of all."
+      },
+      {
+        "title": "Motion has patterns",
+        "text": "Here a ball rolls down a ramp, across a table and off the edge onto a sand tray. Scientists look for patterns. If you start the ball from the same place every time, does it land in the same spot?",
+        "try": "Press Middle start a few times. Then try Low start and High start.",
+        "see": "From the same start the ball lands in the same spot every time, so the marks pile up. A higher start makes the ball go faster, and it lands farther from the table."
+      },
+      {
+        "title": "Predict where it lands",
+        "text": "When motion follows a pattern, you can use it to predict what will happen next. Look at the cup in the sand. Which start will land the ball right in the cup? Make your guess before you press.",
+        "try": "Guess first, then press Low start, Middle start or High start.",
+        "see": "The low and middle starts land short of the cup. The high start lands the ball in the cup. You used the pattern to make a prediction."
+      }
+    ],
+    "quiz": [
+      { "q": "Two teams pull on a rope just as hard as each other. What happens?", "options": ["The rope moves toward the left team", "The rope stays still", "The rope moves up"], "answer": 1, "why": "The two pulls are the same size but in opposite directions. The forces are balanced, so the rope does not move." },
+      { "q": "Three boxes get the same push on ice, wood and carpet. Which one slides the farthest?", "options": ["The box on ice", "The box on wood", "The box on carpet"], "answer": 0, "why": "Ice is very smooth, so it has the least friction. With less friction slowing it down, the box slides farther." },
+      { "q": "A ball always lands in the same spot when it starts from the middle of the ramp. Where will it land if you start it higher?", "options": ["In the same spot", "Farther from the table", "Closer to the table"], "answer": 1, "why": "A higher start makes the ball go faster at the bottom, so it flies farther before it lands. The pattern helps you predict this." }
+    ]
+  },
+  "coverStep": 3,
+  "source": "original"
+}

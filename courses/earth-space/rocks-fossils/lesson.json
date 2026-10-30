@@ -1,0 +1,63 @@
+{
+  "slug": "rocks-fossils",
+  "order": 21,
+  "level": "primary",
+  "ages": "8-10",
+  "grades": [3, 4],
+  "title": "What Can Rock Layers Tell Us?",
+  "type": "Rocks & Fossils",
+  "question": "How did a fish fossil end up high on a mountain?",
+  "steps": ["Rocks in layers", "Layer on layer", "Oldest at the bottom", "How a fossil forms", "Fossils tell stories", "The land rises", "A river cuts a canyon"],
+  "content": {
+    "steps": [
+      {
+        "title": "Rocks in layers",
+        "text": "This canyon wall has stripes. Each stripe is a layer of rock. Every layer was once loose sand, mud or tiny bits of shell. Layers like these can tell us what this place was like long, long ago.",
+        "try": "Drag the picture to turn it. Count the coloured layers in the canyon wall.",
+        "see": "Seven coloured layers sit one on top of another, above darker rock at the bottom. The same layers show on both sides of the canyon."
+      },
+      {
+        "title": "Layer on layer",
+        "text": "Rivers wash sand and mud into the sea. It sinks and settles on the sea floor, a little at a time. Over a very long time it builds a thick layer, and then a different kind of sand or mud makes the next layer on top. The weight of the layers above presses the grains together, minerals glue them, and slowly they turn into rock.",
+        "try": "Slide Time to the right.",
+        "see": "Each new layer settles on top of the ones before it. The layers at the top formed later, after the sea had gone and rivers spread sand over dry land."
+      },
+      {
+        "title": "Oldest at the bottom",
+        "text": "Each new layer covers the layers that were already there. So the deeper a layer is, the older it is. The bottom layer is the oldest and the top layer is the youngest, as long as nothing has tipped the rocks over.",
+        "try": "Tap Oldest layer, Middle layer and Youngest layer.",
+        "see": "The oldest layer lies at the very bottom. The youngest layer is at the top."
+      },
+      {
+        "title": "How a fossil forms",
+        "text": "A fossil is what is left of a plant or animal that lived long ago, kept in rock. Here a fish dies and sinks to the muddy sea floor. Mud soon covers it. The soft parts rot away, but the bones stay. Over millions of years, minerals soak into the bones and they turn to stone.",
+        "try": "Slide Time to the right to follow the fish.",
+        "see": "The fish is buried in mud, its soft body disappears, and its bones become a stone fossil inside the rock layer."
+      },
+      {
+        "title": "Fossils tell stories",
+        "text": "Fossils show what a place was like when its layer formed. Sea shells and fish mean the place was under the sea. A fern means it was dry land with plants growing on it.",
+        "try": "Press Dig for a fossil three times.",
+        "see": "The shell and the fish are in low layers, so the sea was here first. The fern is in a higher layer, so later this place became land."
+      },
+      {
+        "title": "The land rises",
+        "text": "Very slowly, forces deep inside the Earth can push land up, higher and higher. Rock that formed at the bottom of the sea can end up high in the mountains. Fossils of sea animals have even been found near the top of Mount Everest.",
+        "try": "Slide Land rising to the right.",
+        "see": "The rock layers rise far above the sea. The fish fossil is now high on dry land, yet it shows that this rock formed under water."
+      },
+      {
+        "title": "A river cuts a canyon",
+        "text": "A river flowing over the high land slowly cuts down into the rock, layer by layer. After a very long time it makes a deep canyon with the layers showing in its walls. The Grand Canyon in the USA was carved like this by the Colorado River over millions of years.",
+        "try": "Slide Time to the right.",
+        "see": "The river cuts deeper and deeper. The same layers appear in the same order on both sides of the canyon."
+      }
+    ],
+    "quiz": [
+      { "q": "In rock layers that have not been moved, which layer is the oldest?", "options": ["The top layer", "The bottom layer", "The middle layer"], "answer": 1, "why": "Each layer is laid down on top of older ones, so the bottom layer formed first." },
+      { "q": "Fish fossils are found in rock high on a mountain. What does that tell us?", "options": ["Fish once lived on dry mountains", "The rock formed under water and was pushed up later", "A bird dropped the fish there"], "answer": 1, "why": "Fish live in water. The rock formed under the sea long ago, and then the land was slowly pushed up." },
+      { "q": "What is a fossil?", "options": ["The remains or trace of a living thing from long ago, kept in rock", "A shiny new crystal", "A rock that the wind shaped like an animal"], "answer": 0, "why": "Fossils are bones, shells, leaves, footprints and other traces of plants and animals that lived long ago, kept in rock." }
+    ]
+  },
+  "source": "original"
+}

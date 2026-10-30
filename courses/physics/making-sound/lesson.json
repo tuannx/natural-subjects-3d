@@ -1,0 +1,58 @@
+{
+  "slug": "making-sound",
+  "order": 22,
+  "level": "primary",
+  "ages": "6-10",
+  "grades": [1, 4],
+  "title": "Where Does Sound Come From?",
+  "type": "Sound",
+  "question": "How does a drum make a sound?",
+  "steps": ["Sound starts with a shake", "No shake, no sound", "Loud and soft", "High and low", "Sound travels to your ear", "Make some sounds"],
+  "content": {
+    "steps": [
+      {
+        "title": "Sound starts with a shake",
+        "text": "Every sound starts with something shaking back and forth very fast. Scientists call this shaking a vibration. When you hit a drum, the top of the drum shakes. The shaking is too fast to see well, so we put some rice on the drum.",
+        "try": "Press Hit the drum and watch the rice.",
+        "see": "The top of the drum wobbles and the rice grains jump. The drum is vibrating, and that makes the sound."
+      },
+      {
+        "title": "No shake, no sound",
+        "text": "Put your hand flat on a drum after you hit it. Your hand stops the shaking. When the shaking stops, the sound stops too.",
+        "try": "Press Hit the drum, then press Touch the drum.",
+        "see": "When the hand touches the drum, the wobbling stops, the rice stays still and no more sound waves go out."
+      },
+      {
+        "title": "Loud and soft",
+        "text": "A gentle tap makes the drum shake a little, so the sound is soft. A hard hit makes the drum shake a lot, so the sound is loud. Bigger shakes make louder sounds.",
+        "try": "Move the slider from a gentle tap to a hard hit.",
+        "see": "With a hard hit the drum top moves more, the rice jumps higher and the sound waves are stronger."
+      },
+      {
+        "title": "High and low",
+        "text": "Hold a ruler on the edge of a table and flick the end. A short end shakes fast and makes a high sound. A long end shakes slowly and makes a low sound. Fast shakes make high sounds. Slow shakes make low sounds.",
+        "try": "Move the slider to make the end of the ruler shorter or longer. Press Flick the ruler.",
+        "see": "The short ruler shakes very fast and its sound waves are close together. The long ruler swings slowly and its waves are far apart."
+      },
+      {
+        "title": "Sound travels to your ear",
+        "text": "The shaking drum pushes on the air next to it. That air pushes the air next to it, and so on, all the way to your ear. The air does not fly across the room. It just passes the shake along. Inside your ear, the shake moves your eardrum, and you hear the sound.",
+        "try": "Press Hit the drum and watch the dots of air between the drum and the ear.",
+        "see": "Each bit of air only wiggles back and forth a little, but the wave goes all the way from the drum to the ear."
+      },
+      {
+        "title": "Make some sounds",
+        "text": "Now you know the rules of sound. Big shakes are loud and small shakes are soft. Fast shakes are high and slow shakes are low. Try it on the drum and the ruler.",
+        "try": "Tap the buttons to play each sound. Turn on Play real sound to hear them too.",
+        "see": "The loud drum sends out strong waves. The short ruler sends out waves close together, and the long ruler sends them far apart."
+      }
+    ],
+    "quiz": [
+      { "q": "What makes a sound?", "options": ["Something that is very heavy", "Something that is shaking (vibrating)", "Something that is very bright"], "answer": 1, "why": "All sounds start with a vibration: something shaking back and forth very fast." },
+      { "q": "You hit a drum much harder. What happens to the sound?", "options": ["It gets louder", "It gets higher", "It stops"], "answer": 0, "why": "A harder hit makes the drum shake more, and bigger shakes make a louder sound." },
+      { "q": "Which ruler end makes the highest sound when you flick it?", "options": ["A long end", "A short end", "They all sound the same"], "answer": 1, "why": "A short end shakes faster, and faster shakes make a higher sound." }
+    ]
+  },
+  "coverStep": 2,
+  "source": "original"
+}

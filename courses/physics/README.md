@@ -2,12 +2,18 @@
 
 Forces and motion, energy, sound, light, electricity and magnets.
 
-12 lessons. On the site: `/subjects/physics/`. How to add one: [../README.md](../README.md).
+18 lessons. On the site: `/subjects/physics/`. How to add one: [../README.md](../README.md).
 
-## Primary school (2)
+## Primary school (8)
 
+- [Pushes and Pulls](push-pull/) · Grades 1–2
+- [Where Does Sound Come From?](making-sound/) · Grades 1–4
+- [How Do We See Things?](light-and-materials/) · Grades 1–4
 - [Will It Float or Sink?](float-sink/) · Grades 2–3
+- [Balanced Forces and Friction](friction-forces/) · Grades 3–4
+- [Magnets Pull and Push](magnets/) · Grades 3–4
 - [Make the Bulb Light Up](simple-circuit/) · Grades 4–5
+- [Waves on a Pond](water-waves/) · Grades 4–5
 
 ## High school (10)
 

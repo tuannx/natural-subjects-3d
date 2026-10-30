@@ -1,0 +1,57 @@
+{
+  "slug": "push-pull",
+  "order": 20,
+  "level": "primary",
+  "ages": "6-8",
+  "grades": [1, 2],
+  "title": "Pushes and Pulls",
+  "type": "Forces",
+  "question": "How can I make my toy cart go, stop or turn?",
+  "steps": ["Push or pull", "Small push, big push", "Push to stop", "Bounce off a wall", "Push from the side", "Roll down a ramp"],
+  "content": {
+    "steps": [
+      {
+        "title": "Push or pull",
+        "text": "This toy cart sits still on the play mat. It will not move by itself. To make it move, you have to push it or pull it. A push moves it away from you. A pull brings it toward you. The big arrow shows which way the push or pull goes.",
+        "try": "Press Push, then press Pull. Watch which way the arrow points.",
+        "see": "When you push, the cart rolls away from you. When you pull the string, the cart rolls toward you. The cart always moves the way the arrow points."
+      },
+      {
+        "title": "Small push, big push",
+        "text": "Now let's push the cart from the start square. First a small push, then a big push. The numbers on the mat help us see how far the cart goes.",
+        "try": "Press Small push. Then press Big push. Count the squares each time.",
+        "see": "After a small push the cart stops close by. After a big push it goes faster and rolls much farther. A bigger push makes a bigger change."
+      },
+      {
+        "title": "Push to stop",
+        "text": "A push can start something moving, and a push can also stop it. Here the cart is rolling fast. To stop it, push against the way it is going.",
+        "try": "Press Roll it, then press Push to stop while the cart is still rolling.",
+        "see": "The stop arrow points the other way from where the cart is going. The cart slows down and stops right away, long before it would stop by itself."
+      },
+      {
+        "title": "Bounce off a wall",
+        "text": "Here is a ball and a wall. When the ball hits the wall, the wall pushes back on the ball. That push turns the ball around, so it rolls back the other way.",
+        "try": "Press Roll it gently, then press Roll it hard.",
+        "see": "The ball always comes back after it hits the wall. A hard roll bounces back faster and farther than a gentle roll."
+      },
+      {
+        "title": "Push from the side",
+        "text": "A push does not only make things go faster or slower. A push from the side can turn a moving ball, so it goes a new way. The dots show the path the ball takes.",
+        "try": "Press Roll the ball, then press Side push while it is rolling.",
+        "see": "The ball rolls in a straight line until the side push. Then its path bends and it goes off in a new direction."
+      },
+      {
+        "title": "Roll down a ramp",
+        "text": "On a ramp, nobody has to push the cart. The Earth pulls everything down. We call this pull gravity. Gravity pulls the cart down the ramp. On a higher ramp, the cart goes faster at the bottom.",
+        "try": "Press Low ramp and then High ramp. Each time the cart lets go at the top.",
+        "see": "From the low ramp the cart stops after a short roll. From the high ramp it comes down faster and rolls much farther across the mat."
+      }
+    ],
+    "quiz": [
+      { "q": "You give a toy car a big push instead of a small push. What happens?", "options": ["It rolls farther", "It rolls less far", "Nothing changes"], "answer": 0, "why": "A bigger push makes a bigger change. The car goes faster, so it rolls farther before it stops." },
+      { "q": "How can you stop a rolling ball?", "options": ["Push it the same way it is going", "Push against the way it is going", "Clap your hands"], "answer": 1, "why": "A push against the way something is moving slows it down and can stop it." },
+      { "q": "A ball rolls into a wall and comes back. Why?", "options": ["The ball gets tired", "The wall pushes it back", "The wind blows it back"], "answer": 1, "why": "When the ball hits the wall, the wall pushes back on it. That push turns the ball around." }
+    ]
+  },
+  "source": "original"
+}

@@ -1,0 +1,63 @@
+{
+  "slug": "plant-parts",
+  "order": 20,
+  "level": "primary",
+  "ages": "6-9",
+  "grades": [1, 3],
+  "title": "The Parts of a Plant",
+  "type": "Living Things",
+  "question": "What does each part of a plant do?",
+  "steps": ["A plant has parts", "Roots", "Stem", "Leaves", "Flower", "Fruit and seeds", "From seed to fruit"],
+  "content": {
+    "steps": [
+      {
+        "title": "A plant has parts",
+        "text": "This is a tomato plant. Like most plants, it has roots, a stem, leaves and flowers. Its flowers turn into fruits, and the fruits have seeds inside. Each part has its own job.",
+        "try": "Press Roots, Stem, Leaves, Flower and Fruit to light up each part.",
+        "see": "Each part glows when you press it, and its job is written under the buttons."
+      },
+      {
+        "title": "Roots",
+        "text": "The roots grow down into the soil. Here the soil is cut open, so you can see them. Roots hold the plant tight in the ground, so wind and rain do not knock it over. Roots also drink up water from the soil.",
+        "try": "Press Water the soil, then press Pull the plant.",
+        "see": "Blue drops of water go from the wet soil into the roots and up toward the stem. When you pull, the roots hold the plant in the soil and it springs back."
+      },
+      {
+        "title": "Stem",
+        "text": "The stem holds the plant up, so its leaves can reach the light. Inside, the stem has tiny tubes, like drinking straws. Water travels up these tubes from the roots to the leaves. You can see this at home: stand a stick of celery in coloured water, and the colour climbs up the stem.",
+        "try": "Switch See inside the stem off and on.",
+        "see": "Inside the stem, blue drops of water climb up from the roots and go out into the leaves."
+      },
+      {
+        "title": "Leaves",
+        "text": "Leaves are the plant's food makers. They use sunlight, air and water to make sugar, which is food for the plant. The food then travels to every part of the plant, even down to the roots. Without light, leaves cannot make food.",
+        "try": "Move the Sunlight slider from bright to dark, then back again.",
+        "see": "In bright light, lots of yellow food dots travel from the leaves to the rest of the plant. In the dark, there are none."
+      },
+      {
+        "title": "Flower",
+        "text": "Flowers are where seeds are made. Bees visit flowers. A yellow dust called pollen sticks to the bee, and the bee carries it to the next flower. When pollen reaches a flower, the flower can make seeds. Then its petals fall off and it starts to grow into a fruit.",
+        "try": "Press Send the bee.",
+        "see": "The bee picks up pollen at the first flower and carries it to the second one. Then the second flower loses its petals and a small green fruit starts to grow."
+      },
+      {
+        "title": "Fruit and seeds",
+        "text": "A fruit grows from a flower. The fruit holds the seeds and keeps them safe. A tomato is a fruit, and it has lots of seeds inside. When a seed is planted in the soil, it can grow into a new plant.",
+        "try": "Press Cut a tomato open, then press Plant a seed.",
+        "see": "The tomato is full of small seeds. The planted seed sends a root down and a shoot up: a new plant is starting."
+      },
+      {
+        "title": "From seed to fruit",
+        "text": "Now watch the whole plant grow. A seed sprouts: a root grows down and a shoot grows up. Leaves open. Then flowers come, and the flowers turn into fruits with new seeds inside.",
+        "try": "Press Grow again to watch, or move the Grow slider yourself.",
+        "see": "The parts come in order: root and stem first, then leaves, then flowers, and last of all the fruits."
+      }
+    ],
+    "quiz": [
+      { "q": "A strong wind blows. Which part keeps the plant from blowing away?", "options": ["The flower", "The roots", "The fruit"], "answer": 1, "why": "Roots grow deep into the soil and hold the plant tight. They also drink up water." },
+      { "q": "What is the job of the leaves?", "options": ["To make food using sunlight", "To hold the plant in the soil", "To make pollen"], "answer": 0, "why": "Leaves use sunlight, air and water to make sugar, the food the whole plant needs." },
+      { "q": "Where do a plant's seeds come from?", "options": ["From the roots", "From the flower, which turns into a fruit with seeds inside", "From the stem"], "answer": 1, "why": "Seeds are made in the flower. The flower grows into a fruit, which holds the seeds." }
+    ]
+  },
+  "source": "original"
+}

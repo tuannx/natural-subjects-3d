@@ -18,45 +18,45 @@ This is a map of topics, not a copy of either standard. Grade placement is a cho
 
 | Grade | Topic | NGSS | VN GDPT 2018 | Lesson | Status |
 |---|---|---|---|---|---|
-| 1–2 | Pushes and pulls start, stop and turn things | K-PS2-1, K-PS2-2 | — | `push-pull` | ○ |
-| 1–4 | Sound comes from vibrations; loud and soft, high and low | 1-PS4-1 | Khoa học 4: Âm thanh | `making-sound` | ○ |
-| 1–4 | Light lets us see; transparent, translucent, opaque, mirrors | 1-PS4-2, 1-PS4-3 | Khoa học 4: Ánh sáng | `light-and-materials` | ○ |
+| 1–2 | Pushes and pulls start, stop and turn things | K-PS2-1, K-PS2-2 | — | `push-pull` | ✅ |
+| 1–4 | Sound comes from vibrations; loud and soft, high and low | 1-PS4-1 | Khoa học 4: Âm thanh | `making-sound` | ✅ |
+| 1–4 | Light lets us see; transparent, translucent, opaque, mirrors | 1-PS4-2, 1-PS4-3 | Khoa học 4: Ánh sáng | `light-and-materials` | ✅ |
 | 2–3 | Floating and sinking | 2-PS1-2 | Khoa học 4: Nước | `float-sink` | ✅ |
-| 3–4 | Balanced and unbalanced forces, friction | 3-PS2-1, 3-PS2-2 | — | `friction-forces` | ○ |
-| 3–4 | Magnets attract, repel and work through things | 3-PS2-3, 3-PS2-4 | — | `magnets` | ○ |
+| 3–4 | Balanced and unbalanced forces, friction | 3-PS2-1, 3-PS2-2 | — | `friction-forces` | ✅ |
+| 3–4 | Magnets attract, repel and work through things | 3-PS2-3, 3-PS2-4 | — | `magnets` | ✅ |
 | 4–5 | Heat moves from warm to cold; conductors and insulators | 4-PS3-2 | Khoa học 4: Nhiệt | `heat-flow` | ○ |
 | 4–5 | Faster means more energy; energy passes on in collisions | 4-PS3-1, 4-PS3-3 | — | `speed-and-energy` | ○ |
 | 4–5 | A complete circuit, switches, conductors | 4-PS3-2, 4-PS3-4 | Khoa học 5: Năng lượng điện, mạch điện | `simple-circuit` | ✅ |
-| 4–5 | Waves: height and length, waves move things up and down | 4-PS4-1 | — | `water-waves` | ○ |
+| 4–5 | Waves: height and length, waves move things up and down | 4-PS4-1 | — | `water-waves` | ✅ |
 | 4–5 | Energy sources: sun, wind, water, fuels | 4-ESS3-1 | Khoa học 5: Năng lượng chất đốt, mặt trời, gió, nước | `energy-sources` | ○ |
 
 ### Chemistry
 
 | Grade | Topic | NGSS | VN GDPT 2018 | Lesson | Status |
 |---|---|---|---|---|---|
-| 2–3 | Materials and their properties: hard, bendy, waterproof | 2-PS1-1, 2-PS1-2 | — | `materials-properties` | ○ |
+| 2–3 | Materials and their properties: hard, bendy, waterproof | 2-PS1-1, 2-PS1-2 | — | `materials-properties` | ✅ |
 | 2–4 | Solid, liquid, gas: ice, water, steam | 2-PS1-4 | Khoa học 4: Nước, ba thể | `states-of-water` | ✅ |
-| 2–3 | Heating and cooling: changes you can undo and changes you cannot | 2-PS1-4 | Khoa học 5: Sự biến đổi của chất | `changing-materials` | ○ |
+| 2–3 | Heating and cooling: changes you can undo and changes you cannot | 2-PS1-4 | Khoa học 5: Sự biến đổi của chất | `changing-materials` | ✅ |
 | 4 | Air is real: it takes up space, has mass, feeds fire | 5-PS1-1 | Khoa học 4: Không khí | `air-around-us` | ○ |
 | 4–5 | Water properties and cleaning water by filtering | 5-PS1-3 | Khoa học 4: Nước (làm sạch nước) | `clean-water` | ○ |
-| 5 | Mixtures and solutions: mixing, dissolving, separating | 5-PS1-3, 5-PS1-4 | Khoa học 5: Hỗn hợp và dung dịch | `mixtures-dissolving` | ○ |
+| 5 | Mixtures and solutions: mixing, dissolving, separating | 5-PS1-3, 5-PS1-4 | Khoa học 5: Hỗn hợp và dung dịch | `mixtures-dissolving` | ✅ |
 | 5 | Tiny particles: mass is kept when things dissolve or change | 5-PS1-1, 5-PS1-2 | Khoa học 5: Sự biến đổi của chất | `tiny-particles` | ○ |
 
 ### Biology
 
 | Grade | Topic | NGSS | VN GDPT 2018 | Lesson | Status |
 |---|---|---|---|---|---|
-| 1–2 | What animals need to live | K-LS1-1 | TN&XH 1–2: Thực vật và động vật | `animal-needs` | ○ |
-| 1–3 | Parts of a plant and what each part does | 1-LS1-1 | TN&XH 1–3: Thực vật và động vật | `plant-parts` | ○ |
+| 1–2 | What animals need to live | K-LS1-1 | TN&XH 1–2: Thực vật và động vật | `animal-needs` | ✅ |
+| 1–3 | Parts of a plant and what each part does | 1-LS1-1 | TN&XH 1–3: Thực vật và động vật | `plant-parts` | ✅ |
 | 2–3 | What plants need to grow | 2-LS2-1 | TN&XH 2–3, Khoa học 4: Thực vật | `plant-needs` | ✅ |
-| 2–3 | Habitats and how living things fit them | 2-LS4-1, 3-LS4-3 | TN&XH 2: Môi trường sống | `habitats` | ○ |
+| 2–3 | Habitats and how living things fit them | 2-LS4-1, 3-LS4-3 | TN&XH 2: Môi trường sống | `habitats` | ✅ |
 | 2–5 | Flowers, pollinators and seeds | 2-LS2-2 | Khoa học 5: Sự sinh sản của thực vật | `seeds-pollinators` | ○ |
-| 3–5 | Life cycles: butterfly, frog, bean | 3-LS1-1 | Khoa học 5: Sự sinh sản của động vật | `life-cycles` | ○ |
+| 3–5 | Life cycles: butterfly, frog, bean | 3-LS1-1 | Khoa học 5: Sự sinh sản của động vật | `life-cycles` | ✅ |
 | 3 | Inherited traits and traits from the environment | 3-LS3-1, 3-LS3-2 | — | `traits` | ○ |
-| 3–4 | Our senses: how eyes and ears work | 4-LS1-2 | TN&XH 3: Cơ quan thần kinh, giác quan | `senses` | ○ |
+| 3–4 | Our senses: how eyes and ears work | 4-LS1-2 | TN&XH 3: Cơ quan thần kinh, giác quan | `senses` | ✅ |
 | 3–5 | Inside the body: bones, muscles, heart, lungs, stomach | 4-LS1-1 | TN&XH 2–3: Con người và sức khỏe | `inside-the-body` | ○ |
 | 4–5 | Food and nutrition: food groups and a balanced plate | 5-PS3-1 | Khoa học 4: Dinh dưỡng | `food-and-nutrition` | ○ |
-| 4–5 | Food chains: producers, consumers, decomposers | 5-LS2-1 | Khoa học 4: Chuỗi thức ăn | `food-chains` | ○ |
+| 4–5 | Food chains: producers, consumers, decomposers | 5-LS2-1 | Khoa học 4: Chuỗi thức ăn | `food-chains` | ✅ |
 | 4–5 | Fungi and bacteria: helpful and harmful | 5-LS2-1 | Khoa học 4: Nấm; Khoa học 5: Vi khuẩn | `fungi-and-bacteria` | ○ |
 
 ### Earth & Space
@@ -65,11 +65,11 @@ This is a map of topics, not a copy of either standard. Grade placement is a cho
 |---|---|---|---|---|---|
 | 1–2 | Day and night: Earth spins | 1-ESS1-1 | TN&XH 1: Trái Đất và bầu trời | `day-night` | ✅ |
 | 1–2 | Shadows and the Sun's path | 1-ESS1-1, 5-ESS1-2 | TN&XH 1–3: Trái Đất và bầu trời | `shadows` | ✅ |
-| 1–3 | Weather: sun, wind, rain, temperature | K-ESS2-1, 3-ESS2-1 | TN&XH 1–2: Thời tiết | `weather-watch` | ○ |
+| 1–3 | Weather: sun, wind, rain, temperature | K-ESS2-1, 3-ESS2-1 | TN&XH 1–2: Thời tiết | `weather-watch` | ✅ |
 | 2–3 | Landforms and bodies of water | 2-ESS2-2, 2-ESS2-3 | TN&XH 3: Bề mặt Trái Đất | `landforms` | ○ |
-| 2–4 | Wind and water shape the land | 2-ESS1-1, 4-ESS2-1 | — | `erosion` | ○ |
+| 2–4 | Wind and water shape the land | 2-ESS1-1, 4-ESS2-1 | — | `erosion` | ✅ |
 | 3–5 | Phases of the Moon | 1-ESS1-1 | TN&XH 3: Mặt Trăng | `moon-phases` | ✅ |
-| 3–4 | Rocks, layers and fossils | 3-LS4-1, 4-ESS1-1 | — | `rocks-fossils` | ○ |
+| 3–4 | Rocks, layers and fossils | 3-LS4-1, 4-ESS1-1 | — | `rocks-fossils` | ✅ |
 | 4–5 | Earthquakes and volcanoes | 4-ESS2-2, 4-ESS3-2 | — | `shaking-earth` | ○ |
 | 4–5 | Earth's water and the water cycle | 5-ESS2-2 | Khoa học 4: Vòng tuần hoàn của nước | `earths-water` | ○ |
 | 5 | Soil: what it is made of | 5-ESS2-1 | Khoa học 5: Đất | `soil` | ○ |

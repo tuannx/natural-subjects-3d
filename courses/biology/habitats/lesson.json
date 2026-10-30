@@ -1,0 +1,58 @@
+{
+  "slug": "habitats",
+  "order": 21,
+  "level": "primary",
+  "ages": "7-9",
+  "grades": [2, 3],
+  "title": "Habitats: The Right Home",
+  "type": "Living Things",
+  "coverStep": 2,
+  "question": "Why can't a polar bear live in the desert?",
+  "steps": ["What is a habitat?", "The pond", "The desert", "The polar ice", "The forest", "The wrong home"],
+  "content": {
+    "steps": [
+      {
+        "title": "What is a habitat?",
+        "text": "A habitat is the place where a plant or an animal lives. It gives the living thing what it needs: food, water, shelter and space. Here are four very different habitats on a turntable: a pond, a desert, polar ice and a forest.",
+        "try": "Tap a habitat name to turn the table to it. Drag the picture to look around.",
+        "see": "Each habitat is different: wet or dry, hot or cold, open or shady. Different living things live in each one."
+      },
+      {
+        "title": "The pond",
+        "text": "A pond has fresh water, mud and water plants. A fish lives in the water all the time. It breathes with gills, which take oxygen out of the water. Its fins and tail help it swim. A frog has webbed feet for swimming and strong back legs for jumping.",
+        "try": "Tap Gills, Fins and tail, or Webbed feet to look closer.",
+        "see": "Water flows in through the fish's mouth and out past its gills. The frog's back feet are wide, like little paddles."
+      },
+      {
+        "title": "The desert",
+        "text": "A desert is hot and dry, with lots of sand and very little rain. A camel's hump stores fat, not water. The camel can live on this fat when food is hard to find. Its wide, flat feet stop it sinking into soft sand. A cactus keeps water inside its thick stem. Its leaves are sharp spines, which lose very little water and keep thirsty animals away.",
+        "try": "Tap Hump, Wide feet, Spines or Water inside.",
+        "see": "The camel's feet are big and flat. When you look inside the cactus, its thick stem is full of stored water."
+      },
+      {
+        "title": "The polar ice",
+        "text": "The polar ice is freezing cold, with snow, ice and icy sea water. A polar bear has thick fur and a thick layer of fat under its skin. Both keep it warm. Its fur looks white, so it is hard to see on the snow when it hunts seals. Big, wide paws help it walk on ice and paddle when it swims.",
+        "try": "Tap Thick fur, Fat layer or Big paws.",
+        "see": "Under the fur there is a thick yellow layer of fat that holds in the bear's warmth. Its paws are much bigger than its legs."
+      },
+      {
+        "title": "The forest",
+        "text": "A forest has many trees. Trees give animals food, like nuts and seeds, and shelter, like holes in their trunks. A squirrel has sharp claws to grip the bark when it climbs. Its bushy tail helps it keep its balance when it runs and jumps.",
+        "try": "Tap Sharp claws to watch the squirrel climb. Tap Bushy tail or Food and homes.",
+        "see": "The squirrel runs straight up the trunk, holding on with its claws. The tree gives it nuts to eat and a hole to live in."
+      },
+      {
+        "title": "The wrong home",
+        "text": "Each living thing has features that fit its own habitat. What happens if it is moved somewhere else? Its features no longer help it, and it cannot survive there for long.",
+        "try": "Pick a living thing, then tap a habitat to move it there. Then move it back home.",
+        "see": "In the wrong habitat it struggles: too hot, too cold, too wet or no water. Back in its own habitat it is fine again."
+      }
+    ],
+    "quiz": [
+      { "q": "What is a habitat?", "options": ["The food an animal eats", "The place where a living thing lives and finds what it needs", "A kind of animal"], "answer": 1, "why": "A habitat is the home place of a plant or animal. It gives it food, water, shelter and space." },
+      { "q": "What does a camel store in its hump?", "options": ["Water", "Fat", "Sand"], "answer": 1, "why": "The hump stores fat. The camel can live on this fat when food is hard to find. It does not store water in its hump." },
+      { "q": "Why would a polar bear struggle in a hot desert?", "options": ["Its thick fur and fat would make it far too hot", "It cannot see in sunlight", "Its paws are too small for sand"], "answer": 0, "why": "Thick fur and fat are made to keep a polar bear warm on the ice. In a hot desert they hold in too much heat, and there are no seals to eat." }
+    ]
+  },
+  "source": "original"
+}
