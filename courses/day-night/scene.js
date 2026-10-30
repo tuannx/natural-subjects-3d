@@ -78,27 +78,28 @@ export default function setup({ THREE, scene, camera, controls, kit, ui, label, 
   }
 
   return {
-    step(i, { isQuiz }) {
+    step(i, { isQuiz, instant }) {
+      const go = o => view(o, instant);
       stand(false);
       st.quiz = isQuiz;
-      if (i === 0) { st.speed = 0; st.target = 12; view({ radius: 7, yaw: 0.5, pitch: 0.25, target: [-3.5, 0, 0] }); }
+      if (i === 0) { st.speed = 0; st.target = 12; go({ radius: 7, yaw: 0.5, pitch: 0.25, target: [-3.5, 0, 0] }); }
       if (i === 1) {
         st.speed = 4; st.target = null;
-        view({ radius: 4, yaw: 0.2, pitch: 0.35, target: [0, 0, 0] });
+        go({ radius: 4, yaw: 0.2, pitch: 0.35, target: [0, 0, 0] });
         ui.slider({ label: 'Spin speed', min: 0, max: 12, step: 1, value: 4, format: v => (v ? `${v} hours each second` : 'stopped'), onInput: v => { st.speed = v; } });
       }
       if (i === 2 || i === 3) {
         st.speed = 3; st.target = null;
-        view({ radius: 4, yaw: 0.2, pitch: 0.35, target: [0, 0, 0] });
+        go({ radius: 4, yaw: 0.2, pitch: 0.35, target: [0, 0, 0] });
         ui.buttons([{ label: 'Spin', onClick: () => { st.speed = 3; } }, { label: 'Stop', onClick: () => { st.speed = 0; } }]);
       }
-      if (i === 4) { st.speed = 2; st.target = null; view({ radius: 3.2, yaw: -0.3, pitch: 0.3, target: [0, 0, 0] }); }
+      if (i === 4) { st.speed = 2; st.target = null; go({ radius: 3.2, yaw: -0.3, pitch: 0.3, target: [0, 0, 0] }); }
       if (i === 5) {
         st.speed = 2; st.target = null;
-        view({ radius: 7, yaw: 0.5, pitch: 0.25, target: [-3.5, 0, 0] });
+        go({ radius: 7, yaw: 0.5, pitch: 0.25, target: [-3.5, 0, 0] });
         ui.toggle({ label: 'Stand in our town', value: false, onChange: v => { stand(v); if (!v) view({ radius: 7, yaw: 0.5, pitch: 0.25, target: [-3.5, 0, 0] }); } });
       }
-      if (isQuiz) { st.speed = 1.5; view({ radius: 7, yaw: 0.5, pitch: 0.25, target: [-3.5, 0, 0] }); }
+      if (isQuiz) { st.speed = 1.5; go({ radius: 7, yaw: 0.5, pitch: 0.25, target: [-3.5, 0, 0] }); }
       show();
     },
     update(dt) {

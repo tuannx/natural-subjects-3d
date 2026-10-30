@@ -6,7 +6,7 @@ Shared code for the primary-school lessons (ages 6–11). A lesson is a folder `
 |---|---|
 | `lesson.json` | Catalog entry and all lesson text: steps and quiz |
 | `scene.js` | The 3D world: `export default function setup(k)` |
-| `cover.webp`, `cover-480.webp` | Cover images (`npm run covers` in `tools/media` makes them from the lesson) |
+| `cover.webp`, `cover-480.webp` | Cover images: `node scripts/covers.mjs <slug>` in `video/` renders them from the lesson (at step `coverStep` from lesson.json, default 0) |
 
 `npm run build` bundles every `scene.js` with this engine and three.js. Shared code (three.js, engine) lands in one content-hashed chunk under `/assets/`, so it downloads once for all primary lessons and is cached for a year.
 
@@ -36,9 +36,10 @@ export default function setup(k) {
   // k.label(text, object3DOrVector3, { cls: 'big' | 'warm' | 'cool' }) -> { text, show(bool) }
   // k.view({ radius, yaw, pitch, target: [x, y, z] }, instant?) frames a sphere of `radius`
   //   around `target` in the part of the screen the lesson card does not cover
-  // k.ui.slider({ label, min, max, step, value, unit, format, onInput })
-  // k.ui.toggle({ label, value, onChange }), k.ui.buttons([{ label, onClick }]), k.ui.readout(html)
+  // k.ui.slider({ label, min, max, step, value, unit, format, onInput }) -> input; input.set(v) moves it from code
+  // k.ui.toggle({ label, value, onChange }), k.ui.buttons([{ label, onClick, on }]), k.ui.readout(html)
   // k.invalidate() asks for a redraw when nothing is animating
+  // k.freeRect() -> { l, r, t, b }: screen area not covered by the lesson card (e.g. to place an inset view)
   return {
     step(i, { isQuiz, instant }) { /* set up step i: camera view, widgets, state */ },
     update(dt, t) { /* advance animation; return true while something moves */ },

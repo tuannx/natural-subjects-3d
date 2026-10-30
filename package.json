@@ -2,13 +2,14 @@
   "name": "natural-subjects-3d",
   "version": "1.0.0",
   "private": true,
-  "description": "Interactive 3D science lessons in English (adapted from Tongjiang Lab)",
+  "description": "Interactive 3D science lessons in English, from primary school to high school (high school lessons adapted from Tongjiang Lab)",
   "license": "CC-BY-NC-4.0",
   "type": "module",
   "scripts": {
     "build": "node site/build.mjs",
     "preview": "npm run build && wrangler dev",
-    "deploy": "npm run build && wrangler deploy"
+    "deploy": "npm run build && wrangler deploy",
+    "readme": "node site/courses-readme.mjs"
   },
   "devDependencies": {
     "esbuild": "0.28.2",

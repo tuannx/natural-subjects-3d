@@ -7,7 +7,7 @@ import { buildPrimary } from './lib/primary.mjs';
 
 const root = new URL('..', import.meta.url).pathname;
 const dist = (process.env.OUT || root + 'dist').replace(/\/?$/, '/'); // OUT=<dir> builds elsewhere
-const lessons = loadLessons(root + 'courses/');
+const lessons = loadLessons(root + 'courses/', process.env.LESSONS?.split(','));
 
 rmSync(dist, { recursive: true, force: true });
 mkdirSync(dist);
