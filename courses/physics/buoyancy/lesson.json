@@ -1,0 +1,65 @@
+{
+  "slug": "buoyancy",
+  "order": 42,
+  "level": "middle",
+  "ages": "13-14",
+  "grades": [8, 8],
+  "title": "Buoyancy: Archimedes' Principle",
+  "type": "Forces",
+  "question": "Why does a block seem lighter in water, and how can a ship made of steel float?",
+  "steps": ["Lighter in water", "Deeper is not stronger", "Where the push comes from", "Archimedes' principle", "Salt water pushes harder", "Float, sink or hover", "How a steel ship floats"],
+  "content": {
+    "steps": [
+      {
+        "title": "Lighter in water",
+        "text": "In the lesson Will It Float or Sink? you saw that water pushes up on things. Now let's measure that push. This aluminium block (200 cm³, 540 g) hangs from a newton meter. In air the meter reads its weight: 5.29 N. Lower the block into water and the reading drops, although the block has lost no mass. The water pushes up on it with a force called the buoyant force, Fₐ (also called upthrust or the Archimedes force). Buoyant force = weight in air − reading in water.",
+        "try": "Move the Lower the block slider to dip the block into the water.",
+        "see": "As the block goes in, the pointer rises. Fully under water the meter reads 3.33 N, so the buoyant force is 5.29 − 3.33 = 1.96 N."
+      },
+      {
+        "title": "Deeper is not stronger",
+        "text": "Watch the buoyant force as the block goes down. While the block is going in, more and more of it is under water, and the buoyant force grows. Once the block is completely under water, going deeper does not change it any more. The buoyant force depends on how much of the object is under the water, not on how deep it is.",
+        "try": "Move the Lower the block slider slowly and watch the graph.",
+        "see": "The line climbs while the block goes in, then stays flat at 1.96 N once the block is completely under water."
+      },
+      {
+        "title": "Where the push comes from",
+        "text": "Water pressure grows with depth (p = d · h, from the Pressure lesson). The bottom of the block is 10 cm deeper than its top, so the water pushes up on the bottom harder than it pushes down on the top. The pushes on the sides are equal and cancel out. The difference between the push up and the push down is the buoyant force. Each end of this block has an area of 0.002 m², and force = pressure × area.",
+        "try": "Move the Depth of the top slider to take the block deeper.",
+        "see": "Both arrows grow as the block goes deeper, but the blue push up is always 1.96 N bigger than the red push down."
+      },
+      {
+        "title": "Archimedes' principle",
+        "text": "Now use an overflow can: a can filled with water right up to its spout. When the block goes in, the water it pushes aside runs out of the spout into a beaker on a scale (the scale was set to zero with the empty beaker). The weight of that water equals the buoyant force! This is Archimedes' principle: the buoyant force on an object equals the weight of the liquid it pushes aside. As a formula, Fₐ = d · V. Here d is the specific weight of the liquid in N/m³ and V is the volume of liquid pushed aside in m³, which is the volume of the part of the object under the liquid.",
+        "try": "Move the Lower the block slider. Press Refill the can to start again.",
+        "see": "Fully under, the block pushes out 200 cm³ of water, which weighs 1.96 N: exactly the buoyant force. Fₐ = 9800 N/m³ × 0.0002 m³ = 1.96 N."
+      },
+      {
+        "title": "Salt water pushes harder",
+        "text": "The buoyant force also depends on the liquid. Sea water is denser than fresh water: about 1030 kg/m³, so d is about 10,100 N/m³. The very salty water of the Dead Sea is about 1240 kg/m³. The block pushes aside the same volume, but that volume of a denser liquid weighs more, so the buoyant force is bigger. A bigger block pushes aside more liquid, so it gets a bigger push too.",
+        "try": "Tap Fresh water, Sea water and Dead Sea water. Then move the Block volume slider.",
+        "see": "For the 200 cm³ block the buoyant force is 1.96 N in fresh water, about 2.02 N in sea water and about 2.43 N in Dead Sea water. Doubling the volume doubles the push."
+      },
+      {
+        "title": "Float, sink or hover",
+        "text": "Let go of an object in a liquid and compare two forces: its weight P and the biggest buoyant force Fₐ it can get, when it is completely under. If Fₐ > P, it rises and floats at the top, with just enough of it under the liquid to make Fₐ = P. If Fₐ < P, it sinks. If they are equal, it hovers in the liquid. Both forces depend on the same volume, so this is the same as comparing densities: an object floats if it is less dense than the liquid.",
+        "try": "Move the Density of the block slider, or tap Wood, Ice and Aluminium.",
+        "see": "Wood (about 700 kg/m³) floats with about 70% of it under water, and ice (about 920 kg/m³) with about 92% under. Aluminium (2700 kg/m³) sinks. At exactly 1000 kg/m³ the block hovers where it is."
+      },
+      {
+        "title": "How a steel ship floats",
+        "text": "Steel is about 7800 kg/m³, nearly 8 times denser than water, so a solid lump of steel sinks. Shape the same steel into a hollow hull and it floats. The hull is mostly air inside, so it can push aside far more water than the steel alone, enough to make the buoyant force equal its weight. Load cargo and the boat sinks deeper, pushing aside more water. With too much cargo, the water comes in over the side.",
+        "try": "Tap Steel block and Steel boat. Then move the Cargo slider.",
+        "see": "The 3.9 kg steel block sinks. The same 3.9 kg of steel shaped as a boat floats with 6.5 cm of its 10 cm sides under water. With more than 2.1 kg of cargo the boat floods and sinks."
+      }
+    ],
+    "quiz": [
+      { "q": "A stone weighs 3.0 N in air. Hung from a newton meter completely under water, it reads 1.8 N. What is the buoyant force on it?", "options": ["4.8 N", "1.2 N", "1.8 N", "3.0 N"], "answer": 1, "why": "Buoyant force = weight in air − reading in water = 3.0 N − 1.8 N = 1.2 N." },
+      { "q": "An object pushes aside 0.0005 m³ of water (d = 9800 N/m³). What is the buoyant force on it?", "options": ["4.9 N", "0.49 N", "9800 N", "19,600 N"], "answer": 0, "why": "By Archimedes' principle, Fₐ = d · V = 9800 N/m³ × 0.0005 m³ = 4.9 N." },
+      { "q": "Why is it easier to float in the sea than in a swimming pool?", "options": ["Sea water is denser, so the water you push aside weighs more", "The sea is deeper", "Waves hold you up"], "answer": 0, "why": "Fₐ = d · V. Salt water has a bigger specific weight than fresh water, so the same volume pushed aside gives a bigger push. Depth does not change the buoyant force." },
+      { "q": "A solid ball has a density of 1200 kg/m³. What happens when you let go of it in water (1000 kg/m³)?", "options": ["It floats", "It sinks", "It hovers in the middle"], "answer": 1, "why": "The ball is denser than water, so even when it is completely under, the buoyant force is smaller than its weight." }
+    ]
+  },
+  "coverStep": 3,
+  "source": "original"
+}

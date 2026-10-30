@@ -1,0 +1,114 @@
+{
+  "slug": "density",
+  "order": 40,
+  "level": "middle",
+  "ages": "13-14",
+  "grades": [
+    8,
+    8
+  ],
+  "title": "Density",
+  "type": "Matter",
+  "question": "Why is a small gold cube so much heavier than a wooden cube of the same size?",
+  "steps": [
+    "Mass and volume",
+    "Density = mass ÷ volume",
+    "Same size, different mass",
+    "Same mass, different volume",
+    "Volume of an odd shape",
+    "Is it real gold?",
+    "Layers of liquids"
+  ],
+  "content": {
+    "steps": [
+      {
+        "title": "Mass and volume",
+        "text": "Two measurements describe an object. Mass is the amount of matter in it. We measure it with a scale, in grams (g) or kilograms (kg). Volume is the amount of space it takes up, in cubic centimetres (cm³) or cubic metres (m³). For liquids we often use millilitres, and 1 mL = 1 cm³. The volume of a cube is side × side × side. This cube is made of aluminium.",
+        "try": "Move the Cube side slider to make the aluminium cube bigger or smaller.",
+        "see": "When the side doubles from 2 cm to 4 cm, the volume grows 8 times, from 8 cm³ to 64 cm³. The mass on the scale also grows 8 times, from 21.6 g to 172.8 g."
+      },
+      {
+        "title": "Density = mass ÷ volume",
+        "text": "Divide the mass by the volume and you get the mass of each cubic centimetre. This is called density, D: D = m / V. For aluminium it is always 2.7 g/cm³, however big the cube is. Scientists also use kilograms per cubic metre: 1 g/cm³ = 1000 kg/m³, so aluminium is 2700 kg/m³. On a graph of mass against volume, each material makes a straight line through zero. A steeper line means a greater density.",
+        "try": "Move the Cube side slider to add points to the graph. Then tap Iron and do it again.",
+        "see": "All the aluminium points sit on one straight line. The iron points make a steeper line, because each cm³ of iron has a mass of about 7.8 g."
+      },
+      {
+        "title": "Same size, different mass",
+        "text": "These five cubes are exactly the same size: 4 cm on each side, so each has a volume of 64 cm³. They are made of different materials, so their masses are very different. The material that packs more mass into each cm³ has the greater density. Density belongs to the material, not to the object: any piece of iron has a density of about 7800 kg/m³, big or small.",
+        "try": "Tap a material to see its density worked out from the scale reading.",
+        "see": "The gold cube is about 28 times heavier than the wooden cube of the same size: about 1235 g against about 45 g."
+      },
+      {
+        "title": "Same mass, different volume",
+        "text": "Now every block has the same mass, so all the scales show the same reading. A material with a low density needs a lot of space to make up that mass, so its block is big. A material with a high density makes a small block. Rearranging the formula gives the volume: V = m / D.",
+        "try": "Move the Mass of each block slider and watch the blocks grow or shrink.",
+        "see": "With 500 g each, the wooden block takes up about 714 cm³, but the gold block only about 26 cm³."
+      },
+      {
+        "title": "Volume of an odd shape",
+        "text": "A stone has no simple shape, so we cannot measure its sides. Instead we use water displacement. Pour water into a measuring cylinder and read the level with your eye level with the water: 300 mL. Then lower the stone in on a thread. It pushes water out of its way, so the level rises. The rise is equal to the stone's volume. The scale showed that the stone's mass is 52 g.",
+        "try": "Move the Lower the stone slider to lift the stone off the scale and lower it into the water.",
+        "see": "When the stone is completely under water, the level reads 320 mL. The stone's volume is 320 − 300 = 20 cm³, so D = 52 g ÷ 20 cm³ = 2.6 g/cm³, or 2600 kg/m³."
+      },
+      {
+        "title": "Is it real gold?",
+        "text": "Density can help identify a material. These two shiny yellow bars both have a mass of 965 g. One is pure gold. The other is lead with a thin coat of gold paint. Their masses match, but their volumes do not. Measure each volume by water displacement, work out D = m / V and compare it with a table of densities: gold 19,300 kg/m³ (19.3 g/cm³), lead about 11,300 kg/m³ (11.3 g/cm³).",
+        "try": "Tap Test bar A, then Test bar B.",
+        "see": "Bar A raises the water by 50 mL: 965 ÷ 50 = 19.3 g/cm³, so it is gold. Bar B raises it by 85 mL: about 11.4 g/cm³, close to lead."
+      },
+      {
+        "title": "Layers of liquids",
+        "text": "Liquids have densities too: honey about 1400 kg/m³, water 1000 kg/m³ and cooking oil about 920 kg/m³. Poured into one glass, they settle in layers with the densest at the bottom. A solid object sinks through a liquid that is less dense than itself and floats on a liquid that is denser. So each object stops at its own layer.",
+        "try": "Tap each object to drop it into the glass. Tap Take them out to start again.",
+        "see": "The cork (about 240 kg/m³) floats on the oil. The plastic bead (about 950 kg/m³) stops on top of the water, the toy brick (about 1050 kg/m³) on top of the honey, and the steel nut (about 7800 kg/m³) falls to the bottom."
+      }
+    ],
+    "quiz": [
+      {
+        "q": "A block has a mass of 540 g and a volume of 200 cm³. What is its density?",
+        "options": [
+          "0.37 g/cm³",
+          "2.7 g/cm³",
+          "740 g/cm³",
+          "108,000 g/cm³"
+        ],
+        "answer": 1,
+        "why": "D = m / V = 540 g ÷ 200 cm³ = 2.7 g/cm³, which is 2700 kg/m³. That is the density of aluminium."
+      },
+      {
+        "q": "You cut an iron bar into two equal halves. What is the density of each half?",
+        "options": [
+          "Half the density of the whole bar",
+          "The same as the whole bar",
+          "Twice the density of the whole bar"
+        ],
+        "answer": 1,
+        "why": "Each half has half the mass and half the volume, so mass ÷ volume does not change. Density belongs to the material, not to the size of the piece."
+      },
+      {
+        "q": "Water in a measuring cylinder reads 60 mL. After a key is dropped in, it reads 64 mL. What is the volume of the key?",
+        "options": [
+          "64 cm³",
+          "4 cm³",
+          "60 cm³",
+          "124 cm³"
+        ],
+        "answer": 1,
+        "why": "The level rises by the volume of water the key pushes aside, which equals the key's own volume: 64 − 60 = 4 mL = 4 cm³."
+      },
+      {
+        "q": "Which object floats on cooking oil (about 920 kg/m³)?",
+        "options": [
+          "A plastic bead, about 950 kg/m³",
+          "A piece of wood, about 700 kg/m³",
+          "A steel nut, about 7800 kg/m³"
+        ],
+        "answer": 1,
+        "why": "An object floats on a liquid that is denser than itself. Wood (about 700 kg/m³) is less dense than oil. The bead and the nut are denser than oil, so they sink through it."
+      }
+    ]
+  },
+  "coverStep": 6,
+  "source": "original"
+}
