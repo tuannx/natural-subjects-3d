@@ -104,9 +104,9 @@ This is a map of topics, not a copy of either standard. Grade placement is a cho
 | 6 | The particle model: solids, liquids, gases, changes of state | MS-PS1-4 | KHTN 6: Các thể của chất | `particle-model` | ✅ |
 | 6 | Air and oxygen: what air is made of, burning | MS-PS1-2 | KHTN 6: Oxygen, không khí | `air-oxygen` | ✅ |
 | 6 | Mixtures and separating them: filter, evaporate, distil | MS-PS1-2 | KHTN 6: Hỗn hợp, tách chất | `separating-mixtures` | ✅ |
-| 7 | Atoms: protons, neutrons, electrons | MS-PS1-1 | KHTN 7: Nguyên tử | `atoms` | ○ |
-| 7 | The periodic table | MS-PS1-1 | KHTN 7: Bảng tuần hoàn | `periodic-table` | ○ |
-| 7 | Molecules and bonds: ionic and covalent | MS-PS1-1 | KHTN 7: Phân tử, liên kết hóa học | `molecules-bonds` | ○ |
+| 7 | Atoms: protons, neutrons, electrons | MS-PS1-1 | KHTN 7: Nguyên tử | `atoms` | ✅ |
+| 7 | The periodic table | MS-PS1-1 | KHTN 7: Bảng tuần hoàn | `periodic-table` | ✅ |
+| 7 | Molecules and bonds: ionic and covalent | MS-PS1-1 | KHTN 7: Phân tử, liên kết hóa học | `molecules-bonds` | ✅ |
 | 8 | Chemical reactions and conservation of mass | MS-PS1-2, MS-PS1-5 | KHTN 8: Phản ứng hóa học, định luật bảo toàn khối lượng | `chemical-reactions` | ○ |
 | 8 | Reaction rate: temperature, concentration, surface area | — | KHTN 8: Tốc độ phản ứng | `reaction-rate` | ○ |
 | 8 | Acids, bases and the pH scale | — | KHTN 8: Acid, base, thang pH | `acids-bases` | ○ |

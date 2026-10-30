@@ -59,7 +59,7 @@ A new lesson only touches its own folder (plus the subject's `README.md` and the
 - [Magnetic Field of an Electric Current](physics/current-field-step/) · Grades 10–12
 - [Brownian Motion and Diffusion](physics/brownian-step/) · Grades 10–12
 
-## [Chemistry](chemistry/) (35)
+## [Chemistry](chemistry/) (38)
 
 ### Primary school (7)
 
@@ -71,11 +71,14 @@ A new lesson only touches its own folder (plus the subject's `README.md` and the
 - [Mix, Dissolve, Separate](chemistry/mixtures-dissolving/) · Grade 5
 - [Everything Is Made of Tiny Particles](chemistry/tiny-particles/) · Grade 5
 
-### Middle school (3)
+### Middle school (6)
 
 - [The Particle Model of Matter](chemistry/particle-model/) · Grade 6
 - [Air, Oxygen and Burning](chemistry/air-oxygen/) · Grade 6
 - [Separating Mixtures](chemistry/separating-mixtures/) · Grade 6
+- [Atoms: Protons, Neutrons and Electrons](chemistry/atoms/) · Grade 7
+- [The Periodic Table](chemistry/periodic-table/) · Grade 7
+- [Molecules and Bonds: Ionic and Covalent](chemistry/molecules-bonds/) · Grade 7
 
 ### High school (25)
 
