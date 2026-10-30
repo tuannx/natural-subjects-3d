@@ -1,0 +1,21 @@
+{
+  "name": "natural-subjects-3d-video",
+  "private": true,
+  "type": "module",
+  "description": "Turns a lesson into an MP4 with Remotion: capture the 3D steps, then render title, steps and credits.",
+  "scripts": {
+    "capture": "node scripts/capture.mjs",
+    "render": "node scripts/render.mjs",
+    "video": "node scripts/capture.mjs && node scripts/render.mjs",
+    "studio": "remotion studio src/index.jsx"
+  },
+  "dependencies": {
+    "@remotion/bundler": "4.0.539",
+    "@remotion/cli": "4.0.539",
+    "@remotion/renderer": "4.0.539",
+    "puppeteer-core": "24.43.0",
+    "react": "19.2.9",
+    "react-dom": "19.2.9",
+    "remotion": "4.0.539"
+  }
+}
