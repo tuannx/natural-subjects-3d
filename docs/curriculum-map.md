@@ -120,9 +120,9 @@ This is a map of topics, not a copy of either standard. Grade placement is a cho
 | 6 | Cells: plant and animal cells under the microscope | MS-LS1-1, MS-LS1-2 | KHTN 6: Tế bào | `cells` | ✅ |
 | 6 | From cells to tissues, organs and systems | MS-LS1-3 | KHTN 6: Từ tế bào đến cơ thể | `body-organization` | ✅ |
 | 6 | Classifying living things | — | KHTN 6: Đa dạng thế giới sống | `classification` | ✅ |
-| 6 | Microorganisms: bacteria, viruses, protists | MS-LS1-1 | KHTN 6: Virus, vi khuẩn, nguyên sinh vật | `microorganisms` | ○ |
-| 7 | Photosynthesis | MS-LS1-6 | KHTN 7: Quang hợp | `photosynthesis` | ○ |
-| 7 | Cellular respiration | MS-LS1-7 | KHTN 7: Hô hấp tế bào | `respiration` | ○ |
+| 6 | Microorganisms: bacteria, viruses, protists | MS-LS1-1 | KHTN 6: Virus, vi khuẩn, nguyên sinh vật | `microorganisms` | ✅ |
+| 7 | Photosynthesis | MS-LS1-6 | KHTN 7: Quang hợp | `photosynthesis` | ✅ |
+| 7 | Cellular respiration | MS-LS1-7 | KHTN 7: Hô hấp tế bào | `respiration` | ✅ |
 | 7 | Water and nutrient transport in plants | MS-LS1-6 | KHTN 7: Trao đổi nước và chất dinh dưỡng | `plant-transport` | ○ |
 | 8 | Digestion | MS-LS1-3 | KHTN 8: Tiêu hóa | `digestion` | ○ |
 | 8 | Heart and circulation | MS-LS1-3 | KHTN 8: Tuần hoàn | `circulation` | ○ |
@@ -140,9 +140,9 @@ This is a map of topics, not a copy of either standard. Grade placement is a cho
 | 6 | The solar system: scale, orbits and gravity | MS-ESS1-2, MS-ESS1-3 | KHTN 6: Hệ Mặt Trời, Ngân Hà | `solar-system` | ✅ |
 | 6 | Seasons: Earth's tilt | MS-ESS1-1 | KHTN 6: Chuyển động nhìn thấy của Mặt Trời | `seasons` | ✅ |
 | 6 | Moon phases and eclipses | MS-ESS1-1 | KHTN 6: Chuyển động nhìn thấy của Mặt Trăng | `eclipses` | ✅ |
-| 6–8 | Earth's layers and plate tectonics | MS-ESS2-2, MS-ESS2-3 | — | `plate-tectonics` | ○ |
-| 6–8 | The rock cycle | MS-ESS2-1 | — | `rock-cycle` | ○ |
-| 6–8 | Fossils and the history of Earth | MS-ESS1-4, MS-LS4-1 | — | `geologic-time` | ○ |
+| 6–8 | Earth's layers and plate tectonics | MS-ESS2-2, MS-ESS2-3 | — | `plate-tectonics` | ✅ |
+| 6–8 | The rock cycle | MS-ESS2-1 | — | `rock-cycle` | ✅ |
+| 6–8 | Fossils and the history of Earth | MS-ESS1-4, MS-LS4-1 | — | `geologic-time` | ✅ |
 | 6–8 | The water cycle and the Sun's energy | MS-ESS2-4 | — | `water-cycle` | ○ |
 | 6–8 | Weather: air masses, fronts, pressure | MS-ESS2-5 | — | `weather-fronts` | ○ |
 | 6–8 | Climate and the greenhouse effect | MS-ESS2-6, MS-ESS3-5 | — | `climate-greenhouse` | ○ |
