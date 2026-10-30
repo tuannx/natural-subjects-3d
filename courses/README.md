@@ -105,7 +105,7 @@ A new lesson only touches its own folder (plus the subject's `README.md` and the
 - [The Chlor-Alkali Industry](chemistry/chlor-alkali-step/) · Grades 10–12
 - [Hou's Soda Process](chemistry/hou-soda-step/) · Grades 10–12
 
-## [Biology](biology/) (17)
+## [Biology](biology/) (20)
 
 ### Primary school (12)
 
@@ -121,6 +121,12 @@ A new lesson only touches its own folder (plus the subject's `README.md` and the
 - [Food Chains: Who Eats Whom?](biology/food-chains/) · Grades 4–5
 - [Food and Nutrition: A Balanced Plate](biology/food-and-nutrition/) · Grades 4–5
 - [Fungi and Bacteria: Tiny Helpers and Germs](biology/fungi-and-bacteria/) · Grades 4–5
+
+### Middle school (3)
+
+- [Cells: Plant and Animal Cells Under the Microscope](biology/cells/) · Grade 6
+- [From Cells to Tissues, Organs and Systems](biology/body-organization/) · Grade 6
+- [Classifying Living Things](biology/classification/) · Grade 6
 
 ### High school (5)
 

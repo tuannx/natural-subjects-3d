@@ -2,7 +2,7 @@
 
 Living things: plants, animals, the human body, cells, ecosystems and heredity.
 
-17 lessons. On the site: `/subjects/biology/`. How to add one: [../README.md](../README.md).
+20 lessons. On the site: `/subjects/biology/`. How to add one: [../README.md](../README.md).
 
 ## Primary school (12)
 
@@ -18,6 +18,12 @@ Living things: plants, animals, the human body, cells, ecosystems and heredity.
 - [Food Chains: Who Eats Whom?](food-chains/) · Grades 4–5
 - [Food and Nutrition: A Balanced Plate](food-and-nutrition/) · Grades 4–5
 - [Fungi and Bacteria: Tiny Helpers and Germs](fungi-and-bacteria/) · Grades 4–5
+
+## Middle school (3)
+
+- [Cells: Plant and Animal Cells Under the Microscope](cells/) · Grade 6
+- [From Cells to Tissues, Organs and Systems](body-organization/) · Grade 6
+- [Classifying Living Things](classification/) · Grade 6
 
 ## High school (5)
 

@@ -117,9 +117,9 @@ This is a map of topics, not a copy of either standard. Grade placement is a cho
 
 | Grade | Topic | NGSS | VN GDPT 2018 | Lesson | Status |
 |---|---|---|---|---|---|
-| 6 | Cells: plant and animal cells under the microscope | MS-LS1-1, MS-LS1-2 | KHTN 6: Tế bào | `cells` | ○ |
-| 6 | From cells to tissues, organs and systems | MS-LS1-3 | KHTN 6: Từ tế bào đến cơ thể | `body-organization` | ○ |
-| 6 | Classifying living things | — | KHTN 6: Đa dạng thế giới sống | `classification` | ○ |
+| 6 | Cells: plant and animal cells under the microscope | MS-LS1-1, MS-LS1-2 | KHTN 6: Tế bào | `cells` | ✅ |
+| 6 | From cells to tissues, organs and systems | MS-LS1-3 | KHTN 6: Từ tế bào đến cơ thể | `body-organization` | ✅ |
+| 6 | Classifying living things | — | KHTN 6: Đa dạng thế giới sống | `classification` | ✅ |
 | 6 | Microorganisms: bacteria, viruses, protists | MS-LS1-1 | KHTN 6: Virus, vi khuẩn, nguyên sinh vật | `microorganisms` | ○ |
 | 7 | Photosynthesis | MS-LS1-6 | KHTN 7: Quang hợp | `photosynthesis` | ○ |
 | 7 | Cellular respiration | MS-LS1-7 | KHTN 7: Hô hấp tế bào | `respiration` | ○ |
