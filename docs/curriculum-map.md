@@ -137,9 +137,9 @@ This is a map of topics, not a copy of either standard. Grade placement is a cho
 
 | Grade | Topic | NGSS | VN GDPT 2018 | Lesson | Status |
 |---|---|---|---|---|---|
-| 6 | The solar system: scale, orbits and gravity | MS-ESS1-2, MS-ESS1-3 | KHTN 6: Hệ Mặt Trời, Ngân Hà | `solar-system` | ○ |
-| 6 | Seasons: Earth's tilt | MS-ESS1-1 | KHTN 6: Chuyển động nhìn thấy của Mặt Trời | `seasons` | ○ |
-| 6 | Moon phases and eclipses | MS-ESS1-1 | KHTN 6: Chuyển động nhìn thấy của Mặt Trăng | `eclipses` | ○ |
+| 6 | The solar system: scale, orbits and gravity | MS-ESS1-2, MS-ESS1-3 | KHTN 6: Hệ Mặt Trời, Ngân Hà | `solar-system` | ✅ |
+| 6 | Seasons: Earth's tilt | MS-ESS1-1 | KHTN 6: Chuyển động nhìn thấy của Mặt Trời | `seasons` | ✅ |
+| 6 | Moon phases and eclipses | MS-ESS1-1 | KHTN 6: Chuyển động nhìn thấy của Mặt Trăng | `eclipses` | ✅ |
 | 6–8 | Earth's layers and plate tectonics | MS-ESS2-2, MS-ESS2-3 | — | `plate-tectonics` | ○ |
 | 6–8 | The rock cycle | MS-ESS2-1 | — | `rock-cycle` | ○ |
 | 6–8 | Fossils and the history of Earth | MS-ESS1-4, MS-LS4-1 | — | `geologic-time` | ○ |

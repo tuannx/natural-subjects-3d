@@ -130,7 +130,7 @@ A new lesson only touches its own folder (plus the subject's `README.md` and the
 - [Observing Mitosis in Root-Tip Meristem Cells](biology/mitosis-step/) · Grades 10–12
 - [Conditions Affecting Enzyme Activity](biology/enzyme-step/) · Grades 10–12
 
-## [Earth & Space](earth-space/) (25)
+## [Earth & Space](earth-space/) (28)
 
 ### Primary school (11)
 
@@ -145,6 +145,12 @@ A new lesson only touches its own folder (plus the subject's `README.md` and the
 - [Where Is Earth's Water and How Does It Move?](earth-space/earths-water/) · Grades 4–5
 - [What Is Soil Made Of?](earth-space/soil/) · Grade 5
 - [The Sun, the Stars and Gravity](earth-space/sun-and-stars/) · Grade 5
+
+### Middle school (3)
+
+- [The Solar System: Sizes, Orbits and Gravity](earth-space/solar-system/) · Grade 6
+- [Why Do We Have Seasons?](earth-space/seasons/) · Grade 6
+- [Solar and Lunar Eclipses](earth-space/eclipses/) · Grade 6
 
 ### High school (14)
 
