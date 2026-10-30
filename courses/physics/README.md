@@ -2,7 +2,7 @@
 
 Forces and motion, energy, sound, light, electricity and magnets.
 
-33 lessons. On the site: `/subjects/physics/`. How to add one: [../README.md](../README.md).
+36 lessons. On the site: `/subjects/physics/`. How to add one: [../README.md](../README.md).
 
 ## Primary school (11)
 
@@ -18,13 +18,14 @@ Forces and motion, energy, sound, light, electricity and magnets.
 - [Where Does Heat Go?](heat-flow/) · Grades 4–5
 - [Where Does Our Energy Come From?](energy-sources/) · Grades 4–5
 
-## Middle school (12)
+## Middle school (15)
 
 - [Weight and Springs](weight-springs/) · Grade 6
 - [Forces and Motion](forces-motion/) · Grades 6–8
 - [Kinetic and Potential Energy: Energy Is Conserved](mechanical-energy/) · Grades 6–9
 - [Sound Waves: Pitch and Loudness](sound-waves/) · Grade 7
 - [Light: Rays, Reflection and Mirrors](light-reflection/) · Grade 7
+- [Magnets and Magnetic Fields](magnetic-fields/) · Grade 7
 - [Speed: Distance and Time](speed-motion/) · Grade 7
 - [Density](density/) · Grade 8
 - [Pressure in Solids, Liquids and the Air](pressure/) · Grade 8
@@ -32,6 +33,8 @@ Forces and motion, energy, sound, light, electricity and magnets.
 - [Levers and Turning Forces](levers/) · Grade 8
 - [Thermal Energy: Conduction, Convection, Radiation](thermal-energy/) · Grade 8
 - [Electric Circuits: Series, Parallel, Ohm's Law](electric-circuits/) · Grades 8–9
+- [Refraction and Lenses](refraction-lenses/) · Grade 9
+- [Electromagnets, Motors and Generators](electromagnetism/) · Grade 9
 
 ## High school (10)
 
