@@ -1,0 +1,71 @@
+{
+  "slug": "body-organization",
+  "order": 12,
+  "level": "middle",
+  "ages": "11-12",
+  "grades": [6, 6],
+  "title": "From Cells to Tissues, Organs and Systems",
+  "type": "Cells",
+  "coverStep": 6,
+  "question": "How do tiny cells build up into one whole living body?",
+  "steps": ["One cell or many?", "Cells with special jobs", "Five levels of organisation", "Cells form tissues", "Tissues form an organ", "Organs form an organ system", "Systems work together", "The same levels in plants"],
+  "content": {
+    "steps": [
+      {
+        "title": "One cell or many?",
+        "text": "Some living things are just one cell. An amoeba, which lives in ponds, is a single-celled (unicellular) organism. Its one cell has to do every job of life: move, take in food, get rid of waste, grow and reproduce. Most living things you can see, like you, are multicellular, which means made of many cells. Your body has tens of trillions of cells, and they share the work.",
+        "try": "Press Feed the amoeba, then press Divide in two.",
+        "see": "The amoeba flows around the food and traps it inside a bubble called a food vacuole. To reproduce, the cell splits into two new amoebas, each with its own nucleus."
+      },
+      {
+        "title": "Cells with special jobs",
+        "text": "In a multicellular organism, cells are specialised: each type has a shape and parts that suit one job. Muscle cells are long and can contract, which means get shorter. Nerve cells have long thin fibres that carry electrical messages. Red blood cells are small dented discs with no nucleus, packed with haemoglobin, which carries oxygen. Root hair cells in plants have a long thin hair that takes in water from the soil.",
+        "try": "Tap Muscle cell, Nerve cell, Red blood cell and Root hair cell.",
+        "see": "The chosen cell lifts up and turns. The shapes are very different: a long striped cell, a cell with branching fibres and a long tail, a dented disc and a box with a long hair."
+      },
+      {
+        "title": "Five levels of organisation",
+        "text": "The cells of a multicellular organism are organised in levels. Similar cells group together to form a tissue. Different tissues join to form an organ. Organs that work together form an organ system. All the organ systems together make up the organism, the whole living thing. Each level is built from the level below it.",
+        "try": "Move the Level slider from Cell to Organism.",
+        "see": "The camera moves along the row: one heart muscle cell, heart muscle tissue, the heart, the circulatory system and a whole person."
+      },
+      {
+        "title": "Cells form tissues",
+        "text": "A tissue is a group of similar cells that work together to do one job. Heart muscle tissue is made of many heart muscle cells joined end to end and side by side, so when they contract together the whole tissue pulls. Animals have four main kinds of tissue: muscle tissue moves things, nervous tissue carries messages, epithelial tissue covers surfaces and lines tubes, and connective tissue, such as bone and blood, supports and links other parts.",
+        "try": "Move the Cells in the tissue slider to join more cells together.",
+        "see": "All the cells contract at the same moment, so the sheet of cells squeezes in and out as one tissue."
+      },
+      {
+        "title": "Tissues form an organ",
+        "text": "An organ is made of several different tissues working together to do one job. The heart is an organ that pumps blood. Its wall has three layers: a thin outer layer, a thick layer of muscle tissue that contracts, and a smooth inner lining. The outer layer and the lining are covering (epithelial) tissue held in place by connective tissue. Nerves that reach the heart can speed it up or slow it down.",
+        "try": "Move the Take apart slider to separate the layers of a piece of heart wall.",
+        "see": "The piece of heart wall splits into three layers. The middle layer of muscle is by far the thickest, because it does the pumping."
+      },
+      {
+        "title": "Organs form an organ system",
+        "text": "An organ system is a group of organs that work together. The circulatory system carries blood all around the body. The heart pumps the blood. Arteries carry blood away from the heart, and veins carry it back. In between, tiny vessels called capillaries let oxygen and food pass from the blood into the cells. Other organ systems include the respiratory, digestive, nervous and skeletal systems.",
+        "try": "Tap Heart, Arteries, Veins and Blood.",
+        "see": "Blood dots leave the heart along the red arteries, travel to the head, arms and legs, and come back to the heart along the blue veins."
+      },
+      {
+        "title": "Systems work together",
+        "text": "Organ systems depend on each other. When you exercise, your muscles need more oxygen and glucose (a sugar) to release energy, and they make more carbon dioxide. Your nervous system responds: it makes you breathe faster and deeper, so your respiratory system takes in more oxygen, and it makes your heart beat faster, so your circulatory system carries that oxygen to the muscles more quickly.",
+        "try": "Move the Exercise slider from Resting to Running hard.",
+        "see": "As the effort rises, the runner moves faster, the lungs breathe faster, the heart beats faster and the blood dots speed up, all at the same time."
+      },
+      {
+        "title": "The same levels in plants",
+        "text": "Plants are organised in the same levels. A palisade cell is one leaf cell packed with chloroplasts. Many palisade cells side by side make palisade tissue, where most photosynthesis happens. A leaf is an organ made of several tissues: a thin covering called the epidermis, palisade and spongy tissue, and veins that carry water and food. Leaves, stem and flowers form the shoot system. Below the ground, the root system takes in water and minerals. Together they make the whole plant.",
+        "try": "Move the Level slider from Cell to Organism.",
+        "see": "The camera moves from one palisade cell to a slice of leaf tissue, a whole leaf, the shoot system above the soil, and finally the whole plant with its roots."
+      }
+    ],
+    "quiz": [
+      { "q": "Which list goes from the smallest level to the largest?", "options": ["Cell → tissue → organ → organ system → organism", "Tissue → cell → organ → organism → organ system", "Organ → tissue → cell → organ system → organism", "Cell → organ → tissue → organism → organ system"], "answer": 0, "why": "Similar cells make a tissue, different tissues make an organ, organs make an organ system, and all the organ systems make up the organism." },
+      { "q": "What is a tissue?", "options": ["One single cell", "A group of similar cells working together to do one job", "A group of organs working together", "A whole living thing"], "answer": 1, "why": "A tissue is a group of similar cells with the same job, such as heart muscle tissue, which contracts." },
+      { "q": "The heart and a leaf are both examples of which level?", "options": ["Cell", "Tissue", "Organ", "Organ system"], "answer": 2, "why": "Each is made of several different tissues working together to do one job, so each is an organ." },
+      { "q": "When you run, why do you breathe faster and your heart beats faster at the same time?", "options": ["Your muscles need more oxygen, so the respiratory and circulatory systems both work harder", "Your bones need more blood to grow", "Your lungs stop and the heart does their job", "Running makes your stomach digest food faster"], "answer": 0, "why": "Working muscles need more oxygen. The respiratory system takes in more oxygen and the circulatory system carries it to the muscles faster. The systems work together." }
+    ]
+  },
+  "source": "original"
+}

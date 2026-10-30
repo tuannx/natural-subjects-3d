@@ -1,0 +1,59 @@
+{
+  "slug": "classification",
+  "order": 13,
+  "level": "middle",
+  "ages": "11-12",
+  "grades": [6, 6],
+  "title": "Classifying Living Things",
+  "type": "Living Things",
+  "coverStep": 1,
+  "question": "There are millions of kinds of living things. How do scientists sort them and give each one a name?",
+  "steps": ["Sorting living things", "The five kingdoms", "A key to the kingdoms", "A key to animal groups", "From kingdom to species", "Two-part scientific names"],
+  "content": {
+    "steps": [
+      {
+        "title": "Sorting living things",
+        "text": "Scientists have named well over a million kinds of living things, and there are many more still to find. To make sense of this huge variety, they classify living things, which means they sort them into groups by the features they share. The groups you get depend on the feature you choose.",
+        "try": "Tap Has legs?, Makes its own food? and Just one cell? to sort the living things in different ways.",
+        "see": "Each question splits the same ten living things into a Yes group and a No group, and each question makes different groups."
+      },
+      {
+        "title": "The five kingdoms",
+        "text": "The biggest groups are called kingdoms. In the five-kingdom system, scientists look at three main things: whether the cells have a nucleus, whether the living thing is one cell or many cells, and how it gets its food. The five kingdoms are Monera (bacteria), Protista (protists), Fungi, Plants and Animals. The tiny living things here are shown much bigger than they really are.",
+        "try": "Tap each kingdom's button to see its main features.",
+        "see": "Every living thing moves onto its kingdom's mat. The bacterium and the paramecium are single cells; the mushroom, the plants and the animals are made of many cells."
+      },
+      {
+        "title": "A key to the kingdoms",
+        "text": "A dichotomous key helps you identify a living thing. Dichotomous means dividing in two: each step asks a question with only two answers, yes or no. Each answer leads to another question or to a name. Start at the top and follow the key until you reach a name.",
+        "try": "Look at the mystery organism and answer each question with Yes or No. Tap Next organism for a new one.",
+        "see": "The organism hops down the key with each answer. The right answers always lead to its kingdom; one wrong answer sends it to the wrong name."
+      },
+      {
+        "title": "A key to animal groups",
+        "text": "Keys work inside a kingdom too. This key sorts animals by features you can see. Butterflies are insects and have no backbone. Birds have feathers. Mammals, like cats, have fur. Fish have fins. Frogs are amphibians: they have a backbone but smooth, damp skin with no fur, feathers or fins.",
+        "try": "Answer Yes or No for each mystery animal, then tap Next animal.",
+        "see": "With just four yes-or-no questions, the key tells five animals apart: butterfly, bird, cat, fish and frog."
+      },
+      {
+        "title": "From kingdom to species",
+        "text": "Inside each kingdom, living things are sorted into smaller and smaller groups called ranks: kingdom, phylum, class, order, family, genus and species. The members of each smaller group share more features. A species is a group of living things that are very alike and can breed together to have young that can also breed. Follow the domestic cat down the ranks.",
+        "try": "Move the Rank slider from Kingdom to Species.",
+        "see": "At each rank fewer animals stay in the group: first the butterfly drops out, then the fish, frog and bird, then the human, the dog, the lion and tiger, and finally the wildcat. Only the cat is left."
+      },
+      {
+        "title": "Two-part scientific names",
+        "text": "Every species has a two-part scientific name, a system made popular by the Swedish scientist Carl Linnaeus in the 1700s. The first part is the genus and starts with a capital letter. The second part names the species and starts with a small letter. The whole name is written in italics. Scientists everywhere use the same name, whatever language they speak: the domestic cat is Felis catus.",
+        "try": "Tap Cat, Lion, Tiger, Human and Rice to see their scientific names.",
+        "see": "The lion (Panthera leo) and the tiger (Panthera tigris) share the genus name Panthera, because they are close relatives. Each still has its own species name."
+      }
+    ],
+    "quiz": [
+      { "q": "In the five-kingdom system, which kingdom do bacteria belong to?", "options": ["Protista", "Monera", "Fungi", "Plants"], "answer": 1, "why": "Bacteria are single cells with no nucleus, so they belong to kingdom Monera. Protists are mostly single cells too, but their cells have a nucleus." },
+      { "q": "Which is the correct way to write the tiger's scientific name?", "options": ["Panthera tigris", "panthera Tigris", "Tigris panthera", "Panthera Tigris"], "answer": 0, "why": "The genus comes first with a capital letter, then the species name with a small letter, and the whole name goes in italics: Panthera tigris." },
+      { "q": "The lion is Panthera leo and the tiger is Panthera tigris. What does this tell you?", "options": ["They are the same species", "They are in the same genus, so they are close relatives", "They are in different kingdoms", "They can only live in the same place"], "answer": 1, "why": "The first part of the name is the genus. Sharing the genus Panthera means they are closely related, but leo and tigris show they are different species." },
+      { "q": "Which list goes from the largest group to the smallest?", "options": ["Species, genus, family, order, class, phylum, kingdom", "Kingdom, phylum, class, order, family, genus, species", "Kingdom, class, phylum, family, order, species, genus", "Phylum, kingdom, order, class, genus, family, species"], "answer": 1, "why": "Kingdom is the largest group and species the smallest: kingdom, phylum, class, order, family, genus, species." }
+    ]
+  },
+  "source": "original"
+}
