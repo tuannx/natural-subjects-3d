@@ -1,0 +1,65 @@
+{
+  "slug": "rock-cycle",
+  "order": 21,
+  "coverStep": 1,
+  "level": "middle",
+  "ages": "11-14",
+  "grades": [6, 8],
+  "title": "The Rock Cycle",
+  "type": "Rocks & Minerals",
+  "question": "Can one kind of rock turn into a completely different kind?",
+  "steps": ["Three families of rock", "Igneous rock: born from fire", "Crystal size and cooling", "Weathering, erosion and deposition", "Layers become rock", "Heat and pressure", "The rock cycle"],
+  "content": {
+    "steps": [
+      {
+        "title": "Three families of rock",
+        "text": "Rocks are made of minerals. A mineral is a natural solid with a fixed chemical make-up, whose atoms are arranged in a regular, repeating pattern called a crystal. Geologists, the scientists who study rocks, sort rocks into three families by how they formed: igneous, sedimentary and metamorphic. So a rock's family tells you the story of how it was made.",
+        "try": "Press Igneous, Sedimentary and Metamorphic to look at a rock from each family.",
+        "see": "Granite has interlocking crystals of pink, white and black minerals. Sandstone is made of sand grains in layers. Gneiss has bands of light and dark minerals."
+      },
+      {
+        "title": "Igneous rock: born from fire",
+        "text": "Igneous means 'from fire'. Deep underground it can be hot enough to melt rock. Melted rock underground is called magma. When it comes out at the surface, it is called lava. As it cools, minerals grow as crystals and lock together into solid igneous rock. Where it cools makes a big difference.",
+        "try": "Press 'Deep underground' and 'At the surface' to compare the two places where igneous rock forms.",
+        "see": "Glowing magma rises from the magma chamber up through the volcano. Underground, magma cools slowly into granite. Lava runs down the slope and cools quickly into dark basalt."
+      },
+      {
+        "title": "Crystal size and cooling",
+        "text": "The slower magma cools, the more time its crystals have to grow, so the bigger they get. Magmas also differ in their minerals. Granite-type magma, rich in light-coloured minerals, makes granite if it cools slowly and rhyolite if it cools fast. Basalt-type magma, rich in dark minerals, makes gabbro if it cools slowly and basalt if it cools fast. If lava cools extremely fast, no crystals can form at all, and it becomes natural glass.",
+        "try": "Move the Cooling speed slider from slow to very fast, then press the other magma button.",
+        "see": "Slow cooling gives big crystals you can easily see, fast cooling gives tiny ones, and very fast cooling gives smooth black glass with no crystals. Granite-type magma makes pink and white crystals; basalt-type magma makes mostly dark ones."
+      },
+      {
+        "title": "Weathering, erosion and deposition",
+        "text": "Rock at the surface does not last for ever. Weathering breaks rock into smaller pieces. Erosion carries the pieces away. Deposition drops them somewhere else. The loose bits of rock, along with mud and shells, are called sediment. Most of this work is powered by the Sun, which drives the weather and the water cycle, and by gravity, which pulls water and rock downhill.",
+        "try": "Press Weathering, Erosion and Deposition and find each one in the landscape.",
+        "see": "Rocks break off the mountain and tumble downhill. The river carries brown sediment to the sea, where it settles and the pile of sand on the sea floor grows."
+      },
+      {
+        "title": "Layers become rock",
+        "text": "Sediment builds up in layers, often on the floor of a sea or lake. As more layers pile on top, their weight presses on the layers below. The grains are pushed closer together and water is squeezed out: this is compaction. Water seeping through also carries dissolved minerals, such as calcite and silica (quartz). They crystallise between the grains and glue them together: this is cementation. Over thousands to millions of years, sand becomes sandstone, mud becomes shale and shells become limestone. These are sedimentary rocks. Shells and bones buried in the layers can become fossils.",
+        "try": "Move the 'Layers on top' slider and watch the bottom layers and the readout.",
+        "see": "The buried layers get thinner, water drops rise out of the pile and the space between the grains shrinks from about 40% to about 10%. Deep enough down, the loose layers turn into rock, and the shells in the middle layer become fossils in limestone."
+      },
+      {
+        "title": "Heat and pressure",
+        "text": "Rock that is buried deep, or squeezed where plates push together, gets very hot and very squeezed. Without melting, its minerals slowly change into new ones, which often line up in sheets or bands. The result is metamorphic rock (metamorphic means 'changed form'). Underground, the temperature rises by about 25 °C for each kilometre you go down, so temperature ≈ 15 °C + 25 °C × depth in km. Pressure rises too: each kilometre of rock above adds about 260 times the air pressure at the surface.",
+        "try": "Press Shale or Limestone, then move the Depth slider down to 30 km.",
+        "see": "Shale changes into slate, then schist, then banded gneiss. At about 28 km, around 700 °C, it starts to melt into magma. Limestone changes into marble."
+      },
+      {
+        "title": "The rock cycle",
+        "text": "Rocks keep changing from one kind into another in a never-ending loop called the rock cycle. It has no start and no end, and a rock does not have to go all the way round. Igneous rock can be changed straight into metamorphic rock, and any rock that is pushed up to the surface (uplift) can be weathered into sediment. Two energy sources drive the cycle: Earth's inner heat melts, changes and lifts rock, and energy from the Sun drives weathering and erosion. It is very slow: one trip round can take many millions of years.",
+        "try": "Press each process button and follow the red arrows and the yellow pebble.",
+        "see": "Each process links two stages of the cycle. Heat and pressure, and weathering and erosion, show up on more than one arrow, because they can act on more than one kind of rock."
+      }
+    ],
+    "quiz": [
+      { "q": "A rock has large crystals that you can easily see. What does that tell you?", "options": ["It cooled slowly, deep underground", "It cooled very fast at the surface", "It formed from layers of sand"], "answer": 0, "why": "Large crystals need a long time to grow. Magma deep underground is surrounded by warm rock, so it cools slowly. That makes coarse, intrusive rocks such as granite." },
+      { "q": "Which process glues sediment grains together into solid rock?", "options": ["Erosion", "Cementation", "Melting", "Weathering"], "answer": 1, "why": "In cementation, minerals dissolved in water, such as calcite and silica, crystallise between the grains and glue them together. Compaction squeezes them first." },
+      { "q": "Shale is buried about 10 km deep, where it is about 265 °C, but it does not melt. What does it become?", "options": ["Slate, a metamorphic rock", "Granite, an igneous rock", "Sand, a sediment"], "answer": 0, "why": "Heat and pressure change shale's minerals without melting them, making the metamorphic rock slate. It would need to be much hotter to melt into magma." },
+      { "q": "What provides the energy that keeps the rock cycle going?", "options": ["Only the Sun", "Only Earth's inner heat", "Earth's inner heat, plus the Sun and gravity at the surface", "The Moon"], "answer": 2, "why": "Earth's inner heat melts and changes rock and lifts it up. At the surface, the Sun drives weathering and erosion through weather and the water cycle, and gravity pulls sediment downhill." }
+    ]
+  },
+  "source": "original"
+}

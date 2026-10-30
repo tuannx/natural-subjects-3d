@@ -1,0 +1,71 @@
+{
+  "slug": "microorganisms",
+  "order": 14,
+  "level": "middle",
+  "ages": "11-12",
+  "grades": [6, 6],
+  "title": "Microorganisms: Bacteria, Viruses and Protists",
+  "type": "Microorganisms",
+  "coverStep": 4,
+  "question": "What are the tiny living things we cannot see, and how do they help or harm us?",
+  "steps": ["How small is small?", "Inside a bacterium", "Viruses: not quite alive", "A virus needs a host cell", "Protists", "Bacteria multiply fast", "Helpful microbes", "Harmful microbes and how we fight them"],
+  "content": {
+    "steps": [
+      {
+        "title": "How small is small?",
+        "text": "A microorganism (or microbe) is a living thing too small to see without a microscope. We measure microbes in micrometres (µm) and nanometres (nm): 1 mm = 1000 µm and 1 µm = 1000 nm. A human hair is about 80 µm wide. A Euglena, a single-celled protist, is about 50 µm long. A typical bacterium is only about 1 to 5 µm long, and most viruses are about 20 to 300 nm across.",
+        "try": "Move the Zoom slider to zoom in from a hair down to a virus.",
+        "see": "Each time you zoom in about 10 times, something new appears. The bacterium is a tiny speck next to the Euglena, and the virus is a tiny speck next to the bacterium."
+      },
+      {
+        "title": "Inside a bacterium",
+        "text": "A bacterium is a single cell. It has a cell wall outside a cell membrane, with cytoplasm inside. Its genetic material (DNA) is one long loop that lies loose in the cytoplasm: a bacterium has no nucleus. Many bacteria swim with a flagellum, a long whip-like tail that spins like a propeller. Bacteria live almost everywhere: in soil, water and air, and on and inside our bodies.",
+        "try": "Tap Cell wall, Cell membrane, Cytoplasm, DNA loop and Flagellum to light up each part.",
+        "see": "The green wall wraps the whole cell. The purple DNA loop lies loose in the cytoplasm with no nucleus around it, and the corkscrew flagellum keeps turning."
+      },
+      {
+        "title": "Viruses: not quite alive",
+        "text": "A virus is much smaller than a bacterium, and it is not a cell at all. It is just genetic material wrapped in a protein coat. It has no cytoplasm and no nucleus, so on its own it cannot feed, grow or make copies of itself. That is why many scientists say a virus is not truly alive. This model virus is about 100 nm across, about 20 times smaller than a 2 µm bacterium.",
+        "try": "Tap Protein coat and Genetic material.",
+        "see": "The coat is made of many repeated pieces fitted together, with spikes sticking out. When the coat turns see-through, the coiled genetic material shows inside."
+      },
+      {
+        "title": "A virus needs a host cell",
+        "text": "A virus can only make copies of itself inside a living cell, called a host cell. First the virus attaches to the outside of the cell. Then its genetic material gets inside and takes over the cell, which is forced to build many new viruses. Finally the new viruses are released, often by bursting the cell, and each one can infect another cell. This is how a virus infection spreads.",
+        "try": "Move the Stage slider through Attach, Get in, Copy and Release.",
+        "see": "One virus attaches and its genetic material travels into the cell. The count of new viruses climbs inside the cell, then the cell bursts and they fly out."
+      },
+      {
+        "title": "Protists",
+        "text": "Protists are mostly single-celled living things that live in ponds, seas and damp soil. Unlike a bacterium, each protist cell has a nucleus. An amoeba moves by pushing out pseudopods ('false feet') and wraps them around its food. A paramecium is covered in cilia, tiny hairs that beat together to make it swim. A Euglena has chloroplasts, so it can make its own food in light like a plant, a red eyespot that senses light, and a flagellum to swim.",
+        "try": "Tap Amoeba, Paramecium and Euglena to look at each one.",
+        "see": "The amoeba keeps changing shape, the cilia on the paramecium ripple in waves, and the Euglena's green chloroplasts and red eyespot show through its body."
+      },
+      {
+        "title": "Bacteria multiply fast",
+        "text": "Bacteria reproduce by splitting in two. In ideal conditions (warm, moist and with plenty of food) some bacteria, such as E. coli, can split about every 20 minutes. Each split doubles the number, so after n splits one bacterium has become 2ⁿ bacteria. After 10 hours that would be 30 doublings, and 2³⁰ is more than a billion. In real life the food runs out and waste builds up, so growth stops long before that.",
+        "try": "Move the Time slider forward 20 minutes at a time.",
+        "see": "Every 20 minutes each bacterium splits, so the count goes 1, 2, 4, 8, 16 and so on. After 3 hours (9 doublings) there are 2⁹ = 512."
+      },
+      {
+        "title": "Helpful microbes",
+        "text": "Most microbes are harmless, and many are very useful. Bacteria turn milk into yoghurt: they change milk sugar (lactose) into lactic acid, which makes the milk thick and sour. Decomposers, such as many bacteria and fungi, break down dead leaves and dead animals and return their nutrients to the soil for plants to use. Billions of bacteria in your gut also help you digest food.",
+        "try": "Tap Making yoghurt and Decomposers.",
+        "see": "In the pot the thin milk slowly turns thick and creamy as the bacteria multiply. On the soil the dead leaf turns brown and gets smaller and smaller as the decomposers break it down."
+      },
+      {
+        "title": "Harmful microbes and how we fight them",
+        "text": "Microbes that cause disease are called pathogens, or germs. Bacteria cause illnesses such as strep throat; viruses cause colds, flu and COVID-19; a protist called Plasmodium causes malaria. Washing your hands with soap and water removes most germs before they get into your body. Antibiotics are medicines that kill bacteria, but they do not work on viruses. A vaccine trains your body to make antibodies, which stop one particular germ quickly if it ever gets in.",
+        "try": "Tap Wash hands, Antibiotic and Vaccine, then Start again.",
+        "see": "Soap bubbles carry the germs off the hand. The antibiotic gets rid of the green bacteria, but the purple viruses stay. After the vaccine, Y-shaped antibodies stick to the viruses and they turn grey."
+      }
+    ],
+    "quiz": [
+      { "q": "Which of these is the smallest?", "options": ["A human hair", "A bacterium", "A virus", "A Euglena"], "answer": 2, "why": "Most viruses are about 20 to 300 nm across. A bacterium is about 1 to 5 µm (1000 to 5000 nm) long, a Euglena about 50 µm and a hair about 80 µm wide." },
+      { "q": "Which part does a bacterium NOT have?", "options": ["A cell membrane", "A nucleus", "Cytoplasm", "DNA"], "answer": 1, "why": "A bacterium has a cell membrane, cytoplasm and DNA, but its DNA lies loose in the cytoplasm as a loop. There is no nucleus around it." },
+      { "q": "One bacterium splits every 20 minutes in ideal conditions. How many bacteria are there after 1 hour?", "options": ["3", "6", "8", "60"], "answer": 2, "why": "1 hour = 60 minutes = 3 splits of 20 minutes each. The number doubles each time: 1 → 2 → 4 → 8, so 2³ = 8." },
+      { "q": "Why do antibiotics not help you get over a cold?", "options": ["Colds are caused by viruses, and antibiotics only kill bacteria", "Colds are caused by bacteria that are too small", "Antibiotics only kill protists"], "answer": 0, "why": "Colds are caused by viruses. Antibiotics kill bacteria but do not work on viruses, so your body's own defences fight off the cold." }
+    ]
+  },
+  "source": "original"
+}

@@ -1,0 +1,65 @@
+{
+  "slug": "geologic-time",
+  "order": 22,
+  "coverStep": 1,
+  "level": "middle",
+  "ages": "11-14",
+  "grades": [6, 8],
+  "title": "Fossils and the History of Earth",
+  "type": "Earth's History",
+  "question": "How can rocks and fossils tell us what happened millions of years ago?",
+  "steps": ["How a fossil forms", "Oldest at the bottom", "What came first?", "Index fossils", "A line in the rocks", "The geologic time scale", "Earth's history in one day"],
+  "content": {
+    "steps": [
+      {
+        "title": "How a fossil forms",
+        "text": "A fossil is the remains or a trace of a living thing from long ago, preserved in rock. Most dead plants and animals rot away or are eaten, so fossils are rare. The best chance is to be buried quickly in mud or sand, which keeps out scavengers and air. Hard parts such as bones, teeth and shells last longest. Over a very long time, water in the ground carries dissolved minerals into the bone. The minerals fill its tiny spaces and slowly replace it, a process called mineral replacement. Other fossils are moulds and casts (the shape left in the rock) and trace fossils, such as footprints.",
+        "try": "Press Play, or drag the Time slider through each stage, and read the readout.",
+        "see": "The body is buried by layer after layer of sediment. The soft parts disappear, blue dots of mineral-rich water seep down, and the white bones slowly turn brown as minerals replace them. At the end, erosion uncovers the stone bones."
+      },
+      {
+        "title": "Oldest at the bottom",
+        "text": "Sediment settles in flat layers, and each new layer covers the older ones below it. This gives the law of superposition: in layers that have not been tipped over or overturned, the deeper a layer is, the older it is. It tells us the order in which layers formed, called their relative age, but not how many years old they are. Reading the fossils from the bottom up shows how life changed: the oldest layers hold only simple life, and newer layers hold more and more kinds of plants and animals.",
+        "try": "Watch the layers settle, then move the Depth slider and read each layer's relative age and its fossils.",
+        "see": "The layers arrive from the bottom up. Going down, the fossils change from mammal teeth and dinosaur footprints to ammonites, ferns, fish, trilobites and, at the very bottom, simple stromatolites built by bacteria."
+      },
+      {
+        "title": "What came first?",
+        "text": "Sometimes something cuts through rock layers. Magma can force its way up through cracks and cool into a wall of rock called a dike. Rock can also break and slip along a crack called a fault. Anything that cuts through layers must be younger than the layers it cuts: this is the law of cross-cutting relationships. Together with superposition, it lets geologists work out the order of events in a cliff, like detectives.",
+        "try": "Press Magma intrusion and Fault to replay each event.",
+        "see": "The glowing dike pushes up through the bottom six layers but stops under the top layer, so the top layer formed after it. The fault breaks all seven layers, so it is the youngest thing in the column."
+      },
+      {
+        "title": "Index fossils",
+        "text": "Rock layers in different places can be matched using fossils. The best ones for this are index fossils: fossils of living things that were common and spread over a wide area, but lived for only a fairly short time before dying out. Particular kinds (species) of trilobites and ammonites are good index fossils. If two layers far apart hold the same index fossil, they formed at about the same time, even if the rocks look different.",
+        "try": "Press Trilobite and Ammonite to match the layers of the two cliffs.",
+        "see": "A yellow band joins each pair of matching layers. The layers sit at different heights in the two cliffs, and the rocks around them differ, but each pair is about the same age."
+      },
+      {
+        "title": "A line in the rocks",
+        "text": "In many places around the world, rocks about 66 million years old contain a thin, dark layer of clay. Below it are fossils of dinosaurs and ammonites; above it, they are gone. How do we know the age in years? Some volcanic rocks contain radioactive elements, which break down at a known, steady rate. Measuring how much has broken down gives the rock's age. This is called radiometric dating. The clay line marks one of the biggest mass extinctions in Earth's history.",
+        "try": "Press Below the line, The boundary and Above the line.",
+        "see": "Each part lights up in turn: dinosaur and ammonite fossils below, a thin dark clay layer in the middle, and mammal teeth and leaves above."
+      },
+      {
+        "title": "The geologic time scale",
+        "text": "Earth formed about 4.6 billion (4,600 million) years ago. Geologists divide this huge span into eons, and the most recent eon into eras. Fossils and dated rocks show when things happened: the first life (bacteria) appeared at least 3.5 billion years ago, the first animals about 600 million years ago, the dinosaurs lived from about 230 to 66 million years ago, and modern humans appeared only about 300,000 years ago.",
+        "try": "Move the 'Time ago' slider along the ribbon, then turn on 'Zoom in on the last 600 million years'.",
+        "see": "For about 87% of Earth's history there were no animals at all. Animals, land plants and dinosaurs all crowd into the last short piece of the ribbon, which the zoom stretches out into three eras. Humans fit in a sliver too thin to see."
+      },
+      {
+        "title": "Earth's history in one day",
+        "text": "Big numbers are hard to imagine, so squeeze all 4,600 million years into one day of 24 hours. Earth forms at the midnight that starts the day, and today is the next midnight. To find when something happened: clock time = 24 h × (1 − its age ÷ 4,600 million years). Each hour of this day stands for about 192 million years, and each second for about 53,000 years.",
+        "try": "Press each event button and read its time on the clock and in the readout.",
+        "see": "First life appears at about 5:44 in the morning, but the first animals not until about 20:52. Dinosaurs die out at about 23:39, and modern humans arrive only about 6 seconds before midnight."
+      }
+    ],
+    "quiz": [
+      { "q": "In rock layers that have not been tipped over, which layer is the oldest?", "options": ["The top layer", "The bottom layer", "The middle layer"], "answer": 1, "why": "Each layer settles on top of the ones already there, so the bottom layer formed first. This is the law of superposition." },
+      { "q": "A dike of cooled magma cuts through layers A, B and C. What does that tell you?", "options": ["The dike is older than layers A, B and C", "The dike is younger than layers A, B and C", "The dike and the layers formed at the same moment"], "answer": 1, "why": "The layers had to be there already for the magma to cut through them, so the dike is younger. This is the law of cross-cutting relationships." },
+      { "q": "What makes a fossil a good index fossil?", "options": ["It lived for a very long time in one small place", "It lived over a wide area, but only for a fairly short time", "It is very large and easy to dig up"], "answer": 1, "why": "If a living thing was widespread but existed only briefly, any layer that contains it must be about the same age, wherever it is found." },
+      { "q": "If all of Earth's history were one 24-hour day, about when did the dinosaurs die out?", "options": ["Around 6 in the morning", "Around noon", "About 20 minutes before midnight", "One second before midnight"], "answer": 2, "why": "66 ÷ 4,600 ≈ 0.0143 of the day, and 0.0143 × 24 h ≈ 0.34 h, about 20.7 minutes. So the dinosaurs died out at about 23:39, roughly 20 minutes before midnight." }
+    ]
+  },
+  "source": "original"
+}
