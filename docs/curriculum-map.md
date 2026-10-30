@@ -91,9 +91,9 @@ This is a map of topics, not a copy of either standard. Grade placement is a cho
 | 8 | Pressure in solids, liquids and the air | — | KHTN 8: Áp suất | `pressure` | ✅ |
 | 8 | Buoyancy: Archimedes' principle | — | KHTN 8: Lực đẩy Archimedes | `buoyancy` | ✅ |
 | 8 | Levers and turning forces | — | KHTN 8: Moment lực, đòn bẩy | `levers` | ✅ |
-| 8 | Thermal energy: conduction, convection, radiation | MS-PS3-3, MS-PS3-4 | KHTN 8: Nhiệt | `thermal-energy` | ○ |
-| 8–9 | Electric circuits: series, parallel, Ohm's law | — | KHTN 8: Điện; KHTN 9: Điện | `electric-circuits` | ○ |
-| 6–9 | Kinetic and potential energy, energy is conserved | MS-PS3-1, MS-PS3-2, MS-PS3-5 | KHTN 6: Năng lượng; KHTN 9: Năng lượng cơ học | `mechanical-energy` | ○ |
+| 8 | Thermal energy: conduction, convection, radiation | MS-PS3-3, MS-PS3-4 | KHTN 8: Nhiệt | `thermal-energy` | ✅ |
+| 8–9 | Electric circuits: series, parallel, Ohm's law | — | KHTN 8: Điện; KHTN 9: Điện | `electric-circuits` | ✅ |
+| 6–9 | Kinetic and potential energy, energy is conserved | MS-PS3-1, MS-PS3-2, MS-PS3-5 | KHTN 6: Năng lượng; KHTN 9: Năng lượng cơ học | `mechanical-energy` | ✅ |
 | 9 | Refraction and lenses | MS-PS4-2 | KHTN 9: Khúc xạ, thấu kính | `refraction-lenses` | ○ |
 | 9 | Electromagnets, motors and generators | MS-PS2-3 | KHTN 9: Điện từ | `electromagnetism` | ○ |
 
