@@ -14,7 +14,7 @@ Each lesson is one HTML file with a single minified `<script type="module">`. Th
 | `dictionary.json` | Chinese → English for every segment translated so far |
 | `punct.js` | Converts full-width punctuation in strings that have no Chinese words |
 | `shim.js` | Small script added to each lesson that shrinks canvas text that would overflow (English is longer) |
-| `apply.js` | `node apply.js <srcCoursesDir> <outDir> [slug…]`: rewrites the units with English, sets `lang="en"`, translates `<title>`, adds the shim, and re-parses the output to make sure it is valid JavaScript |
+| `apply.js` | `node apply.js <srcCoursesDir> <outDir> [slug…]`: writes `<outDir>/<slug>/index.html`; rewrites the units with English, sets `lang="en"`, translates `<title>`, adds the shim, and re-parses the output to make sure it is valid JavaScript |
 
 Setup: run `npm install` in this folder (acorn is only needed here, not by the site).
 

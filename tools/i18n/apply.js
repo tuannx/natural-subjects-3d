@@ -1,4 +1,5 @@
 // Usage: node apply.js <srcCoursesDir> <outCoursesDir> [slug...]
+// Reads the upstream flat <slug>.html files and writes <outCoursesDir>/<slug>/index.html.
 // Replaces Chinese string units in each lesson with the English from dictionary.json.
 const fs = require('fs'), path = require('path');
 const acorn = require('acorn');
@@ -73,6 +74,7 @@ function processFile(src, dst, slug) {
   let out = html.replace(SCRIPT, () => open + js + close)
     .replace('<html lang="zh-CN">', '<html lang="en">')
     .replace(/<title>([^<]*)<\/title>/, (m, t) => `<title>${tr(t)}</title>`);
+  fs.mkdirSync(path.dirname(dst), { recursive: true });
   fs.writeFileSync(dst, out);
   const left = (js.match(/\\u(?:3[4-9a-fA-F]|[4-9][0-9a-fA-F])[0-9a-fA-F]{2}/g) || []).length + (out.match(/[㐀-鿿]/g) || []).length;
   return { units: units.length, missing: [...missing], left };
@@ -85,7 +87,7 @@ if (require.main === module) {
     .filter(s => !only.length || only.includes(s));
   for (const slug of files) {
     try {
-      const r = processFile(path.join(srcDir, slug + '.html'), path.join(outDir, slug + '.html'), slug);
+      const r = processFile(path.join(srcDir, slug + '.html'), path.join(outDir, slug, 'index.html'), slug);
       console.log(slug, 'units', r.units, 'missing', r.missing.length, 'hanLeft', r.left);
     } catch (e) { console.log(slug, 'ERROR', e.message); }
   }

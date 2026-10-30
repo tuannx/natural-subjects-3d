@@ -1,0 +1,25 @@
+{
+  "slug": "centripetal-step",
+  "order": 370,
+  "level": "high-school",
+  "ages": "15-18",
+  "subject": "phys",
+  "title": "Centripetal Force vs. Radius, Angular Velocity and Mass",
+  "type": "Principles & Phenomena",
+  "question": "This hand-cranked demonstrator only gives you division counts on two scales. Can you use it to measure how F depends on m, r and ω?",
+  "textbook": [
+    "Required Vol. 2 · Ch. 6 Circular Motion · Sec. 2 Centripetal Force · Experiment: Centripetal Force vs. Radius, Angular Velocity and Mass"
+  ],
+  "steps": [
+    "Meet the Demonstrator",
+    "Instrument Self-Check",
+    "Mass",
+    "Radius",
+    "Angular Velocity",
+    "Three into One Equation",
+    "Errors & wrong operations",
+    "Test · ω Is Squared"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/centripetal-step/"
+}

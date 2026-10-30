@@ -1,0 +1,27 @@
+{
+  "slug": "self-induction-step",
+  "order": 380,
+  "level": "high-school",
+  "ages": "15-18",
+  "subject": "phys",
+  "title": "Self-Induction and Eddy Currents",
+  "type": "Principles & Experiment",
+  "question": "The coil just has a few more turns of copper wire, so why do the two bulbs glow differently? And once the switch is open, how can a bulb still flash?",
+  "textbook": [
+    "Elective Vol. 2 · Ch. 2 Electromagnetic Induction · Sec. 4 Mutual Induction and Self-Induction",
+    "Elective Vol. 2 · Ch. 2 Electromagnetic Induction · Sec. 3 Eddy Currents, Electromagnetic Damping and Electromagnetic Driving"
+  ],
+  "steps": [
+    "Know the Equipment",
+    "Switch-on self-induction",
+    "Switch-off self-induction",
+    "I-t curve",
+    "Swap coils",
+    "Real equipment",
+    "Eddy currents",
+    "Electromagnetic damping",
+    "Test"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/self-induction-step/"
+}

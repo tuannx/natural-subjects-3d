@@ -1,0 +1,26 @@
+{
+  "slug": "thermal-step",
+  "order": 420,
+  "level": "high-school",
+  "ages": "15-18",
+  "subject": "geo",
+  "title": "Thermal Circulation",
+  "type": "Principles & Phenomena",
+  "question": "Why does the wind across the Taiwan Strait reverse direction within a day?",
+  "textbook": [
+    "Required Vol. 1 · Ch. 2 Earth's Atmosphere · Sec. 2 Atmospheric Heating and Atmospheric Motion · Thermal Circulation"
+  ],
+  "steps": [
+    "Temperature difference",
+    "Upper air",
+    "Near surface",
+    "Close the loop",
+    "Strong vs. weak",
+    "Sea breeze",
+    "Land breeze",
+    "Heat island",
+    "Test"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/thermal-step/"
+}

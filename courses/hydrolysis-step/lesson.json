@@ -1,0 +1,26 @@
+{
+  "slug": "hydrolysis-step",
+  "order": 140,
+  "level": "high-school",
+  "ages": "15-18",
+  "subject": "chem",
+  "title": "Hydrolysis of Salts and Its Applications",
+  "type": "Principles & Phenomena",
+  "question": "The ions a salt releases look “neither acidic nor basic”. So how can they make a solution acidic or basic?",
+  "textbook": [
+    "Elective Vol. 1 Principles of Chemical Reactions · Ch. 3 Ionic Reactions and Equilibria in Aqueous Solution · Sec. 3 Hydrolysis of Salts · Lab Activity 3 Applications of Salt Hydrolysis"
+  ],
+  "steps": [
+    "Meet the Experiment",
+    "Salt types",
+    "Look inside",
+    "Concentration",
+    "Temperature",
+    "Acid suppresses it",
+    "Purification",
+    "Boiling and evaporating",
+    "Test · Prepare a solution"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/hydrolysis-step/"
+}

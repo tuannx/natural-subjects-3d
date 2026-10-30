@@ -1,0 +1,26 @@
+{
+  "slug": "titration-step",
+  "order": 60,
+  "level": "high-school",
+  "ages": "15-18",
+  "subject": "chem",
+  "title": "Strong Acid–Strong Base Titration",
+  "type": "Principles & Phenomena",
+  "question": "After more than 20 mL with almost no visible change, why does the last half drop change the color completely?",
+  "textbook": [
+    "Elective Vol. 1 Principles of Chemical Reactions · Ch. 3 Ionic Reactions and Equilibria in Aqueous Solution · Sec. 2 Ionization of Water and Solution pH · Acid–Base Titration · Lab Activity 2"
+  ],
+  "steps": [
+    "Know the Titration Setup",
+    "Rinse and Clear Bubbles",
+    "Measure Sample and Add Indicator",
+    "Add Drop by Drop",
+    "Half a Drop to the End Point",
+    "Read and Calculate",
+    "Look inside",
+    "Errors & wrong operations",
+    "Test · Be the Titrator"
+  ],
+  "source": "tongjiang-lab",
+  "online": "https://lab.tongjiang.app/c/titration-step/"
+}
